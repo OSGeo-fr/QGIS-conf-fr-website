@@ -1,7 +1,7 @@
 ---
-title: Home
+title: Rencontre des Utilisateurs Francophones de QGIS
 layout: home
 ---
 
-# Home page
+# Bienvenu
 
