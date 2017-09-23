@@ -1,6 +1,7 @@
 ---
 title: Bienvenu
 layout: home
+tagline: Rencotnrez, échangez, discutez autour de QGIS !
 ---
 
 Pour la cinquième année consécutive le séminaire utilisateurs QGIS se déroulera à Montpellier. Cet événement est organisé en partenariat entre Montpellier SupAgro et l'OSGeo FR.
