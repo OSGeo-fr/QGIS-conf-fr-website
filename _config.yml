@@ -2,6 +2,9 @@ theme: jekyll-theme-cayman
 title: Rencontres des Utilisateurs Francophones de QGIS
 description: [A short description of your site's purpose]
 show_downloads: false
+language: fr
+is_user_page: false
+is_project_page: false    
 twitter:
   username: osgeo-fr
 # cayman-blog date format
