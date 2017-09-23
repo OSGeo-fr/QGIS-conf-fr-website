@@ -1,7 +1,7 @@
 ---
-title: Rencontre des Utilisateur Francophone de QGIS
+title: Rencontre des Utilisateurs Francophone de QGIS
 layout: home
 ---
 
-# Rencontre des Utilisateur Francophone de QGIS
+# Rencontre des Utilisateurs Francophone de QGIS
 
