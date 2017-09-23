@@ -4,5 +4,7 @@ description: [A short description of your site's purpose]
 show_downloads: false
 twitter:
   username: osgeo-fr
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
   date_format: "%b %-d, %Y"
