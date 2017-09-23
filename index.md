@@ -1,5 +1,5 @@
 ---
-title: Rencontre des Utilisateurs Francophones de QGIS
+title: Page principale
 layout: home
 ---
 
