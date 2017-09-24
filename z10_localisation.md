@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Localisation
-tagline: Où est localisé les Rencontres ?
+tagline: Où sont localisés les Rencontres ?
 ---
 
 Les rencontres ont lieu à [Montpellier SupAgro](https://www.supagro.fr), 2 Place Pierre Viala, 34060 Montpellier.
