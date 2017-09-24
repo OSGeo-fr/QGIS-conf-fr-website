@@ -9,7 +9,7 @@ Aucun sponsor pour le moment, prenez contact avec nous pour être le premier !
 
 ## Sponsorisation
 
-Pour toute information ou demande : qgis-conf@osgeo.asso.fr
+Pour toute information ou demande : qgis-conf at osgeo.asso dot fr
 
 Nous proposons 2 niveaux : Mécène et Parrain, décrit ci-dessous.
 
