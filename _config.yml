@@ -10,3 +10,8 @@ twitter:
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
   date_format: "%b %-d, %Y"
+plugins:
+ - jekyll-feed
+ - jekyll-redirect-from
+ - jekyll-seo-tag
+ - jekyll-sitemap
