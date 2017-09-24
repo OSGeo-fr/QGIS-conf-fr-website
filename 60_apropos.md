@@ -12,7 +12,7 @@ Les membres de l'équipe d'organisation sont (ordre alphabétique) :
 * Nina Lachia (SupAgro)
 * Léo Pichon (SupAgro)
 
-Pour nous contacter : qgis-conf@osgeo.asso.fr
+Pour nous contacter : qgis-conf at osgeo.asso dot fr
 
 ## À propos de Montpellier SupAgro et la formation AgroTIC
 
