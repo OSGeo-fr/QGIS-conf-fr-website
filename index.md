@@ -12,3 +12,10 @@ L’événement se déroule sur 2 jours :
 * Vendredi 15 décembre : Journée de conférence sur le même format que les éditions précédentes.
 
 Nous remercions nos sponsors qui nous permettent d'organiser ces deux jours de rencontres !
+
+Dates importantes :
+
+* Fin septembre - début octobre : appel à sponsors et à propositions pour les présentations
+* Fin octobre : fin de l'appel à sponsor et présentation
+* Début novembre : diffusion du programme et ouverture des inscriptions !
+* 14 et 15 décembre : conférences
