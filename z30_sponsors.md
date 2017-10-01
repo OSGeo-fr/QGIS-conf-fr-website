@@ -9,7 +9,7 @@ Aucun sponsor pour le moment, prenez contact avec nous pour être le premier !
 
 ## Sponsorisation
 
-Pour toute information ou demande : qgis-conf at osgeo.asso dot fr
+Pour toute information ou demande, utilisez le formulaire de [contact](contact).
 
 Nous proposons 2 niveaux : Mécène et Parrain, décrit ci-dessous.
 
@@ -41,5 +41,3 @@ Nous proposons 2 niveaux : Mécène et Parrain, décrit ci-dessous.
 ## Soirée sponsorisée
 
 Si vous souhaitez sponsoriser la soirée du 1er décembre dans un lieu en centre ville, nous pouvons vous faire une offre spécifique. 
-
-[Retour à la page d'accueil]({{ site.url }}{{ site.baseurl }})
