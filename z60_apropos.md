@@ -12,7 +12,7 @@ Les membres de l'équipe d'organisation sont (ordre alphabétique) :
 * Nina Lachia (SupAgro)
 * Léo Pichon (SupAgro)
 
-Pour nous contacter, utiliser le formulaire de [contact](contact).
+Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
 ## À propos de Montpellier SupAgro et la formation AgroTIC
 
