@@ -9,7 +9,7 @@ Aucun sponsor pour le moment, prenez contact avec nous pour être le premier !
 
 ## Sponsorisation
 
-Pour toute information ou demande, utilisez le formulaire de [contact](contact).
+Pour toute information ou demande, utilisez le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
 Nous proposons 2 niveaux : Mécène et Parrain, décrit ci-dessous.
 
