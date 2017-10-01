@@ -5,7 +5,7 @@ tagline: Nous remercions nos généreux sponsors !
 ---
 ## Présentation de nos parrains et mécènes
 
-Aucun sponsor pour le moment, prenez contact avec nous pour être le premier !
+Aucun sponsor pour le moment, [prenez contact]({{ site.url }}{{ site.baseurl }}/parrainages.html) avec nous pour être le premier !
 
 ## Parrainage
 
