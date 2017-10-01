@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Sponsors
+title: Parrainage
 tagline: Nous remercions nos généreux sponsors !
 ---
-## Présentation de nos sponsors
+## Présentation de nos parrains et mécènes
 
 Aucun sponsor pour le moment, prenez contact avec nous pour être le premier !
 
-## Sponsorisation
+## Parrainage
 
 Pour toute information ou demande, utilisez le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
