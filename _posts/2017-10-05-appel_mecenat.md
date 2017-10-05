@@ -17,4 +17,4 @@ Votre organisme désire aider financièrement l'OSGeo-fr à mettre en place la r
 
 ## Soirée sponsorisée
 
-Si vous souhaitez sponsoriser la soirée du 1er décembre dans un lieu en centre ville, nous pouvons vous faire une offre spécifique. 
+Si vous souhaitez sponsoriser la soirée du 14 décembre dans un lieu en centre ville, nous pouvons vous faire une offre spécifique. 
