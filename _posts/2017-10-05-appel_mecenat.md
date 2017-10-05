@@ -13,7 +13,7 @@ Si vous utilisez régulièrement QGIS ou si vous proposez des services autour de
 
 La date limite pour cet appel à parrainage est le 7 novembre 2017. Nous vous conseillons néanmoins de nous contacter rapidement afin de permettre la meilleure organisation possible.
 
-Votre organisme désire aider financièrement l'OSGeo-fr à mettre en place la rencontre ? Vous souhaitez des informations complémentaires ? Pour toute demande d'informations : [contacter]({{ site.url }}{{ site.baseurl }}/z30_parrainnages.html)
+Votre organisme désire aider financièrement l'OSGeo-fr à mettre en place la rencontre ? Vous souhaitez des informations complémentaires ? Pour toute demande d'informations : [contactez nous]({{ site.url }}{{ site.baseurl }}/z30_parrainnages.html) !
 
 ## Soirée sponsorisée
 
