@@ -11,10 +11,12 @@ Il est également possible de sponsoriser une soirée informelle dans un lieu en
 
 Si vous utilisez régulièrement QGIS ou si vous proposez des services autour de ce logiciel, cette rencontre est une bonne opportunité pour soutenir la communauté et mettre en valeur votre structure. Votre sponsorisation servira à financer les pauses et repas des deux journées, la soirée du 1er jour, et éventuellement, en fonction de notre budget, la présence d'un membre du projet, invité pour les deux jours.
 
-La date limite pour cet appel à parrainage est le 7 novembre 2017. Nous vous conseillons néanmoins de nous contacter rapidement afin de permettre la meilleure organisation possible.
+La date limite pour cet appel à [parrainage]({{ site.url }}{{ site.baseurl }}/z30_parrainnages.html) est le 7 novembre 2017. Nous vous conseillons néanmoins de nous contacter rapidement afin de permettre la meilleure organisation possible.
 
 Votre organisme désire aider financièrement l'OSGeo-fr à mettre en place la rencontre ? Vous souhaitez des informations complémentaires ? Pour toute demande d'informations : [contactez nous]({{ site.url }}{{ site.baseurl }}/z30_parrainnages.html) !
 
 ## Soirée sponsorisée
 
 Si vous souhaitez sponsoriser la soirée du 14 décembre dans un lieu en centre ville, nous pouvons vous faire une offre spécifique. 
+
+[Plus d'informations sur les niveaux de mécénat]({{ site.url }}{{ site.baseurl }}/z30_parrainnages.html)
