@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lancement du site"
+title: "Appel à mécénat"
 ---
 
 Montpellier SupAgro et l'OSGeo-fr organisent une rencontre autour de QGIS pour la communauté francophone sur deux jours à Montpellier les 14 et 15 décembre. Deux jours consacrés à des échanges, présentations et contributions autour du projet QGIS et réunissant une communauté de plus en plus large d'utilisateurs, de développeurs et de décideurs.
