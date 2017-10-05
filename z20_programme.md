@@ -8,7 +8,7 @@ Vous trouverez ici au cours du mois de novembre le programme de ces deux jours. 
 
 ## Jeudi 14 décembre - BarCamp
 
-Venez proposer votre sujet et discutons en ensemble, entre utilisateurs, éditeur.
+Venez proposer votre sujet et discutons en ensemble, entre utilisateurs, contributeurs et éditeurs.
 
 Quelques sujets des années précédentes :
 
@@ -19,4 +19,4 @@ Quelques sujets des années précédentes :
 
 ## Vendredi 15 décembre - Conférence
 
-L'appel à proposition va bientot etre diffusé, restez attentif !
+L'appel à proposition va bientot être diffusé, restez attentif !
