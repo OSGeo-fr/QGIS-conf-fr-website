@@ -7,7 +7,7 @@ Montpellier SupAgro et l'OSGeo-fr organisent une rencontre autour de QGIS pour l
 
 L'OSGeo-fr et Montpellier SupAgro, organisateurs de l'événement, recherchent des mécènes pour financer cette rencontre. Deux niveaux de mécénats ont été établis : mécène et parrain. Ces deux niveaux permettent à chaque organisme qui le souhaite de participer à l'événement selon ses moyens et les retombées attendues. Chacun des niveaux correspond à différentes modalités de présentation de l'organisme lors de cet événement. Ces deux niveaux de mécénats peuvent être défiscalisés.
 
-Il est également possible de sponsoriser une soirée informelle dans un lieu en centre ville le 1er décembre (sans défiscalisation). Les trois niveaux de financement sont détaillés ci-dessous.
+Il est également possible de sponsoriser une soirée informelle dans un lieu en centre ville le 14 décembre (sans défiscalisation). Les trois niveaux de financement sont détaillés ci-dessous.
 
 Si vous utilisez régulièrement QGIS ou si vous proposez des services autour de ce logiciel, cette rencontre est une bonne opportunité pour soutenir la communauté et mettre en valeur votre structure. Votre sponsorisation servira à financer les pauses et repas des deux journées, la soirée du 1er jour, et éventuellement, en fonction de notre budget, la présence d'un membre du projet, invité pour les deux jours.
 
