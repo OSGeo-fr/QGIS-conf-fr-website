@@ -17,6 +17,6 @@ Le plus pratique est de venir en Bus, le site de la [TaM](http://www.tam-voyages
 
 ## Accès au site
 
-Pour rentrer dans SupAgro, munissez vous d'une pièce d'identité (contraintes plan vigie-Pirate) et suivez les affiches "QGIS conf" !
+Pour rentrer dans SupAgro, munissez vous d'une pièce d'identité (contraintes plan Vigipirate) et suivez les affiches "QGIS conf" !
 
 [Retour à la page d'accueil]({{ site.url }}{{ site.baseurl }})
