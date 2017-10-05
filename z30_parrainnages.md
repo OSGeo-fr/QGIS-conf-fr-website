@@ -36,7 +36,7 @@ Nous proposons 2 niveaux : Mécène et Parrain, décrit ci-dessous.
   * Logo et citation pendant l'événement
   * Logo, lien et présentation de l'organisme sur le site web
   * Maintien du logo et du lien vers l'organisme sur la page du site OSGeo-fr "Nos précédents soutiens"
-  * Autorisation d'utilisation de l'image badge "Mécénat Rencontre QGIS 2017
+  * Autorisation d'utilisation de l'image badge "Mécénat Rencontre QGIS 2017"
 
 ## Soirée sponsorisée
 
