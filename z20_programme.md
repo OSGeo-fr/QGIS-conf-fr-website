@@ -4,7 +4,7 @@ title: Programme
 tagline: Voici notre programme pour ces rencontres
 ---
 
-Vous trouverez ici au cours du mois de novembre le programme de ces deux jours. Vous pouvez déjà vous inscrire ici via [ce formulaire]({{ site.url }}{{ site.baseurl }}/inscription.html)
+Vous trouverez ici au cours du mois de novembre le programme de ces deux jours. Le formulaire d'inscription sera bientôt disponible.
 
 ## Jeudi 14 décembre - BarCamp
 
