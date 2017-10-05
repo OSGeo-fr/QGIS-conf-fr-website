@@ -1,7 +1,7 @@
 ---
 layout: page
 title: À propos
-tagline: Qui sont les organisateurs
+tagline: Qui sont les organisateurs ?
 ---
 
 Les membres de l'équipe d'organisation sont (ordre alphabétique) :
