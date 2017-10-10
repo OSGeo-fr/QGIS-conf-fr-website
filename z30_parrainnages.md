@@ -5,7 +5,13 @@ tagline: Nous remercions nos généreux sponsors !
 ---
 ## Présentation de nos parrains et mécènes
 
-Aucun sponsor pour le moment, [prenez contact]({{ site.url }}{{ site.baseurl }}/parrainage.html) avec nous pour être le premier !
+Merci aux sponsors les plus rapides!
+
+- [Camp2Camp](https://www.camptocamp.com/)
+
+- [3Liz](https://www.3liz.com/)
+
+- [WebGeoDatavore](http://webgeodatavore.com/)
 
 ## Parrainage
 
