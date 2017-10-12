@@ -4,7 +4,7 @@ title: Programme
 tagline: Voici notre programme pour ces rencontres
 ---
 
-Vous trouverez ici au cours du mois de novembre le programme de ces deux jours. Le formulaire d'inscription sera bientôt disponible.
+Vous trouverez ici au cours du mois de novembre le programme de ces deux jours. Le formulaire [d'inscription est disponible](presentation.html).
 
 ## Jeudi 14 décembre - BarCamp
 
@@ -19,4 +19,4 @@ Quelques sujets des années précédentes :
 
 ## Vendredi 15 décembre - Conférence
 
-L'appel à proposition va bientot être diffusé, restez attentif !
+L'appel à proposition a été diffusé, sur notre blog ! Le formulaire [d'inscription est disponible](presentation.html) attend vos présentations !
