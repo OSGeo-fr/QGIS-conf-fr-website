@@ -8,4 +8,4 @@ Nous cherchons des présentations sur le thème de "QGIS 3.0 : que va changer ce
 
 La date limite pour cet appel à présentation est le 7 novembre 2017 à minuit. Nous vous conseillons néanmoins de nous contacter rapidement afin de permettre la meilleure organisation possible. Une sélection sera réalisée en fonction de la pertinence de la présentation en regard du thème et de la qualité de la description.
 
-Pour proposer une présentation, remplissez le formulaire suivant : {{ site.url }}{{ site.baseurl }}/presentation.html
+Pour proposer une présentation, remplissez le [formulaire suivant]({{ site.url }}{{ site.baseurl }}/presentation.html)
