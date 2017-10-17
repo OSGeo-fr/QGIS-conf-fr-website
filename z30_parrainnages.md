@@ -5,13 +5,19 @@ tagline: Nous remercions nos généreux sponsors !
 ---
 ## Présentation de nos parrains et mécènes
 
-Merci aux sponsors les plus rapides!
+Merci aux parrains et mécènes !
 
-- [Camp2Camp](https://www.camptocamp.com/)
+### Mécène
 
+- [Camptocamp](https://www.camptocamp.com/)
 - [3Liz](https://www.3liz.com/)
-
 - [WebGeoDatavore](http://webgeodatavore.com/)
+
+### Parrain
+
+- Azymuth
+- Geonov
+- Oslandia
 
 ## Parrainage
 
@@ -30,7 +36,7 @@ Nous proposons 2 niveaux : Mécène et Parrain, décrit ci-dessous.
   * Logo, lien et présentation de l'organisme sur le site web
   * Logo, lien et courte présentation sur le programme
   * Citation dans les communiqués de presse
-  * Maintien du logo et du lien vers l'organisme sur la page du site OSGeo-fr "Nos précédents soutiens"
+  * Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"
   * Autorisation d'utilisation de l'image badge "Mécénat Rencontre QGIS 2017"
 
 ### Parrain
@@ -41,7 +47,7 @@ Nous proposons 2 niveaux : Mécène et Parrain, décrit ci-dessous.
   * 1 inscription incluse
   * Logo et citation pendant l'événement
   * Logo, lien et présentation de l'organisme sur le site web
-  * Maintien du logo et du lien vers l'organisme sur la page du site OSGeo-fr "Nos précédents soutiens"
+  * Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"
   * Autorisation d'utilisation de l'image badge "Mécénat Rencontre QGIS 2017"
 
 ## Soirée sponsorisée
