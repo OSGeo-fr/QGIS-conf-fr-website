@@ -52,4 +52,4 @@ Nous proposons 2 niveaux : Mécène et Parrain, décrit ci-dessous.
 
 ## Soirée sponsorisée
 
-Si vous souhaitez sponsoriser la soirée du 1er décembre dans un lieu en centre ville, nous pouvons vous faire une offre spécifique. 
+Si vous souhaitez sponsoriser la soirée du 1er jour dans un lieu en centre ville, nous pouvons vous faire une offre spécifique. 
