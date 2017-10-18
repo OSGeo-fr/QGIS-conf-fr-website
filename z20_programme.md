@@ -4,7 +4,7 @@ title: Programme
 tagline: Voici notre programme pour ces rencontres
 ---
 
-Vous trouverez ici au cours du mois de novembre le programme de ces deux jours. Le formulaire [d'inscription est disponible](presentation.html).
+Vous trouverez ici au cours du mois de novembre le programme de ces deux jours. Le formulaire pour [proposer des présentations est disponible](presentation.html).
 
 ## Jeudi 14 décembre - BarCamp
 
