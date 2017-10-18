@@ -15,7 +15,7 @@ Merci aux parrains et mécènes !
 
 ### Parrain
 
-- Azymuth
+- Azimut
 - Geonov
 - Oslandia
 
