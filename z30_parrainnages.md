@@ -15,9 +15,9 @@ Merci aux parrains et mécènes !
 
 ### Parrain
 
-- Azimut
-- Geonov
-- Oslandia
+- [Azimut](https://azimut.fr)
+- [Geonov](https://www.geonov.fr/)
+- [Oslandia](http://oslandia.com/fr/home/)
 
 ## Parrainage
 
