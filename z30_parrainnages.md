@@ -35,6 +35,8 @@ des données. Enfin Geonov dispose d'un pôle formation consacré aux logiciels 
 
 [![Oslandia](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/oslandia.png)](http://oslandia.com/fr/home/)
 
+[![Surface Libre](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/surfacelibre.png)](http://www.surfacelibre.fr)
+
 ## Parrainage
 
 Pour toute information ou demande, utilisez le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
