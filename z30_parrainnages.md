@@ -37,7 +37,7 @@ des données. Enfin Geonov dispose d'un pôle formation consacré aux logiciels 
 
 [![Surface Libre](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/surfacelibre.png)](http://www.surfacelibre.fr)
 
-## Parrainage
+## Tarif et visibilité
 
 Pour toute information ou demande, utilisez le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
