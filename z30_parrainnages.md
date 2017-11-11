@@ -11,32 +11,32 @@ Merci aux parrains et mécènes !
 
 #### [3Liz](https://www.3liz.com/)
 
-![3Liz](https://github.com/OSGeo-fr/QGIS-conf-fr-website/blob/master/images/3liz.png)
+![3Liz](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/3liz.png)
 
 #### [Camptocamp](https://www.camptocamp.com/)
 
-![Camptocamp](https://github.com/OSGeo-fr/QGIS-conf-fr-website/blob/master/images/camptocamp.png)
+![Camptocamp](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/camptocamp.png)
 
 #### [WebGeoDatavore](http://webgeodatavore.com/)
 
-![WebGeoDatavore](https://github.com/OSGeo-fr/QGIS-conf-fr-website/blob/master/images/webgeodatavore.png)
+![WebGeoDatavore](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/webgeodatavore.png)
 
 ### Parrains
 
 #### [Azimut](https://azimut.fr)
 
-![Azimut](https://github.com/OSGeo-fr/QGIS-conf-fr-website/blob/master/images/azimut.png)
+![Azimut](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/azimut.png)
 
 #### [Geonov](https://www.geonov.fr/)
 
-![Geonov](https://github.com/OSGeo-fr/QGIS-conf-fr-website/blob/master/images/geonov.png)
+![Geonov](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/geonov.png)
 
 Geonov est spécialisée dans le traitement des données géographiques, experte du logiciel FME de Safe Software. En plus de son activité de traitement des données, Geonov propose à ses clients des solutions d'architecture client-serveur et de publication 
 des données. Enfin Geonov dispose d'un pôle formation consacré aux logiciels PostgreSQL, FME et QGIS pour couvrir les différents besoins de ses clients : stockage, traitement, publication et exploitation des données géographiques.
 
 #### [Oslandia](http://oslandia.com/fr/home/)
 
-![Oslandia](https://github.com/OSGeo-fr/QGIS-conf-fr-website/blob/master/images/oslandia.png)
+![Oslandia](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/oslandia.png)
 
 ## Parrainage
 
