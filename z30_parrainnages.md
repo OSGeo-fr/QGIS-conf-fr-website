@@ -37,6 +37,8 @@ des données. Enfin Geonov dispose d'un pôle formation consacré aux logiciels 
 
 [![Surface Libre](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/surfacelibre.png)](http://www.surfacelibre.fr)
 
+Surface Libre est un bureau d'études spécialisé dans le domaines de l'hydraulique environnementale et de la gestion des risques naturels. Nous proposons des études techniques, du conseil, de l'accompagnement et de la formation en modélisation hydraulique et en géomatique, sur toutes les problématiques liées à l'eau et au risque inondation
+
 ## Tarif et visibilité
 
 Pour toute information ou demande, utilisez le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
