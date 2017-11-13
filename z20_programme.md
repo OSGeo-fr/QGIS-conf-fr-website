@@ -35,6 +35,7 @@ L'ordre de passage sera précisé un peu plus tard mais vous trouverez ici les p
 * **QGIS Server 3 : reconstruction et agrandissement** par 3Liz : Les évolutions de QGIS 3 ont aussi eu une incidence sur QGIS Server. En raison d'un risque d'effondrement, il a fallut revoir les fondations. Ce fut l'occasion de revoir la structure, le fonctionnement et d'ajouter quelques améliorations.
 * **QGIS et les outils traitements : de la version 2 à la version 3** par Camptocamp : Présentation de l'outil Traitement et des évolutions apportées à la version 3 de QGIS
 * **QGIS3 Stockage auxiliaire et amélioration des relations avec Postgres** par Oslandia : QGIS est désormais plébiscité pour réaliser des applications métier complexe. Celles ci sont possibles grâce à la puissance et la souplesse de PostgreSQL et PostGIS. Chez Oslandia, nous adorons coupler ces trois outils, et la fondation QGIS.org nous a permis d'améliorer les relations complexe sur les groupes de transaction et l'utilisation de signaux asynchrones NOTIFY. Par ailleurs, l'étiquetage personnalisé a toujours été un point complexe dans QGIS. Le Ministère en charge de l'écologie a permis une refonte lourde permettant de simplifer l'étiquetage, et au passage d'éditer des données de couches jointes, stocker des données dans le projet, offrir un nouveau format compressé de projet et bien plus. 
+** **Présentation de fonctionnalité avancées de QGIS autour d'un cas d'étude en viticulture** par les étudiants de AgroTIC
 
 #### Session utilisateur (après-midi)
 
