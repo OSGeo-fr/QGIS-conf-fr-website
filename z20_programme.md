@@ -6,7 +6,7 @@ tagline: Voici notre programme pour ces rencontres
 
 Vous trouverez ici au cours du mois de novembre le programme de ces deux jours. Le formulaire pour [proposer des présentations est disponible](presentation.html).
 
-L'inscription est de 30 € TTC comprenant les pauses et le repas de midi (jeudi et vendredi). Pour vous inscrire, remplissez le [formulaire suivant](http://www.supagro.fr/qgis/).
+L'inscription est de 30 € TTC comprenant les pauses et le repas de midi (jeudi et vendredi). Pour vous inscrire, remplissez le [formulaire suivant](inscription.html).
 
 ## Jeudi 14 décembre - BarCamp
 
