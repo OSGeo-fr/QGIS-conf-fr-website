@@ -8,5 +8,8 @@ div#contact div {
   width: 33.33%;
 }
 div#contact div input, textarea, select {
- margin:10px; 
+  margin:10px; 
+}
+.wrapper {
+  max-width: calc(60em - (30px * 2));
 }
