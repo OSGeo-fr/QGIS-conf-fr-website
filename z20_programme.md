@@ -31,9 +31,9 @@ Elle aura lieu au Pub le [Fitz Patrick](http://www.fitzpatricksirishpub.com/),  
 
 ## Vendredi 15 décembre - Conférence
 
-L'appel à proposition a été diffusé sur notre blog ! Le formulaire [d'inscription est toujours disponible](presentation.html), nous avons encore un peu de place, ne tardez pas !
+L'appel à proposition est maintenant clos. Merci pour vos propositions.
 
-### Programme temporaire
+### Programme
 
 L'ordre de passage sera précisé un peu plus tard mais vous trouverez ici les présentations du jour.
 
