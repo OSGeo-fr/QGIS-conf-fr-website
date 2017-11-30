@@ -21,6 +21,11 @@ Quelques sujets des années précédentes (ou que vous pourrez proposer cette an
 * la 3D : démonstration
 * après QGIS 3 ?
 
+## Soirée
+
+Nous vous proposons de se retrouver le soir pour boire un verre ensemble et discuter sur QGIS ou n'importe quel sujet !
+
+Nous vous donnerons la localisation tout bientôt !
 
 ## Vendredi 15 décembre - Conférence
 
@@ -32,13 +37,14 @@ L'ordre de passage sera précisé un peu plus tard mais vous trouverez ici les p
 
 #### Session éditeur (matin - 9h00 à 12h30)
 
+* Ouverture
 * **QGIS : introduction des nouveautés** par Jean-Marie Arsac : principales nouveautés de la version 3 en 20 mn chrono !
 * **QGIS Server 3 : reconstruction et agrandissement** par 3Liz : Les évolutions de QGIS 3 ont aussi eu une incidence sur QGIS Server. En raison d'un risque d'effondrement, il a fallut revoir les fondations. Ce fut l'occasion de revoir la structure, le fonctionnement et d'ajouter quelques améliorations.
 * **QGIS et les outils traitements : de la version 2 à la version 3** par Camptocamp : Présentation de l'outil Traitement et des évolutions apportées à la version 3 de QGIS
 * **QGIS3 Stockage auxiliaire et amélioration des relations avec Postgres** par Oslandia : QGIS est désormais plébiscité pour réaliser des applications métier complexe. Celles ci sont possibles grâce à la puissance et la souplesse de PostgreSQL et PostGIS. Chez Oslandia, nous adorons coupler ces trois outils, et la fondation QGIS.org nous a permis d'améliorer les relations complexe sur les groupes de transaction et l'utilisation de signaux asynchrones NOTIFY. Par ailleurs, l'étiquetage personnalisé a toujours été un point complexe dans QGIS. Le Ministère en charge de l'écologie a permis une refonte lourde permettant de simplifer l'étiquetage, et au passage d'éditer des données de couches jointes, stocker des données dans le projet, offrir un nouveau format compressé de projet et bien plus. 
 * **Présentation de fonctionnalité avancées de QGIS autour d'un cas d'étude en viticulture** par les étudiants de AgroTIC
 
-#### Session utilisateur (après-midi - 14h00 à 17h00)
+#### Session utilisateur (après-midi - 14h00 à 16h00)
 
 * **Déploiement d'un SIG** par Marjorie FANGAIN (Keolis Rennes) : d'un outil de spécialiste à la démocratisation 
 de la cartographie.
@@ -48,7 +54,4 @@ de la cartographie.
 * **Qfield pour la consultation et la saisie de donnée sur le terrain** par Sylvain Massol (Communauté d'agglomération de l'Albigeois) : Mise en place d'une architecture pour embarquer le SIG sur le terrain de manière déconnecté, sur du matériel Android (smartphone et tablette). Qfield en mode saisie et en mode consultation avec synchronisation à partir du cloud.
 * **QGIS et la structure archéologique** par Maxime Seguin (INRAP) : le cas de la sépulture collective de Mas Rouge à Montpellier".
 * En attente de confirmation de l'auteur.
-* Libre : proposez nous un sujet via le formulaire disponible en haut de la page.
-* Libre : proposez nous un sujet via le formulaire disponible en haut de la page.
-
-
+* Cloture
