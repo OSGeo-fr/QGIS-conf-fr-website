@@ -21,11 +21,13 @@ Quelques sujets des années précédentes (ou que vous pourrez proposer cette an
 * la 3D : démonstration
 * après QGIS 3 ?
 
+**Les horaires sont :** 9h - 16h (l'heure de fin pourra être repoussée si nécessaire).
+
 ## Soirée
 
 Nous vous proposons de se retrouver le soir pour boire un verre ensemble et discuter sur QGIS ou n'importe quel sujet !
 
-Nous vous donnerons la localisation tout bientôt !
+Elle aura lieu au Pub le [Fitz Patrick](http://www.fitzpatricksirishpub.com/),  5 Place Saint-Côme 34000 Montpellier France.
 
 ## Vendredi 15 décembre - Conférence
 
@@ -44,7 +46,7 @@ L'ordre de passage sera précisé un peu plus tard mais vous trouverez ici les p
 * **QGIS3 Stockage auxiliaire et amélioration des relations avec Postgres** par Oslandia : QGIS est désormais plébiscité pour réaliser des applications métier complexe. Celles ci sont possibles grâce à la puissance et la souplesse de PostgreSQL et PostGIS. Chez Oslandia, nous adorons coupler ces trois outils, et la fondation QGIS.org nous a permis d'améliorer les relations complexe sur les groupes de transaction et l'utilisation de signaux asynchrones NOTIFY. Par ailleurs, l'étiquetage personnalisé a toujours été un point complexe dans QGIS. Le Ministère en charge de l'écologie a permis une refonte lourde permettant de simplifer l'étiquetage, et au passage d'éditer des données de couches jointes, stocker des données dans le projet, offrir un nouveau format compressé de projet et bien plus. 
 * **Présentation de fonctionnalité avancées de QGIS autour d'un cas d'étude en viticulture** par les étudiants de AgroTIC
 
-#### Session utilisateur (après-midi - 14h00 à 16h00)
+#### Session utilisateur (après-midi - 14h00 à 16h30)
 
 * **Déploiement d'un SIG** par Marjorie FANGAIN (Keolis Rennes) : d'un outil de spécialiste à la démocratisation 
 de la cartographie.
