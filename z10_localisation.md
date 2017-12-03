@@ -8,6 +8,8 @@ Les rencontres ont lieu en 2 endroits différents :
 * Jeudi 14 décembre à [Montpellier SupAgro](https://www.supagro.fr).
 * vendredi 15 décembre à l'[amphi Agropolis International](http://www.agropolis.fr/pratique/locaux.php).
 
+**[Cliquez ici pour voir une cartographie des localisations et les moyens de transport proposés]({{ site.url }}{{ site.baseurl }}/carte.html)**
+
 ## Comment venir à Agropolis Internationnal ?
 
 **Adresse :** 1000, Avenue Agropolis 34394 Montpellier
