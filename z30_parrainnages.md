@@ -19,6 +19,10 @@ Merci aux parrains et mécènes !
 
 [![WebGeoDatavore](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/webgeodatavore.png)](http://webgeodatavore.com/)
 
+WebGeoDatavore est spécialisé en webmapping, avec plus de 10 ans d'expériences, basé à Nantes. Il est expert OpenLayers.
+Il peut vous aider sur du conseil, de la formation, du développement et du déploiement de solutions côté client comme serveur. Il travaille principalement avec des données OpenData, dont OpenStreetMap. Il utilise QGIS et l'API Python.
+
+Il soutient l'événement pour remercier la communauté et les contributeurs du projet, utilisant QGIS depuis la version Titan (2007).
 
 ### Parrains
 
