@@ -5,7 +5,7 @@ tagline: Où sont localisées les Rencontres ?
 ---
 
 Les rencontres ont lieu en 2 endroits différents :
-* Jeudi 14 décembre à [Montpellier SupAgro](https://www.supagro.fr).
+* Jeudi 14 décembre à [Montpellier SupAgro](https://www.supagro.fr), salle 104 au chateau.
 * vendredi 15 décembre à l'[amphi Agropolis International](http://www.agropolis.fr/pratique/locaux.php).
 
 **[Cliquez ici pour voir une cartographie des localisations et les moyens de transport proposés]({{ site.url }}{{ site.baseurl }}/carte.html)**
