@@ -48,6 +48,7 @@ L'ordre de passage sera précisé un peu plus tard mais vous trouverez ici les p
 
 #### Session utilisateur (après-midi - 14h00 à 16h30)
 
+* **QGIS, la solution pour l'enseignement de la géomatique ?** par Nicolas Devaux : Je souhaite présenter les différentes étapes et choix stratégiques qui ont été fait dans l'école de SupAgro pour faire de QGIS le logiciel central des enseignements de la géomatique. Je reviendrai sur le bilan de 5 ans d'enseignement en mettant en avant les avantages, mais aussi les limites de ce logiciel au regard d'autres solutions comme ArcMap pour ne citer que lui.
 * **Déploiement d'un SIG** par Marjorie FANGAIN (Keolis Rennes) : d'un outil de spécialiste à la démocratisation 
 de la cartographie.
 * **Usage du SIG (Mapinfo et QGIS) en couplage de bases de données traitant du transport collectif (temps de parcours, offre de transports, fréquentation)** par Benoit Garnier (Transamo).
@@ -55,5 +56,5 @@ de la cartographie.
 * **QGIS à l'oeuvre dans la gestion de crise** par Arnaud Koch (Surface Libre) : Présentation d'outils et d'usages pour aider à la gestion de crise dans le contexte des risques naturels, avec QGIS, QGIS serveur et Lizmap au centre du système d'aide à la décision. 
 * **Qfield pour la consultation et la saisie de donnée sur le terrain** par Sylvain Massol (Communauté d'agglomération de l'Albigeois) : Mise en place d'une architecture pour embarquer le SIG sur le terrain de manière déconnecté, sur du matériel Android (smartphone et tablette). Qfield en mode saisie et en mode consultation avec synchronisation à partir du cloud.
 * **QGIS et la structure archéologique** par Maxime Seguin (INRAP) : le cas de la sépulture collective de Mas Rouge à Montpellier".
-* En attente de confirmation de l'auteur.
+* **Évolution de l'outil coupes rases de la création de la méthode à l'automatisation** PAR Kenji Ose (irstea).
 * Cloture
