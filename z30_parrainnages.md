@@ -15,6 +15,7 @@ Merci aux parrains et mécènes !
 
 [![Camptocamp](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/camptocamp.png)](https://www.camptocamp.com/)
 
+Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
 
 
 [![WebGeoDatavore](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/webgeodatavore.png)](http://webgeodatavore.com/)
@@ -29,14 +30,21 @@ Il soutient l'événement pour remercier la communauté et les contributeurs du 
 [![Azimut](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/azimut.png)](https://azimut.fr)
 
 
-
 [![Geonov](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/geonov.png)](https://www.geonov.fr/)
-
-
 
 Geonov est spécialisée dans le traitement des données géographiques, experte du logiciel FME de Safe Software. En plus de son activité de traitement des données, Geonov propose à ses clients des solutions d'architecture client-serveur et de publication 
 des données. Enfin Geonov dispose d'un pôle formation consacré aux logiciels PostgreSQL, FME et QGIS pour couvrir les différents besoins de ses clients : stockage, traitement, publication et exploitation des données géographiques.
 
+[![JHeeme]()](http://jhemmi.eu)
+
+Outre le conseil en solution QGIS et en données ouvertes, jhemmi.eu valorise vos données dans plusieurs axes :
+
+* Services ou logiciels innovants 
+  * Parcours π 
+  * Extension QGIS Physiocap 
+  * Conseil sur la plateforme de déploiement de données métiers Zoho Creator
+* Analyse ou traitement de vos données (spécialisation dans le monde de la donnée agricole)
+    
 [![Oslandia](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/oslandia.png)](http://oslandia.com/fr/home/)
 
 [![Surface Libre](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/surfacelibre.png)](http://www.surfacelibre.fr)
