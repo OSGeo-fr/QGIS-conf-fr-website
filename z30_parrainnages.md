@@ -11,7 +11,7 @@ Merci aux parrains et mécènes !
 
 [![3Liz](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/3liz.png)](https://www.3liz.com/)
 
-3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
+3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développé LizMap, outil de publication de cartes Web dynamiques.
 
 [![Camptocamp](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/camptocamp.png)](https://www.camptocamp.com/)
 
@@ -50,7 +50,7 @@ Outre le conseil en solution QGIS et en données ouvertes, jhemmi.eu valorise vo
     
 [![Oslandia](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/oslandia.png)](http://oslandia.com/fr/home/)
 
-Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux commiters QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit,développement, support, formation.
+Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
 
 
 [![Surface Libre](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/surfacelibre.png)](http://www.surfacelibre.fr)
