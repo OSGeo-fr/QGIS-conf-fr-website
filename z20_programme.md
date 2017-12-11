@@ -8,7 +8,7 @@ tagline: Voici notre programme pour ces rencontres
 
 L'inscription est de 30 € TTC comprenant les pauses et le repas de midi (jeudi et vendredi). Pour vous inscrire, remplissez le [formulaire suivant](z25_inscription.html).
 
-## Jeudi 14 décembre - BarCamp
+## Jeudi 14 décembre - BarCamp à Montpellier SupAgro
 
 Venez proposer votre sujet et discutons en ensemble, entre utilisateurs (novices ou avancés), contributeurs et éditeurs. C'est un bon moyen de rencontrer la communautés et d'apprendre des choses sur QGIS, de partager votre expérience de manière informelle en petit communiqué.
 
@@ -29,7 +29,7 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 
 Elle aura lieu au Pub le [Fitz Patrick](http://www.fitzpatricksirishpub.com/),  5 Place Saint-Côme 34000 Montpellier France.
 
-## Vendredi 15 décembre - Conférence
+## Vendredi 15 décembre - Conférence à Agropolis Internationnal
 
 L'appel à proposition est maintenant clos. Merci pour vos propositions.
 
