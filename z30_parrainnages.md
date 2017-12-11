@@ -11,7 +11,7 @@ Merci aux parrains et mécènes !
 
 [![3Liz](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/3liz.png)](https://www.3liz.com/)
 
-
+3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
 
 [![Camptocamp](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/camptocamp.png)](https://www.camptocamp.com/)
 
@@ -29,6 +29,9 @@ Il soutient l'événement pour remercier la communauté et les contributeurs du 
 
 [![Azimut](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/azimut.png)](https://azimut.fr)
 
+Après plus de 20 années d'activité AZIMUT a acquis une expérience reconnue sur tous les services informatiques dans le domaine de l'information géographique. La taille de notre structure garantit à nos clients souplesse et réactivité.
+Notre capacité à développer des outils sur mesure s’intégrant  dans un processus de production/gestion existant est également appréciée de nos clients.
+Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSGeo-fr,  et en intégrant QGIS et PostgreSQL/PostGIS dans nos offres afin de proposer à nos clients les meilleures solutions adaptées à leur organisation.
 
 [![Geonov](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/geonov.png)](https://www.geonov.fr/)
 
@@ -46,6 +49,9 @@ Outre le conseil en solution QGIS et en données ouvertes, jhemmi.eu valorise vo
 * Analyse ou traitement de vos données (spécialisation dans le monde de la donnée agricole)
     
 [![Oslandia](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/oslandia.png)](http://oslandia.com/fr/home/)
+
+Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux commiters QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit,développement, support, formation.
+
 
 [![Surface Libre](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/surfacelibre.png)](http://www.surfacelibre.fr)
 
