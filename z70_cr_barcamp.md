@@ -16,27 +16,27 @@ Cette année, évidemment nous avons eu beaucoup de questions autour de QGIS3, m
   Comment ça marche ailleurs ?
   A quoi ça sert ?
   Comment on accélère?
-  Certification formation?
+  Certification, formation?
   Simplifier l'interlocuteur
   Neutralité
   Faciliter le lien local
   Financement
       Proactivité / explication logique OSS
-      Marché national sgmap
+      Marché national SGMAP
 
 ##  Structurer l'association QGIS FR V2. plus en détail !
 
   Préconisation QGIS.org :
-  -  Groupes d'intérêts
+  - Groupes d'intérêts
   - Ne pas shunter Georezo AFIGEO
   - Existe déjà mais informel
     - Liste mail
     - Droit de vote QGIS.org via Harrissou
 
-  - Décryptage des groupes QGIS utilisateur existants:
+  - Décryptage des groupes QGIS utilisateurs existants:
 
     - Suisse:
-          Président Andreas Neumman. Membre du PSC QGIS. financeur de collectivité (QGIS server, et bcp de choses)
+          Président Andreas Neumman. Membre du PSC QGIS. financeur de collectivité (QGIS server, et beaucoup de choses)
           Association selon les art. 60-79 du Code Civil (CC) suisse.
           Buts et activités
           Le groupe d’utilisateurs QGIS est composé de:
@@ -55,27 +55,29 @@ Cette année, évidemment nous avons eu beaucoup de questions autour de QGIS3, m
               Import DWG
               Edition multiattribut
 
-    - UK :
-          soutenu osgeo UK
+    - UK :soutenu osgeo UK
+    
               personnes morales et physiques
               5 groupes régionaux
               blog
 
     - ITALIE :
+    
               4 tarifs 375 € - > 3 votes
-              mini > 250 euros 2 voies
+              mini > 250 euros 2 voix
               etudiants 25 euros
 
     - Portugal :
-          structuration légère
-          un dépôt de plugin nationaux
-          1 evt annuel
+    
+          structuration légère    
+          un dépôt de plugins nationaux
+          1 événement annuel
 
     - Pologne:
-       peu d'infos
 
-  - Synergies groupes Postgres FR :
+          peu d'infos
 
+  - Synergies groupes association Postgresql FR :
 
       Appel récent des grandes entreprises pour le support de PostgreSQL par les grands éditeurs logiciels
       Asso indépendante depuis 2005
@@ -97,7 +99,7 @@ Cette année, évidemment nous avons eu beaucoup de questions autour de QGIS3, m
         Déplacer les pages osgeo fr qgis vers qgis fr
         Identifier des acteurs potentiels
         Chantier rédaction de statuts
-        Lancer des meetup locaux (mode postgresfr ) indépendants
+        Lancer des meetup locaux (mode postgresqlfr ) indépendants
         Cotisation globale osgeofr + don ciblé thématique
         Favoriser le renouvellement des contributeurs!
 
@@ -126,7 +128,7 @@ Cette année, évidemment nous avons eu beaucoup de questions autour de QGIS3, m
     script vs plugin
     application standalone
     C++ vs python
-    macros de projet ouverture
+    macros d'ouverture de projet
 
 ## QGIS server retour d'expérience
 
@@ -137,7 +139,7 @@ Cette année, évidemment nous avons eu beaucoup de questions autour de QGIS3, m
       [Shapefile must die](http://switchfromshapefile.org/)] !
       standard OGC / conteneur base de données
       extensions métadonnées, styles, raster , MB Tiles etc..
-      stocker le projet et données . extensions existante
+      stocker le projet et données . extensions existantes
       vers un format d'[échange de projets](https://eos.geocat.net/gitlab/joana.simoes/foss4g_gpkg/raw/master/foss4g_gpkg.pdf) ?
 
 ## partage de styles avancés
@@ -158,7 +160,7 @@ Cette année, évidemment nous avons eu beaucoup de questions autour de QGIS3, m
 ## Mobilité
 
       Qfield
-      opendatakit
+      OpenDataKit (ODK)
       QtQuick
 
 ## QGIS server
@@ -184,7 +186,7 @@ Cette année, évidemment nous avons eu beaucoup de questions autour de QGIS3, m
 ## Barcamp REX
 
       Ou comment faire mieux la prochaine fois?
-      écran et projo
+      écran / projecteur pour chaque groupe
       Communication à améliorer
       limiter à 50 pers ?
       Indiquer le numero des tables par atelier
