@@ -36,7 +36,7 @@ Cette année, trois niveaux sont possibles:
 
 * Montant : 500 € HT
 * Pas de limite
-
+anch is behind its remote counterpart. Try pulling b
   * 2 inscriptions incluses
   * Logo et citation pendant l'événement
   * Logo, lien et présentation de l'organisme sur le site web
@@ -54,3 +54,21 @@ Cette année, trois niveaux sont possibles:
 ## Soirée sponsorisée
 
 Si vous souhaitez sponsoriser la soirée du 1er jour dans un lieu en centre ville, nous pouvons vous faire une offre spécifique.
+
+
+## Soutenir QGIS.org
+
+[QGIS.org](https://www.qgis.org) est l'association internationale qui gère les fonds issus des dons et sponsoring directs autour de QGIS. L'OSGEO-fr héberge le [groupe utilisateur QGIS Fr](http://osgeo.asso.fr/content/project/qgis-user-fr/) qui est affilié à QGIS.org.
+
+Une donation ou un sponsoring direct à QGIS.org permet de financer
+ - des développeurs pour des tâches de maintenance à chaque version
+ - les serveurs et maintenance associées
+ - les rencontres communautaires QGIS internationales
+
+Pour contribuer, c'est
+
+- par ici [https://www.qgis.org/fr/site/getinvolved/donations.html](https://www.qgis.org/fr/site/getinvolved/donations.html)
+
+- ou encore en achetant t-shirt, mug ou autre goodies sur le [shop](https://shop.spreadshirt.net/qgis/)  
+
+**Note:** Ces dons sont indépendants de l'organisation des journées QGIS Francophone, mais c'est bien quand même!
