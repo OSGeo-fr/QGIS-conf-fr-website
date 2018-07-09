@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publication des présentations
+published: false
 ---
 
 Nous somme en train de finaliser cette 5eme rencontre. Vous trouverez donc dans la page **Programme** les liens vers les présentations. Certaines présentations proposaient des vidéos que nous avons mis à côté pour le moment. Nous somme en train de voir où héberger correctement ces fichiers volumineux.

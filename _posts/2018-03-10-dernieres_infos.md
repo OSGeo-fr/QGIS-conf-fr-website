@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dernières informations"
+published: false
 ---
 
 Nous avons publié les vidéos des conférences dans la section programme, revoyez ou regarder les conférences !

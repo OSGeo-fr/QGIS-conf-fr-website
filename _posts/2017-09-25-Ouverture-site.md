@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lancement du site"
+published: false
 ---
 
 Le site des Conférences des Utilisateurs Francophones de QGIS est lancé !
