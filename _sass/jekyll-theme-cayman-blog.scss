@@ -95,7 +95,7 @@ a {
   background-image: url(/qgis-fr-logo.svg), linear-gradient(120deg, #155799, #159957);
   background-repeat: no-repeat;
   background-position: left center ;
-  
+
   @include large {
     padding: 5rem 6rem;
   }
@@ -114,7 +114,7 @@ a {
   margin-bottom: 0.1rem;
 
   @include large {
-    font-size: 3.25rem;
+    font-size: 2.9rem;
   }
 
   @include medium {
