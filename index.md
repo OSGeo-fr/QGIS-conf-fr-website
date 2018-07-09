@@ -1,5 +1,5 @@
 ---
-title: Rencontres QGIS Utilisateurs 2018
+title: Les rencontres
 layout: home
 tagline: Rencontrez, échangez, discutez autour de QGIS !
 ---
