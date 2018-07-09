@@ -23,7 +23,7 @@ Cette année, trois niveaux sont possibles:
 * Montant : 800 € HT
 * Limité à 3 mécènes
 
-  * 2 inscriptions incluses
+  * 3 inscriptions incluses
   * Totem dans la salle principale (à fournir)
   * Logo et citation pendant l'événement
   * Logo, lien et présentation de l'organisme sur le site web
@@ -37,9 +37,10 @@ Cette année, trois niveaux sont possibles:
 * Montant : 500 € HT
 * Pas de limite
 
-  * 1 inscription incluse
+  * 2 inscriptions incluses
   * Logo et citation pendant l'événement
   * Logo, lien et présentation de l'organisme sur le site web
+  * Logo sur le programme
   * Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"
   * Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS PARRAIN 2018"
 
@@ -47,8 +48,8 @@ Cette année, trois niveaux sont possibles:
 
 * Montant : 200 € HT
 * Pas de limite
-
-??
+* Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"
+* 1 inscription incluse
 
 ## Soirée sponsorisée
 
