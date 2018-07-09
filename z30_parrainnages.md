@@ -20,7 +20,7 @@ Cette année, trois niveaux sont possibles:
 
 ### Mécène
 
-* Montant : 500 € HT
+* Montant : 800 € HT
 * Limité à 3 mécènes
 
   * 2 inscriptions incluses
