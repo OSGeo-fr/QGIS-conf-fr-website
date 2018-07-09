@@ -4,17 +4,14 @@ title: Localisation
 tagline: Où sont localisées les Rencontres ?
 ---
 
-Les rencontres ont lieu en 2 endroits différents :
-* Jeudi 14 décembre à [Montpellier SupAgro](https://www.supagro.fr), salle 104 au chateau.
-* vendredi 15 décembre à l'[amphi Agropolis International](http://www.agropolis.fr/pratique/locaux.php).
+Cette année, la conférence revient dans les locaux de SupAgro
+
+* Barcamp - Jeudi 13 décembre à [Montpellier SupAgro](https://www.supagro.fr), salle 104 au chateau.
+
+* Conférences - vendredi 14 décembre à l'[Montpellier SupAgro](https://www.supagro.fr)
 
 **[Cliquez ici pour voir une cartographie des localisations et les moyens de transport proposés]({{ site.url }}{{ site.baseurl }}/carte.html)**
 
-## Comment venir à Agropolis Internationnal ?
-
-**Adresse :** 1000, Avenue Agropolis 34394 Montpellier
-
-Voir la page de [localisation sur le site d'Agropolis Internationnal](http://www.agropolis.fr/pratique/acces.php) pour plus d'informations.
 
 ## Comment venir à MontpellierSupAgro ?
 
