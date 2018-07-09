@@ -1,5 +1,5 @@
 ---
-layout: inscription2017
+layout: inscription
 title: Inscription
 tagline: Inscrivez vous aux rencontres QGIS !
 ---
