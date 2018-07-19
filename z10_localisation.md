@@ -10,11 +10,11 @@ Cette année, la conférence revient dans les locaux de SupAgro
 
 * Conférences - vendredi 14 décembre à l'[Montpellier SupAgro](https://www.supagro.fr) dans **l'amphithéâtre LAMOUR**
 
-**[Cliquez ici pour voir une cartographie des localisations et les moyens de transport proposés]({{ site.url }}{{ site.baseurl }}/carte.html)**
+<!-- **[Cliquez ici pour voir une cartographie des localisations et les moyens de transport proposés]({{ site.url }}{{ site.baseurl }}/carte.html)** -->
 
 {% raw %}
 <div>
-<iframe width="100%" height="500px" frameBorder="0" src="http://umap.openstreetmap.fr/en/map/untitled-map_235342?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=true&tilelayersControl=true&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=598209&locateControl=true#15/43.6111/3.8649"></iframe><p><a href="http://umap.openstreetmap.fr/en/map/untitled-map_235342">Voir en plein écran</a></p>
+<iframe width="100%" height="500px" frameBorder="0" src="http://umap.openstreetmap.fr/en/map/untitled-map_235342?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=true&tilelayersControl=true&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=598209&locateControl=true#15/43.6111/3.8649"></iframe><p><a href="http://umap.openstreetmap.fr/en/map/untitled-map_235342?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=true&tilelayersControl=true&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=598209&locateControl=true#15/43.6111/3.8649">Voir en plein écran</a></p>
 </div>
 {% endraw %}
 
