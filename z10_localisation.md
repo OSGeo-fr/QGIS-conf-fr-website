@@ -12,6 +12,7 @@ Cette année, la conférence revient dans les locaux de SupAgro
 
 **[Cliquez ici pour voir une cartographie des localisations et les moyens de transport proposés]({{ site.url }}{{ site.baseurl }}/carte.html)**
 
+{ % include carte_embed.html id="carte_embed" %}
 
 ## Comment venir à MontpellierSupAgro ?
 
