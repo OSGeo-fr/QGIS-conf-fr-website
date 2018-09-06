@@ -36,6 +36,7 @@ Cette année, trois niveaux sont possibles:
 
 * Montant : 500 € HT
 * Pas de limite
+
   * 2 inscriptions incluses
   * Logo et citation pendant l'événement
   * Logo, lien et présentation de l'organisme sur le site web
@@ -47,9 +48,10 @@ Cette année, trois niveaux sont possibles:
 
 * Montant : 200 € HT
 * Pas de limite
-* Logo et lien sur le site web
-* Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"
-* 1 inscription incluse
+
+  * Logo et lien sur le site web
+  * Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"
+  * 1 inscription incluse
 
 ## Soirée sponsorisée
 
