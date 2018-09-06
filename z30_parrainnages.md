@@ -48,6 +48,7 @@ anch is behind its remote counterpart. Try pulling b
 
 * Montant : 200 € HT
 * Pas de limite
+* Logo et lien sur le site web
 * Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"
 * 1 inscription incluse
 
