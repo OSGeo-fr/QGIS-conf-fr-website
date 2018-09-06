@@ -36,7 +36,6 @@ Cette année, trois niveaux sont possibles:
 
 * Montant : 500 € HT
 * Pas de limite
-anch is behind its remote counterpart. Try pulling b
   * 2 inscriptions incluses
   * Logo et citation pendant l'événement
   * Logo, lien et présentation de l'organisme sur le site web
