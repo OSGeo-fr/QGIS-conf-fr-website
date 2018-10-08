@@ -8,7 +8,7 @@ tagline: Nous remercions nos généreux sponsors !
 
 ## Tarif et visibilité
 
-Pour toute information ou demande, utilisez le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
+Pour toute information ou demande, utilisez le formulaire de **[contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html)**.
 
 Cette année, trois niveaux sont possibles:
 
