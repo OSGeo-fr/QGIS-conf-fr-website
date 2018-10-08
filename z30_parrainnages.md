@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Parrainage
-tagline: Nous remercions nos généreux sponsors !
+tagline: Nous remercions nos généreux soutiens !
 ---
 ## Présentation de nos soutiens, parrains et mécènes
 
