@@ -6,7 +6,7 @@ tagline: Voici notre programme pour ces rencontres
 
 <!-- Vous trouverez ici au cours du mois de novembre le programme de ces deux jours.  -->
 
-Les inscriptions **ne sont pas encore** ouvertes.
+Les inscriptions **ne sont pas encore** ouvertes mais [**vous pouvez dès aujourd'hui proposer une présentation**](presentation.html)
 
 L'inscription est de 50 € TTC pour les deux jours, comprenant les pauses et le repas de midi (jeudi et vendredi), et de 30 euros pour une journée.
 
@@ -44,4 +44,4 @@ Comment faire pour demain avoir des outils communs et maintenus permettant de se
 Nous vous invitons à proposer vos retours d'expériences, partage de projet émergents liés à QGIS.
 Les parties techniques de la conférence feront le bilan technique des fonctionnalités de QGIS qui permettent ces développements rapides d'applications, les manques actuellement identifiés, et les groupes d'intérêt déjà à l'oeuvre et en recherche d'appui ou de financement.
 
-**L'appel à proposition n'est pas encore ouvert.**
+[**Vous pouvez dès aujourd'hui proposer une présentation**](presentation.html)
