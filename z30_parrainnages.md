@@ -12,11 +12,9 @@ Pour toute information ou demande, utilisez le [**formulaire de contact**]({{ si
 
 Cette année, trois niveaux sont possibles:
 
- - **Soutien** - 200 €
- - **Parrain** - 500 €
  - **Mécène**  - 800 €
-
-
+ - **Parrain** - 500 €
+ - **Soutien** - 200 €
 
 ### Mécène
 
