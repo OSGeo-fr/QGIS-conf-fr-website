@@ -25,10 +25,9 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 
 ## Vendredi 14 décembre - Conférence à SupAgro
 
+**Les horaires sont 9h - 16h** (l'heure de fin pourra être repoussée si nécessaire).
 
 ### Programme
-
-**Horaires:**
 
 Cette année, le thème choisi est **QGIS fédérons et structurons nos usages!**
 
