@@ -41,10 +41,10 @@ A l'heure de la prise de conscience de l'importance des données souveraines et 
 
 **Comment faire pour demain avoir des outils communs et maintenus permettant de se concentrer avant tout sur son propre métier?**
 
-Nous aurons le plaisir d'accueillir cette année le **nouveau président** du [groupe QGIS utilisateur Suisse](https://www.qgis.ch), **Hans-Jörg Stark**. Il viendra témoigner des actions et des financements impulsés par cette association depuis 2012, et qui constitue une des **forces motrices** les plus importantes du projet QGIS. 
+Nous aurons le plaisir d'accueillir cette année le **nouveau président** du [groupe QGIS utilisateur Suisse](https://www.qgis.ch), **Hans-Jörg Stark**. Il viendra témoigner des actions et des financements impulsés par cette association depuis 2012, et qui constitue une des **forces motrices** les plus importantes du projet QGIS.
 
-Nous vous invitons à **proposer** vos retours d'expériences, ou à venir présenter des initiatives que vous souhaiteriez ouvrir et maintenir collectivment. 
+Nous vous invitons à **proposer** vos retours d'expériences, ou à venir présenter des initiatives que vous souhaiteriez ouvrir et maintenir collectivement.
 
-Les parties techniques de la conférence feront le bilan technique des fonctionnalités de QGIS qui permettent ces développements rapides d'applications, les manques actuellement identifiés, et les groupes d'intérêt déjà à l'oeuvre et en recherche d'appui ou de financement.
+Les parties techniques de la conférence feront le bilan technique des fonctionnalités de QGIS qui permettent ces développements rapides d'applications, les manques actuellement identifiés, et les groupes d'intérêt déjà à l'œuvre et en recherche d'appui ou de financement.
 
 <button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>
