@@ -5,6 +5,26 @@ tagline: Nous remercions nos généreux soutiens !
 ---
 ## Présentation de nos soutiens, parrains et mécènes
 
+### Mécènes
+
+[![Camptocamp](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/camptocamp.png)](https://www.camptocamp.com/)
+
+Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
+
+[![Oslandia](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
+
+Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
+
+
+### Parrains
+
+[![Azimut](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/azimut.png)](https://azimut.fr)
+
+Après vingt-cinq ans d'activité AZIMUT a acquis une expérience reconnue sur tous les services informatiques dans le domaine de l'information géographique. La taille de notre structure garantit à nos clients souplesse et réactivité.
+Notre capacité à développer des outils sur mesure s’intégrant  dans un processus de production/gestion existant est également appréciée de nos clients.
+Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSGeo-fr,  et en intégrant QGIS et PostgreSQL/PostGIS dans nos offres afin de proposer à nos clients les meilleures solutions adaptées à leur organisation.
+
+
 
 ## Tarif et visibilité
 
