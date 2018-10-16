@@ -31,13 +31,13 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 
 Cette année, le thème choisi est **QGIS - fédérons et structurons nos usages!**
 
-La communauté des utilisateurs ne cesse de grandir et d'attirer de nouveaux métiers. De très nombreuses applications métier sont désormais construites sur la base du couple QGIS et PostGIS, de la gestion de réseaux d'eau [potable](http://qwat.org/), d'[assainissement](https://github.com/QGEP), de gaz, du [cadastre](https://plugins.qgis.org/plugins/cadastre/), etc.. 
+La communauté des utilisateurs ne cesse de grandir et d'attirer de nouveaux métiers. De très nombreuses applications métier sont désormais construites sur la base du couple QGIS et PostGIS:  gestion de réseaux d'eau [potable](http://qwat.org/), [assainissement](https://github.com/QGEP),  gaz ,  [cadastre](https://plugins.qgis.org/plugins/cadastre/), agriculture, gestion de d'aéroports etc.. 
 
 A l'heure de la prise de conscience de l'importance des données souveraines et des communs, le moment est venu d'accompagner la mise en place de solutions communautaires également pour nos outils métiers.
 
 **Quelles sont les initiatives existantes ici et ailleurs qui permettent de construire des solutions communes ?**
 
-**Quels sont les codes, les bonnes pratiques et les facteurs de réussites de tels projets?**
+**Quels sont les codes, les bonnes pratiques et les facteurs de réussite de tels projets?**
 
 **Comment faire pour demain avoir des outils communs et maintenus permettant de se concentrer avant tout sur son propre métier?**
 
