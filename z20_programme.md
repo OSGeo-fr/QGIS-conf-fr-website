@@ -29,7 +29,7 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 
 ### Programme
 
-Cette année, le thème choisi est **QGIS fédérons et structurons nos usages!**
+Cette année, le thème choisi est **QGIS - fédérons et structurons nos usages!**
 
 La communauté des utilisateurs ne cesse de grandir et d'attirer de nouveaux métiers. De très nombreuses applications métier sont désormais construites sur la base du couple QGIS et PostGIS, de la gestion de réseaux d'eau [potable](http://qwat.org/), d'[assainissement](https://github.com/QGEP), de gaz, du [cadastre](https://plugins.qgis.org/plugins/cadastre/), etc.. 
 
