@@ -4,7 +4,7 @@ layout: home
 tagline: Rencontrez, échangez, discutez autour de QGIS !
 ---
 
-Pour la septième année consécutive le séminaire utilisateurs QGIS se déroulera à Montpellier. Cet événement est organisé en partenariat entre [Montpellier SupAgro](https://www.montpellier-supagro.fr/) et l'[OSGeo-fr](https://www.osgeo.asso.fr/).
+Pour la sixième année consécutive le séminaire utilisateurs QGIS se déroulera à Montpellier. Cet événement est organisé en partenariat entre [Montpellier SupAgro](https://www.montpellier-supagro.fr/) et l'[OSGeo-fr](https://www.osgeo.asso.fr/).
 
 L’événement se déroulera sur 2 jours :
 
