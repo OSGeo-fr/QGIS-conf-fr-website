@@ -13,8 +13,12 @@ Composée de spécialistes de l’Open Source, Camptocamp est une entreprise inn
 
 [![Oslandia](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
 
-Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
+Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux trois core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
 
+
+[![SOGEFI](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/sogefi.png)](https://www.sogefi-sig.com/)
+
+SOGEFI est une société d’ingénierie géomatique spécialisée dans la valorisation des données géographiques. Expert dans la mise en œuvre de portails cartographiques, SOGEFI intervient à toutes les phases de vos projets géomatiques : étude des besoins, aide à la formalisation de spécifications, identification et mise en compatibilité de vos référentiels, conception et intégration des données, développement d’interfaces, maintenance évolutive des outils, assistance aux utilisateurs...
 
 ### Parrains
 
