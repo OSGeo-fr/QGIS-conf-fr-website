@@ -22,12 +22,16 @@ SOGEFI est une société d’ingénierie géomatique spécialisée dans la valor
 
 ### Parrains
 
-[![Azimut](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/azimut.png)](https://azimut.fr)
+[![Azimut](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/azimut.png)](https://www.azimut.fr)
 
 Après vingt-cinq ans d'activité AZIMUT a acquis une expérience reconnue sur tous les services informatiques dans le domaine de l'information géographique. La taille de notre structure garantit à nos clients souplesse et réactivité.
 Notre capacité à développer des outils sur mesure s’intégrant  dans un processus de production/gestion existant est également appréciée de nos clients.
 Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSGeo-fr,  et en intégrant QGIS et PostgreSQL/PostGIS dans nos offres afin de proposer à nos clients les meilleures solutions adaptées à leur organisation.
 
+
+[![IDGeo](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/idgeo.png)](https://www.idgeo.fr)
+
+Créée en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection.
 
 
 ## Tarif et visibilité
