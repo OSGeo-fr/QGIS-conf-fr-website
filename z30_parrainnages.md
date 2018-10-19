@@ -18,7 +18,7 @@ Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée e
 
 [![SOGEFI](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/sogefi.png)](https://www.sogefi-sig.com/)
 
-SOGEFI est une société d’ingénierie géomatique spécialisée dans la valorisation des données géographiques. Expert dans la mise en œuvre de portails cartographiques, SOGEFI intervient à toutes les phases de vos projets géomatiques : étude des besoins, aide à la formalisation de spécifications, identification et mise en compatibilité de vos référentiels, conception et intégration des données, développement d’interfaces, maintenance évolutive des outils, assistance aux utilisateurs...
+SOGEFI est une société d’ingénierie géomatique spécialisée dans la valorisation des données géographiques. Expert dans la mise en œuvre de solutions cartographiques à partir de technologies OpenSource, SOGEFI attache une grande importance à la place de Qgis dans le cycle de la donnée : de sa création à sa diffusion. En effet, Sogefi promeut l'utilisation de Qgis auprès des techniciens de la donnée et propose des solutions adaptées et complémentaires pour une gestion simplifiée, un partage et une diffusion de cette donnée. 
 
 ### Parrains
 
