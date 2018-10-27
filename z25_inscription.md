@@ -5,4 +5,4 @@ tagline: Inscrivez vous aux rencontres QGIS !
 ---
 
 
-Les inscriptions ouvrent le 25 octobre !
+Les inscriptions ouvrent le 29 octobre !
