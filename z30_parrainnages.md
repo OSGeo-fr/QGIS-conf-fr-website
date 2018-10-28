@@ -20,16 +20,16 @@ Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée e
 
 SOGEFI est une société d’ingénierie géomatique spécialisée dans la valorisation des données géographiques. Expert dans la mise en œuvre de solutions cartographiques à partir de technologies OpenSource, SOGEFI attache une grande importance à la place de Qgis dans le cycle de la donnée : de sa création à sa diffusion. En effet, Sogefi promeut l'utilisation de Qgis auprès des techniciens de la donnée et propose des solutions adaptées et complémentaires pour une gestion simplifiée, un partage et une diffusion de cette donnée. 
 
-### Parrains
+### Parrainshttp://conf.qgis.osgeo.fr/presentation.html
 
-[![Azimut](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/azimut.png)](https://www.azimut.fr)
+[![Azimut](http://conf.qgis.osgeo.fr/presentation.htmlw/master/images/azimut.png)](https://www.azimut.fr)
 
-Après vingt-cinq ans d'activité AZIMUT a acquis une expérience reconnue sur tous les services informatiques dans le domaine de l'information géographique. La taille de notre structure garantit à nos clients souplesse et réactivité.
-Notre capacité à développer des outils sur mesure s’intégrant  dans un processus de production/gestion existant est également appréciée de nos clients.
-Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSGeo-fr,  et en intégrant QGIS et PostgreSQL/PostGIS dans nos offres afin de proposer à nos clients les meilleures solutions adaptées à leur organisation.
+Après vingt-http://conf.qgis.osgeo.fr/presentation.html reconnue sur tous les services informatiques dans le domaine de l'information géographique. La taille de notre structhttp://conf.qgis.osgeo.fr/presentation.html.
+Notre capacihttp://conf.qgis.osgeo.fr/presentation.html dans un processus de production/gestion existant est également appréciée de nos clients.
+Depuis 2014,http://conf.qgis.osgeo.fr/presentation.htmlen soutenant l'OSGeo-fr,  et en intégrant QGIS et PostgreSQL/PostGIS dans nos offres afin de proposer à nos clients http://conf.qgis.osgeo.fr/presentation.htmlion.
 
 
-[![IDGeo](https://github.com/OSGeo-fr/QGIS-conf-fr-website/raw/master/images/idgeo.png)](https://www.idgeo.fr)
+[![IDGeo](http://conf.qgis.osgeo.fr/presentation.html/master/images/idgeo.png)](https://www.idgeo.fr)
 
 Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection.
 Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu'elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel "technicien supérieur en SIG" et certificat de qualification professionnelle "Géomaticien"), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source. 
