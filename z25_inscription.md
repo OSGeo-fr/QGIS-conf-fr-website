@@ -6,4 +6,4 @@ tagline: Inscrivez vous aux rencontres QGIS !
 
 
 Les inscriptions sont ouvertes !
-[**Accéder à la boutique AgroTIC**](https://agrotic.org/boutique/)
+[**AccÃ©der Ã  la boutique AgroTIC**](https://agrotic.org/boutique/)
