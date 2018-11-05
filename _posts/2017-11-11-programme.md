@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Publication du programme - inscription à la conférence"
+published: false
+
 ---
 Le programme vient d'être publié sur le site. Celui-ci est un programme temporaire : l'ordre de passage sera précisé. Les 2 journées débuteront vers 9h00 avec un accueil chaleureux (café et croissants).
 
