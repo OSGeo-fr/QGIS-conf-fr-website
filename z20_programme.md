@@ -58,23 +58,14 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 Cette année, le thème choisi est **QGIS - fédérons et structurons nos usages!**
 
 La communauté des utilisateurs ne cesse de grandir et d'attirer de nouveaux métiers. De très nombreuses applications métier sont désormais construites sur la base du couple QGIS et PostGIS:  gestion de réseaux d'eau [potable](http://qwat.org/), [assainissement](https://github.com/QGEP),  gaz ,  [cadastre](https://plugins.qgis.org/plugins/cadastre/), agriculture, gestion de d'aéroports etc.. 
+A l'heure de la prise de conscience de l'importance des données souveraines et des communs, le moment est venu d'accompagner la mise en place de solutions communautaires également pour nos outils métiers.
 
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>
 
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>onnées souveraines et des communs, le moment 
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>unautaires également pour nos outils métiers.
+**Quelles sont les initiatives existantes ici et ailleurs qui permettent de construire des solutions communes ?**
 
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>
-
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button> qui permettent de construire des solutions 
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>
-
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>
-
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>urs de réussite de tels projets?**
-
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>
 **Comment faire pour demain avoir des outils communs et maintenus permettant de se concentrer avant tout sur son propre métier?**
+
+**Quels sont les codes, les bonnes pratiques et les facteurs de réussite de tels projets?**
 
 Nous aurons le plaisir d'accueillir cette année le **nouveau président** du [groupe QGIS utilisateur Suisse](https://www.qgis.ch), **Hans-Jörg Stark**. Il viendra témoigner des actions et des financements impulsés par cette association depuis 2012, et qui constitue une des **forces motrices** les plus importantes du projet QGIS.
 
