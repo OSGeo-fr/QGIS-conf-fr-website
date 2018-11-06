@@ -4,7 +4,7 @@ title: "Évolution du contenu de la journée Barcamp "
 published: false
 ---
 
-Cette année, la journée de Barcamp du jeudi évolue vers avec un **"community sprint"!**
+Cette année, la journée de Barcamp du jeudi évolue avec un **"community sprint"!**
 
 La matinée démarrera par un ice breaker, suivi de deux tournées d'ateliers sur le même modèle que les années précédentes, à savoir des ateliers d'une heure organisés en séance, suivis d'une restitution collective. 
 
@@ -28,5 +28,5 @@ La documentation de QGIS, les guides utilisateurs, les pas à pas sont des effor
 
 *Prérequis : parler un peu anglais, avoir osgeo4w avec les version ltr - release et master installées*
 
-**Venez avec vos PC, nous offrons le café, l'électricité et internet :) **
+**Venez avec vos PC, nous offrons le café et les croissants ainsi que l'électricité et internet :) **
 
