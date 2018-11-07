@@ -14,9 +14,5 @@ L’événement se déroulera sur 2 jours :
 
 Nous remercions d'avance nos soutiens qui nous permettent d'organiser ces deux jours de rencontres !
 
-## Dates importantes
 
-* Fin septembre - début octobre : appel à sponsors et à propositions pour les présentations
-* Fin octobre : fin de l'appel à sponsor et présentation
-* Début novembre : diffusion du programme et ouverture des inscriptions !
-* 13 et 14 décembre : conférences
+## **[Inscrivez vous dès maintenant !](https://agrotic.org/boutique/)**
