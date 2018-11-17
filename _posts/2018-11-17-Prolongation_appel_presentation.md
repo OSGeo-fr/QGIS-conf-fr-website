@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prolongation de l'appel à présentation"
-published: false
+published: True
 ---
 
 L'équipe programme vous offre une prolongation jusqu'au mercredi 21 à minuit pour proposer vos présentations !
