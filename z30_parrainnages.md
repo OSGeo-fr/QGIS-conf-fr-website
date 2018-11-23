@@ -130,4 +130,4 @@ Les formations dispensées par IDGEO permettent de répondre à un projet de mon
 
 ### Soutiens
 
-[![JHemmi]()](http://jhemmi.eu)
+[![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
