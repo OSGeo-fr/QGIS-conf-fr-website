@@ -6,10 +6,11 @@ tagline: Qui sont les organisateurs ?
 
 Les membres de l'équipe d'organisation sont (ordre alphabétique) :
 
+* Laure Haon (SupAgro)
+* Nina Lachia (SupAgro)
 * Jean-Marie Arsac (Azimut)
 * Régis Haubourg (Oslandia)
 * Yves Jacolin (Camptocamp)
-* Nina Lachia (SupAgro)
 * Léo Pichon (SupAgro)
 
 Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
