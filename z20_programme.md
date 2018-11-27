@@ -61,21 +61,28 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 
 Cette année, le thème choisi est **QGIS - fédérons et structurons nos usages!**
 
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>
-
 La communauté des utilisateurs ne cesse de grandir et d'attirer de nouveaux métiers. De très nombreuses applications métier sont désormais construites sur la base du couple QGIS et PostGIS:  gestion de réseaux d'eau [potable](http://qwat.org/), [assainissement](https://github.com/QGEP),  gaz ,  [cadastre](https://plugins.qgis.org/plugins/cadastre/), agriculture, gestion de d'aéroports etc.. 
 A l'heure de la prise de conscience de l'importance des données souveraines et des communs, le moment est venu d'accompagner la mise en place de solutions communautaires également pour nos outils métiers.
 
-**Quelles sont les initiatives existantes ici et ailleurs qui permettent de construire des solutions communes ?**
-
-**Comment faire pour demain avoir des outils communs et maintenus permettant de se concentrer avant tout sur son propre métier?**
-
-**Quels sont les codes, les bonnes pratiques et les facteurs de réussite de tels projets?**
-
 Nous aurons le plaisir d'accueillir cette année Stéphane Malta e Sousa, responsable du SIT pour la ville de Neuchâtel, et représentant du [groupe QGIS utilisateur Suisse](https://www.qgis.ch). Il viendra témoigner des actions et des financements impulsés par cette association depuis 2012, et qui constitue une des **forces motrices** les plus importantes du projet QGIS.
 
-Nous vous invitons à **proposer** vos retours d'expériences, ou à venir présenter des initiatives que vous souhaiteriez ouvrir et maintenir collectivement.
 
-Les parties techniques de la conférence feront le bilan technique des fonctionnalités de QGIS qui permettent ces développements rapides d'applications, les manques actuellement identifiés, et les groupes d'intérêt déjà à l'œuvre et en recherche d'appui ou de financement.
-
-<button name="button" onclick="location.href='/presentation.html';">**Je propose une présentation**</button>
+| 9h00  | Accueil - café                                                                                                                                                                                                          | 30   | min. |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------|
+| 9h30  | Introduction OSGEO-FR                                                                                                                                                                                                   | 15   | min. |
+| 9h45  | Grand témoin Suisse QGIS.ch - Stéphane Malta (Ville de Neuchâtel)                                                                                                                                                                                                     | 35   | min. |
+| 10h10 | QGIS, les enjeux d'une alternative - Antea Group - Robin PREST                                                                                                                                                          | 25   | min. |
+| 10h35 | Créons un projet commun de gestion des réseaux d'eau avec QGIS et PostGIS - Régis Haubourg - OSLANDIA                                                                                                                   | 25   | min. |
+| 10h50 | Structurer et fédérer les développements : les QEPs - Camptocamp - Yves Jacolin                                                                                                                                         | 25   | min. |
+| 11h15 | Présentation des étudiants AGROTIC                                                                                                                                                                                      | 60   | min. |
+|       |                                                                                                                                                                                                                         |      |      |
+| **12h15** | **Pause déjeuner**                                                                                                                                                                                                          | 1h30 |      |
+|       |                                                                                                                                                                                                                         |      |      |
+| 13h30 | Développement de plugins procéduraux orientés métier - IRSTEA - Mathieu Chailloux                                                                                                                                       | 25   | min. |
+| 14h55 | Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques - Ecole Nationale des Sciences Géographiques - Cécile Duchêne                                                               | 25   | min. |
+| 15h20 | Présentation d'un outil de création / numérisation des éléments graphiques d'un Plan Local d'Urbanisme Intercommunal (PLUI) dans un eco-système QGIS & PostGis - Grenoble Alpes Métropole - Vo Anh Tam PLUI Versionning | 25   | min. |
+| **15h45** | **Pause**                                                                                                                                                                                                                   | 25   | min. |
+| 16h00 | AZIMUT - Jean-Marie ARSAC Migration vers QGIS dans un syndicat d'électricité                                                                                                                                            | 25   | min. |
+| 16h25 | Le plugin cadastre - Intégration et exploitation des données cadastre - 3Liz - Michaël Douchin                                                                                                                          | 25   | min. |
+| 16h50 | clotûre / remerciement                                                                                                                                                                                                  | 10   | min. |
+| **17h00** | **fin**                                                                                                                                                                                                                     |      |      |
