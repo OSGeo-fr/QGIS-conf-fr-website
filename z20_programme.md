@@ -50,7 +50,7 @@ Et on peut aussi continuer le barcamp en parallèle pour ceux qui le souhaitent.
 
 ### Soirée
 
-Nous vous proposons de se retrouver le soir pour boire un verre ensemble et discuter sur QGIS ou n'importe quel sujet !
+Nous vous proposons de se retrouver le soir pour boire un verre ensemble et discuter sur QGIS ou n'importe quel sujet ! 
 
 
 ## Vendredi 14 décembre - Conférence à SupAgro
@@ -67,22 +67,22 @@ A l'heure de la prise de conscience de l'importance des données souveraines et 
 Nous aurons le plaisir d'accueillir cette année Stéphane Malta e Sousa, responsable du SIT pour la ville de Neuchâtel, et représentant du [groupe QGIS utilisateur Suisse](https://www.qgis.ch). Il viendra témoigner des actions et des financements impulsés par cette association depuis 2012, et qui constitue une des **forces motrices** les plus importantes du projet QGIS.
 
 
-| 9h00  | Accueil - café                                                                                                                                                                                                          | 30   | min. |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|------|
-| 9h30  | Introduction OSGEO-FR                                                                                                                                                                                                   | 15   | min. |
-| 9h45  | Grand témoin Suisse QGIS.ch - Stéphane Malta (Ville de Neuchâtel)                                                                                                                                                                                                     | 35   | min. |
-| 10h10 | QGIS, les enjeux d'une alternative - Antea Group - Robin PREST                                                                                                                                                          | 25   | min. |
-| 10h35 | Créons un projet commun de gestion des réseaux d'eau avec QGIS et PostGIS - Régis Haubourg - OSLANDIA                                                                                                                   | 25   | min. |
-| 10h50 | Structurer et fédérer les développements : les QEPs - Camptocamp - Yves Jacolin                                                                                                                                         | 25   | min. |
-| 11h15 | Présentation des étudiants AGROTIC                                                                                                                                                                                      | 60   | min. |
-|       |                                                                                                                                                                                                                         |      |      |
-| **12h15** | **Pause déjeuner**                                                                                                                                                                                                          | 1h30 |      |
-|       |                                                                                                                                                                                                                         |      |      |
-| 13h30 | Développement de plugins procéduraux orientés métier - IRSTEA - Mathieu Chailloux                                                                                                                                       | 25   | min. |
-| 14h55 | Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques - Ecole Nationale des Sciences Géographiques - Cécile Duchêne                                                               | 25   | min. |
-| 15h20 | Présentation d'un outil de création / numérisation des éléments graphiques d'un Plan Local d'Urbanisme Intercommunal (PLUI) dans un eco-système QGIS & PostGis - Grenoble Alpes Métropole - Vo Anh Tam PLUI Versionning | 25   | min. |
-| **15h45** | **Pause**                                                                                                                                                                                                                   | 25   | min. |
-| 16h00 | AZIMUT - Jean-Marie ARSAC Migration vers QGIS dans un syndicat d'électricité                                                                                                                                            | 25   | min. |
-| 16h25 | Le plugin cadastre - Intégration et exploitation des données cadastre - 3Liz - Michaël Douchin                                                                                                                          | 25   | min. |
-| 16h50 | clotûre / remerciement                                                                                                                                                                                                  | 10   | min. |
-| **17h00** | **fin**                                                                                                                                                                                                                     |      |      |
+| 9h00      | Accueil - café                                                                                                                                                                                                          |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 9h30      | Introduction OSGEO-FR                                                                                                                                                                                                   |
+| 9h45      | Grand témoin Suisse QGIS.ch - Stéphane Malta (Ville de Neuchâtel)                                                                                                                                                       |
+| 10h10     | QGIS, les enjeux d'une alternative - Antea Group - Robin PREST                                                                                                                                                          |
+| 10h35     | Créons un projet commun de gestion des réseaux d'eau avec QGIS et PostGIS - Régis Haubourg - OSLANDIA                                                                                                                   |
+| 10h50     | Structurer et fédérer les développements : les QEPs - Camptocamp - Yves Jacolin                                                                                                                                         |
+| 11h15     | Présentation des étudiants AGROTIC                                                                                                                                                                                      |
+|           |                                                                                                                                                                                                                         |
+| **12h15** | **Pause déjeuner**                                                                                                                                                                                                      |
+|           |                                                                                                                                                                                                                         |
+| 13h30     | Développement de plugins procéduraux orientés métier - IRSTEA - Mathieu Chailloux                                                                                                                                       |
+| 14h55     | Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques - Ecole Nationale des Sciences Géographiques - Cécile Duchêne                                                               |
+| 15h20     | Présentation d'un outil de création / numérisation des éléments graphiques d'un Plan Local d'Urbanisme Intercommunal (PLUI) dans un eco-système QGIS & PostGis - Grenoble Alpes Métropole - Vo Anh Tam PLUI Versionning |
+| **15h45** | **Pause**                                                                                                                                                                                                               |
+| 16h00     | AZIMUT - Jean-Marie ARSAC Migration vers QGIS dans un syndicat d'électricité                                                                                                                                            |
+| 16h25     | Le plugin cadastre - Intégration et exploitation des données cadastre - 3Liz - Michaël Douchin                                                                                                                          |
+| 16h50     | clotûre / remerciement                                                                                                                                                                                                  |
+| **17h00** | **fin**                                                                                                                                                                                                                 |
