@@ -4,7 +4,7 @@ title: À propos
 tagline: Qui sont les organisateurs ?
 ---
 
-Les membres de l'équipe d'organisation sont (ordre alphabétique) :
+# Equipe d'organisation (ordre alphabétique courtois)
 
 * Laure Haon (SupAgro)
 * Nina Lachia (SupAgro)
@@ -14,6 +14,24 @@ Les membres de l'équipe d'organisation sont (ordre alphabétique) :
 * Léo Pichon (SupAgro)
 
 Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
+
+# Comité de programme (ordre alphabétique courtois)
+
+* Nina Lachia (SupAgro)
+* Cécile Le Calvez (Citadia)
+* Julie Pierson (CNRS)
+* Etienne Delay (CIRAD)
+* Simon Georget (Intermezzo)
+* Régis Haubourg (Oslandia)
+* Quentin Paternoster (Fractale Géomatique)
+* Léo Pichon (SupAgro)
+* Nicolas Roelandt (IFSTTAR)
+
+**Critères de sélection :**
+
+- adéquation avec le thème des Rencontres 2018 : *QGIS, fédérons et structurons nos usages*
+- intérêt intrinsèque
+- présentation non commerciale
 
 ## À propos de Montpellier SupAgro et la formation AgroTIC
 
