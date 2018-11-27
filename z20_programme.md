@@ -55,11 +55,11 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 
 ## Vendredi 14 décembre - Conférence à SupAgro
 
-**Les horaires sont 9h - 16h** (l'heure de fin pourra être repoussée si nécessaire).
+**Les horaires sont 9h - 17h**
 
 ### Programme
 
-Cette année, le thème choisi est **QGIS - fédérons et structurons nos usages!**
+Cette année, le thème choisi est **QGIS - fédérons et structurons nos usages !**
 
 La communauté des utilisateurs ne cesse de grandir et d'attirer de nouveaux métiers. De très nombreuses applications métier sont désormais construites sur la base du couple QGIS et PostGIS:  gestion de réseaux d'eau [potable](http://qwat.org/), [assainissement](https://github.com/QGEP),  gaz ,  [cadastre](https://plugins.qgis.org/plugins/cadastre/), agriculture, gestion de d'aéroports etc.. 
 A l'heure de la prise de conscience de l'importance des données souveraines et des communs, le moment est venu d'accompagner la mise en place de solutions communautaires également pour nos outils métiers.
@@ -71,18 +71,18 @@ Nous aurons le plaisir d'accueillir cette année Stéphane Malta e Sousa, respon
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9h30      | Introduction OSGEO-FR                                                                                                                                                                                                   |
 | 9h45      | Grand témoin Suisse QGIS.ch - Stéphane Malta (Ville de Neuchâtel)                                                                                                                                                       |
-| 10h10     | QGIS, les enjeux d'une alternative - Antea Group - Robin PREST                                                                                                                                                          |
-| 10h35     | Créons un projet commun de gestion des réseaux d'eau avec QGIS et PostGIS - Régis Haubourg - OSLANDIA                                                                                                                   |
-| 10h50     | Structurer et fédérer les développements : les QEPs - Camptocamp - Yves Jacolin                                                                                                                                         |
+| 10h10     | QGIS, les enjeux d'une alternative - Robin PREST (Antea Group)                                                                                                                                                         |
+| 10h35     | Créons un projet commun de gestion des réseaux d'eau avec QGIS et PostGIS - Régis Haubourg (Oslandia)                                                                                                                   |
+| 10h50     | Structurer et fédérer les développements : les QEPs - Yves Jacolin (Camptocamp)                                                                                                                                        |
 | 11h15     | Présentation des étudiants AGROTIC                                                                                                                                                                                      |
 |           |                                                                                                                                                                                                                         |
 | **12h15** | **Pause déjeuner**                                                                                                                                                                                                      |
 |           |                                                                                                                                                                                                                         |
-| 13h30     | Développement de plugins procéduraux orientés métier - IRSTEA - Mathieu Chailloux                                                                                                                                       |
-| 14h55     | Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques - Ecole Nationale des Sciences Géographiques - Cécile Duchêne                                                               |
-| 15h20     | Présentation d'un outil de création / numérisation des éléments graphiques d'un Plan Local d'Urbanisme Intercommunal (PLUI) dans un eco-système QGIS & PostGis - Grenoble Alpes Métropole - Vo Anh Tam PLUI Versionning |
+| 13h30     | Développement de plugins procéduraux orientés métier - Mathieu Chailloux (IRSTEA)                                                                                                                                      |
+| 14h55     | Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques - Cécile Duchêne (Ecole Nationale des Sciences Géographiques) |
+| 15h20     | Présentation d'un outil de création / numérisation des éléments graphiques d'un Plan Local d'Urbanisme Intercommunal (PLUI) dans un eco-système QGIS & PostGis - Anh Tam Vo (Grenoble Alpes Métropole) |
 | **15h45** | **Pause**                                                                                                                                                                                                               |
-| 16h00     | AZIMUT - Jean-Marie ARSAC Migration vers QGIS dans un syndicat d'électricité                                                                                                                                            |
-| 16h25     | Le plugin cadastre - Intégration et exploitation des données cadastre - 3Liz - Michaël Douchin                                                                                                                          |
-| 16h50     | clotûre / remerciement                                                                                                                                                                                                  |
-| **17h00** | **fin**                                                                                                                                                                                                                 |
+| 16h00     | Migration vers QGIS dans un syndicat d'électricité - Jean-Marie ARSAC (Azimut)                                                                                                                                            |
+| 16h25     | Le plugin cadastre - Intégration et exploitation des données cadastre - Michaël Douchin (3Liz)                                                                                                                         |
+| 16h50     | Clôture / remerciements                                                                                                                                                                                                  |
+| **17h00** | **Fin**                                                                                                                                                                                                                 |
