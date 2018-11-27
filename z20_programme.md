@@ -72,7 +72,7 @@ A l'heure de la prise de conscience de l'importance des données souveraines et 
 
 **Quels sont les codes, les bonnes pratiques et les facteurs de réussite de tels projets?**
 
-Nous aurons le plaisir d'accueillir cette année le **nouveau président** du [groupe QGIS utilisateur Suisse](https://www.qgis.ch), **Hans-Jörg Stark**. Il viendra témoigner des actions et des financements impulsés par cette association depuis 2012, et qui constitue une des **forces motrices** les plus importantes du projet QGIS.
+Nous aurons le plaisir d'accueillir cette année Stéphane Malta e Sousa, responsable du SIT pour la ville de Neuchâtel, et représentant du [groupe QGIS utilisateur Suisse](https://www.qgis.ch). Il viendra témoigner des actions et des financements impulsés par cette association depuis 2012, et qui constitue une des **forces motrices** les plus importantes du projet QGIS.
 
 Nous vous invitons à **proposer** vos retours d'expériences, ou à venir présenter des initiatives que vous souhaiteriez ouvrir et maintenir collectivement.
 
