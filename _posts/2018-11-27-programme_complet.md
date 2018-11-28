@@ -32,11 +32,12 @@ published: True
 ## Le détail des présentations
 
 
-### QGIS, les enjeux d'une alternative - Antea Group - Robin PREST
-
+### QGIS, les enjeux d'une alternative
 Cette présentation se penche sur les freins et les atouts qui ont permis en quelques années à Antea Group de basculer les pratiques et usages hérités d'un organisme public vers une démarche plus ouverte et innovante en se basant sur une démocratisation et une pratique encouragée du logiciel QGIS.
 
 Le titre de cette présentation s'inspire de la démarche de migration d'une pratique de logiciels propriétaires vers de l'open source évoquée dans le mémoire du CNAM de (feu) Frédéric LABBE, ""Suite bureautique, les enjeux d'une alternative"", 24/06/2003, CNAM"
+
+Par Robin Prest - Antea Group
 
 #### Créons un projet commun de gestion des réseaux d'eau avec QGIS et PostGIS
 
@@ -48,7 +49,7 @@ Dans ce contexte, l'absence de projet open source partagé et de mutualisation d
 Nous proposons un tour d'horizon des projets existants, des acteurs activement intéressés par la mise en oeuvre de projets communautaire Open Source français. 
 Quelle stratégie pour démarrer? Quel modèle de données ? Quelle stratégie Open Source, communautaire et quelle gournvernance souhaitons nous face à des besoins parfois différents ? Quel structuration d'un groupe d'intérêt utilisateurs pour piloter cela au travers de l'OSGEO-FR ?"	Je propose ça - désolé pour le délai, suite à des discussions aux pgsessions avec au moins 5 personnes motivées pour démarrer une communauté. 
 
-Par Régis Haubourg - OSLANDIA
+Par Régis Haubourg - Oslandia
 
 #### Structurer et fédérer les développements : les QGIS Enhancement Proposals alias QEP	
 
@@ -56,7 +57,7 @@ Par Régis Haubourg - OSLANDIA
 
 Cette présentation montrera un des aspects de cette structuration : la rédaction des propositions d'améliorations (QEP) au travers de différents exemples de QEP réalisées (ou en attente). Comment et pourquoi rédiger ces propositions, à quel moment. Pourquoi la communauté des utilisateurs doivent ils s'y intéresser ?"	
 
-Par Camptocamp - Yves Jacolin
+Par Yves Jacolin - Camptocamp
 
 
 
@@ -67,7 +68,7 @@ L'extension 'processing' permet de regrouper et d'uniformiser les algorithmes di
 Dans le cas de chaînes de traitement complexes à destination d'utilisateurs métier n'ayant pas de compétences avancées en SIG, le regroupement des paramètres de chaque étape au sein d'une même fenêtre complexifie le paramétrage et la prise en main de l'outil.
 Cette présentation revient sur un exemple de développement, le plugin BioDispersal, et propose des suggestions d'améliorations comme la possibilité de créer un onglet par étape ou de sauvegarder un paramétrage.
 
-Par IRSTEA - Mathieu Chailloux
+Par Mathieu Chailloux - IRSTEA
 
 
 ### Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques 
@@ -80,7 +81,7 @@ Le plugin Hy2roresO part du postulat que les tronçons hydrographiques sont orie
 
 Le plugin Hy2roresO est en cours de dépôt en open source, il est accompagné d'une documentation contenant un manuel utilisateur, et qui décrit également en détail le fonctionnement de l'algorithme sous-jacent, disponible ici: https://hy2roreso.readthedocs.io/. Nous souhaitons le faire connaître auprès des utilisateurs qui pourraient être intéressés, d'une part pour favoriser sa réutilisation, d'autre part pour qu'il puisse être testé pour des usages variés et amélioré en conséquence.
 
-Par Ecole Nationale des Sciences Géographiques - Cécile Duchêne
+Par Cécile Duchêne - Ecole Nationale des Sciences Géographiques 
 
 #### Présentation d'un outil de gestion d'un PLUi dans un eco-système QGIS & PostGis 
 
@@ -88,7 +89,7 @@ L'outil PLUI Versionning permet la gestion de version en utilisant des notions d
 L'application repose sur un développement lourd en base accompagné de fonction python et d'actions QGIS.
 Il a été conçu et est disponible en OpenSource sur Github et a été conçu en partenariat en la Metropole de Grenoble et l'agence d'urbanisme. 
 
-Par - Vo Anh Tam - Grenoble Alpes Métropole	
+Par Anh-Tam Vo - Grenoble Alpes Métropole	
 
 
 
@@ -96,7 +97,7 @@ Par - Vo Anh Tam - Grenoble Alpes Métropole
 
 Présentation de la migration d'un syndicat d'électricité d'outils propriétaires orientés DAO vers QGIS et PostgreSQL/PostGIS dans le cadre de la réforme anti-endommagement des réseaux dite réforme DT-DICT.
 
-Par AZIMUT - Jean-Marie ARSAC
+Par Jean-Marie Arsac - Azimut
 
 ### Le plugin cadastre - Intégration et exploitation des données cadastre
 
@@ -104,5 +105,5 @@ Le plugin cadastre a été initié par l'Agence d'Urbanisme du Grand Amiénois (
 Ce plugin permet aux utilisateurs des données cadastrales françaises de constituer une base de données à partir des fichiers EDIGeo et MajicIII. Il permet aussi de faire des recherches dans ces données et des générer des fiches de propriétaire et parcellaire.
 Depuis sa publication en Novembre 2013, celui-ci a été principalement soutenu par l'ADUGA. La ville de Megève a financé le portage sur QGIS 3 cette année.
 
-Par 3Liz - Michaël Douchin
+Par Michaël Douchin - 3Liz
 
