@@ -1,3 +1,9 @@
+---
+layout: page
+title: Programme détaillé
+tagline: Programme détaillé
+published: false
+---
 
 ## Programme détaillé
 
