@@ -47,7 +47,7 @@ De nombreuses collectivités ou acteurs privés développent leurs propres solut
 
 Dans ce contexte, l'absence de projet open source partagé et de mutualisation de besoins et de ressources est criant, alors que de l'autre coté de la frontière Franco-Suisse, des communes lancent une série de projet Open Source pour la gestion des réseaux d'utilités publiques sur base QGIS et PostGIS 
 Nous proposons un tour d'horizon des projets existants, des acteurs activement intéressés par la mise en oeuvre de projets communautaire Open Source français. 
-Quelle stratégie pour démarrer? Quel modèle de données ? Quelle stratégie Open Source, communautaire et quelle gournvernance souhaitons nous face à des besoins parfois différents ? Quel structuration d'un groupe d'intérêt utilisateurs pour piloter cela au travers de l'OSGEO-FR ?"	Je propose ça - désolé pour le délai, suite à des discussions aux pgsessions avec au moins 5 personnes motivées pour démarrer une communauté. 
+Quelle stratégie pour démarrer? Quel modèle de données ? Quelle stratégie Open Source, communautaire et quelle gournvernance souhaitons nous face à des besoins parfois différents ? Quel structuration d'un groupe d'intérêt utilisateurs pour piloter cela au travers de l'OSGEO-FR ?"
 
 Par Régis Haubourg - Oslandia
 
