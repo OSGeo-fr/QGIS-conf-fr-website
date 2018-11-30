@@ -28,6 +28,8 @@ La matinée sera consacrée à deux tournées d'ateliers barcamp sur le même mo
 
 * Les nouveaux géotraitements
 
+* Le plugin Go2Mapillary par ses auteurs
+
 * Tout sujet qui vous intéresse !
 
 ### Ateliers communautaires (après midi)
