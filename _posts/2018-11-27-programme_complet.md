@@ -6,12 +6,12 @@ published: True
 
 Deux jours de rencontres autour de QGIS
 
-[![Jeudi 13 décembre]()](#jeudi) Un [BarCamp](https://fr.wikipedia.org/wiki/BarCamp) et des ateliers communautaires et moment de convivialité en soirée
+**Jeudi 13 décembre** Un [BarCamp](https://fr.wikipedia.org/wiki/BarCamp) et des ateliers communautaires et moment de convivialité en soirée
 
-[![Vendredi 14 décembre]()](#vendredi) 1 grand témoin QGIS.ch, 8 présentations, les nouveautés par les étudiants AgroTIC
+**Vendredi 14 décembre** Des conférences : 1 grand témoin QGIS.ch, 8 présentations, les nouveautés par les étudiants AgroTIC
 
 
-
+# Jeudi
 ## Le Barcamp
 
 
@@ -47,7 +47,7 @@ Et on peut aussi continuer le barcamp en parallèle pour ceux qui le souhaitent.
 
 Nous vous proposons de se retrouver le soir pour boire un verre ensemble et discuter sur QGIS ou n'importe quel sujet !
 
-
+# Vendredi
 ## Le déroulé de la journée
 
 | 9h00      | Accueil - café                                                                                                                                                                                                          |
