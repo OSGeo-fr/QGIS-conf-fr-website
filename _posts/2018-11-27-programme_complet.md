@@ -4,7 +4,50 @@ title: "Le programme définitif est disponible"
 published: True
 ---
 
-1 grand témoin QGIS.ch, 8 présentations, les nouveautés par les étudiants AgroTIC
+Deux jours de rencontres autour de QGIS
+
+[![Jeudi 13 décembre]()](#jeudi) Un [BarCamp](https://fr.wikipedia.org/wiki/BarCamp) et des ateliers communautaires et moment de convivialité en soirée
+
+[![Vendredi 14 décembre]()](#vendredi) 1 grand témoin QGIS.ch, 8 présentations, les nouveautés par les étudiants AgroTIC
+
+<p id="jeudi">
+## Le Barcamp 
+
+La matinée sera consacrée à deux tournées d'ateliers barcamp sur le même modèle que les années précédentes, à savoir des ateliers d'une heure organisés en séance, suivis d'une restitution collective.  
+
+* Le nouveau outil de mise en page et de génération de rapports
+
+* Les fonctionnalités 3D 
+
+* Les nouveaux géotraitements
+
+* Tout sujet qui vous intéresse !
+
+## Ateliers communautaires (après midi)
+
+L'après midi, nous changeons un peu, venez avec vos PC si vous en avez. **Pas de malentendu, on ne code pas :)**
+
+* Atelier Traduction QGIS, documentation et site web. 
+
+L'interface de QGIS, la documentation et le site web sont multi-lingues. Profitons de l'après midi pour comprendre l'infrastructure [Transifex](https://www.transifex.com/qgis/QGIS/translate/#fr/qgis-application/149393953?q=translated%3Ano) et les bonnes pratiques de traduction, puis de faire avancer le chantier ensemble.  *Prérequis: QGIS 3.4 installé et un navigateur web.*
+
+* Atelier rédaction de documentation et guide utilisateur QGIS.org. 
+
+La documentation de QGIS, les guides utilisateurs, les pas à pas sont des efforts communautaires. Venez apprendre à enrichir et corriger la documentation. Attention, rédaction en anglais obligatoire. *Prérequis :  QGIS 3.4.1 installé, un bon éditeur de texte et un outil de capture d'écran.* 
+
+* Atelier Gestion des tickets et participation aux tests utilisateurs.
+
+2200 anomalies remontées, 1623 demandes de fonctionnalités demandées. [Le bug tracker](https://issues.qgis.org/) a besoin d'amour. Venez nous aider à faire le ménage, confirmer, rendre les bugs reproductibles! *Prérequis : parler un peu anglais, avoir osgeo4w avec les versions QGIS ltr - release et master installées*
+
+Et on peut aussi continuer le barcamp en parallèle pour ceux qui le souhaitent. 
+
+## Soirée
+
+Nous vous proposons de se retrouver le soir pour boire un verre ensemble et discuter sur QGIS ou n'importe quel sujet ! 
+
+</p>
+
+<p id="vendredi">
 
 ## Le déroulé de la journée
 
@@ -106,4 +149,4 @@ Ce plugin permet aux utilisateurs des données cadastrales françaises de consti
 Depuis sa publication en Novembre 2013, celui-ci a été principalement soutenu par l'ADUGA. La ville de Megève a financé le portage sur QGIS 3 cette année.
 
 Par Michaël Douchin - 3Liz
-
+</p>
