@@ -37,7 +37,7 @@ Les formations dispensées par IDGEO permettent de répondre à un projet de mon
 
 [![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
 
-
+[![Surface Libre](/images/surfacelibre.png)](http://www.surfacelibre.fr)
 
 ## Tarif et visibilité
 
