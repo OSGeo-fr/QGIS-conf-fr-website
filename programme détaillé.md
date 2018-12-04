@@ -41,7 +41,7 @@ Cette présentation revient sur un exemple de développement, le plugin BioDispe
 Présentation de la migration d'un syndicat d'électricité d'outils propriétaires orientés DAO vers QGIS et PostgreSQL/PostGIS dans le cadre de la réforme anti-endommagement des réseaux dite réforme DT-DICT.
 
 
-### Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques - Ecole Nationale des Sciences Géographiques - Cécile Duchêne
+### Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques - Ecole Nationale des Sciences Géographiques - Cécile Duchêne et Alice Gonnaud
 
 Nous proposons de présenter un plugin QGIS, développé par trois étudiants ingénieurs dans le cadre d'un projet développement. Ce plugin, nommé Hy2roresO, permet de hiérarchiser un réseau hydrographique en calculant automatiquement sur les tronçons hydrographiques de la couche en entrée les ordres de Strahler, Shreve et Horton. Le calcul de l'ordre de Horton suppose de grouper les tronçons en ""cours d'eau"": l'algorithme implémenté fait cela sur un critère de toponyme si des toponymes sont renseignés, et à défaut sur des critères de continuité géométrique, selon des principes proposés par Thomson et Brooks (2000) et Touya (2007). En sortie, le plugin étiquette aussi les tronçons appartenant à un même cours d'eau avec un même identifiant. L'algorithme implémenté par ce plugin a la particularité de gérer des cas complexes non gérés par les plugins de notre connaissance (v.stream.order de GRASS, par exemple): il s'agit des cas où le réseau présente des cycles dus à la présence d'îles, de groupes d'îles ou de chenaux anastomosés.
 
