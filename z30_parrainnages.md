@@ -33,6 +33,10 @@ Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSG
 Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection.
 Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu'elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel "technicien supérieur en SIG" et certificat de qualification professionnelle "Géomaticien"), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source. 
 
+[![3Liz](/images/3liz.png)](https://www.3liz.com/)
+
+3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
+
 ### Soutiens
 
 [![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
