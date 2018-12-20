@@ -4,8 +4,6 @@ title: "Retour sur la conférence"
 published: True
 ---
 
-## La conférence QGIS
-
 
 En synthèse une très belle journée, nous espèrons que vous avez pû en profiter pour partager vos expériences et vous connaître.
 Les vidéos arrivent très bientôt!
