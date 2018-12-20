@@ -1,16 +1,18 @@
 ---
 layout: post
 title: "Retour sur la journée Barcamp / Community Sprint"
-published: False
+published: True
 ---
 
-# Jeudi
 ## Le Barcamp
 
+![Les contributeurs du Barcamp](/images/barcamp/barcamp_work.jpg){:class="img-responsive"}
 
-La matinée a donc été consacrée à deux tournées d'ateliers barcamp sur le même modèle que les années précédentes, à savoir des ateliers d'une heure organisés en séance, suivis de restitutions collectives.
+La matinée a été consacrée à deux tournées d'ateliers barcamp sur le même modèle que les années précédentes, à savoir des ateliers d'une heure organisés en séance, suivis de restitutions collectives. En prime, un repas de Noël à l'Agro qui valait le coup :-).
 
-Les sujets:
+Un énorme merci aux participants, et aux animateurs de groupes!
+
+Les sujets traités:
 
 - Migrer vers QGIS 3.4
 
@@ -22,7 +24,9 @@ Les sujets:
 
 - Générer des tuiles XYZ dans QGIS et solutions clouds d'hébergement
 
-- CAD DAO dans QGIS
+-  DAO-CAO et QGIS
+
+- 3D et QGIS
 
 - DATAVIZ et datascience avec QGIS
 
@@ -30,21 +34,22 @@ Les sujets:
 
 - QGIS et QField / mobilité
 
-Les ateliers pratiques, avec les PC:
+- Mapillary et le plugin GoMapillary
+
+
+L'après midi nous avons lancé trois ateliers en parallèle des barcamps pour commencer à contribuer au projet QGIS, avec les PC:
 
 - Traduire de QGIS
 - Documenter QGIS
-- Les demandes d'évolution et de correctif, comment faire, comment se faire comprendre, aider à maintenir le bugtracker
+- Les demandes d'évolution et de correctif, comment faire, comment se faire comprendre, aider à maintenir le bugtracker.
 
 
-- Séries temporelles et dimension Temps dans QGIS
--
-* Le nouveau outil de mise en page et de génération de rapports
+![Sujets Barcamp](/images/barcamp/first_round_topics.jpg){:class="img-responsive"}
 
-* Les fonctionnalités 3D
+![Sujets Barcamp](/images/barcamp/first_round_topics2.jpg){:class="img-responsive"}
 
-* Les nouveaux géotraitements
+![Sujets Barcamp](/images/barcamp/second_round_topics.jpg){:class="img-responsive"}
 
-* Tout sujet qui vous intéresse !
+![Sujets Barcamp](/images/barcamp/barcamp_restit1.jpg){:class="img-responsive"}
 
-Photos
+![Sujets Barcamp](/images/barcamp/barcamp_restit2.jpg){:class="img-responsive"}
