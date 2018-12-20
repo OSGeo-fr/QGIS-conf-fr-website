@@ -21,8 +21,8 @@ Stéphane a rebrossé un état du projet QGIS.org complet, les informations sur 
 ![Temoin_Suisse](/images/conf/qgis_ch2.jpg){:class="img-responsive"}
 
 
-
 **Par Stéphane Malta e Sousa, Responsable de projet SIT au canton de Neuchâtel**
+
 
 ### QGIS, les enjeux d'une alternative
 
@@ -62,7 +62,7 @@ Stéphane a rebrossé un état du projet QGIS.org complet, les informations sur 
 
 ### Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques
 
-Cette présentation d'une démarche de création de plugin ouvert par des étudiant à permis d'élargir la question des licences open source pour des plugins QGIS, soumis de facto à la licence GPLv2, et des méthodes pour structurer du code si l'on souhaite des licences différentes pour le moteur de calcul. 
+Cette présentation d'une démarche de création de plugin ouvert par des étudiants à permis d'élargir la discussion à la question des licences open source pour des plugins QGIS, soumis de facto à la licence GPLv2, et des méthodes pour structurer du code si l'on souhaite des licences différentes pour le moteur de calcul. 
 
 **Par Cécile Duchêne - Ecole Nationale des Sciences Géographiques**
 
@@ -82,10 +82,11 @@ Présentation de la migration d'un syndicat d'électricité d'outils propriétai
 
 ![dao_electricité](/images/conf/dao_azimut.jpg){:class="img-responsive"}
 
+
 ### Le plugin cadastre - Intégration et exploitation des données cadastre
 
 Le plugin cadastre a été initié par l'Agence d'Urbanisme du Grand Amiénois (ADUGA) avec le soutient de la Région Picardie, le Fonds Européen de Développement Régional de Picardie et l'Union Européenne.
-Ce plugin permet aux utilisateurs des données cadastrales françaises de constituer une base de données à partir des fichiers EDIGeo et MajicIII. Il permet aussi de faire des recherches dans ces données et des générer des fiches de propriétaire et parcellaire.
+Ce plugin permet aux utilisateurs des données cadastrales françaises de constituer une base de données à partir des fichiers EDIGéO et Majic III. Il permet aussi de faire des recherches dans ces données et de générer des fiches de propriétaire et parcellaire.
 Depuis sa publication en Novembre 2013, celui-ci a été principalement soutenu par l'ADUGA. La ville de Megève a financé le portage sur QGIS 3 cette année.
 
 **Par Michaël Douchin - 3Liz**
