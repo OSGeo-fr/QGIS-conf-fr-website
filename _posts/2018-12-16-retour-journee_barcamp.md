@@ -4,8 +4,6 @@ title: "Retour sur la journée Barcamp / Community Sprint"
 published: True
 ---
 
-## Le Barcamp
-
 ![Les contributeurs du Barcamp](/images/barcamp/barcamp_work.jpg){:class="img-responsive"}
 
 La matinée a été consacrée à deux tournées d'ateliers barcamp sur le même modèle que les années précédentes, à savoir des ateliers d'une heure organisés en séance, suivis de restitutions collectives. En prime, un repas de Noël à l'Agro qui valait le coup :-).
