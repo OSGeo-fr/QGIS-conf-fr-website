@@ -10,7 +10,7 @@ published: True
 
 La matinée a été consacrée à deux tournées d'ateliers barcamp sur le même modèle que les années précédentes, à savoir des ateliers d'une heure organisés en séance, suivis de restitutions collectives. En prime, un repas de Noël à l'Agro qui valait le coup :-).
 
-Un énorme merci aux participants, et aux animateurs de groupes!
+Un énorme merci aux participants, et aux animateurs de groupes !
 
 Les sujets traités:
 
@@ -22,9 +22,9 @@ Les sujets traités:
 
 - Images et traitements d'images Sentinel dans QGIS  
 
-- Générer des tuiles XYZ dans QGIS et solutions clouds d'hébergement
+- Générer des tuiles XYZ dans QGIS et solutions "clouds" d'hébergement
 
--  DAO-CAO et QGIS
+- DAO-CAO et QGIS
 
 - 3D et QGIS
 
@@ -37,11 +37,11 @@ Les sujets traités:
 - Mapillary et le plugin GoMapillary
 
 
-L'après midi nous avons lancé trois ateliers en parallèle des barcamps pour commencer à contribuer au projet QGIS, avec les PC:
+L'après-midi nous avons lancé trois ateliers en parallèle des barcamps pour commencer à contribuer au projet QGIS, avec les PC:
 
-- Traduire de QGIS
+- Traduire QGIS
 - Documenter QGIS
-- Les demandes d'évolution et de correctif, comment faire, comment se faire comprendre, aider à maintenir le bugtracker.
+- Les demandes d'évolution et de correctif, comment faire, comment se faire comprendre, aider à maintenir le "bugtracker".
 
 
 ![Sujets Barcamp](/images/barcamp/first_round_topics.jpg){:class="img-responsive"}
