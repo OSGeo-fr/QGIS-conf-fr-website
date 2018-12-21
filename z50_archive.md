@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-published: False
+published: True
 tagline: Voir les anciennes présentations
 ---
 
