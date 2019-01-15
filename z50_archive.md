@@ -12,7 +12,7 @@ Les présentations des éditions précédentes sont disponibles dans le [dépôt
 
 #### Matin - 9h30 à 12h30)
 
-* **Ouverture [vidéo]()** Leo Pichon (AgroTIC)
+* **Ouverture** Leo Pichon (AgroTIC)
 * **[Présentation de l'OSGeo-fr](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/00_presentation_osgeo.pdf) - [vidéo](https://youtu.be/i0sVi--VPlw)** Régis Haubourg (Président de l'association)
 * **[Grand témoin Suisse QGIS.ch](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/01_QGIS_QGIS-CH_and_QGIS-ORG_French_version.pdf) - [vidéo](https://youtu.be/JMfJfVH1LFs)**  - Stéphane Malta (Canton de Neuchâtel). Le rôle et les actions du groupe utilisateurs Suisse. Un immense merci à Stéphane Malta d'être venu de si loin pour se faire le porte parole à la fois du projet QGIS et de l'association utilisateurs QGIS.ch
 
