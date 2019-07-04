@@ -3,6 +3,10 @@
 
 @import 'jekyll-theme-cayman-blog';
 
+body {
+    background: url(../img/bgBody.png) no-repeat left 400px;
+}
+
 div#contact div {
   padding: 0 20px;
   width: 33.33%;
@@ -12,4 +16,31 @@ div#contact div input, textarea, select {
 }
 .wrapper {
   max-width: calc(60em - (30px * 2));
+}
+
+.page-header {
+    background: url(../img/header.png) no-repeat left top;
+    box-shadow: 0px 1px 5px #aaa;
+}
+
+.page-header h1.project-name {
+    text-shadow: 1px 1px 2px #aaa;
+}
+
+.page-header {
+    padding: 5rem 5rem 9rem 17rem;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6,
+.site-nav .page-link {
+    color: #8fae24
+}
+
+a {
+    color: #7cacd0;
 }
