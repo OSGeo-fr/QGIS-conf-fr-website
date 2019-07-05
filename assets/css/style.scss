@@ -21,6 +21,7 @@ div#contact div input, textarea, select {
 .page-header {
     background: url(../img/header.png) no-repeat left top;
     box-shadow: 0px 1px 5px #aaa;
+    height: 340px;
 }
 
 .page-header h1.project-name {
@@ -43,4 +44,22 @@ div#contact div input, textarea, select {
 
 a {
     color: #7cacd0;
+}
+
+@media screen and (max-width: 570px) {
+    .page-header {
+        padding: 3rem 5rem 9rem 17rem;
+    }
+    .page-header h1.project-name {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .page-header {
+        padding: 14rem 2rem 3rem 2rem;
+    }
+    .page-header h1.project-name {
+        text-shadow: 1px 1px 2px #444;
+    }
 }
