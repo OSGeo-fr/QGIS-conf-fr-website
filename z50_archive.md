@@ -27,9 +27,7 @@ Parrains :
 
 [![3Liz](/images/3liz.png)](https://www.3liz.com/)
 
-[![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
 
-[![Surface Libre](/images/surfacelibre.png)](http://www.surfacelibre.fr)
 
 Soutiens : 
 
