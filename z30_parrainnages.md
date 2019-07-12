@@ -4,45 +4,6 @@ title: Parrainage
 tagline: Nous remercions nos généreux soutiens !
 ---
 
-# Nos mécènes
-
-[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
-
-Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
-
-[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
-
-Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux trois core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
-
-
-[![SOGEFI](/images/sogefi.png)](https://www.sogefi-sig.com/)
-
-SOGEFI est une société d’ingénierie géomatique spécialisée dans la valorisation des données géographiques. Expert dans la mise en œuvre de solutions cartographiques à partir de technologies OpenSource, SOGEFI attache une grande importance à la place de Qgis dans le cycle de la donnée : de sa création à sa diffusion. En effet, Sogefi promeut l'utilisation de Qgis auprès des techniciens de la donnée et propose des solutions adaptées et complémentaires pour une gestion simplifiée, un partage et une diffusion de cette donnée. 
-
-### Parrains
-
-[![Azimut](/images/azimut.png)](https://www.azimut.fr)
-
-Après vingt-cinq ans d'activité AZIMUT a acquis une expérience reconnue sur tous les services informatiques dans le domaine de l'information géographique. La taille de notre structure garantit à nos clients souplesse et réactivité.
-Notre capacité à développer des outils sur mesure s’intégrant  dans un processus de production/gestion existant est également appréciée de nos clients.
-Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSGeo-fr,  et en intégrant QGIS et PostgreSQL/PostGIS dans nos offres afin de proposer à nos clients les meilleures solutions adaptées à leur organisation.
-
-
-[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
-
-Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection.
-Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu'elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel "technicien supérieur en SIG" et certificat de qualification professionnelle "Géomaticien"), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source. 
-
-[![3Liz](/images/3liz.png)](https://www.3liz.com/)
-
-3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
-
-### Soutiens
-
-[![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
-
-[![Surface Libre](/images/surfacelibre.png)](http://www.surfacelibre.fr)
-
 ## Tarif et visibilité
 
 Pour toute information ou demande, utilisez le [**formulaire de contact**]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
@@ -50,7 +11,7 @@ Pour toute information ou demande, utilisez le [**formulaire de contact**]({{ si
 Cette année, trois niveaux sont possibles:
 
     
-### ~~Mécène - 800 €~~ 
+### Mécène - 800 €
 
 *Nous avons déjà trois mécènes! Les niveaux Soutien et Parrain sont encore disponibles*
 
