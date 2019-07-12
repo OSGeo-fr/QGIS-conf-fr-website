@@ -8,3 +8,8 @@ Pour construire le site localement :
 `bundle exec jekyll serve
 `
 - Autres méthodes : https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+
+- avec docker : 
+depuis le répertoire courant de ce projet :
+
+`docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3.8 jekyll serve`
