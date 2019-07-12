@@ -15,6 +15,7 @@ Mécènes:
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
+[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
 
 [![SOGEFI](/images/sogefi.png)](https://www.sogefi-sig.com/)
 
