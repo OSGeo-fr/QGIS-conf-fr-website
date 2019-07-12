@@ -15,7 +15,6 @@ Mécènes:
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
-[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
 [![SOGEFI](/images/sogefi.png)](https://www.sogefi-sig.com/)
 
