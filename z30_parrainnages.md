@@ -8,12 +8,10 @@ tagline: Nous remercions nos généreux soutiens !
 
 Pour toute information ou demande, utilisez le [**formulaire de contact**]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
-Cette année, trois niveaux sont possibles:
+Trois niveaux sont possibles:
 
     
 ### Mécène - 800 €
-
-*Nous avons déjà trois mécènes! Les niveaux Soutien et Parrain sont encore disponibles*
 
 <details><summary>▸ Détail du niveau mécène</summary><p>
 
