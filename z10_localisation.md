@@ -4,11 +4,8 @@ title: Localisation
 tagline: Où sont localisées les Rencontres ?
 ---
 
-Cette année, la conférence revient dans les locaux de SupAgro
+Cette année, la conférence revient dans les locaux de [Montpellier SupAgro](https://www.supagro.fr) pour les deux journées
 
-* Barcamp - Jeudi 13 décembre à [Montpellier SupAgro](https://www.supagro.fr)
-
-* Conférences - vendredi 14 décembre à l'[Montpellier SupAgro](https://www.supagro.fr)
 
 <!-- **[Cliquez ici pour voir une cartographie des localisations et les moyens de transport proposés]({{ site.url }}{{ site.baseurl }}/carte.html)** -->
 
