@@ -4,8 +4,8 @@ title : Rencontres des Utilisateurs Francophones de QGIS - édition 2019
 language: fr
 is_user_page: false
 is_project_page: false
-twitter:JourneesQgis
-  username: osgeofr
+twitter:
+  username: JourneesQgis
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
