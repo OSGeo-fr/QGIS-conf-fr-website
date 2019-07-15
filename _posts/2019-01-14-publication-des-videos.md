@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les vidéos des conférences sont en ligne"
+title: "Les vidéos des conférences 2018 sont en ligne"
 published: True
 ---
 

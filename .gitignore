@@ -1,1 +1,15 @@
-_site/*
+_site/
+vendor/
+_site/404.html
+_site/index.html
+_site/inscription.html
+_site/parrainage.html
+_site/presentation.html
+_site/z10_localisation.html
+_site/z20_programme.html
+_site/z25_inscription.html
+_site/z40_contact.html
+_site/z50_archive.html
+_site/z60_apropos.html
+_site/2018/11/05/appels_a_propositions.html
+_site/assets/css/style.css
