@@ -18,10 +18,20 @@ div#contact div input, textarea, select {
   max-width: calc(60em - (30px * 2));
 }
 
+
+.site-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: white;
+    box-shadow: 0px 1px 5px #aaa;
+}
+
 .page-header {
     background: url(../img/header.png) no-repeat left top;
     box-shadow: 0px 1px 5px #aaa;
     height: 340px;
+    margin-top: 55px;
 }
 
 .page-header h1.project-name {
