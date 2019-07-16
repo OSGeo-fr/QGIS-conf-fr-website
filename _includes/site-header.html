@@ -35,7 +35,9 @@
             {% if my_page.title %}
               {% if my_page.title contains "404" %}
               {% else %}
-                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {% if my_page.menu contains "header" %}
+                    <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                {% endif %}
               {% endif %}
             {% endif %}
           {% endfor %}

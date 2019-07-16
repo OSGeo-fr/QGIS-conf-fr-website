@@ -2,6 +2,7 @@
 title: Les rencontres
 layout: home
 tagline: Rencontrez, échangez, discutez autour de QGIS !
+menu: header
 ---
 
 Pour la septième année consécutive le séminaire utilisateurs QGIS se déroulera à Montpellier. Cet événement est organisé en partenariat entre [Montpellier SupAgro](https://www.montpellier-supagro.fr/) et l'[OSGeo-fr](https://www.osgeo.asso.fr/).
