@@ -2,6 +2,7 @@
 layout: page
 title: Parrainage
 tagline: Nous remercions nos généreux soutiens !
+menu: header
 ---
 
 ## Tarif et visibilité

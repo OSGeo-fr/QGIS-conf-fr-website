@@ -7,6 +7,10 @@ body {
     background: url(../img/bgBody.png) no-repeat left 400px;
 }
 
+a {
+    color: #7cacd0;
+}
+
 div#contact div {
   padding: 0 20px;
   width: 33.33%;
@@ -52,9 +56,10 @@ div#contact div input, textarea, select {
     color: #8fae24
 }
 
-a {
-    color: #7cacd0;
+.site-footer .site-nav {
+    line-height: 24px;
 }
+
 
 @media screen and (max-width: 570px) {
     .page-header {
@@ -71,5 +76,16 @@ a {
     }
     .page-header h1.project-name {
         text-shadow: 1px 1px 2px #444;
+    }
+}
+
+
+@media screen and (max-width: 38em) {
+    .site-nav-footer {
+        position: relative;
+        top: auto;
+    }
+    .site-nav-footer .menu-icon {
+        height: 34px;
     }
 }
