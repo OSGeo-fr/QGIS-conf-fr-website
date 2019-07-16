@@ -3,6 +3,7 @@ layout: page
 title: Archives
 published: True
 tagline: Voir les anciennes présentations
+menu: footer
 ---
 
 Les présentations des éditions précédentes sont disponibles dans le [dépôt](https://github.com/OSGeo-fr/QGIS-user-fr).

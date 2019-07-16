@@ -2,6 +2,7 @@
 layout: page
 title: Localisation
 tagline: Où sont localisées les Rencontres ?
+menu: header
 ---
 
 Cette année, la conférence revient dans les locaux de [Montpellier SupAgro](https://www.supagro.fr) pour les deux journées

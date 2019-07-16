@@ -2,6 +2,7 @@
 layout: page
 title: À propos
 tagline: Qui sont les organisateurs ?
+menu: footer
 ---
 
 # Equipe d'organisation (ordre alphabétique courtois)
