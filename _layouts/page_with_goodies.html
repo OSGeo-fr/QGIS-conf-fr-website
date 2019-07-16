@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article>
+
+  <div>
+    {{ content }}
+  </div>
+
+  <div id="shop">Spreadshop loading...</div>
+  <script>
+      var spread_shop_config = {
+        prefix: 'https://shop.spreadshirt.net',
+        shopName: 'qgis',
+        baseId: 'shop',
+      };
+  </script>
+  <script type="text/javascript" src="https://shop.spreadshirt.net/js/shopclient.nocache.js"></script>
+
+</article>
