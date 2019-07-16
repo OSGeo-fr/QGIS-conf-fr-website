@@ -1,7 +1,8 @@
 ---
 layout: page_with_goodies
-title: Goodies
+title: Soutenir QGIS
 tagline: Comment soutenir QGIS?
+menu: header
 ---
 
 QGIS vit grâce à vos [contributions](https://qgis.org/fr/site/getinvolved/index.html) qui peuvent prendre différentes formes: 
@@ -16,7 +17,6 @@ QGIS vit grâce à vos [contributions](https://qgis.org/fr/site/getinvolved/inde
   - Faire un [don](https://qgis.org/fr/site/getinvolved/donations.html)
   - [Soutenir l'OSGeo-FR](https://www.osgeo.asso.fr/contact) en adhérant ou en donnant
 
+ou ...
 
-..
-
--  **Acheter des Goodies !**
+### **Acheter des goodies et venez avec à la conférence  :)**
