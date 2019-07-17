@@ -1,5 +1,5 @@
 ---
-layout: page_with_goodies
+layout: page
 title: Soutenir QGIS
 tagline: Comment soutenir QGIS?
 menu: header
@@ -19,4 +19,4 @@ QGIS vit grâce à vos [contributions](https://qgis.org/fr/site/getinvolved/inde
 
 ou ...
 
-### **Acheter des goodies et venez avec à la conférence  :)**
+# **[>> Acheter des goodies <<]({{ site.url }}{{ site.baseurl }}/z55_qgis_shop.html)** et venez avec à la conférence  :)
