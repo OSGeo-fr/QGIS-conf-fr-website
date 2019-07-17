@@ -1,3 +1,4 @@
-layout: default
+layout: page_with_goodies
 title: Goodies
-permalink: /page_with_goodies/
+tagline: Venez aux rencontres avec votre tee-shirt QGIS !
+menu: footer
