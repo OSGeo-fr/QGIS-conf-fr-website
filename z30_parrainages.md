@@ -18,7 +18,7 @@ Trois niveaux sont possibles:
 
 <ul style="padding-left:40px">
     <li>Montant : 800 € HT</li>
-    <li>Limité à 3 mécènes</li>
+    <li>Limité à 4 mécènes</li>
     <ul style="padding-left:40px">
         <li> 3 inscriptions incluses</li>
         <li>Totem dans la salle principale (à fournir)</li>
@@ -27,7 +27,7 @@ Trois niveaux sont possibles:
         <li>Logo, lien et courte présentation sur le programme</li>
         <li>Citation dans les communiqués de presse</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
-        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2018"</li>
+        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2019"</li>
     </ul>
 </ul>
 </p></details>
@@ -46,7 +46,7 @@ Trois niveaux sont possibles:
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo sur le programme</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
-        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS PARRAIN 2018"</li>
+        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS PARRAIN 2019"</li>
     </ul>
 </ul>
 </p></details>
