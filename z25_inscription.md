@@ -6,4 +6,5 @@ menu: header
 ---
 
 
-Les inscriptions seront possibles courant septembre.
+Les inscriptions sont ouvertes !
+[**Accéder à la boutique AgroTIC**](https://agrotic.org/boutique/categorie-produit/seminaire-qgis-2019/)
