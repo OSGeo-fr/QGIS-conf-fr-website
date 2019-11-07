@@ -48,6 +48,8 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 
 Cette année, le thème choisi est **QGIS une plateforme multi-logiciels: couteau suisse de la géomatique?**
 
-<span style="font-size:larger;">**L'[appel à présentation](/presentation.html) est ouvert jusqu'au Mercredi 6 Novembre à minuit.**</span>
+~~<span style="font-size:larger;">**L'[appel à présentation](/presentation.html) est ouvert jusqu'au Mercredi 6 Novembre à minuit.**</span>~~
+
+L'appel à présentation est désormais clotûré, merci à tous pour vos propositions!
 
 
