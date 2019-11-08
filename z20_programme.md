@@ -42,7 +42,7 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 
 ## Vendredi 13 décembre - Conférence à SupAgro
 
-**Les horaires sont 9h - 16h40**
+**Les horaires sont 9h - 16h45**
 
 ### Programme
 
