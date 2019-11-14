@@ -48,8 +48,27 @@ Nous vous proposons de se retrouver le soir pour boire un verre ensemble et disc
 
 Cette année, le thème choisi est **QGIS une plateforme multi-logiciels: couteau suisse de la géomatique?**
 
-~~<span style="font-size:larger;">**L'[appel à présentation](/presentation.html) est ouvert jusqu'au Mercredi 6 Novembre à minuit.**</span>~~
+* 9h Accueil
 
-L'appel à présentation est désormais clotûré, merci à tous pour vos propositions!
+* 9h30 Introduction de la journée - Harrissou Sant-Anna (Président du groupe utilisateur de QGIS francophone)
+* 10h  Stratégies de collecte de données sur le terrain en utilisant QField et QGIS - Marco Bernasocchi (Opengis)
+* 10h30 "Qgis le conquérant" en Charente - Céline Pornin (Charente Eaux)
+
+* 11h Pause
+* 11h15 Plus besoin de plugins, seulement des algorithmes - René-Luc D'Hont (3Liz)
+* 11h45 Présentation des étudiants  SupAgro
+
+* 12h30 Pause repas 
+
+* 14h Boostez votre productivité avec QGIS3 ! - Rémi Desgranges (Camptocamp)
+* 14h30 QGIS et le financement mutualisé - Hugo Mercier (Oslandia)
+
+* 15h Pause
+
+* 15h15 Retour d'expériences de métropoles - Hervé Christol (Clermont Auvrgne Métropole) et Anh-Tam Vo (Grenoble Alpes Métropole)
+* 15h45 Table-ronde
+
+* 16h45 Clôture
+
 
 
