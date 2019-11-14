@@ -17,7 +17,14 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 # Comité de programme (ordre alphabétique courtois)
 
-N'hésitez pas à vous faire connaître si vous souhaitez faire partie du comité de sélection des présentations. 
+* Marjorie Fangain (Keolis)
+* Julie Pierson (CNRS)
+* Jean-Marie Arsac (Azimut)
+* Paul Blottière (Hytech-imaging)
+* Arnaud Koch (Surface Libre)
+* Bertrand Parpoil (Oslandia)
+* Leo Pichon (SupAgro)
+* Harrissou Sant-Anna (CAUE Maine et Loire)
 
 **Critères de sélection :**
 
