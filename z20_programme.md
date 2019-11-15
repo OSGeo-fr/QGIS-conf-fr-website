@@ -65,7 +65,7 @@ Cette année, le thème choisi est **QGIS une plateforme multi-logiciels: coutea
 
 * 15h Pause
 
-* 15h15 Retour d'expériences de métropoles - Hervé Christol (Clermont Auvrgne Métropole) et Anh-Tam Vo (Grenoble Alpes Métropole)
+* 15h15 Retour d'expériences de métropoles - Hervé Christol (Clermont Auvergne Métropole) et Anh-Tam Vo (Grenoble Alpes Métropole)
 * 15h45 Table-ronde
 
 * 16h45 Clôture
