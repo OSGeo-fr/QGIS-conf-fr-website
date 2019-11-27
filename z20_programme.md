@@ -52,7 +52,7 @@ Cette année, le thème choisi est **QGIS une plateforme multi-logiciels: coutea
 
 * 9h30 Introduction de la journée - Harrissou Sant-Anna (Président du groupe utilisateur de QGIS francophone)
 * 10h  Stratégies de collecte de données sur le terrain en utilisant QField et QGIS - Marco Bernasocchi (Opengis)
-* 10h30 "Qgis le conquérant" en Charente - Céline Pornin (Charente Eaux)
+* 10h30 "Qgis le conquérant" en Charente - Céline Pornin et Yann Jeandenans (Charente Eaux)
 
 * 11h Pause
 * 11h15 Plus besoin de plugins, seulement des algorithmes - René-Luc D'Hont (3Liz)
