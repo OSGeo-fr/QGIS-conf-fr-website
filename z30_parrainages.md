@@ -5,12 +5,6 @@ tagline: Nous remercions nos généreux soutiens !
 menu: header
 ---
 
-## Tarif et visibilité
-
-Pour toute information ou demande, utilisez le [**formulaire de contact**]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
-
-Trois niveaux sont possibles:
-
     
 ### Mécène - 800 €
 
@@ -150,3 +144,9 @@ Surface Libre accompagne les maitres d’ouvrage et les bureaux d'études dans l
 
 [![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
 
+
+## Tarif et visibilité
+
+Pour toute information ou demande, utilisez le [**formulaire de contact**]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
+
+Trois niveaux sont possibles:
