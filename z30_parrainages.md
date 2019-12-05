@@ -144,3 +144,9 @@ Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSG
 
 Surface Libre accompagne les maitres d’ouvrage et les bureaux d'études dans leurs missions dans les risques naturels, l’environnement, et l’eau en général ; en appui technique et méthodologique, dans la réalisation d’études complètes ou via son offre de formations personnalisées. 
 
+# Soutiens
+
+---
+
+[![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
+
