@@ -144,20 +144,3 @@ Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSG
 
 Surface Libre accompagne les maitres d’ouvrage et les bureaux d'études dans leurs missions dans les risques naturels, l’environnement, et l’eau en général ; en appui technique et méthodologique, dans la réalisation d’études complètes ou via son offre de formations personnalisées. 
 
-# Soutiens
-
----
-
-[![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
-
-L’objectif de jhemmi.eu : valoriser vos données. Par son accompagnement, il vous engage vers une agriculture de précision utile et concrète. 
-
-Toutes les offres de jhemmi.eu sont le fruit d’une triple expérience:
-
-  * 18 ans sur le terrain en tant que technicien viticole,
-
-  * 20 ans de traitements et d'analyses de données dans les domaines spatial et géographique,
-
-  * 10 ans à tester des solutions open source ou opendata et à maîtriser leurs imbrications.
-
-De la télédétection (Ma Sentinelle) à l’organisation de collecte, en utilisant des pratiques modernes pour aller chercher votre échantillon (itinéraire d'accès, parcours juste et reproductible pour chaque parcelle), jhemmi.eu ouvre de nouveaux points de vue sur vos cultures
