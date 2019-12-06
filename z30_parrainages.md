@@ -43,12 +43,16 @@ Après vingt-cinq ans d'activité AZIMUT a acquis une expérience reconnue sur t
 Notre capacité à développer des outils sur mesure s’intégrant  dans un processus de production/gestion existant est également appréciée de nos clients.
 Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSGeo-fr,  et en intégrant QGIS et PostgreSQL/PostGIS dans nos offres afin de proposer à nos clients les meilleures solutions adaptées à leur organisation.
 
-
 ---
 
 [![Surface Libre](/images/surfacelibre.png)](http://www.surfacelibre.fr)
 
 Surface Libre accompagne les maitres d’ouvrage et les bureaux d'études dans leurs missions dans les risques naturels, l’environnement, et l’eau en général ; en appui technique et méthodologique, dans la réalisation d’études complètes ou via son offre de formations personnalisées. 
+
+---
+
+[![CEN LR](/images/cen.png)](https://www.cenlr.org/)
+
 
 # Soutiens
 
