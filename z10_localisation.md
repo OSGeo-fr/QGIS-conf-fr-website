@@ -16,6 +16,14 @@ Cette année, la conférence revient dans les locaux de [Montpellier SupAgro](ht
 </div>
 {% endraw %}
 
+**Co-voiturons!** 
+
+Le contexte 2019 est particulier pour les trajets en train. Nous avons mis en place une plateforme dédiée au covoiturage sur le site mobicoop.
+
+C'est par [ici - https://frama.link/covoiturage_qgis](https://www.mobicoop.fr/evenements/covoiturages/journees-qgis-utilisateur-2019-12-13-decembre-montpellier) 
+
+**N'hésitez pas à déclarer vos offres et demandes!**
+
 ## Comment venir à MontpellierSupAgro ?
 
 **Adresse :** 2 Place Pierre Viala, 34060 Montpellier
