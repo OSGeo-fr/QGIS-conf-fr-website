@@ -53,6 +53,10 @@ Surface Libre accompagne les maitres d’ouvrage et les bureaux d'études dans l
 
 [![CEN LR](/images/cen.png)](https://www.cenlr.org/)
 
+Depuis près de 40 ans, les Conservatoires d’espaces naturels contribuent à préserver le patrimoine naturel et paysager par leur approche concertée et leur ancrage territorial.
+Près de 3 500 sites naturels couvrant plus de 170 000 hectares sont protégés par la maîtrise foncière et d’usage. Leurs interventions s’articulent autour de cinq axes : la connaissance, la protection, la gestion, la valorisation et l’accompagnement des politiques publiques.
+La Fédération des Conservatoires d’espaces naturels a pour mission de favoriser les échanges entre ses membres afin de renforcer leurs actions sur le terrain. Les 29 Conservatoires sont adhérents.
+Elle anime également des programmes comme le pôle relais tourbières, le plan national d’actions Chiroptères, ou des actions sur les fleuves Loire et Rhône.
 
 # Soutiens
 
