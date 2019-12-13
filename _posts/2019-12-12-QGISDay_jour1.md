@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Rencontres QGIS, 1ère journée"
+published: true
+---
+
 # Journées QGIS utilisateur - 1ère journée Barcamp
 
 
