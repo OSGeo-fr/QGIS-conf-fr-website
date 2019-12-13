@@ -5,7 +5,7 @@ published: true
 ---
 
 
-![](../images/qgis_day2019_1.jpg)
+![](/images/qgis_day2019_1.jpg)
 *Accueil de la journée*
 
 Ce premier jour a été l'occasion de réaliser 3 sessions d'ateliers, afin que chacun puisse faire un retour sur sa pratique de QGIS et de faire le point sur l'actualité de QGIS. Malgré les perturbations dans les transports, la journée a tout de même réuni une cinquantaine de personnes !
@@ -20,7 +20,7 @@ Voici le résumé des sujets qui ont été abordés lors des différentes sessio
 - appli pour matériel mobile
 - point qgis serveur
 
-![](../images/qgis_day2019_2.jpg)
+![](/images/qgis_day2019_2.jpg)
 *Restitution pour la première session d'atelier*
 
 ### 2ème session d'atelier :
@@ -30,7 +30,7 @@ Voici le résumé des sujets qui ont été abordés lors des différentes sessio
 - comment contribuer quand je suis pas dev
 - mobilité, comment faire le lien à QGIS ?
 
-![](../images/qgis_day2019_3.jpg)
+![](/images/qgis_day2019_3.jpg)
 *Restitution pour la deuxième session d'atelier*
 
 ### 3ème session d'atelier :
