@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Rencontres QGIS, 1ère journée"
+title: "Journées QGIS utilisateur - 1ère journée Barcamp"
 published: true
 ---
-
-# Journées QGIS utilisateur - 1ère journée Barcamp
 
 
 ![](../images/qgis_day2019_1.jpg)
