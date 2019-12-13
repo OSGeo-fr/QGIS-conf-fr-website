@@ -39,5 +39,5 @@ Voici le résumé des sujets qui ont été abordés lors des différentes sessio
 - quelle offre de support pour QGIS ?
 - comment contribuer lorsque je suis "un peu" dev
 
-![](../images/qgis_day2019_4.jpg)
+![](/images/qgis_day2019_4.jpg)
 *Restitution pour la troisième session d'atelier*
