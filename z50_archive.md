@@ -38,6 +38,27 @@ Soutiens :
 
 Un grand merci à eux.
 
+Le thème choisi était **QGIS une plateforme multi-logiciels: couteau suisse de la géomatique?**
+
+* 9h Accueil
+
+#### Matin - 9h30 à 12h30
+
+* **Introduction de la journée** - [Harrissou Sant-Anna](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/02_qgis-fr-user.pdf) (Président du groupe utilisateur de QGIS francophone), [Marco Bernasocchi]() (Chairman QGIS.ORG) et [Régis Haubourg](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/01_presentation_osgeo-fr_haubourg.odp.pdf) (Président OSGeo-fr) 
+* **[Stratégies de collecte de données sur le terrain en utilisant QField et QGIS]** - Marco Bernasocchi (Opengis)
+* **[Qgis le conquérant" en Charente](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/04_Presentation_Charente_Eaux%20_Qgis.pdf)** - Céline Pornin (Charente Eaux)
+* **[Plus besoin de plugins, seulement des algorithmes](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/05_qgis_fr_user_Plugins_Processings.pdf)** - René-Luc D'Hont (3Liz)
+* **[Présentation des étudiants  SupAgro](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/06_agrotic_presentation_seminaire.pdf)**
+
+
+#### Après-midi - 14h00 à 16h40
+
+* **[Boostez votre productivité avec QGIS3 !](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/07_Conference_Utilisateur_Qgis_Montpellier.pdf)** - Rémi Desgrange (Camptocamp)
+* **[QGIS et le financement mutualisé](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/08_qgis_financement_mutualis%C3%A9.pdf)** - Hugo Mercier (Oslandia)
+* **[Retour d'expériences de métropoles](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/09_PresentationQGISDaysMetropolesGrenobleEtClermont.pdf)** - Hervé Christol (Clermont Auvergne Métropole) et Anh-Tam Vo (Grenoble Alpes Métropole)
+* **Table-ronde**
+
+
 
 # Programme 2018:
 
