@@ -9,61 +9,13 @@ menu: header
 
 ---
 
-[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
-
-Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection. Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu’elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel “technicien supérieur en SIG” et certificat de qualification professionnelle “Géomaticien”), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source.
-
----
-
-[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
-
-Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec trois core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
-
----
-
-[![3Liz](/images/3liz.png)](https://www.3liz.com/)
-
-3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
-
----
-
-[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
-
-Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
-
-
-
 # Parrains
 
 ---
 
-[![Azimut](/images/azimut.png)](https://www.azimut.fr)
-
-Après vingt-cinq ans d'activité AZIMUT a acquis une expérience reconnue sur tous les services informatiques dans le domaine de l'information géographique. La taille de notre structure garantit à nos clients souplesse et réactivité.
-Notre capacité à développer des outils sur mesure s’intégrant  dans un processus de production/gestion existant est également appréciée de nos clients.
-Depuis 2014, nous investissons dans les logiciels Open Source en soutenant l'OSGeo-fr,  et en intégrant QGIS et PostgreSQL/PostGIS dans nos offres afin de proposer à nos clients les meilleures solutions adaptées à leur organisation.
-
----
-
-[![Surface Libre](/images/surfacelibre.png)](http://www.surfacelibre.fr)
-
-Surface Libre accompagne les maitres d’ouvrage et les bureaux d'études dans leurs missions dans les risques naturels, l’environnement, et l’eau en général ; en appui technique et méthodologique, dans la réalisation d’études complètes ou via son offre de formations personnalisées. 
-
----
-
-[![CEN LR](/images/cen.png)](https://www.cenlr.org/)
-
-Depuis près de 40 ans, les Conservatoires d’espaces naturels contribuent à préserver le patrimoine naturel et paysager par leur approche concertée et leur ancrage territorial.
-Près de 3 500 sites naturels couvrant plus de 170 000 hectares sont protégés par la maîtrise foncière et d’usage. Leurs interventions s’articulent autour de cinq axes : la connaissance, la protection, la gestion, la valorisation et l’accompagnement des politiques publiques.
-La Fédération des Conservatoires d’espaces naturels a pour mission de favoriser les échanges entre ses membres afin de renforcer leurs actions sur le terrain. Les 29 Conservatoires sont adhérents.
-Elle anime également des programmes comme le pôle relais tourbières, le plan national d’actions Chiroptères, ou des actions sur les fleuves Loire et Rhône.
-
 # Soutiens
 
 ---
-
-[![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
-
 
 
 ## Tarif et visibilité
@@ -73,7 +25,7 @@ Pour toute information ou demande, utilisez le [**formulaire de contact**]({{ si
 Trois niveaux sont possibles:
 
     
-### ~~Mécène - 800 €~~ - complet
+### Mécène - 800 €
 
 <details><summary>▸ Détail du niveau mécène</summary><p>
 
@@ -88,7 +40,7 @@ Trois niveaux sont possibles:
         <li>Logo, lien et courte présentation sur le programme</li>
         <li>Citation dans les communiqués de presse</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
-        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2019"</li>
+        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2020"</li>
     </ul>
 </ul>
 </p></details>
@@ -107,7 +59,7 @@ Trois niveaux sont possibles:
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo sur le programme</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
-        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS PARRAIN 2019"</li>
+        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS PARRAIN 2020"</li>
     </ul>
 </ul>
 </p></details>
@@ -128,11 +80,9 @@ Trois niveaux sont possibles:
 
 </p></details>
 
-### Soirée sponsorisée 
+### Autre soutien
 
-Si vous souhaitez sponsoriser la soirée du 1er jour dans un lieu en centre ville, nous pouvons vous faire une offre spécifique.
-
-<details><summary>▸ Ou vous pouvez aussi soutenir directement QGIS.org!</summary><p>
+<details><summary>▸ Vous pouvez aussi soutenir directement QGIS.org!</summary><p>
 
 <p><a href="https://www.qgis.org">QGIS.org</a> est l’association internationale qui gère les fonds issus des dons et sponsoring directs autour de QGIS. L’OSGEO-fr héberge le <a href="http://osgeo.asso.fr/content/project/qgis-user-fr/">groupe utilisateur QGIS Fr</a> qui est affilié à QGIS.org.</p>
 
