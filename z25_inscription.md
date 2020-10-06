@@ -6,4 +6,4 @@ menu: header
 ---
 
 
-Les inscriptions sont ouvertes !
+Les inscriptions ouvriront bientôt...
