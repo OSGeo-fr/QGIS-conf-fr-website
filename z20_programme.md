@@ -6,7 +6,7 @@ menu: header
 ---
 
 
-## Mardi 15 décembre - [Atelier / Workshop](https://fr.wikipedia.org/wiki/BarCamp) en distanciel
+## Mardi 15 décembre - [Ateliers / Workshops] en distanciel
 
 **Les horaires sont 9h - 16h** (l'heure de fin pourra être repoussée si nécessaire).
 
