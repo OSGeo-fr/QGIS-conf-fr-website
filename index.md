@@ -5,14 +5,14 @@ tagline: Rencontrez, échangez, discutez autour de QGIS !
 menu: header
 ---
 
-Pour la septième année consécutive le séminaire utilisateurs QGIS se déroulera à Montpellier. Cet événement est organisé en partenariat entre [Montpellier SupAgro](https://www.montpellier-supagro.fr/) et l'[OSGeo-fr](https://www.osgeo.asso.fr/).
+Après 7 ans à Montpellier, le séminaire utilisateurs QGIS se déroulera en visio distante, sous des airs auvergnats. Cet événement est organisé en partenariat entre le [CRAIG](https://www.craig.fr/) (Centre Régional Auvergne-rhône-alpes de l'Information Géographique) et l'[OSGeo-fr](https://www.osgeo.asso.fr/).
 
 L’événement se déroulera sur 2 jours :
 
-* **Jeudi 12 décembre 2019** Journée de barcamp où l’objectif est que les utilisateurs échangent et travaillent en petits groupes sur des problématiques concrètes.
+* **Mardi 15 décembre 2020** Journée d'atelier thématique et technique.
 
-* **Vendredi 13 décembre 2019** Journée de conférence sur le même format que les éditions précédentes.
+* **Mercredi 16 décembre 2020** Journée de conférence sur le même format que les éditions précédentes.
 
-Les inscriptions ouvriront courant septembre, de même que les appels à soutien et présentations. 
+Les inscriptions ouvriront courant octobre, de même que les appels à soutien et présentations. 
 
 Suivez les actualités sur <https://twitter.com/JourneesQgis> !
