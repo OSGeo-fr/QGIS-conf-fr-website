@@ -15,7 +15,7 @@ QGIS vit grâce à vos [contributions](https://qgis.org/fr/site/getinvolved/inde
 - Sponsorisation & Dons
   - Sponsoriser [QGIS.org](https://qgis.org/fr/site/getinvolved/governance/sustaining_members/index.html) directement
   - Faire un [don](https://qgis.org/fr/site/getinvolved/donations.html)
-  - [Soutenir l'OSGeo-FR](http://www.osgeo.asso.fr) en adhérant ou en donnant
+  - [Soutenir l'OSGeo-FR](https://www.osgeo.asso.fr) en adhérant ou en donnant
 
 ou ...
 
