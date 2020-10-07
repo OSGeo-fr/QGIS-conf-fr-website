@@ -22,19 +22,18 @@ menu: header
 
 Pour toute information ou demande, utilisez le [**formulaire de contact**]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
-Trois niveaux sont possibles:
+Cette année deux niveaux sont possibles:
 
     
-### Mécène - 800 €
+### Mécène - 500 €
 
 <details><summary>▸ Détail du niveau mécène</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 800 € HT</li>
-    <li>Limité à 4 mécènes</li>
+    <li>Montant : 500 € HT</li>
+    <li>Limité à 5 mécènes</li>
     <ul style="padding-left:40px">
-        <li> 3 inscriptions incluses</li>
-        <li>Totem dans la salle principale (à fournir)</li>
+        <li>2 inscriptions incluses aux ateliers</li>
         <li>Logo et citation pendant l'événement</li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
@@ -46,24 +45,6 @@ Trois niveaux sont possibles:
 </p></details>
 
 
-### Parrain - 500 €
-
-<details><summary>▸ Détail du niveau Parrain</summary><p>
-
-<ul style="padding-left:40px">
-    <li>Montant : 500 € HT</li>
-    <li>Pas de limite</li>
-    <ul style="padding-left:40px">
-        <li>2 inscriptions incluses</li>
-        <li>Logo et citation pendant l'événement</li>
-        <li>Logo, lien et présentation de l'organisme sur le site web</li>
-        <li>Logo sur le programme</li>
-        <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
-        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS PARRAIN 2020"</li>
-    </ul>
-</ul>
-</p></details>
-
 ### Soutien - 200 €
 
 <details><summary>▸ Détail du niveau Soutien</summary><p>
@@ -72,7 +53,7 @@ Trois niveaux sont possibles:
     <li>Montant : 200 € HT</li>
     <li>Pas de limite</li>
     <ul style="padding-left:40px">
-        <li>1 inscriptions incluses</li>
+        <li>1 inscription incluse à un atelier</li>
         <li>Logo et lien sur le site web</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
     </ul>
