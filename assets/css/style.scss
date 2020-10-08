@@ -60,6 +60,17 @@ div#contact div input, textarea, select {
     line-height: 24px;
 }
 
+.column-container{
+  display: flex;
+}
+.column-one{
+width: 80%;
+}
+.column-two{
+  width: 20%;
+  margin-left: 1em;
+  min-height: 1OOOpx;
+}
 
 @media screen and (max-width: 570px) {
     .page-header {
@@ -67,6 +78,18 @@ div#contact div input, textarea, select {
     }
     .page-header h1.project-name {
         font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 42em) {
+    .column-container{
+      display: block;
+    }
+    .column-one{
+    }
+    .column-two{
+    width: 100%;
+    min-height: 1000px;
     }
 }
 
