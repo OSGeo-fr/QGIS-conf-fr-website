@@ -16,5 +16,3 @@ L’événement se déroulera sur 2 jours :
 Les inscriptions ouvriront courant octobre, de même que les appels à soutien et présentations. 
 
 Suivez les actualités sur <https://twitter.com/JourneesQgis> !
-
-<div style="margin: 0 auto; width: 60%;"><a class="twitter-timeline tw-align-center" data-height="400" data-width="500" href="https://twitter.com/JourneesQgis?ref_src=twsrc%5Etfw">Tweets by JourneesQgis</a></div><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
