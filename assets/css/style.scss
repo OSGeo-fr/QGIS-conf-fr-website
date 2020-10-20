@@ -40,6 +40,7 @@ div#contact div input, textarea, select {
 
 .page-header h1.project-name {
     text-shadow: 1px 1px 2px #aaa;
+    padding : 0px 75px 0px 75px
 }
 
 .page-header {
@@ -72,12 +73,54 @@ width: 80%;
   min-height: 1OOOpx;
 }
 
-@media screen and (max-width: 570px) {
+@media screen and (max-width: 1150px) {
     .page-header {
         padding: 3rem 5rem 9rem 17rem;
     }
     .page-header h1.project-name {
-        font-size: 20px;
+        font-size: 2.5rem;
+        padding : 0px 75px 0px 75px
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .page-header {
+        padding: 3rem 5rem 9rem 17rem;
+    }
+    .page-header h1.project-name {
+        font-size: 1.7rem;
+        padding : 0px 75px 0px 75px
+    }
+}
+
+@media screen and (max-width: 780) {
+    .page-header {
+        padding: 3rem 5rem 9rem 17rem;
+    }
+    .page-header h1.project-name {
+        font-size: 1.7rem;
+        padding : 0px 75px 0px 75px
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .page-header {
+        padding: 18rem 2rem 3rem 2rem;
+    }
+    .page-header h1.project-name {
+        font-size: 0.9rem;
+        text-shadow: 1px 1px 2px #444;
+        padding : 0px 0px 0px 0px
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .page-header {
+        padding: 18rem 2rem 3rem 2rem;
+    }
+    .page-header h1.project-name {
+        text-shadow: 1px 1px 2px #444;
+        padding : 0px 0px 0px 0px
     }
 }
 
@@ -95,10 +138,12 @@ width: 80%;
 
 @media screen and (max-width: 500px) {
     .page-header {
-        padding: 14rem 2rem 3rem 2rem;
+        padding: 18rem 2rem 3rem 2rem;
     }
     .page-header h1.project-name {
+        font-size: 0.8rem;
         text-shadow: 1px 1px 2px #444;
+        padding : 0px 0px 0px 0px
     }
 }
 
