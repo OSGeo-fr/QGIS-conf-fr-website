@@ -5,9 +5,40 @@ tagline: Nous remercions nos généreux soutiens !
 menu: header
 ---
 
+Les recettes seront cette année dédiées à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
+
+
+
+# Nos partenaires
+
+---
+
+Notre partenaire, le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG) n'aura pas l'occasion de nous apporter son aide logistique cette année. Il a décidé de nous apporter en contre-partie son soutien financier et de sécuriser l'évènement. Merci à eux !
+
+[![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
+
+
+_Le Centre Régional Auvergne-Rhône-Alpes de l'Information Géographique (CRAIG) est un groupement d'intérêt public créé en 2011 dans le cadre du Contrat de projets Etat-Région, afin de mettre en place un Centre de ressources dans le domaine de l'information géographique. Ce projet s'inscrit dans le cadre d'une démarche globale de mutualisation des coûts et des moyens mais aussi de cohérence régionale en matière de production et d'usage de données géographiques._
+
+_[https://www.craig.fr/](https://www.craig.fr/)_
+
+---
+ 
+Le passage de l'évènement en distanciel nécessite des outils fiables et robustes. Pour autant, l'OSGeo-FR n'oublie pas ses valeurs de promotion du logiciel libre et d'une approche éthique du numérique. Nous avons recherché un partenaire qui porte ces mêmes valeurs que nous pour nous appuyer pour les outils de visio-conférence et diffusion vidéo, hébergés en France évidemment. La SCOP Empreinte digitale nous a proposé son infrastructure et son savoir faire autour des l'informatique libre. Bravo à eux et merci !
+
+_Empreinte Digitale est une entreprise coopérative basée à Angers. Elle développe des solutions numériques sur-mesure à partir de technologies libres et open source._  
+_Conscients des enjeux sociaux et environnementaux, nous nous engageons pour le numérique responsable dans toutes nos activités (sites et applications, hébergement et accompagnement devops, solutions archivistiques, accessibilité numérique). À l’écoute de nos clients, nous cherchons toujours à nouer une relation partenariale et de confiance sur le long terme._
+
+[![Empreinte digitale](/images/logo-empreinte-digitale.svg)](https://empreintedigitale.fr)
+
+---
+
 # Nos mécènes
 
 ---
+
+
+
 
 # Parrains
 
