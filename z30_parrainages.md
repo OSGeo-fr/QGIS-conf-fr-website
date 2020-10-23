@@ -24,14 +24,19 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 ---
  
+
 Le passage de l'évènement en distanciel nécessite des outils fiables et robustes. Pour autant, l'OSGeo-FR n'oublie pas ses valeurs de promotion du logiciel libre et d'une approche éthique du numérique. Nous avons recherché un partenaire qui porte les mêmes valeurs que nous pour nous appuyer pour les outils de visio-conférence et diffusion vidéo, hébergés en France évidemment. La SCOP Empreinte digitale nous a proposé son infrastructure et son savoir faire autour des l'informatique libre. Bravo à eux et merci !
+
+[![Empreinte digitale](/images/logo-empreinte-digitale.svg)](https://empreintedigitale.fr)
 
 _Empreinte Digitale est une entreprise coopérative basée à Angers. Elle développe des solutions numériques sur-mesure à partir de technologies libres et open source._  
 _Conscients des enjeux sociaux et environnementaux, nous nous engageons pour le numérique responsable dans toutes nos activités (sites et applications, hébergement et accompagnement devops, solutions archivistiques, accessibilité numérique). À l’écoute de nos clients, nous cherchons toujours à nouer une relation partenariale et de confiance sur le long terme._
 
-[![Empreinte digitale](/images/logo-empreinte-digitale.svg)](https://empreintedigitale.fr)
+_[https://empreintedigitale.fr](https://empreintedigitale.fr)_
+
 
 ---
+
 
 # Nos mécènes
 
