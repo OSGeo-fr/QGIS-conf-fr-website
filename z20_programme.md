@@ -14,7 +14,7 @@ menu: header
 
 ### Programme
 
-L'appel à proposition [est ouvert](https://framaforms.org/proposition-de-presentation-qgis-fr-16-decembre-2020-1605001211) jusqu'au **dimanche 29 Novembre **</span>
+<span>L'appel à proposition [est ouvert](https://framaforms.org/proposition-de-presentation-qgis-fr-16-decembre-2020-1605001211) jusqu'au **dimanche 29 Novembre **</span>
 
 Cette année, pas de thème particulier, le comité de programme retiendra les propositions et vous tiendra informé rapidement.
 
