@@ -14,7 +14,16 @@ menu: header
 
 ### Programme
 
-À venir
+L'appel à proposition [est ouvert](https://framaforms.org/proposition-de-presentation-qgis-fr-16-decembre-2020-1605001211) jusqu'au **dimanche 29 Novembre **</span>
+
+Cette année, pas de thème particulier, le comité de programme retiendra les propositions et vous tiendra informé rapidement.
+
+Nous recommandons fortement d'enregistrer votre présentation à l'avance en format vidéo, ce qui permettra d'éviter les soucis de connexion de dernière minute.
+
+Cela vous permettra également d’interagir avec le public via le canal de messagerie.
+
+Les présentations dureront 15 minutes et seront suivie d'un créneau de questions/échanges de 5 minutes. 
+
 
 ## Mercredi 16 décembre - Journée conférence en distanciel
 
