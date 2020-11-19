@@ -56,7 +56,8 @@ _[https://empreintedigitale.fr](https://empreintedigitale.fr)_
 
 ## Tarif et visibilité
 
-Pour toute information ou demande, utilisez le [**formulaire de contact**]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
+Pour toute information ou demande, utilisez l'adresse [contact-qgis-conf-2020@osgeo.asso.fr](mailto:contact-qgis-conf-2020@osgeo.asso.fr?subject=[SoutienQGISFR_2020])
+ <!-- le [**formulaire de contact**]({{ site.url }}{{ site.baseurl }}/z40_contact.html). -->
 
 Cette année deux niveaux sont possibles:
 
@@ -125,3 +126,4 @@ Cette année deux niveaux sont possibles:
 
 </p></details>
 
+GitHub
