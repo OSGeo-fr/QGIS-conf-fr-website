@@ -12,7 +12,9 @@ menu: header
 
 **Pas de malentendu, on ne code pas :)**
 
-### Programme
+
+
+## Mercredi 16 décembre - Journée conférence en distanciel
 
 <span>L'appel à proposition [est ouvert](https://framaforms.org/proposition-de-presentation-qgis-fr-16-decembre-2020-1605001211) jusqu'au **dimanche 29 Novembre **</span>
 
@@ -24,14 +26,9 @@ Cela vous permettra également d’interagir avec le public via le canal de mess
 
 Les présentations dureront 15 minutes et seront suivie d'un créneau de questions/échanges de 5 minutes. 
 
-
-## Mercredi 16 décembre - Journée conférence en distanciel
-
 **Les horaires sont 9h - 16h45**
 
-### Programme
 
-À venir
 
 
 
