@@ -12,6 +12,7 @@ menu: header
 
 Les ateliers sont des séances de travail avec inscription préalable qui peuvent prendre plusieurs formes :
 
+
 - Atelier technique dirigé par un formateur, avec un déroulé d'un sujet et pratique réelle sur les machines de participants. Par exemple, atelier de découverte de QGIS 3D, Atelier d'installation QGIS server + client web, atelier dataviz et QGIS,etc...
 
 
@@ -26,7 +27,8 @@ Vous pouvez **proposer un atelier** avec [ce formulaire](https://framaforms.org/
 
 ## Mercredi 16 décembre - Journée conférence en distanciel
 
-Journée de conférence avec diffusion vidéo liv et possibilité d'interagir avec les conférenciers. **Sans inscription.**
+Journée de conférence avec diffusion vidéo live et possibilité d'interagir avec les conférenciers. **Sans inscription.**
+
 
 <span>L'appel à proposition [est ouvert](https://framaforms.org/proposition-de-presentation-qgis-fr-16-decembre-2020-1605001211) jusqu'au **dimanche 29 Novembre **</span>
 
