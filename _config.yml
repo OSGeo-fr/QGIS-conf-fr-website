@@ -18,3 +18,5 @@ plugins_dir:
 
 summary: Conférence QGIS des utilisateurs francophones 2020 (distancielle). 15 et 16 décembre
 tags: [QGIS,OSGEO,Open Source,Conférence,CRAIG,AURA,OSGEO-FR,QGIS-fr]
+github: [metadata]
+repository: OSGeo-fr/QGIS-conf-fr-website
