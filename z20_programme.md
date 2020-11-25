@@ -13,13 +13,15 @@ menu: header
 Les ateliers sont des séances de travail avec inscription préalable qui peuvent prendre plusieurs formes :
 
 
-- Atelier technique dirigé par un formateur, avec un déroulé d'un sujet et pratique réelle sur les machines de participants. Par exemple, atelier de découverte de QGIS 3D, Atelier d'installation QGIS server + client web, atelier dataviz et QGIS,etc...
+- Atelier technique dirigé par un formateur, avec un déroulé d'un sujet et pratique réelle sur les machines de participants. Par exemple, atelier de découverte de QGIS 3D, Atelier d'installation QGIS server + client web, atelier dataviz et QGIS,etc... - Atelier payant en tarif libre avec prix minimum à 20 euros
 
 
-- Atelier orienté contribution : Par exemple apprendre à traduire / documenter QGIS. Apprendre à trouver déclarer une anomalie. Découverte du workflow GIT / GITHUB etc..
+- Atelier orienté contribution : Par exemple apprendre à traduire / documenter QGIS. Apprendre à trouver déclarer une anomalie. Découverte du workflow GIT / GITHUB etc.. Atelier payant en tarif libre avec prix minimum à 20 euros
 
 
-- Atelier de travail collaboratif sur des sujets de développement du groupe QGIS : Financer des outils communs. Trouver une base de financement pérenne. Recenser des besoins communs par focus technique ou thématique. etc...
+- Atelier de travail collaboratif sur des sujets de développement du groupe QGIS : Financer des outils communs. Trouver une base de financement pérenne. Recenser des besoins communs par focus technique ou thématique. etc... Atelier gratuit, avec donation libre :)
+
+
 
 
 Vous pouvez **proposer un atelier** avec [ce formulaire](https://framaforms.org/proposition-datelier-qgis-fr-15-decembre-2020-1605876385). 
