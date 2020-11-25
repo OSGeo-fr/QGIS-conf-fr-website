@@ -40,6 +40,12 @@ _[https://empreintedigitale.fr](https://empreintedigitale.fr)_
 
 # Nos mécènes
 
+---
+
+[![3Liz](/images/3liz.png)](https://www.3liz.com/)
+
+3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
+
 
 ---
 
@@ -49,18 +55,22 @@ Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée e
 
 ---
 
-[![3Liz](/images/3liz.png)](https://www.3liz.com/)
-
-3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
-
----
-
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
 Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
 
 
 ---
+
+
+# Nos soutiens
+
+---
+
+[![Azimut](/images/azimut.png)](https://www.azimut.fr/)
+
+---
+
 
 ## Tarif et visibilité
 
