@@ -7,7 +7,7 @@ menu: header
 
 Les recettes seront cette année dédiées à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
 
-
+Les modalités de soutien sont en bas de page. 
 
 # Nos partenaires
 
@@ -40,26 +40,33 @@ _[https://empreintedigitale.fr](https://empreintedigitale.fr)_
 
 # Nos mécènes
 
----
-
-
-
-
-# Parrains
 
 ---
 
-# Soutiens
+[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
+
+Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec trois core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
 
 ---
 
+[![3Liz](/images/3liz.png)](https://www.3liz.com/)
+
+3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
+
+---
+
+[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
+
+Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
+
+
+---
 
 ## Tarif et visibilité
 
-Pour toute information ou demande, utilisez l'adresse [contact-qgis-conf-2020@osgeo.asso.fr](mailto:contact-qgis-conf-2020@osgeo.asso.fr?subject=[SoutienQGISFR_2020])
- <!-- le [**formulaire de contact**]({{ site.url }}{{ site.baseurl }}/z40_contact.html). -->
+Pour toute information ou demande, utilisez le [mail de contact](mailto:contact-qgis-conf-2020@osgeo.asso.fr?subject=[SoutienQGISFR_2020]).
 
-Cette année deux niveaux sont possibles:
+Trois niveaux sont possibles:
 
     
 ### Mécène - 500 €
@@ -70,7 +77,7 @@ Cette année deux niveaux sont possibles:
     <li>Montant : 500 € HT</li>
     <li>Limité à 5 mécènes</li>
     <ul style="padding-left:40px">
-        <li>2 inscriptions incluses aux ateliers</li>
+        <li>2 inscriptions incluses</li>
         <li>Logo et citation pendant l'événement</li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
@@ -90,13 +97,14 @@ Cette année deux niveaux sont possibles:
     <li>Montant : 200 € HT</li>
     <li>Pas de limite</li>
     <ul style="padding-left:40px">
-        <li>1 inscription incluse à un atelier</li>
+        <li>1 inscriptions incluses</li>
         <li>Logo et lien sur le site web</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
     </ul>
 </ul>
 
 </p></details>
+
 
 ### Autre soutien
 
@@ -126,4 +134,3 @@ Cette année deux niveaux sont possibles:
 
 </p></details>
 
-GitHub
