@@ -149,7 +149,7 @@ _______________________
 
 La flexibilité spatiale des maillages permet une précision vectorielle en 3 dimensions et une représentation comparable aux rasters avec en plus les champs vectoriels et la temporalité, et cela avec une économie de taille des données.
 
-Les données exploitables peuvent être des données climatiques/météorologiques/atmosphériques, des résultats de modèles hydrodynamiques on encore de Modèle Numérique de Terrain par triangulation.
+Les données exploitables peuvent être des données climatiques/météorologiques/atmosphériques, des résultats de modèles hydrodynamiques ou encore de Modèle Numérique de Terrain par triangulation.
 
 _______________________
 
