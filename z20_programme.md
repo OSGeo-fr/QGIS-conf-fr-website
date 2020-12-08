@@ -36,7 +36,7 @@ _______________________
 </thead>
  <tr class="th"><td>Horaires</td><td> </td><td>Durée (hors questions)</td></tr>
  <tr class="impair"><td>09:00</td><td>Ouverture de la journée - OSGeo-FR & Groupe QGIS FR</td><td>15 min.</td></tr>
- <tr class="pair"><td>09:15</td><td><a href="#covid-geometry-generators-et-carto-geekeries-en-tous-genres---mathieu-rajerison">Covid, geometry generators et carto-geekeries en tous genres - Mathieu Rajerison</a></td><td>15 min.</td></tr>
+ <tr class="pair"><td>09:15</td><td><a href="#covid-générateur-de-géométries-et-carto-geekeries-en-tous-genres---mathieu-rajerison">Covid, generateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>09:35</td><td><a href="#nouveautés-qgis--partage-de-styles-et-modèles-de-mise-en-page-via-le-hub-styles---pierre-serafini---sopreco">Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>09:45</td><td><a href="#enseigner-qgis-à-luniversité--exemples-des-formations-en-géographie-aménagement-et-géomatique-de-luniversité-rennes-2---boris-mericskay---université-de-rennes-2">Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>10:05</td><td><a href="#qgis-si---mettre-un-outil-de-cartographie-à-disposition-des-policiers-et-gendarmes---jean-de-villeneuve-régis-haubourg---gendarmerie--nationale-oslandia">QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie  Nationale, Oslandia</a></td><td>15 min.</td></tr>
@@ -65,9 +65,9 @@ _______________________
 
 _______________________
 
-### Covid, geometry generators et carto-geekeries en tous genres - Mathieu Rajerison
+### Covid, générateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison
 
-Cette présentation vise à montrer l'usage des geometry generators dans la réalisation de cartes à la croisée du courant du design génératif et de la cartographie, au travers de plusieurs cas : un, utile et actuel, sur l'observation de l'évolution des contaminations à la Covid, et quelques autres, plus à vocation esthétique, sur la reproduction d'œuvres de grands maîtres.
+Cette présentation vise à montrer l'usage des générateurs de géometries dans la réalisation de cartes à la croisée du courant du design génératif et de la cartographie, au travers de plusieurs cas : un, utile et actuel, sur l'observation de l'évolution des contaminations à la Covid, et quelques autres, plus à vocation esthétique, sur la reproduction d'œuvres de grands maîtres.
 
 _______________________
 
