@@ -83,7 +83,7 @@ _______________________
 
 ### QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie  Nationale, Oslandia
 
-Le Service des technologies et des SI de la Sécurité intérieure (STSI²) a décidé de déployer des environnements QGIS pré-configurés aux policiers et gendarmes spécialisés ou de terrain. L'objectif est d'amener d'amener un outil géomatique polyvalent au plus grand nombre, sur la distribution Linux GendBuntu comme Windows.
+Le Service des Technologies et des SI de la Sécurité Intérieure (STSI²) a décidé de déployer des environnements QGIS pré-configurés aux policiers et gendarmes spécialisés ou de terrain. L'objectif est d'amener un outil géomatique polyvalent au plus grand nombre, sur la distribution Linux GendBuntu comme Windows.
 Avec l'appui d'Oslandia, la démarche a été initiée par les besoins d'utilisateurs pilotes. Elle a abouti à deux profils utilisateurs, avec notamment un accès simplifié au socle SIG et un outil de localisation d’adresses. Installeurs et paquet de configuration permettent de maintenir la configuration des postes sur le long terme, et de suivre les versions de QGIS.
 
 _______________________
@@ -96,7 +96,7 @@ PreCourlis est un plugin QGIS développé pour EDF Hydro. Il permet de construir
  - l'édition interactive des profils, fonds de rivière et interfaces sédimentaires, en mode graphique
  - l’export vers le format de fichier de géométrie de Courlis
 
-Après une brève présentation des fonctionnalités du plugin, la présentation sera centrée sur la mise en valeur des possibilités offerte par QGIS, notamment :
+Après une brève présentation des fonctionnalités du plugin, la présentation sera centrée sur la mise en valeur des possibilités offertes par QGIS, notamment :
  - utilisation de la bibliothèque Matplotlib installée avec QGIS
  - implémentation des traitements de données sous forme d'algorithmes processing : modularité / flexibilité / interactivité
  - utilisation du buffer d'édition de QGIS (historique des modifications : annuler / refaire)
@@ -127,7 +127,7 @@ L'ambition de ce portail est de proposer un environment où les passionnés de Q
 Grace à QGIS server & son moteur de style, nous valorisons les données d'OSM avec des styles variés (clusters, svg, etiquettes en fonction de l’échelle, etc..).
 Nous évoquerons l'architecture d’ensemble ayant permis de proposer une nouvelle solution ambitieuse open source à l’échelle nationale déjà mobilisée dans plusieurs pays Africains.
 
-Url: demo.openstreetmap.fr
+Lien : demo.openstreetmap.fr
 
 _______________________
 
@@ -188,9 +188,9 @@ Outre le fait que cela soit chronophage, cela nécessite de devoir installer et 
 QGIS permet depuis longtemps de faire de l'ETL via processing, il intègre beaucoup de librairies tierces (GDAL, Grass, Saga, R, ...). 
 Les dernières versions de QGIS ont mis à disposition deux grandes nouveautés:
  - pouvoir exporter les scripts en Python et de les réimporter. ( > V3) 
- - CLI afin de lancer nos scripts de processing directement via un terminal. (>3.14)
+ - la ligne de commande afin de lancer nos scripts de processing directement via un terminal. (>3.14)
 
- A travers cette discussion nous verrons comment
+ A travers cette discussion, nous verrons comment :
  - Lire les scripts python exportés par processing
  - Intégrer ses propres scripts annexes dans un script processing
  - Les exécuter en tant que traitement QGIS
@@ -210,7 +210,7 @@ Dans un contexte global d’augmentation des pressions d’origine naturelle ou 
 
 Depuis quelques années de nouveaux instruments aéroportés, tels que les capteurs LiDAR ou les capteurs hyperspectraux, offrent la possibilité de révéler des anomalies topographiques ou spectrales sur des territoires (forestiers ou immergés) jusqu’alors difficilement accessibles par prospection pédestre ou prospection aérienne à vue. Ces approches par télédétection permettent, au travers de méthodes de visualisation et d’analyse, de mettre en évidence des variations de surface pouvant mener à l’identification et la caractérisation de sites archéologiques.
 
-Des travaux de recherche appliquée sur l’apport de la télédétection à la prospection archéologique sont actuellement menés par la société Hytech-Imaging et le laboratoire LETG-Rennes avec le soutien du Service régional de l’archéologie et la Région Bretagne. Dans ce cadre, QGIS joue un rôle central comme outil de traitement et visualisation des données. Au travers d’exemples, l’usage de QGIS pour l'analyse des données (QGIS deskop, processing Toolbox) et leur valorisation cartographique (composer / Atlas) sera présenté. L’approche terrain, indissociable de l’archéologie, sera également exposée avec l’utilisation de QField comme outil d’aide à l’interprétation sur le terrain.
+Des travaux de recherche appliquée sur l’apport de la télédétection à la prospection archéologique sont actuellement menés par la société Hytech-Imaging et le laboratoire LETG-Rennes avec le soutien du Service régional de l’archéologie et la Région Bretagne. Dans ce cadre, QGIS joue un rôle central comme outil de traitement et visualisation des données. Au travers d’exemples, l’usage de QGIS pour l'analyse des données (QGIS Desktop, processing Toolbox) et leur valorisation cartographique (composeur / atlas) sera présenté. L’approche terrain, indissociable de l’archéologie, sera également exposée avec l’utilisation de QField comme outil d’aide à l’interprétation sur le terrain.
 
 _______________________
 
