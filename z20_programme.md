@@ -40,9 +40,10 @@ Nous recommandons fortement d'enregistrer votre présentation à l'avance en for
 
 Cela vous permettra également d’interagir avec le public via le canal de messagerie.
 
-Les présentations dureront 15 minutes et seront suivie d'un créneau de questions/échanges de 5 minutes. 
 
-**Les horaires sont 9h - 16h45**
+![programme](images/programme_2020.png)
+
+
 
 
 
