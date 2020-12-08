@@ -160,41 +160,35 @@ width: 80%;
 
 table.tableizer-table {
     /* font-size: 12px; */
-    border: 0px solid #CCC; 
-    font-family: Trebuchet MS, Helvetica, sans-serif;
+    border: 0px solid #CCC;
 } 
 .tableizer-table td{
 
     border: 0px solid #CCC;
 }
-.tableizer-table tr:nth-child(odd){
+.impair{
     padding: 4px;
     margin: 3px;
     border: 0px solid #CCC;
-    background-color: rgb(204, 204, 204);
+    background-color: #eef7e3 ;
 
 }
-.tableizer-table tr:nth-child(even){
+.pair{
     padding: 4px;
     margin: 3px;
     border: 0px solid #CCC;
-    background-color: #a4be2c;
+    background-color:  #ffffff ;
 }  
 
-.tableizer-table tr:nth-child(even) tr>.pause{
+.pause{
     padding: 4px;
     margin: 3px;
     border: 0px solid #CCC;
-    background-color: #640e51;
+    background-color: #93b023;
 } 
-.tableizer-table tr:nth-child(odd) tr>.pause{
-    padding: 4px;
-    margin: 3px;
-    border: 0px solid #CCC;
-    background-color: #640e51;
-} 
+
 .tableizer-table th {
-    background-color: #788b2c; 
+    background-color: #93b023; 
     color: #FFF;
     font-weight: bold;
 }
