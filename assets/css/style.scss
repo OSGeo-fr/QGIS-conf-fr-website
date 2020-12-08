@@ -157,3 +157,38 @@ width: 80%;
         height: 34px;
     }
 }
+
+table.tableizer-table {
+    /* font-size: 12px; */
+    border: 0px solid #CCC;
+} 
+.tableizer-table td{
+
+    border: 0px solid #CCC;
+}
+.impair{
+    padding: 4px;
+    margin: 3px;
+    border: 0px solid #CCC;
+    background-color: #eef7e3 ;
+
+}
+.pair{
+    padding: 4px;
+    margin: 3px;
+    border: 0px solid #CCC;
+    background-color:  #ffffff ;
+}  
+
+.pause{
+    padding: 4px;
+    margin: 3px;
+    border: 0px solid #CCC;
+    background-color: #93b023;
+} 
+
+.tableizer-table th {
+    background-color: #93b023; 
+    color: #FFF;
+    font-weight: bold;
+}
