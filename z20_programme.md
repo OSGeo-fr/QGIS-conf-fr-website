@@ -47,7 +47,7 @@ _______________________
  <tr class="pair"><td>11:30</td><td><a href="#qgis-moteur-du-portail-des-données-dopenstreetmap-france---jean-louis-zimmermann---osmdata">QGIS, moteur du portail des données d'OpenStreetMap France - Jean-Louis Zimmermann - OSMdata</a></td><td>15 min.</td></tr>
  <tr class="pair"><td>11:50</td><td><a href="#qgis-server-présent-et-futur---paul-blottiere---qcooperative--hytech-imaging">QGIS Server: présent et futur - Paul Blottiere - QCooperative & Hytech Imaging</a></td><td>15 min.</td></tr>
  <tr class="pause"><td>12:10</td><td>Pause repas - Salle de discussions libres </td><td>1h50</td></tr>
- <tr class="impair"><td>14:00</td><td><a href="#nouveautés-qgis--données-temporelles-et-mesh---vincent-cloarec---lutra-consulting">Nouveautés QGIS : données temporelles et mesh - Vincent Cloarec - Lutra Consulting</a></td><td>7 min.</td></tr>
+ <tr class="impair"><td>14:00</td><td><a href="#les-maillages--qgis-en-4-dimensions----vincent-cloarec---lutra-consulting">Les Maillages : QGIS en 4 dimensions ! - Vincent Cloarec - Lutra Consulting</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>14:10</td><td><a href="#stocker-et-visualiser-des-images-dans-le-cloud-à-laide-du-format-cog-et-de-qgis---julien-cabieces---oslandia">Stocker et visualiser des images dans le cloud à l'aide du format COG et de QGIS - Julien Cabieces - Oslandia</a></td><td>7 min.</td></tr>
  <tr class="impair"><td>14:20</td><td><a href="#nouveautés-qgis--pointcloud-et-3d---xxx">Nouveautés QGIS : pointcloud et 3D - XXX</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>14:30</td><td><a href="#qfield--un-qgis-sur-le-terrain-pour-appuyer-la-mise-à-jour-du-pcrs-en-aura---lucas-mathieu---craig">QField : un QGIS sur le terrain pour appuyer la mise à jour du PCRS en AuRA - Lucas Mathieu - CRAIG</a></td><td>15 min.</td></tr>
@@ -143,8 +143,13 @@ Finalement, nous présenterons les discussions et travaux en cours de réflexion
 
 _______________________
 
-### Nouveautés QGIS : données temporelles et mesh - Vincent Cloarec - Lutra Consulting
+### Les Maillages : QGIS en 4 dimensions ! - Vincent Cloarec - Lutra Consulting
 
+À la croisée des couches vectorielles et rasters et avec une dimension temporelle, les maillages permettent une tout autre utilisation de QGIS pour la visualisation et l'analyse de données géographiques.
+
+La flexibilité spatiale des maillages permet une précision vectorielle en 3 dimensions et une représentation comparable aux rasters avec en plus les champs vectoriels et la temporalité, et cela avec une économie de taille des données.
+
+Les données exploitables peuvent être des données climatiques/météorologiques/atmosphériques, des résultats de modèles hydrodynamiques on encore de Modèle Numérique de Terrain par triangulation.
 
 _______________________
 
