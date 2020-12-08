@@ -116,7 +116,7 @@ _______________________
 
 ### Un cas d'usage de QGis pour le recueil, le traitement et la publication de données géologiques sur les formations à silicites - Christophe TUFFERY, Vincent DELVIGNE - INRAP / Université de Liège
 
-Cette communication présente diverses utilisations de QGis employées dans le cadre des travaux de plusieurs Projets Collectifs de Recherche (PCR) « Réseau de lithothèques » et du Groupement De Recherche (GDR) « SILEX ». Le logiciel est utilisé à plusieurs étapes de la constitution, de l’utilisation, du partage et de la publication des données sur les formations géologiques à silicites, à partir de données ouvertes du BRGM et de prospections de terrain. Les fichiers ainsi créés servent à la modélisation des comportements spatiaux des groupes humains de la Préhistoire. A cet égard, de nouveaux outils (matrice de distance entre polygones, intégration de modules R, bouton de déroulement chronologique) devront être intégrés ou développés afin de renforcer ces modèles.
+Cette communication présente diverses utilisations de QGis dans le cadre des travaux de plusieurs Projets Collectifs de Recherche (PCR) « Réseau de lithothèques » et du Groupement De Recherche (GDR) « SILEX ». Le logiciel est utilisé à plusieurs étapes de la constitution, de l’utilisation, du partage et de la publication des données sur les formations géologiques à silicites, à partir de données ouvertes du BRGM et de prospections de terrain. Les fichiers ainsi créés servent à la modélisation des comportements spatiaux des groupes humains de la Préhistoire. A cet égard, de nouveaux outils (matrice de distance entre polygones, intégration de modules R, bouton de déroulement chronologique) devront être intégrés ou développés afin de renforcer ces modèles.
 
 _______________________
 
@@ -124,7 +124,7 @@ _______________________
 
 OSMdata, rencontre de deux mondes: celui de la géomatique avec des utilisateurs militants du logiciel libre & des contributeurs d'OpenStreetMap militants pour la donnée en bien commun.
 L'ambition de ce portail est de proposer un environment où les passionnés de QGIS peuvent mobiliser leurs expertises sur le niveau de maturité d'OSM.
-Grace à QGIS server & son moteur de style, nous valorisons les données d'OSM avec des styles variés (clusters, svg, etiquettes en fonction de l’échelle, etc..).
+Grace à QGIS Server et son moteur de styles, nous valorisons les données d'OSM avec des styles variés (clusters, svg, étiquettes en fonction de l’échelle, etc..).
 Nous évoquerons l'architecture d’ensemble ayant permis de proposer une nouvelle solution ambitieuse open source à l’échelle nationale déjà mobilisée dans plusieurs pays Africains.
 
 Lien : demo.openstreetmap.fr
@@ -135,10 +135,9 @@ _______________________
 
 QGIS Server est un projet relativement récent comparé à d'autres serveurs cartographiques libres, mais il est cependant de plus en plus utilisé et en constante progression.
 
-Dans le cadre de cette présentation, nous proposons d'explorer les dernières fonctionalités implémentées comme le support du protocole OGC API Features (aka WFS3) ou encore la nouvelle page d'accueuil.
+Dans le cadre de cette présentation, nous proposons d'explorer les dernières fonctionnalités implémentées comme le support du protocole OGC API Features (aka WFS3) ou encore la nouvelle page d'accueil.
 
-En plus des fonctionnalités coeur, nous discuterons aussi des récentes évolutions de l'écosystème de QGIS Server en abordant les dernières QEP
-réalisées (QGIS Enhancement Proposals).
+En plus des fonctionnalités coeur, nous discuterons aussi des récentes évolutions de l'écosystème de QGIS Server en abordant les dernières QEP (QGIS Enhancement Proposals) réalisées.
 
 Finalement, nous présenterons les discussions et travaux en cours de réflexion afin d'entrevoir le chemin des possibles.
 
@@ -166,7 +165,7 @@ _______________________
 
 ### QField : un QGIS sur le terrain pour appuyer la mise à jour du PCRS en AuRA - Lucas Mathieu - CRAIG
 
-Depuis 2016, le CRAIG est coordonnateur sur 8 départements de la couverture progressive d'un PCRS sous la forme d'orthophotoplans à 5 cm en partenariat avec de nombreux acteurs locaux et nationaux, dont la mise à jour est réalisée partiellement chaque année sur des zones identifiées.
+Depuis 2016, le CRAIG est coordonnateur sur 8 départements de la couverture progressive d'un PCRS (Plan Corps de Rue Simplifié) sous la forme d'orthophotoplans à 5 cm en partenariat avec de nombreux acteurs locaux et nationaux, dont la mise à jour est réalisée partiellement chaque année sur des zones identifiées.
 Pour repérer et valider les zones à mettre à jour, l'équipe du CRAIG utilise des tablettes Android équipées de QField afin notamment de se repérer sur site, d'effectuer de la saisie d'observations via un formulaire et la prise de photos.
 
 Seront abordés par la présentation :
