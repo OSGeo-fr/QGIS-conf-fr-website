@@ -24,7 +24,7 @@ Les ateliers sont des séances de travail avec inscription préalable qui peuven
 
 ## Mercredi 16 décembre - Journée conférence en distanciel
 
-Journée de conférence avec diffusion vidéo live. **Sans inscription.**
+Journée de conférences avec diffusion vidéo live. **Sans inscription.**
 
 Vous pourrez également interagir avec les présentateurs via le canal de messagerie.
 
