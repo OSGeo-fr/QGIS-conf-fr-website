@@ -95,10 +95,11 @@ PreCourlis est un plugin QGIS développé pour EDF Hydro. Il permet de construir
  - l'affichage de profils en travers
  - l'édition interactive des profils, fonds de rivière et interfaces sédimentaires, en mode graphique
  - l’export vers le format de fichier de géométrie de Courlis
+
 Après une brève présentation des fonctionnalités du plugin, la présentation sera centrée sur la mise en valeur des possibilités offerte par QGIS, notamment :
- - Utilisation de la bibliothèque Matplotlib installée avec QGIS
- - Implémentation des traitements de données sous forme d'algorithmes processing : modularité / flexibilité / interactivité
- - Utilisation du buffer d'édition de QGIS (historique des modifications : annuler / refaire)
+ - utilisation de la bibliothèque Matplotlib installée avec QGIS
+ - implémentation des traitements de données sous forme d'algorithmes processing : modularité / flexibilité / interactivité
+ - utilisation du buffer d'édition de QGIS (historique des modifications : annuler / refaire)
 
 _______________________
 
@@ -125,7 +126,8 @@ OSMdata, rencontre de deux mondes: celui de la géomatique avec des utilisateurs
 L'ambition de ce portail est de proposer un environment où les passionnés de QGIS peuvent mobiliser leurs expertises sur le niveau de maturité d'OSM.
 Grace à QGIS server & son moteur de style, nous valorisons les données d'OSM avec des styles variés (clusters, svg, etiquettes en fonction de l’échelle, etc..).
 Nous évoquerons l'architecture d’ensemble ayant permis de proposer une nouvelle solution ambitieuse open source à l’échelle nationale déjà mobilisée dans plusieurs pays Africains.
-Url:demo.openstreetmap.fr
+
+Url: demo.openstreetmap.fr
 
 _______________________
 
