@@ -29,17 +29,17 @@ Les ateliers sont des séances de travail avec inscription préalable qui peuven
 	<th>Salle 1</th><th>Salle 2</th><th>Salle 3</th><th>Salle 4</th>
    </thead>
 	<tr class="atelier">
-		<td rowspan="2"><b>09:00 - 12h15</b><br> Répondre aux DT-DICT avec QGIS 3</td>
-		<td rowspan="2"><b>09h - 12h15</b> <br> Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</td>
-		<td><b>9h - 10h30</b>  <br>Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</td>
-		<td><b>9h - 10h30</b>  <br>De la mise en page au rapport d'impression, en passant par l'atlas </td></tr>
-    <tr class="atelier"><td><b>10h45 - 12h15</b> <br>Github, comment entrer dans le projet QGIS et participer à la communauté ?</td><td></td></tr>
+		<td rowspan="2"><b>09:00 - 12h15</b><br><a href="#répondre-aux-dt-dict-avec-qgis-3">Répondre aux DT-DICT avec QGIS 3</a></td>
+		<td rowspan="2"><b>09h - 12h15</b> <br> <a href="#configurer-qgis-dans-votre-organisation---simplifiez-la-vie-à-vos-utilisateurs">Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</a></td>
+		<td><b>9h - 10h30</b>  <br><a href="#le-modeleur-graphique---fonctionnement-nouveautés-trucs-et-astuces">Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</a></td>
+		<td><b>9h - 10h30</b>  <br><a href="#de-la-mise-en-page-au-rapport-dimpression-en-passant-par-latlas">De la mise en page au rapport d'impression, en passant par l'atlas</a> </td></tr>
+    <tr class="atelier"><td><b>10h45 - 12h15</b> <br><a href="#github-comment-entrer-dans-le-projet-qgis-et-participer-à-la-communauté">Github, comment entrer dans le projet QGIS et participer à la communauté ?</a></td><td></td></tr>
     <tr class="pause-atelier"><td colspan="4"><b>Pause de midi</b></td></tr>
     <tr class="atelier">
-    	<td rowspan="2"><b>14h - 17h15</b><br> Répondre aux DT-DICT avec QGIS 3</td>
-    	<td rowspan="2"><b>14h - 17h15</b>  <br> Publication d'un projet QGIS sur le web avec Lizmap</td>
-    	<td><b>14h - 15h30</b>   <br>Organisation et avenir du groupe QGIS-FR</td><td> </td></tr>
-    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br>Expressions avancées</td><td></td></tr>
+    	<td rowspan="2"><b>14h - 17h15</b><br> <a href="#répondre-aux-dt-dict-avec-qgis-3">Répondre aux DT-DICT avec QGIS 3</a></td>
+    	<td rowspan="2"><b>14h - 17h15</b>  <br> <a href="#publication-dun-projet-qgis-sur-le-web-avec-lizmap">Publication d'un projet QGIS sur le web avec Lizmap</a></td>
+    	<td><b>14h - 15h30</b>   <br><a href="#organisation-et-avenir-du-groupe-qgis-fr">Organisation et avenir du groupe QGIS-FR</a></td><td> </td></tr>
+    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br><a href="#expressions-avancées">Expressions avancées</a></td><td></td></tr>
 </table>
 
 
@@ -60,7 +60,7 @@ _______________________
  <tr class="th"><td>Horaires</td><td> </td><td>Durée (hors questions)</td></tr>
  <tr class="impair"><td>09:00</td><td>Ouverture de la journée - OSGeo-FR & Groupe QGIS FR</td><td>15 min.</td></tr>
  <tr class="pair"><td>09:15</td><td><a href="#covid-générateur-de-géométries-et-carto-geekeries-en-tous-genres---mathieu-rajerison">Covid, générateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison</a></td><td>15 min.</td></tr>
- <tr class="impair"><td>09:35</td><td><a href="#nouveautés-qgis--partage-de-styles-et-modèles-de-mise-en-page-via-le-hub-styles---pierre-serafini---sopreco">Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO</a></td><td>7 min.</td></tr>
+ <tr class="impair"><td>09:35</td><td><a href="#nouveautés-qgis--partage-de-styles-et-modèles-deModel-mise-en-page-via-le-hub-styles---pierre-serafini---sopreco">Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>09:45</td><td><a href="#de-la-donnée-au-terrain--qgis-un-outil-global-pour-la-prospection-archéologique-par-télédétection---alexandre-guyot---laboratoire-letg-université-rennes-2--hytech-imaging">De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>10:05</td><td><a href="#qgis-si---mettre-un-outil-de-cartographie-à-disposition-des-policiers-et-gendarmes---jean-de-villeneuve-régis-haubourg---gendarmerie-nationale--oslandia">QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie nationale / Oslandia</a></td><td>15 min.</td></tr>
  <tr class="pause"><td>10:25</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
@@ -84,7 +84,7 @@ _______________________
 
 _______________________
 
-## Programme détaillé
+## Programme détaillé des conférences
 
 _______________________
 
@@ -232,9 +232,7 @@ Avec près de 90k téléchargements, le plugin pour l’analyse de visibilité f
 _______________________
 
 ### De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging
-
-Dans un contexte global d’augmentation des pressions d’origine naturelle ou humaine, le patrimoine archéologique est de plus en plus menacé. Sa préservation passe par une meilleure connaissance des sites et notamment un enrichissement de la « carte archéologique », inventaire national sur lequel s’appuient les missions de protection et de valorisation.
-
+</a>
 Depuis quelques années de nouveaux instruments aéroportés, tels que les capteurs LiDAR ou les capteurs hyperspectraux, offrent la possibilité de révéler des anomalies topographiques ou spectrales sur des territoires (forestiers ou immergés) jusqu’alors difficilement accessibles par prospection pédestre ou prospection aérienne à vue. Ces approches par télédétection permettent, au travers de méthodes de visualisation et d’analyse, de mettre en évidence des variations de surface pouvant mener à l’identification et la caractérisation de sites archéologiques.
 
 Des travaux de recherche appliquée sur l’apport de la télédétection à la prospection archéologique sont actuellement menés par la société Hytech-Imaging et le laboratoire LETG-Rennes avec le soutien du Service régional de l’archéologie et la Région Bretagne. Dans ce cadre, QGIS joue un rôle central comme outil de traitement et visualisation des données. Au travers d’exemples, l’usage de QGIS pour l'analyse des données (QGIS Desktop, processing Toolbox) et leur valorisation cartographique (composeur / atlas) sera présenté. L’approche terrain, indissociable de l’archéologie, sera également exposée avec l’utilisation de QField comme outil d’aide à l’interprétation sur le terrain.
@@ -246,4 +244,191 @@ _______________________
 Depuis QGIS 3, un nouveau panneau concernant la gestion des métadonnées est apparu. Cependant, son utilisation reste pour le moment un peu limité, notamment dans l’utilisation d’une couche qui est stockée dans PostgreSQL. Nous avons développé une extension QGIS nommée PgMetadata qui permet de sauvegarder dans une base de données PostgreSQL des métadonnées pour une couche vecteur. Cette extension doit être suffisamment générique et rester compatible avec le système actuel de QGIS. L’extension permet également la recherche des couches indexées depuis le « Locator » et l’affichage des métadonnées sur le web avec l’outil Lizmap.
 
 
+
+
 _______________________
+
+## Programme détaillé des ateliers 
+
+### Répondre aux DT-DICT avec QGIS 3
+
+La réforme DT-DICT génère une charge de travail importante chez les exploitants de réseaux.
+
+Le plugin DICT initié par Loïc Bartoletti (Oslandia) alors à la mairie de Megève, après un portage sur QGIS 3 réalisé par la Fédération Départementale des Ardennes, s'est vu complété récemment par Azimut grâce au financement du Syndicat Départemental d'Electricité des Vosges.
+
+Cet atelier permettra :
+
+- configuration
+- paramétrage de la synchronisation avec une plate-forme de téléchargement syncthing)
+- utilisation (création folios/édition CERFA/création plans PDF/envoi mail)
+
+Après cette découverte, un temps d'échange avec les développeurs permettra aux participants de faire des critiques et suggestions sur l'interface et les fonctionnalités.
+
+**Animateurs** : Jean-Marie Arsac (Azimuth) / Loïc Bartoletti (Oslandia)
+
+**Durée** :  3h (une session le matin, une session l'après midi)
+
+**Prérequis :** 
+
+* utilisation basique de QGIS
+* savoir installer un logiciel et utiliser un éditeur de texte
+* 1 poste de travail avec QGIS 3.1x
+* être administrateur du poste (installation Syncthing)
+* (facultatif) avoir un outil de prise en main à distance permettrait éventuellement une tele-assistance
+
+**Nombre de places:** 16
+
+### Le Modeleur graphique - fonctionnement, nouveautés, trucs et astuces
+
+Comment prendre en main le modeleur graphique pour créer une chaine de traitement qui automatisera vos process répétitifs? Quels algorithmes disponibles? 
+
+
+**Animateurs** : Marjorie FANGAIN (Keolis) / Pierre SERATINI
+
+**Durée** :  1h30
+
+**Prérequis :** 
+* Utilisation basique de QGIS
+* Disposer d'un PC avec QGIS installé (idéalement en version 3.10)
+
+**Nombre de places:** 16
+
+### Organisation et avenir du groupe QGIS-FR 
+
+Le groupe des utilisateurs QGIS FR est sous l'ombrelle de l'OSGeo-FR. Sa vocation est d'encourager et structurer l'utilisation, la contribution et le financement du projet QGIS au sens large. Elle est particulièrement en charge de coordonner les efforts de traduction de l'interface, du site web et de la documentation. 
+
+Le groupe organise depuis 7 ans les rencontres QGIS utilisateurs et constate une explosion du nombre d'utilisateurs et des besoins, mais en revanche une difficulté à trouver des contributeurs actifs sur le sujet francophone. 
+
+
+* Comment faire contribuer les très grands utilisateurs ?
+* Comment attirer de nouveaux contributeurs et renouveler les équipes? 
+* Quelles formules pour les rencontres utilisateurs en ces périodes de travail distant? 
+* Comment susciter et accompagner l'émergence de groupes locaux et autres meetup ? 
+* Quelle formules pour 2021? Plus de sessions courtes? 
+* Organiser une rencontre développeurs ?
+* Comment ne pas dévier toutes les ressources vers QGIS, alors que les projets sous jacents (GDAL /OGR / Proj ) ou associés nécessitent également de l'appui ?
+
+L'objectif de cet atelier est d'avancer sur ces questions et d'établir un plan d'action commun.
+
+
+**Animateur** : Régis Haubourg (OSGeo-FR) / Marjorie FANGAIN
+
+**Durée** :  1h30 
+
+**Prérequis :** 
+*Avoir envie de s'impliquer dans la vie du groupe QGIS, ou avoir des objectifs de faire contribuer sa structure. 
+*Réfléchir à des actions simples et pragmatiques. 
+*Bonne humeur obligatoire!
+
+
+**Nombre de places:** 16
+
+### Github, comment entrer dans le projet QGIS et participer à la communauté
+
+QGIS poursuit sa conquête du monde cartographique et s'installe sur toutes les plateformes, pour le bonheur des utilisateurs. 
+
+Mais pas question de se cacher derrière son petit doigt, il reste des choses à faire. 
+Un bug, une fonctionnalité manquante, de la documentation lacunaire, chacun a déjà pu le constater une fois et souhaiterait que ces éléments soient corrigés.
+
+Prêt à mettre la main à la pâte, l'utilisateur ne sait pas toujours par où commencer et, parfois, lorsqu'il atterrit sur le dépôt GitHub de QGIS se trouve désemparé. 
+
+On cherchera à démystifier la plateforme afin que chacun sache comment y participer :
+
+- déclaration et triage de bug
+- fonctionnement du calendrier de sortie
+- contributions à la documentation
+
+
+**Animateur** : Sébastien Peillet (Oslandia)
+
+**Durée** :  1h30 
+
+**Prérequis :** 
+- ne pas avoir peur de l'anglais	
+- un navigateur
+- apporter sa liste de bug constatés
+- un compte sur la plateforme GitHub
+
+**Nombre de places:** 16
+
+### De la mise en page au rapport d'impression, en passant par l'atlas 
+
+QGIS a musclé son jeu concernant la mise en page. Cet atelier permettra aux nouveaux utilisateurs d'aborder les différents outils d'impression présents dans QGIS :
+- mise en page d'impression
+- composition d'atlas
+- composition de rapport
+- options d'export
+- geopdf
+
+
+**Animateurs** : Sébastien Peillet / Harrissou Sant-anna
+
+**Durée** :  1h30 
+
+**Prérequis :** 
+- Connaissance basique de QGIS (ouvrir les couches, changer la symbologie)
+- QGIS (version 3.16 recommandée)
+- un projet comportant des couches de données pouvant s'imbriquer (ex : départements > communes), un jeu de données test sera fourni le cas échéant
+
+**Nombre de places:** 16
+
+### Publication d'un projet QGIS sur le web avec Lizmap
+
+Lizmap est une solution libre de publication de projet QGIS dans un navigateur web. Il est développé par la société 3Liz. L'objectif de cet outil est de publier, le plus simplement possible un projet QGIS (légende, couches, groupes, mise en page PDF, table attributaire, etc) sans devoir refaire des manipulations supplémentaires pour le géomaticien dans QGIS.
+
+Pendant cet atelier, nous verrons la réalisation d'un projet QGIS avec : 
+- la légende et les groupes
+- l'affichage des informations dans une infobulle
+- un formulaire d'édition
+- Mise en page PDF (sans et avec atlas)
+
+**Animateur** : Etienne Trimaille (3Liz)
+**Durée** :  3h 
+
+**Prérequis :** 
+* Savoir manipuler QGIS (la création d'une mise en page PDF par exemple)
+* QGIS 3.10
+* Logiciel FTP client
+
+* Lire les exigences techniques logiciel"	"* L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
+* Mais si vous souhaitez utiliser votre propre instance Lizmap, il existe une machine virtuelle Vagrant et une solution Docker que vous pouvez utiliser sur votre propre ordinateur (même sous Windows), mais son utilisation ne sera pas couverte par l'atelier. Nous vous recommandons l'utilisation de l'instance qui sera mise en place pour les besoins de l'atelier.
+* On recommande d'avoir QGIS version 3.10 LTR sur son ordinateur. S'il s'agit d'une autre version (QGIS >= 3.4 a minima), on ne peut pas garantir le bon déroulement de la publication sur le web, car l'instance Lizmap utilisera QGIS Serveur 3.10.
+* Il faudra avoir un logiciel FTP client, tel que ""Filezilla Client"" https://filezilla-project.org/ pour le transfert des fichiers vers le serveur.
+* On vous communiquera avant la formation les identifiants FTP et de la base PostGIS.
+
+**Nombre de places:** 6
+
+### Expressions avancées 
+
+Les expressions se cachent un peu partout dans QGIS. Elles permettent de modifier la valeur d'un champ, de configurer les formulaires et bien plus.
+
+
+**Animateur** : DHONT René-Luc (3Liz)
+**Durée** :  1h30 
+
+**Prérequis :** 
+*Connaître QGIS	
+*Disposer de QGIS 3.16 sur son poste
+
+**Nombre de places:** 8
+
+
+### Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs
+
+QGIS est un logiciel SIG générique, avec une couverture fonctionnelle très large. La majorité des utilisateurs utilisant le SIG dans leur métier ne sont pas administrateurs de données, ni experts SIG.
+
+Par ailleurs, déployer un client SIG sans pré-configuration abouti à un patrimoine de cartes, de connexions à des sources de données complétement hétérogène. Un administrateur SIG aura besoin de pouvoir mettre à jour des proxy, des connexions à des bases de données, etc..., sans pour autant impacter les projets des utilisateurs.
+
+Enfin, QGIS en tant qu'outil open source est totalement configurable et vous permet de l'adapter à votre système d'information et vos choix d'organisation.
+
+Cet atelier vous permettra d'aborder une proposition de configuration simplifiant les cas d'utilisations les plus fréquents, et abordera les méthodes de déploiement de ces configurations dans votre organisation.
+
+**Animateur** : Régis Haubourg (Oslandia)
+**Durée** :  3h00 
+
+**Prérequis :** 
+* Être en posture d'administrer un SIG pour des utilisateurs
+* Connaitre les options QGIS et la logique d'extension. 
+* QGIS 3.x avec les droits d'administration sur votre poste. 
+
+**Nombre de places:** 8
