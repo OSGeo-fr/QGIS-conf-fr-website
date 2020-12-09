@@ -8,7 +8,7 @@ menu: header
 
 ## Mardi 15 décembre - [Ateliers / Workshops] en distanciel
 
-**Les horaires sont 9h - 16h** (l'heure de fin pourra être repoussée si nécessaire).
+**Les horaires sont 9h - 17h15** (l'heure de fin pourra être repoussée si nécessaire).
 
 Les ateliers sont des séances de travail avec inscription préalable qui peuvent prendre plusieurs formes :
 
