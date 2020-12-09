@@ -346,7 +346,7 @@ On cherchera à démystifier la plateforme afin que chacun sache comment y parti
 **Prérequis :** 
 - ne pas avoir peur de l'anglais	
 - un navigateur
-- apporter sa liste de bug constatés
+- apporter sa liste de bugs constatés
 - un compte sur la plateforme GitHub
 
 **Nombre de places:** 16
