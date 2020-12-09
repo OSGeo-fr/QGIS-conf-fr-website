@@ -16,7 +16,7 @@ Les ateliers sont des séances de travail avec inscription préalable qui peuven
 - Atelier technique dirigé par un formateur, avec un déroulé d'un sujet et pratique réelle sur les machines de participants. Par exemple, atelier de découverte de QGIS 3D, Atelier d'installation QGIS server + client web, atelier dataviz et QGIS,etc... - Atelier payant en tarif libre avec prix minimum à 20 euros
 
 
-- Atelier orienté contribution : Par exemple apprendre à traduire / documenter QGIS. Apprendre à trouver déclarer une anomalie. Découverte du workflow GIT / GITHUB etc.. Atelier payant en tarif libre avec prix minimum à 20 euros
+- Atelier orienté contribution : Par exemple apprendre à traduire / documenter QGIS. Apprendre à déclarer une anomalie. Découverte du workflow GIT / GITHUB etc.. Atelier payant en tarif libre avec prix minimum à 20 euros
 
 
 - Atelier de travail collaboratif sur des sujets de développement du groupe QGIS : Financer des outils communs. Trouver une base de financement pérenne. Recenser des besoins communs par focus technique ou thématique. etc... Atelier gratuit, avec donation libre :)
@@ -31,15 +31,15 @@ Vous pourrez également interagir avec les présentateurs via le canal de messag
 _______________________
 
 <table class="tableizer-table">
- <thead>    
+ <thead>
  <tr><th>Programme</th><th> </th><th> </th></tr>
 </thead>
  <tr class="th"><td>Horaires</td><td> </td><td>Durée (hors questions)</td></tr>
  <tr class="impair"><td>09:00</td><td>Ouverture de la journée - OSGeo-FR & Groupe QGIS FR</td><td>15 min.</td></tr>
- <tr class="pair"><td>09:15</td><td><a href="#covid-générateur-de-géométries-et-carto-geekeries-en-tous-genres---mathieu-rajerison">Covid, generateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison</a></td><td>15 min.</td></tr>
+ <tr class="pair"><td>09:15</td><td><a href="#covid-générateur-de-géométries-et-carto-geekeries-en-tous-genres---mathieu-rajerison">Covid, générateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>09:35</td><td><a href="#nouveautés-qgis--partage-de-styles-et-modèles-de-mise-en-page-via-le-hub-styles---pierre-serafini---sopreco">Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO</a></td><td>7 min.</td></tr>
- <tr class="pair"><td>09:45</td><td><a href="#enseigner-qgis-à-luniversité--exemples-des-formations-en-géographie-aménagement-et-géomatique-de-luniversité-rennes-2---boris-mericskay---université-de-rennes-2">Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2</a></td><td>15 min.</td></tr>
- <tr class="impair"><td>10:05</td><td><a href="#qgis-si---mettre-un-outil-de-cartographie-à-disposition-des-policiers-et-gendarmes---jean-de-villeneuve-régis-haubourg---gendarmerie--nationale-oslandia">QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - ST(SI)², Oslandia</a></td><td>15 min.</td></tr>
+ <tr class="pair"><td>09:45</td><td><a href="#de-la-donnée-au-terrain--qgis-un-outil-global-pour-la-prospection-archéologique-par-télédétection---alexandre-guyot---laboratoire-letg-université-rennes-2--hytech-imaging">De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging</a></td><td>15 min.</td></tr>
+ <tr class="impair"><td>10:05</td><td><a href="#qgis-si---mettre-un-outil-de-cartographie-à-disposition-des-policiers-et-gendarmes---jean-de-villeneuve-régis-haubourg---gendarmerie-nationale--oslandia">QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie nationale / Oslandia</a></td><td>15 min.</td></tr>
  <tr class="pause"><td>10:25</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
  <tr class="impair"><td>10:50</td><td><a href="#tirer-profit-de-lapi-de-qgis-dans-un-plugin---arnaud-morvan---camptocamp">Tirer profit de l'API de QGIS dans un plugin - Arnaud Morvan - CamptoCamp</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>11:00</td><td><a href="#qgeologis-visualisation-de-colonnes-stratigraphiques-et-de-séries-temporelles---sébastien-peillet---oslandia">QGeoloGIS, visualisation de colonnes stratigraphiques et de séries temporelles - Sébastien Peillet - Oslandia</a></td><td>7 min.</td></tr>
@@ -49,12 +49,12 @@ _______________________
  <tr class="pause"><td>12:10</td><td>Pause repas - Salle de discussions libres </td><td>1h50</td></tr>
  <tr class="impair"><td>14:00</td><td><a href="#les-maillages--qgis-en-4-dimensions----vincent-cloarec---lutra-consulting">Les Maillages : QGIS en 4 dimensions ! - Vincent Cloarec - Lutra Consulting</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>14:10</td><td><a href="#stocker-et-visualiser-des-images-dans-le-cloud-à-laide-du-format-cog-et-de-qgis---julien-cabieces---oslandia">Stocker et visualiser des images dans le cloud à l'aide du format COG et de QGIS - Julien Cabieces - Oslandia</a></td><td>7 min.</td></tr>
- <tr class="impair"><td>14:20</td><td><a href="#nouveautés-qgis--pointcloud-et-3d---xxx">Nouveautés QGIS : pointcloud et 3D - XXX</a></td><td>7 min.</td></tr>
+ <tr class="impair"><td>14:20</td><td><a href="#nouveautés-qgis--pointcloud-et-3d---nedjima-belgacem---lutra-consulting">Nouveautés QGIS : pointcloud et 3D - Nedjima Belgacem - Lutra Consulting</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>14:30</td><td><a href="#qfield--un-qgis-sur-le-terrain-pour-appuyer-la-mise-à-jour-du-pcrs-en-aura---lucas-mathieu---craig">QField : un QGIS sur le terrain pour appuyer la mise à jour du PCRS en AuRA - Lucas Mathieu - CRAIG</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>14:50</td><td><a href="#intégrez-vos-routines-dans-qgis---julien-waddle---camptocamp">Intégrez vos routines dans QGIS - Julien Waddle - Camptocamp</a></td><td>7 min.</td></tr>
  <tr class="pause"><td>15:00</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
  <tr class="impair"><td>15:25</td><td><a href="#viewshed-analysis-plugin-pour-qgis--retour-dexpérience---zoran-čučković---université-de-bourgogne-franche-comté">Viewshed analysis plugin pour QGIS : retour d'expérience - Zoran Čučković - Université de Bourgogne Franche-Comté</a></td><td>7 min.</td></tr>
- <tr class="pair"><td>15:35</td><td><a href="#de-la-donnée-au-terrain--qgis-un-outil-global-pour-la-prospection-archéologique-par-télédétection---alexandre-guyot---laboratoire-legt--hytech-imaging">De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LEGT & Hytech Imaging</a></td><td>15 min.</td></tr>
+ <tr class="pair"><td>15:35</td><td><a href="#enseigner-qgis-à-luniversité--exemples-des-formations-en-géographie-aménagement-et-géomatique-de-luniversité-rennes-2---boris-mericskay---université-de-rennes-2">Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>15:55</td><td><a href="#pgmetadata-une-gestion-des-métadonnées-dans-postgresql---etienne-trimaille---3liz">PgMetadata, une gestion des métadonnées dans PostgreSQL - Etienne Trimaille - 3Liz</a></td><td>7 min.</td></tr>
  <tr><td>16:05</td><td>Clôture</td><td/></tr>
 </table>
@@ -81,9 +81,9 @@ Incontournable dans les cursus universitaires, l'apprentissage de QGIS tient une
 
 _______________________
 
-### QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - ST(SI)², Oslandia
+### QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie nationale / Oslandia
 
-Le Service des Technologies et des SI de la Sécurité Intérieure ([STSI²](ST(SI)²)) a décidé de déployer des environnements QGIS pré-configurés aux policiers et gendarmes spécialisés ou de terrain. L'objectif est d'amener un outil géomatique polyvalent au plus grand nombre, sur la distribution Linux GendBuntu comme Windows.
+Le Service des Technologies et des SI de la Sécurité Intérieure (ST(SI)²) a décidé de déployer des environnements QGIS pré-configurés aux policiers et gendarmes spécialisés ou de terrain. L'objectif est d'amener un outil géomatique polyvalent au plus grand nombre, sur la distribution Linux GendBuntu comme Windows.
 Avec l'appui d'Oslandia, la démarche a été initiée par les besoins d'utilisateurs pilotes. Elle a abouti à deux profils utilisateurs, avec notamment un accès simplifié au socle SIG et un outil de localisation d’adresses. Installeurs et paquet de configuration permettent de maintenir la configuration des postes sur le long terme, et de suivre les versions de QGIS.
 
 _______________________
@@ -127,7 +127,7 @@ L'ambition de ce portail est de proposer un environment où les passionnés de Q
 Grace à QGIS Server et son moteur de styles, nous valorisons les données d'OSM avec des styles variés (clusters, svg, étiquettes en fonction de l’échelle, etc..).
 Nous évoquerons l'architecture d’ensemble ayant permis de proposer une nouvelle solution ambitieuse open source à l’échelle nationale déjà mobilisée dans plusieurs pays Africains.
 
-Lien : demo.openstreetmap.fr
+Lien : https://demo.openstreetmap.fr
 
 _______________________
 
@@ -162,7 +162,7 @@ Cette conférence propose de présenter le format COG, sa mise en œuvre sur une
 
 _______________________
 
-### Nouveautés QGIS : pointcloud et 3D - XXX
+### Nouveautés QGIS : pointcloud et 3D - Nedjima Belgacem - Lutra consulting
 
 
 _______________________
@@ -189,9 +189,9 @@ Par exemple, il est nécessaire de lancer à la main un script en Python, puis d
 
 Outre le fait que cela soit chronophage, cela nécessite de devoir installer et maintenir les versions de ses différentes briques logicielles.
 
-QGIS permet depuis longtemps de faire de l'ETL via processing, il intègre beaucoup de librairies tierces (GDAL, Grass, Saga, R, ...). 
+QGIS permet depuis longtemps de faire de l'ETL via processing, il intègre beaucoup de librairies tierces (GDAL, Grass, Saga, R, ...).
 Les dernières versions de QGIS ont mis à disposition deux grandes nouveautés:
- - pouvoir exporter les scripts en Python et de les réimporter. ( > V3) 
+ - pouvoir exporter les scripts en Python et de les réimporter. ( > V3)
  - la ligne de commande afin de lancer nos scripts de processing directement via un terminal. (>3.14)
 
  A travers cette discussion, nous verrons comment :
@@ -208,7 +208,7 @@ Avec près de 90k téléchargements, le plugin pour l’analyse de visibilité f
 
 _______________________
 
-### De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LEGT & Hytech Imaging
+### De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging
 
 Dans un contexte global d’augmentation des pressions d’origine naturelle ou humaine, le patrimoine archéologique est de plus en plus menacé. Sa préservation passe par une meilleure connaissance des sites et notamment un enrichissement de la « carte archéologique », inventaire national sur lequel s’appuient les missions de protection et de valorisation.
 
