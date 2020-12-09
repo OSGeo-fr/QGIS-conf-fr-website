@@ -41,7 +41,6 @@ Les ateliers sont des séances de travail avec inscription préalable qui peuven
     	<td><b>14h - 15h30</b>   <br>Organisation et avenir du groupe QGIS-FR</td><td> </td></tr>
     <tr class="atelier"><td><b>15h45 - 17h15</b>  <br>Expressions avancées</td><td></td></tr>
 </table>
->>>>>>> add programme ateliers
 
 
 ---
