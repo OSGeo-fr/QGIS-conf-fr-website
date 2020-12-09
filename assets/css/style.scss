@@ -192,3 +192,33 @@ table.tableizer-table {
     color: #FFF;
     font-weight: bold;
 }
+
+table.atelier-table {
+	/* font-size: 12px; */
+	border: 1px solid #CCC;
+    border-spacing: 0 15px;
+    text-align:center
+}
+.atelier-table  th {
+    background-color: #93b023; 
+    color: #FFF;
+    padding: 1rem;
+    font-size: 2rem;
+
+}
+.atelier-table td{
+
+    border: 0px solid #CCC;
+    text-align:center
+}
+.atelier{
+    margin: 3px;
+    padding: 2rem;
+} 
+
+.pause-atelier{
+    color: #FFF;
+    background-color: #93b023;
+    font-size: 2rem;
+    
+} 
