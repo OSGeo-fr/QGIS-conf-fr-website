@@ -28,17 +28,23 @@ Les ateliers sont des séances de travail avec inscription préalable qui peuven
 	<thead>    
 	<th>Salle 1</th><th>Salle 2</th><th>Salle 3</th><th>Salle 4</th>
    </thead>
-	<tr class="atelier"><td rowspan="2"><b>09:00 - 12h15</b><br> Répondre aux DT-DICT avec QGIS 3</td><td rowspan="2"><b>09h - 12h15</b> <br> Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</td><td><b>9h - 10h30</b>  <br>Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</td><td><b>9h - 10h30</b>  <br>De la mise en page au rapport d'impression, en passant par l'atlas </td></tr>
-    <tr class="atelier"><td><b>10h45 - 12h15</b> <br>Github, comment entrer dans le projet QGIS et participer à la communauté ?</td><td></td</tr>
-    <tr class="pause-atelier"><td colspan="4"></tdrowspan>Pause de midi</td></tr>
-    <tr class="atelier"><td rowspan="2"><b>14h - 17h15</b><br> Répondre aux DT-DICT avec QGIS 3</td><td rowspan="2"><b>14h - 17h15</b>  <br> Publication d'un projet QGIS sur le web avec Lizmap</td><td><b>14h - 15h30</b>   <br>Organisation et avenir du groupe QGIS-FR</td><td> </td></tr>
-    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br>Expressions avancées</td><td></td</tr>
-
+	<tr class="atelier">
+		<td rowspan="2"><b>09:00 - 12h15</b><br> Répondre aux DT-DICT avec QGIS 3</td>
+		<td rowspan="2"><b>09h - 12h15</b> <br> Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</td>
+		<td><b>9h - 10h30</b>  <br>Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</td>
+		<td><b>9h - 10h30</b>  <br>De la mise en page au rapport d'impression, en passant par l'atlas </td></tr>
+    <tr class="atelier"><td><b>10h45 - 12h15</b> <br>Github, comment entrer dans le projet QGIS et participer à la communauté ?</td><td></td></tr>
+    <tr class="pause-atelier"><td colspan="4"><b>Pause de midi</b></td></tr>
+    <tr class="atelier">
+    	<td rowspan="2"><b>14h - 17h15</b><br> Répondre aux DT-DICT avec QGIS 3</td>
+    	<td rowspan="2"><b>14h - 17h15</b>  <br> Publication d'un projet QGIS sur le web avec Lizmap</td>
+    	<td><b>14h - 15h30</b>   <br>Organisation et avenir du groupe QGIS-FR</td><td> </td></tr>
+    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br>Expressions avancées</td><td></td></tr>
 </table>
 >>>>>>> add programme ateliers
 
 
-
+---
 
 ## Mercredi 16 décembre - Journée conférence en distanciel
 
