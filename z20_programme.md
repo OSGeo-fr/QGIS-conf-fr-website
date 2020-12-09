@@ -147,7 +147,7 @@ _______________________
 
 À la croisée des couches vectorielles et rasters et avec une dimension temporelle, les maillages permettent une tout autre utilisation de QGIS pour la visualisation et l'analyse de données géographiques.
 
-La flexibilité spatiale des maillages permet une précision vectorielle en 3 dimensions et une représentation comparable aux rasters avec en plus les champs vectoriels et la temporalité, et cela avec une économie de taille des données.
+La flexibilité spatiale des maillages permet une précision vectorielle en 3 dimensions et une représentation comparable aux rasters tout en bénéficiant des champs vectoriels, de la temporalité et d'une taille de données réduite.
 
 Les données exploitables peuvent être des données climatiques/météorologiques/atmosphériques, des résultats de modèles hydrodynamiques ou encore de Modèle Numérique de Terrain par triangulation.
 
