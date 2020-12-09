@@ -83,7 +83,7 @@ _______________________
 
 ### QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - ST(SI)², Oslandia
 
-Le Service des Technologies et des SI de la Sécurité Intérieure ([STSI²](ST(SI)²)) a décidé de déployer des environnements QGIS pré-configurés aux policiers et gendarmes spécialisés ou de terrain. L'objectif est d'amener un outil géomatique polyvalent au plus grand nombre, sur la distribution Linux GendBuntu comme Windows.
+Le Service des Technologies et des SI de la Sécurité Intérieure ([STSI²](https://fr.wikipedia.org/wiki/Service_des_technologies_et_des_syst%C3%A8mes_d%27information_de_la_S%C3%A9curit%C3%A9_int%C3%A9rieure) a décidé de déployer des environnements QGIS pré-configurés aux policiers et gendarmes spécialisés ou de terrain. L'objectif est d'amener un outil géomatique polyvalent au plus grand nombre, sur la distribution Linux GendBuntu comme Windows.
 Avec l'appui d'Oslandia, la démarche a été initiée par les besoins d'utilisateurs pilotes. Elle a abouti à deux profils utilisateurs, avec notamment un accès simplifié au socle SIG et un outil de localisation d’adresses. Installeurs et paquet de configuration permettent de maintenir la configuration des postes sur le long terme, et de suivre les versions de QGIS.
 
 _______________________
