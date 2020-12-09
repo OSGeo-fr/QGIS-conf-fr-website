@@ -9,7 +9,7 @@ La journée de conférence du 16 décembre ne nécessite pas d'inscription, les 
 
 ____________
 
-Les inscriptions pour les ateliers du mardi 15 décembre sont désormais ouvertes ! 
+Les inscriptions pour les ateliers du mardi 15 décembre sont désormais ouvertes (jusqu'au 14 décembre 20 h) ! 
 
 Pour rappel le programme est en ligne sur la page [programme](/z20_programme.html)
 
