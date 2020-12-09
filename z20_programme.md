@@ -39,7 +39,7 @@ _______________________
  <tr class="pair"><td>09:15</td><td><a href="#covid-générateur-de-géométries-et-carto-geekeries-en-tous-genres---mathieu-rajerison">Covid, generateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>09:35</td><td><a href="#nouveautés-qgis--partage-de-styles-et-modèles-de-mise-en-page-via-le-hub-styles---pierre-serafini---sopreco">Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>09:45</td><td><a href="#enseigner-qgis-à-luniversité--exemples-des-formations-en-géographie-aménagement-et-géomatique-de-luniversité-rennes-2---boris-mericskay---université-de-rennes-2">Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2</a></td><td>15 min.</td></tr>
- <tr class="impair"><td>10:05</td><td><a href="#qgis-si---mettre-un-outil-de-cartographie-à-disposition-des-policiers-et-gendarmes---jean-de-villeneuve-régis-haubourg---gendarmerie--nationale-oslandia">QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie  Nationale, Oslandia</a></td><td>15 min.</td></tr>
+ <tr class="impair"><td>10:05</td><td><a href="#qgis-si---mettre-un-outil-de-cartographie-à-disposition-des-policiers-et-gendarmes---jean-de-villeneuve-régis-haubourg---gendarmerie--nationale-oslandia">QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - ST(SI)², Oslandia</a></td><td>15 min.</td></tr>
  <tr class="pause"><td>10:25</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
  <tr class="impair"><td>10:50</td><td><a href="#tirer-profit-de-lapi-de-qgis-dans-un-plugin---arnaud-morvan---camptocamp">Tirer profit de l'API de QGIS dans un plugin - Arnaud Morvan - CamptoCamp</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>11:00</td><td><a href="#qgeologis-visualisation-de-colonnes-stratigraphiques-et-de-séries-temporelles---sébastien-peillet---oslandia">QGeoloGIS, visualisation de colonnes stratigraphiques et de séries temporelles - Sébastien Peillet - Oslandia</a></td><td>7 min.</td></tr>
@@ -81,9 +81,9 @@ Incontournable dans les cursus universitaires, l'apprentissage de QGIS tient une
 
 _______________________
 
-### QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie  Nationale, Oslandia
+### QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - ST(SI)², Oslandia
 
-Le Service des Technologies et des SI de la Sécurité Intérieure (STSI²) a décidé de déployer des environnements QGIS pré-configurés aux policiers et gendarmes spécialisés ou de terrain. L'objectif est d'amener un outil géomatique polyvalent au plus grand nombre, sur la distribution Linux GendBuntu comme Windows.
+Le Service des Technologies et des SI de la Sécurité Intérieure ([STSI²](ST(SI)²)) a décidé de déployer des environnements QGIS pré-configurés aux policiers et gendarmes spécialisés ou de terrain. L'objectif est d'amener un outil géomatique polyvalent au plus grand nombre, sur la distribution Linux GendBuntu comme Windows.
 Avec l'appui d'Oslandia, la démarche a été initiée par les besoins d'utilisateurs pilotes. Elle a abouti à deux profils utilisateurs, avec notamment un accès simplifié au socle SIG et un outil de localisation d’adresses. Installeurs et paquet de configuration permettent de maintenir la configuration des postes sur le long terme, et de suivre les versions de QGIS.
 
 _______________________
