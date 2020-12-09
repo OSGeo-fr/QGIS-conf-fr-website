@@ -63,6 +63,10 @@ Composée de spécialistes de l’Open Source, Camptocamp est une entreprise inn
 
 Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection. Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu’elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel “technicien supérieur en SIG” et certificat de qualification professionnelle “Géomaticien”), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source.
 
+[![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
+
+Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier.
+
 ---
 
 
