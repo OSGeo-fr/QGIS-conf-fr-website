@@ -264,7 +264,7 @@ Cet atelier permettra :
 
 Après cette découverte, un temps d'échange avec les développeurs permettra aux participants de faire des critiques et suggestions sur l'interface et les fonctionnalités.
 
-**Animateurs** : Jean-Marie Arsac (Azimuth) / Loïc Bartoletti (Oslandia)
+**Animateurs** : Jean-Marie Arsac (Azimut) / Loïc Bartoletti (Oslandia)
 
 **Durée** :  3h (une session le matin, une session l'après midi)
 
