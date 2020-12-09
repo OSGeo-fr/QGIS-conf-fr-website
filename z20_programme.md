@@ -19,7 +19,25 @@ Les ateliers sont des séances de travail avec inscription préalable qui peuven
 - Atelier orienté contribution : Par exemple apprendre à traduire / documenter QGIS. Apprendre à déclarer une anomalie. Découverte du workflow GIT / GITHUB etc.. Atelier payant en tarif libre avec prix minimum à 20 euros
 
 
-- Atelier de travail collaboratif sur des sujets de développement du groupe QGIS : Financer des outils communs. Trouver une base de financement pérenne. Recenser des besoins communs par focus technique ou thématique. etc... Atelier gratuit, avec donation libre :)
+- Atelier de travail collaboratif gratuit sur des sujets de développement du groupe QGIS : Financer des outils communs. Trouver une base de financement pérenne. Recenser des besoins communs par focus technique ou thématique. etc... Atelier gratuit, avec donation libre :)
+
+
+
+    
+<table class="atelier-table">
+	<thead>    
+	<th>Salle 1</th><th>Salle 2</th><th>Salle 3</th><th>Salle 4</th>
+   </thead>
+	<tr class="atelier"><td rowspan="2"><b>09:00 - 12h15</b><br> Répondre aux DT-DICT avec QGIS 3</td><td rowspan="2"><b>09h - 12h15</b> <br> Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</td><td><b>9h - 10h30</b>  <br>Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</td><td><b>9h - 10h30</b>  <br>De la mise en page au rapport d'impression, en passant par l'atlas </td></tr>
+    <tr class="atelier"><td><b>10h45 - 12h15</b> <br>Github, comment entrer dans le projet QGIS et participer à la communauté ?</td><td></td</tr>
+    <tr class="pause-atelier"><td colspan="4"></tdrowspan>Pause de midi</td></tr>
+    <tr class="atelier"><td rowspan="2"><b>14h - 17h15</b><br> Répondre aux DT-DICT avec QGIS 3</td><td rowspan="2"><b>14h - 17h15</b>  <br> Publication d'un projet QGIS sur le web avec Lizmap</td><td><b>14h - 15h30</b>   <br>Organisation et avenir du groupe QGIS-FR</td><td> </td></tr>
+    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br>Expressions avancées</td><td></td</tr>
+
+</table>
+>>>>>>> add programme ateliers
+
+
 
 
 ## Mercredi 16 décembre - Journée conférence en distanciel
