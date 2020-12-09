@@ -31,14 +31,14 @@ Vous pourrez également interagir avec les présentateurs via le canal de messag
 _______________________
 
 <table class="tableizer-table">
- <thead>    
+ <thead>
  <tr><th>Programme</th><th> </th><th> </th></tr>
 </thead>
  <tr class="th"><td>Horaires</td><td> </td><td>Durée (hors questions)</td></tr>
  <tr class="impair"><td>09:00</td><td>Ouverture de la journée - OSGeo-FR & Groupe QGIS FR</td><td>15 min.</td></tr>
  <tr class="pair"><td>09:15</td><td><a href="#covid-générateur-de-géométries-et-carto-geekeries-en-tous-genres---mathieu-rajerison">Covid, generateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>09:35</td><td><a href="#nouveautés-qgis--partage-de-styles-et-modèles-de-mise-en-page-via-le-hub-styles---pierre-serafini---sopreco">Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO</a></td><td>7 min.</td></tr>
- <tr class="pair"><td>09:45</td><td><a href="#enseigner-qgis-à-luniversité--exemples-des-formations-en-géographie-aménagement-et-géomatique-de-luniversité-rennes-2---boris-mericskay---université-de-rennes-2">Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2</a></td><td>15 min.</td></tr>
+ <tr class="pair"><td>09:45</td><td><a href="#de-la-donnée-au-terrain--qgis-un-outil-global-pour-la-prospection-archéologique-par-télédétection---alexandre-guyot---laboratoire-letg-université-rennes-2--hytech-imaging">De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>10:05</td><td><a href="#qgis-si---mettre-un-outil-de-cartographie-à-disposition-des-policiers-et-gendarmes---jean-de-villeneuve-régis-haubourg---gendarmerie--nationale-oslandia">QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - ST(SI)², Oslandia</a></td><td>15 min.</td></tr>
  <tr class="pause"><td>10:25</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
  <tr class="impair"><td>10:50</td><td><a href="#tirer-profit-de-lapi-de-qgis-dans-un-plugin---arnaud-morvan---camptocamp">Tirer profit de l'API de QGIS dans un plugin - Arnaud Morvan - CamptoCamp</a></td><td>7 min.</td></tr>
@@ -54,7 +54,7 @@ _______________________
  <tr class="impair"><td>14:50</td><td><a href="#intégrez-vos-routines-dans-qgis---julien-waddle---camptocamp">Intégrez vos routines dans QGIS - Julien Waddle - Camptocamp</a></td><td>7 min.</td></tr>
  <tr class="pause"><td>15:00</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
  <tr class="impair"><td>15:25</td><td><a href="#viewshed-analysis-plugin-pour-qgis--retour-dexpérience---zoran-čučković---université-de-bourgogne-franche-comté">Viewshed analysis plugin pour QGIS : retour d'expérience - Zoran Čučković - Université de Bourgogne Franche-Comté</a></td><td>7 min.</td></tr>
- <tr class="pair"><td>15:35</td><td><a href="#de-la-donnée-au-terrain--qgis-un-outil-global-pour-la-prospection-archéologique-par-télédétection---alexandre-guyot---laboratoire-legt--hytech-imaging">De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LEGT & Hytech Imaging</a></td><td>15 min.</td></tr>
+ <tr class="pair"><td>15:35</td><td><a href="#enseigner-qgis-à-luniversité--exemples-des-formations-en-géographie-aménagement-et-géomatique-de-luniversité-rennes-2---boris-mericskay---université-de-rennes-2">Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>15:55</td><td><a href="#pgmetadata-une-gestion-des-métadonnées-dans-postgresql---etienne-trimaille---3liz">PgMetadata, une gestion des métadonnées dans PostgreSQL - Etienne Trimaille - 3Liz</a></td><td>7 min.</td></tr>
  <tr><td>16:05</td><td>Clôture</td><td/></tr>
 </table>
@@ -189,9 +189,9 @@ Par exemple, il est nécessaire de lancer à la main un script en Python, puis d
 
 Outre le fait que cela soit chronophage, cela nécessite de devoir installer et maintenir les versions de ses différentes briques logicielles.
 
-QGIS permet depuis longtemps de faire de l'ETL via processing, il intègre beaucoup de librairies tierces (GDAL, Grass, Saga, R, ...). 
+QGIS permet depuis longtemps de faire de l'ETL via processing, il intègre beaucoup de librairies tierces (GDAL, Grass, Saga, R, ...).
 Les dernières versions de QGIS ont mis à disposition deux grandes nouveautés:
- - pouvoir exporter les scripts en Python et de les réimporter. ( > V3) 
+ - pouvoir exporter les scripts en Python et de les réimporter. ( > V3)
  - la ligne de commande afin de lancer nos scripts de processing directement via un terminal. (>3.14)
 
  A travers cette discussion, nous verrons comment :
@@ -208,7 +208,7 @@ Avec près de 90k téléchargements, le plugin pour l’analyse de visibilité f
 
 _______________________
 
-### De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LEGT & Hytech Imaging
+### De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging
 
 Dans un contexte global d’augmentation des pressions d’origine naturelle ou humaine, le patrimoine archéologique est de plus en plus menacé. Sa préservation passe par une meilleure connaissance des sites et notamment un enrichissement de la « carte archéologique », inventaire national sur lequel s’appuient les missions de protection et de valorisation.
 
