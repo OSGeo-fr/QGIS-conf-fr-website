@@ -333,7 +333,7 @@ Prêt à mettre la main à la pâte, l'utilisateur ne sait pas toujours par où 
 
 On cherchera à démystifier la plateforme afin que chacun sache comment y participer :
 
-- déclaration et triage de bug
+- déclaration et triage de bugs
 - fonctionnement du calendrier de sortie
 - contributions à la documentation
 
