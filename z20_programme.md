@@ -361,7 +361,7 @@ QGIS a musclé son jeu concernant la mise en page. Cet atelier permettra aux nou
 - geopdf
 
 
-**Animateurs** : Sébastien Peillet / Harrissou Sant-anna
+**Animateurs** : Sébastien Peillet (Oslandia) / Harrissou Sant-anna (CAUE 49)
 
 **Durée** :  1h30 
 
