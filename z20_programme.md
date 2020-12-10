@@ -22,6 +22,7 @@ Les ateliers sont des séances de travail avec inscription préalable qui peuven
 - Atelier de travail collaboratif gratuit sur des sujets de développement du groupe QGIS : Financer des outils communs. Trouver une base de financement pérenne. Recenser des besoins communs par focus technique ou thématique. etc... Atelier gratuit, avec donation libre :)
 
 
+#### Les inscriptions sont **ouvertes** sur la [page inscriptions](/z25_inscription.html) !
 
     
 <table class="atelier-table">
