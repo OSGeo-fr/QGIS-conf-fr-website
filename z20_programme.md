@@ -258,7 +258,7 @@ Le plugin DICT initié par Loïc Bartoletti (Oslandia) alors à la mairie de Meg
 Cet atelier permettra :
 
 - configuration
-- paramétrage de la synchronisation avec une plate-forme de téléchargement syncthing)
+- paramétrage de la synchronisation avec une plate-forme de téléchargement (syncthing)
 - utilisation (création folios/édition CERFA/création plans PDF/envoi mail)
 
 Après cette découverte, un temps d'échange avec les développeurs permettra aux participants de faire des critiques et suggestions sur l'interface et les fonctionnalités.
@@ -267,7 +267,7 @@ Après cette découverte, un temps d'échange avec les développeurs permettra a
 
 **Durée** :  3h (une session le matin, une session l'après midi)
 
-**Prérequis :** 
+**Prérequis** : 
 
 * utilisation basique de QGIS
 * savoir installer un logiciel et utiliser un éditeur de texte
@@ -275,14 +275,14 @@ Après cette découverte, un temps d'échange avec les développeurs permettra a
 * être administrateur du poste (installation Syncthing)
 * (facultatif) avoir un outil de prise en main à distance permettrait éventuellement une tele-assistance
 
-**Nombre de places:** 16
+**Nombre de places** : 16
 
 ### Le Modeleur graphique - fonctionnement, nouveautés, trucs et astuces
 
 Comment prendre en main le modeleur graphique pour créer une chaine de traitement qui automatisera vos process répétitifs? Quels algorithmes disponibles? 
 
 
-**Animateurs** : Marjorie FANGAIN (Keolis) / Pierre SERATINI
+**Animateurs** : Marjorie FANGAIN (Keolis) / Pierre SERAFINI (Sopreco)
 
 **Durée** :  1h30
 
@@ -290,7 +290,7 @@ Comment prendre en main le modeleur graphique pour créer une chaine de traiteme
 * Utilisation basique de QGIS
 * Disposer d'un PC avec QGIS installé (idéalement en version 3.10)
 
-**Nombre de places:** 16
+**Nombre de places** : 16
 
 ### Organisation et avenir du groupe QGIS-FR 
 
@@ -310,17 +310,18 @@ Le groupe organise depuis 7 ans les rencontres QGIS utilisateurs et constate une
 L'objectif de cet atelier est d'avancer sur ces questions et d'établir un plan d'action commun.
 
 
-**Animateur** : Régis Haubourg (OSGeo-FR) / Marjorie FANGAIN
+**Animateurs** : Régis Haubourg (OSGeo-FR) / Marjorie FANGAIN (Keolis)
 
 **Durée** :  1h30 
 
-**Prérequis :** 
-*Avoir envie de s'impliquer dans la vie du groupe QGIS, ou avoir des objectifs de faire contribuer sa structure. 
-*Réfléchir à des actions simples et pragmatiques. 
-*Bonne humeur obligatoire!
+**Prérequis** :
+
+* Avoir envie de s'impliquer dans la vie du groupe QGIS, ou avoir des objectifs de faire contribuer sa structure. 
+* Réfléchir à des actions simples et pragmatiques. 
+* Bonne humeur obligatoire!
 
 
-**Nombre de places:** 16
+**Nombre de places** : 16
 
 ### Github, comment entrer dans le projet QGIS et participer à la communauté
 
@@ -338,9 +339,9 @@ On cherchera à démystifier la plateforme afin que chacun sache comment y parti
 - contributions à la documentation
 
 
-**Animateur** : Sébastien Peillet (Oslandia)
+**Animateur** : Sébastien Peillet (Oslandia) / Harrissou Sant-Anna (Groupe Utilisateurs QGIS Francophones)
 
-**Durée** :  1h30 
+**Durée** : 1h30 
 
 **Prérequis :** 
 - ne pas avoir peur de l'anglais	
@@ -348,7 +349,7 @@ On cherchera à démystifier la plateforme afin que chacun sache comment y parti
 - apporter sa liste de bugs constatés
 - un compte sur la plateforme GitHub
 
-**Nombre de places:** 16
+**Nombre de places** : 16
 
 ### De la mise en page au rapport d'impression, en passant par l'atlas 
 
@@ -364,12 +365,12 @@ QGIS a musclé son jeu concernant la mise en page. Cet atelier permettra aux nou
 
 **Durée** :  1h30 
 
-**Prérequis :** 
+**Prérequis** : 
 - Connaissance basique de QGIS (ouvrir les couches, changer la symbologie)
 - QGIS (version 3.16 recommandée)
 - un projet comportant des couches de données pouvant s'imbriquer (ex : départements > communes), un jeu de données test sera fourni le cas échéant
 
-**Nombre de places:** 16
+**Nombre de places** : 16
 
 ### Publication d'un projet QGIS sur le web avec Lizmap
 
@@ -382,9 +383,10 @@ Pendant cet atelier, nous verrons la réalisation d'un projet QGIS avec :
 - Mise en page PDF (sans et avec atlas)
 
 **Animateur** : Etienne Trimaille (3Liz)
+
 **Durée** :  3h 
 
-**Prérequis :** 
+**Prérequis** : 
 * Savoir manipuler QGIS (la création d'une mise en page PDF par exemple)
 * QGIS 3.10
 * Logiciel FTP client
@@ -395,7 +397,7 @@ Pendant cet atelier, nous verrons la réalisation d'un projet QGIS avec :
 * Il faudra avoir un logiciel FTP client, tel que ""Filezilla Client"" https://filezilla-project.org/ pour le transfert des fichiers vers le serveur.
 * On vous communiquera avant la formation les identifiants FTP et de la base PostGIS.
 
-**Nombre de places:** 6
+**Nombre de places** : 6
 
 ### Expressions avancées 
 
@@ -403,13 +405,14 @@ Les expressions se cachent un peu partout dans QGIS. Elles permettent de modifie
 
 
 **Animateur** : DHONT René-Luc (3Liz)
+
 **Durée** :  1h30 
 
-**Prérequis :** 
+**Prérequis** : 
 *Connaître QGIS	
 *Disposer de QGIS 3.16 sur son poste
 
-**Nombre de places:** 8
+**Nombre de places** : 8
 
 
 ### Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs
@@ -423,9 +426,10 @@ Enfin, QGIS en tant qu'outil open source est totalement configurable et vous per
 Cet atelier vous permettra d'aborder une proposition de configuration simplifiant les cas d'utilisations les plus fréquents, et abordera les méthodes de déploiement de ces configurations dans votre organisation.
 
 **Animateur** : Régis Haubourg (Oslandia)
+
 **Durée** :  3h00 
 
-**Prérequis :** 
+**Prérequis** : 
 * Être en posture d'administrer un SIG pour des utilisateurs
 * Connaitre les options QGIS et la logique d'extension. 
 * QGIS 3.x avec les droits d'administration sur votre poste. 
