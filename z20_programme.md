@@ -73,7 +73,7 @@ _______________________
  <tr class="pause"><td>12:10</td><td>Pause repas - Salle de discussions libres </td><td>1h50</td></tr>
  <tr class="impair"><td>14:00</td><td><a href="#les-maillages--qgis-en-4-dimensions----vincent-cloarec---lutra-consulting">Les Maillages : QGIS en 4 dimensions ! - Vincent Cloarec - Lutra Consulting</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>14:10</td><td><a href="#stocker-et-visualiser-des-images-dans-le-cloud-à-laide-du-format-cog-et-de-qgis---julien-cabieces---oslandia">Stocker et visualiser des images dans le cloud à l'aide du format COG et de QGIS - Julien Cabieces - Oslandia</a></td><td>7 min.</td></tr>
- <tr class="impair"><td>14:20</td><td><a href="#nouveautés-qgis--pointcloud-et-3d---nedjima-belgacem---lutra-consulting">Nouveautés QGIS : pointcloud et 3D - Nedjima Belgacem - Lutra Consulting</a></td><td>7 min.</td></tr>
+ <tr class="impair"><td>14:20</td><td><a href="#nouveautés-qgis--pointcloud-et-3d---belgacem-nedjima---lutra-consulting">Nouveautés QGIS : pointcloud et 3D - Belgacem Nedjima - Lutra Consulting</a></td><td>7 min.</td></tr>
  <tr class="pair"><td>14:30</td><td><a href="#qfield--un-qgis-sur-le-terrain-pour-appuyer-la-mise-à-jour-du-pcrs-en-aura---lucas-mathieu---craig">QField : un QGIS sur le terrain pour appuyer la mise à jour du PCRS en AuRA - Lucas Mathieu - CRAIG</a></td><td>15 min.</td></tr>
  <tr class="impair"><td>14:50</td><td><a href="#intégrez-vos-routines-dans-qgis---julien-waddle---camptocamp">Intégrez vos routines dans QGIS - Julien Waddle - Camptocamp</a></td><td>7 min.</td></tr>
  <tr class="pause"><td>15:00</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
@@ -186,8 +186,11 @@ Cette conférence propose de présenter le format COG, sa mise en œuvre sur une
 
 _______________________
 
-### Nouveautés QGIS : pointcloud et 3D - Nedjima Belgacem - Lutra consulting
+### Nouveautés QGIS : pointcloud et 3D - Belgacem Nedjima - Lutra consulting
 
+Depuis QGIS 3, la visualization 3D est devenue une grande fonctionnalité dans QGIS et elle est en constante amélioration.
+Grace a nombreuses campagnes de crowdfunding et des projets comme Google Summer of Code, de nombreuses fonctionalités ont été ajoutés à QGIS 3D viewer.
+Notamment, les nuages de points dans QGIS est une nouvelle fonctionalité qui sera disponible en QGIS 3.18 et qui va pérmettre d’analyser et visualiser ces données en 2D et 3D avec QGIS. 
 
 _______________________
 
