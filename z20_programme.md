@@ -232,7 +232,6 @@ Avec près de 90k téléchargements, le plugin pour l’analyse de visibilité f
 _______________________
 
 ### De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging
-</a>
 Depuis quelques années de nouveaux instruments aéroportés, tels que les capteurs LiDAR ou les capteurs hyperspectraux, offrent la possibilité de révéler des anomalies topographiques ou spectrales sur des territoires (forestiers ou immergés) jusqu’alors difficilement accessibles par prospection pédestre ou prospection aérienne à vue. Ces approches par télédétection permettent, au travers de méthodes de visualisation et d’analyse, de mettre en évidence des variations de surface pouvant mener à l’identification et la caractérisation de sites archéologiques.
 
 Des travaux de recherche appliquée sur l’apport de la télédétection à la prospection archéologique sont actuellement menés par la société Hytech-Imaging et le laboratoire LETG-Rennes avec le soutien du Service régional de l’archéologie et la Région Bretagne. Dans ce cadre, QGIS joue un rôle central comme outil de traitement et visualisation des données. Au travers d’exemples, l’usage de QGIS pour l'analyse des données (QGIS Desktop, processing Toolbox) et leur valorisation cartographique (composeur / atlas) sera présenté. L’approche terrain, indissociable de l’archéologie, sera également exposée avec l’utilisation de QField comme outil d’aide à l’interprétation sur le terrain.
