@@ -286,7 +286,7 @@ Comment prendre en main le modeleur graphique pour créer une chaine de traiteme
 
 **Durée** :  1h30
 
-**Prérequis :** 
+**Prérequis** : 
 * Utilisation basique de QGIS
 * Disposer d'un PC avec QGIS installé (idéalement en version 3.10)
 
