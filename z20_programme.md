@@ -304,7 +304,7 @@ Le groupe organise depuis 7 ans les rencontres QGIS utilisateurs et constate une
 * Comment attirer de nouveaux contributeurs et renouveler les équipes? 
 * Quelles formules pour les rencontres utilisateurs en ces périodes de travail distant? 
 * Comment susciter et accompagner l'émergence de groupes locaux et autres meetup ? 
-* Quelle formules pour 2021? Plus de sessions courtes? 
+* Quelles formules pour 2021? Plus de sessions courtes? 
 * Organiser une rencontre développeurs ?
 * Comment ne pas dévier toutes les ressources vers QGIS, alors que les projets sous jacents (GDAL /OGR / Proj ) ou associés nécessitent également de l'appui ?
 
