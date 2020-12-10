@@ -389,8 +389,8 @@ Pendant cet atelier, nous verrons la réalisation d'un projet QGIS avec :
 * QGIS 3.10
 * Logiciel FTP client
 
-* Lire les exigences techniques logiciel"	"* L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
-* Mais si vous souhaitez utiliser votre propre instance Lizmap, il existe une machine virtuelle Vagrant et une solution Docker que vous pouvez utiliser sur votre propre ordinateur (même sous Windows), mais son utilisation ne sera pas couverte par l'atelier. Nous vous recommandons l'utilisation de l'instance qui sera mise en place pour les besoins de l'atelier.
+* Lire les exigences techniques logiciel
+* L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.  Mais si vous souhaitez utiliser votre propre instance Lizmap, il existe une machine virtuelle Vagrant et une solution Docker que vous pouvez utiliser sur votre propre ordinateur (même sous Windows), mais son utilisation ne sera pas couverte par l'atelier. Nous vous recommandons l'utilisation de l'instance qui sera mise en place pour les besoins de l'atelier.
 * On recommande d'avoir QGIS version 3.10 LTR sur son ordinateur. S'il s'agit d'une autre version (QGIS >= 3.4 a minima), on ne peut pas garantir le bon déroulement de la publication sur le web, car l'instance Lizmap utilisera QGIS Serveur 3.10.
 * Il faudra avoir un logiciel FTP client, tel que ""Filezilla Client"" https://filezilla-project.org/ pour le transfert des fichiers vers le serveur.
 * On vous communiquera avant la formation les identifiants FTP et de la base PostGIS.
