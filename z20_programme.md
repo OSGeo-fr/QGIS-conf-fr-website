@@ -188,8 +188,8 @@ _______________________
 
 ### Nouveautés QGIS : pointcloud et 3D - Belgacem Nedjima - Lutra consulting
 
-Depuis QGIS 3, la visualization 3D est devenue une grande fonctionnalité dans QGIS et elle est en constante amélioration.
-Grace a nombreuses campagnes de crowdfunding et des projets comme Google Summer of Code, de nombreuses fonctionalités ont été ajoutés à QGIS 3D viewer.
+Depuis QGIS 3, la visualisation 3D est devenue une grande fonctionnalité dans QGIS et elle est en constante amélioration.
+Grace a nombreuses campagnes de crowdfunding et des projets comme Google Summer of Code, de nombreuses fonctionalités ont été ajoutées au visualiseur 3D de QGIS.
 Notamment, les nuages de points dans QGIS est une nouvelle fonctionalité qui sera disponible en QGIS 3.18 et qui va pérmettre d’analyser et visualiser ces données en 2D et 3D avec QGIS. 
 
 _______________________
