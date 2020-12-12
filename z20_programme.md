@@ -8,16 +8,15 @@ menu: header
 
 ## Mardi 15 décembre - [Ateliers / Workshops] en distanciel
 
-**Les horaires sont 9h - 16h** (l'heure de fin pourra être repoussée si nécessaire).
+**Les horaires sont 9h - 17h**.
 
 Les ateliers sont des séances de travail avec inscription préalable qui peuvent prendre plusieurs formes :
 
 
-- Atelier technique dirigé par un formateur, avec un déroulé d'un sujet et pratique réelle sur les machines de participants. Par exemple, atelier de découverte de QGIS 3D, Atelier d'installation QGIS server + client web, atelier dataviz et QGIS,etc... - Atelier payant en tarif libre avec prix minimum à 20 euros
+- Atelier technique dirigé par un formateur, avec un déroulé d'un sujet et pratique réelle sur les machines de participants. Par exemple, atelier de découverte de QGIS 3D, Atelier d'installation QGIS server + client web, atelier dataviz et QGIS,etc... - Atelier payant en tarif libre avec prix minimum à 10 euros pour 1h30 et 20 euros pour 3h.
 
 
-- Atelier orienté contribution : Par exemple apprendre à traduire / documenter QGIS. Apprendre à déclarer une anomalie. Découverte du workflow GIT / GITHUB etc.. Atelier payant en tarif libre avec prix minimum à 20 euros
-
+- Atelier orienté contribution : Par exemple apprendre à traduire / documenter QGIS. Apprendre à déclarer une anomalie. Découverte du workflow GIT / GITHUB etc.. Atelier payant en tarif libre avec prix minimum à 10 euros pour 1h30 et 20 euros pour 3h.
 
 - Atelier de travail collaboratif gratuit sur des sujets de développement du groupe QGIS : Financer des outils communs. Trouver une base de financement pérenne. Recenser des besoins communs par focus technique ou thématique. etc... Atelier gratuit, avec donation libre :)
 
