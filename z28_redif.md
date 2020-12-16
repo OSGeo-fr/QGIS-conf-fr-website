@@ -7,7 +7,7 @@ menu: header
 
 Pour revoir les présentations des intervenants à la journée de conférences, vous pouvez les retrouver ci-dessous en vidéos.
 
-## Conférence du matin
+# Conférence du matin
 _______________________
 
 ### Covid, générateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison (15 min)
@@ -66,7 +66,7 @@ Lien :
 _________________
 
 
-## Conférence de l'après-midi
+# Conférence de l'après-midi
 
 _______________________
 
