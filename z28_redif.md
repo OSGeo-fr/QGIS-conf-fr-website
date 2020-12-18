@@ -12,8 +12,7 @@ _______________________
 
 ### Covid, générateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison (15 min)
 
-Lien : 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ccSzXIjoRnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 _______________________
 
 ### Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO (7 min)
