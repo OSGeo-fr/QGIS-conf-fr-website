@@ -41,7 +41,7 @@ _______________________
 
 ### QGeoloGIS, visualisation de colonnes stratigraphiques et de séries temporelles - Sébastien Peillet - Oslandia (7 min)
 
-Lien :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oNUXMobKZ0o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _______________________
 
@@ -53,13 +53,13 @@ _______________________
 
 ### QGIS, moteur du portail des données d'OpenStreetMap France - Jean-Louis Zimmermann - OSMdata (15 min)
 
-Lien :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x_i6Sb87j20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _______________________
 
 ### QGIS Server: présent et futur - Paul Blottiere - QCooperative & Hytech Imaging (15 min)
 
-Lien :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/biyyZ-uLzsE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 _________________
@@ -90,7 +90,7 @@ _______________________
 
 ### QField : un QGIS sur le terrain pour appuyer la mise à jour du PCRS en AuRA - Lucas Mathieu - CRAIG (15 min)
 
-Lien : 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ogSFPBvFrpk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _______________________
 
