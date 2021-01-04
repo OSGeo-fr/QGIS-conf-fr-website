@@ -102,14 +102,13 @@ _______________________
 
 ### Viewshed analysis plugin pour QGIS : retour d'expérience - Zoran Čučković - Université de Bourgogne Franche-Comté (7 min)
 
-Lien :
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R06al1_2AWQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _______________________
 
 ### Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2 (15min)
 
-Lien :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSeRDr7GodY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _______________________
 
