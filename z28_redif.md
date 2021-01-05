@@ -47,7 +47,7 @@ _______________________
 
 ### Un cas d'usage de QGis pour le recueil, le traitement et la publication de données géologiques sur les formations à silicites - Christophe TUFFERY, Vincent DELVIGNE - INRAP / Université de Liège (15 min)
 
-Lien :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uble40tdv10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _______________________
 
