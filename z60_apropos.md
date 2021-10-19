@@ -12,7 +12,7 @@ menu: footer
 - Jean-Marie Arsac(AZIMUT)
 - Loîc Bartoletti (OSLANDIA)
 - Thomas Michel (IDGEO)
-- Sébastien Peillet(HITECH-IMAGING)
+- Sébastien Peillet (HYTECH-IMAGING)
 - Kevin Ponchon (CRAIG)
 - Harrissou Sant-Anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
