@@ -5,7 +5,7 @@ tagline: Nous remercions nos généreux soutiens !
 menu: header
 ---
 
-Les recettes seront cette année dédiées à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
+Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
 
 Les modalités de soutien sont en bas de page. 
 
@@ -72,12 +72,12 @@ Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, 
 
 ## Tarif et visibilité
 
-Pour toute information ou demande, utilisez le [mail de contact](mailto:contact-qgis-conf-2020@osgeo.asso.fr?subject=[SoutienQGISFR_2020]).
+Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2022]).
 
-Trois niveaux sont possibles:
+Plusieurs niveaux sont possibles:
 
     
-### Mécène - 500 €
+### Mécène - xxx €
 
 <details><summary>▸ Détail du niveau mécène</summary><p>
 
@@ -97,7 +97,7 @@ Trois niveaux sont possibles:
 </p></details>
 
 
-### Soutien - 200 €
+### Soutien - yyy €
 
 <details><summary>▸ Détail du niveau Soutien</summary><p>
 
