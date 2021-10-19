@@ -16,7 +16,7 @@ plugins_dir:
  - jekyll-seo-tag
  - jekyll-sitemap
 
-summary: Conférence QGIS des utilisateurs francophones 2022. 18 et 19 janvier
+summary: Conférence QGIS des utilisateurs francophones 2022. 18 et 19 janvier à Clermont-Ferrand
 tags: [QGIS,OSGEO,Open Source,Conférence,CRAIG,AURA,OSGEO-FR,QGIS-fr]
 github: [metadata]
 repository: OSGeo-fr/QGIS-conf-fr-website
