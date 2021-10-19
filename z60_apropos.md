@@ -7,13 +7,24 @@ menu: footer
 
 # Equipe d'organisation (ordre alphabétique courtois)
 
-À venir
+- Marjorie Fangain (KEOLIS)
+- Marie Jagaille (HITECH-IMAGING)
+- Jean-Marie Arsac(AZIMUT)
+- Loîc Bartoletti (OSLANDIA)
+- Thomas Michel (IDGEO)
+- Sébastien Peillet(HITECH-IMAGING)
+- Kevin Ponchon (CRAIG)
+- Harrissou Sant-Anna (CAUE 49)
+- Pierre Serafini (SOPRECO)
+- Etienne Trimaille (3LIZ)
 
 Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
 # Comité de programme (ordre alphabétique courtois)
 
-À venir
+- Harrissou Sant-Anna (CAUE 49)
+- Etienne Trimaille (3LIZ)
+- ...
 
 **Critères de sélection :**
 
@@ -23,7 +34,8 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 ## À propos du CRAIG
 
-Présentation à ajouter
+Fruit d'un travail collectif (Région, Départements, Agglomération, IGN), le CRAIG est un centre de ressources dans le domaine de l’information géographique pour les acteurs publics régionaux. 
+Présentation à compléter
 
 ## À propos de l'OSGeo-fr
 
