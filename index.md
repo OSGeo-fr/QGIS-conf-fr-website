@@ -5,7 +5,7 @@ tagline: Rencontrez, échangez, discutez autour de QGIS !
 menu: header
 ---
 
-Le séminaire utilisateurs QGIS se déroulera en visio distante, sous des airs auvergnats. Cet événement est organisé en partenariat entre le [CRAIG](https://www.craig.fr/) (**C**entre **R**égional **A**uvergne-Rhône-Alpes de l'**I**nformation **G**éographique) et l'[OSGeo-fr](https://www.osgeo.asso.fr/).
+Le séminaire utilisateurs QGIS se déroulera en présentiel, sous des airs auvergnats. Cet événement est organisé en partenariat entre le [CRAIG](https://www.craig.fr/) (**C**entre **R**égional **A**uvergne-Rhône-Alpes de l'**I**nformation **G**éographique) et l'[OSGeo-fr](https://www.osgeo.asso.fr/).
 
 L’événement se déroulera sur 2 jours :
 
