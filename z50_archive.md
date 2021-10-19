@@ -8,6 +8,87 @@ menu: footer
 
 Les présentations des éditions précédentes sont disponibles dans le [dépôt](https://github.com/OSGeo-fr/QGIS-user-fr).
 
+# Programme 2020:
+
+L'édition 2020 a été soutenue par:
+
+Mécènes:
+
+[![3Liz](/images/3liz.png)](https://www.3liz.com/)
+
+[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
+
+[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
+
+[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
+
+[![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
+
+Parrains:
+
+[![Azimut](/images/azimut.png)](https://www.azimut.fr/)
+
+Soutiens : 
+
+[![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
+
+[![Empreinte digitale](/images/logo-empreinte-digitale.svg)](https://empreintedigitale.fr)
+
+Un grand merci à eux.
+
+### Programmes
+
+Mardi 15 décembre :
+<table class="atelier-table">
+    <thead>    
+    <th>Salle 1</th><th>Salle 2</th><th>Salle 3</th><th>Salle 4</th>
+   </thead>
+    <tr class="atelier">
+        <td rowspan="2"><b>09:00 - 12h15</b><br><a href="#répondre-aux-dt-dict-avec-qgis-3">Répondre aux DT-DICT avec QGIS 3</a></td>
+        <td rowspan="2"><b>09h - 12h15</b> <br> <a href="#configurer-qgis-dans-votre-organisation---simplifiez-la-vie-à-vos-utilisateurs">Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</a></td>
+        <td><b>9h - 10h30</b>  <br><a href="#le-modeleur-graphique---fonctionnement-nouveautés-trucs-et-astuces">Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</a></td>
+        <td><b>9h - 10h30</b>  <br><a href="#de-la-mise-en-page-au-rapport-dimpression-en-passant-par-latlas">De la mise en page au rapport d'impression, en passant par l'atlas</a> </td></tr>
+    <tr class="atelier"><td><b>10h45 - 12h15</b> <br><a href="#github-comment-entrer-dans-le-projet-qgis-et-participer-à-la-communauté">Github, comment entrer dans le projet QGIS et participer à la communauté ?</a></td><td></td></tr>
+    <tr class="pause-atelier"><td colspan="4"><b>Pause de midi</b></td></tr>
+    <tr class="atelier">
+        <td rowspan="2"><b>14h - 17h15</b><br> <a href="#répondre-aux-dt-dict-avec-qgis-3">Répondre aux DT-DICT avec QGIS 3</a></td>
+        <td rowspan="2"><b>14h - 17h15</b>  <br> <a href="#publication-dun-projet-qgis-sur-le-web-avec-lizmap">Publication d'un projet QGIS sur le web avec Lizmap</a></td>
+        <td><b>14h - 15h30</b>   <br><a href="#organisation-et-avenir-du-groupe-qgis-fr">Organisation et avenir du groupe QGIS-FR</a></td><td> </td></tr>
+    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br><a href="#expressions-avancées">Expressions avancées</a></td><td></td></tr>
+</table>
+
+Mercredi 16 décembre :
+
+<table class="tableizer-table">
+ <thead>
+ <tr><th>Programme</th><th> </th><th> </th></tr>
+</thead>
+ <tr class="th"><td>Horaires</td><td> </td><td>Durée (hors questions)</td></tr>
+ <tr class="impair"><td>09:00</td><td>Ouverture de la journée - OSGeo-FR & Groupe QGIS FR</td><td>15 min.</td></tr>
+ <tr class="pair"><td>09:15</td><td><a href="#covid-générateur-de-géométries-et-carto-geekeries-en-tous-genres---mathieu-rajerison">Covid, générateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison</a></td><td>15 min.</td></tr>
+ <tr class="impair"><td>09:35</td><td><a href="#nouveautés-qgis--partage-de-styles-et-modèles-de-mise-en-page-via-le-hub-styles---pierre-serafini---sopreco">Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO</a></td><td>7 min.</td></tr>
+ <tr class="pair"><td>09:45</td><td><a href="#de-la-donnée-au-terrain--qgis-un-outil-global-pour-la-prospection-archéologique-par-télédétection---alexandre-guyot---laboratoire-letg-université-rennes-2--hytech-imaging">De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging</a></td><td>15 min.</td></tr>
+ <tr class="impair"><td>10:05</td><td><a href="#qgis-si---mettre-un-outil-de-cartographie-à-disposition-des-policiers-et-gendarmes---jean-de-villeneuve-régis-haubourg---gendarmerie-nationale--oslandia">QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie nationale / Oslandia</a></td><td>15 min.</td></tr>
+ <tr class="pause"><td>10:25</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
+ <tr class="impair"><td>10:50</td><td><a href="#tirer-profit-de-lapi-de-qgis-dans-un-plugin---arnaud-morvan---camptocamp">Tirer profit de l'API de QGIS dans un plugin - Arnaud Morvan - CamptoCamp</a></td><td>7 min.</td></tr>
+ <tr class="pair"><td>11:00</td><td><a href="#qgeologis-visualisation-de-colonnes-stratigraphiques-et-de-séries-temporelles---sébastien-peillet---oslandia">QGeoloGIS, visualisation de colonnes stratigraphiques et de séries temporelles - Sébastien Peillet - Oslandia</a></td><td>7 min.</td></tr>
+ <tr class="impair"><td>11:10</td><td><a href="#un-cas-dusage-de-qgis-pour-le-recueil-le-traitement-et-la-publication-de-données-géologiques-sur-les-formations-à-silicites---christophe-tuffery-vincent-delvigne---inrap--université-de-liège">Un cas d'usage de QGIS pour le recueil, le traitement et la publication de données géologiques sur les formations à silicites - Christophe Tuffery, Vincent Delvigne - INRAP / Université de Liège</a></td><td>15 min.</td></tr>
+ <tr class="pair"><td>11:30</td><td><a href="#qgis-moteur-du-portail-des-données-dopenstreetmap-france---jean-louis-zimmermann---osmdata">QGIS, moteur du portail des données d'OpenStreetMap France - Jean-Louis Zimmermann - OSMdata</a></td><td>15 min.</td></tr>
+ <tr class="pair"><td>11:50</td><td><a href="#qgis-server-présent-et-futur---paul-blottiere---qcooperative--hytech-imaging">QGIS Server: présent et futur - Paul Blottiere - QCooperative & Hytech Imaging</a></td><td>15 min.</td></tr>
+ <tr class="pause"><td>12:10</td><td>Pause repas - Salle de discussions libres </td><td>1h50</td></tr>
+ <tr class="impair"><td>14:00</td><td><a href="#les-maillages--qgis-en-4-dimensions----vincent-cloarec---lutra-consulting">Les Maillages : QGIS en 4 dimensions ! - Vincent Cloarec - Lutra Consulting</a></td><td>7 min.</td></tr>
+ <tr class="pair"><td>14:10</td><td><a href="#stocker-et-visualiser-des-images-dans-le-cloud-à-laide-du-format-cog-et-de-qgis---julien-cabieces---oslandia">Stocker et visualiser des images dans le cloud à l'aide du format COG et de QGIS - Julien Cabieces - Oslandia</a></td><td>7 min.</td></tr>
+ <tr class="impair"><td>14:20</td><td><a href="#nouveautés-qgis--pointcloud-et-3d---belgacem-nedjima---lutra-consulting">Nouveautés QGIS : pointcloud et 3D - Belgacem Nedjima - Lutra Consulting</a></td><td>7 min.</td></tr>
+ <tr class="pair"><td>14:30</td><td><a href="#qfield--un-qgis-sur-le-terrain-pour-appuyer-la-mise-à-jour-du-pcrs-en-aura---lucas-mathieu---craig">QField : un QGIS sur le terrain pour appuyer la mise à jour du PCRS en AuRA - Lucas Mathieu - CRAIG</a></td><td>15 min.</td></tr>
+ <tr class="impair"><td>14:50</td><td><a href="#intégrez-vos-routines-dans-qgis---julien-waddle---camptocamp">Intégrez vos routines dans QGIS - Julien Waddle - Camptocamp</a></td><td>7 min.</td></tr>
+ <tr class="pause"><td>15:00</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
+ <tr class="impair"><td>15:25</td><td><a href="#viewshed-analysis-plugin-pour-qgis--retour-dexpérience---zoran-čučković---université-de-bourgogne-franche-comté">Viewshed analysis plugin pour QGIS : retour d'expérience - Zoran Čučković - Université de Bourgogne Franche-Comté</a></td><td>7 min.</td></tr>
+ <tr class="pair"><td>15:35</td><td><a href="#enseigner-qgis-à-luniversité--exemples-des-formations-en-géographie-aménagement-et-géomatique-de-luniversité-rennes-2---boris-mericskay---université-de-rennes-2">Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2</a></td><td>15 min.</td></tr>
+ <tr class="impair"><td>15:55</td><td><a href="#pgmetadata-une-gestion-des-métadonnées-dans-postgresql---etienne-trimaille---3liz">PgMetadata, une gestion des métadonnées dans PostgreSQL - Etienne Trimaille - 3Liz</a></td><td>7 min.</td></tr>
+ <tr><td>16:05</td><td>Clôture</td><td/></tr>
+</table>
+_______________________________________________________________________________
+
 # Programme 2019:
 
 L'édition 2019 a été soutenue par:
@@ -58,7 +139,7 @@ Le thème choisi était **QGIS une plateforme multi-logiciels: couteau suisse de
 * **[Retour d'expériences de métropoles](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/09_PresentationQGISDaysMetropolesGrenobleEtClermont.pdf)** - Hervé Christol (Clermont Auvergne Métropole) et Anh-Tam Vo (Grenoble Alpes Métropole)
 * **Table-ronde**
 
-
+_______________________________________________________________________________
 
 # Programme 2018:
 
