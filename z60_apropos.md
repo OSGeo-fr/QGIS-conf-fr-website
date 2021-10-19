@@ -24,6 +24,8 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 - Harrissou Sant-Anna (CAUE 49)
 - Etienne Trimaille (3LIZ)
+- Loïc Bartoletti (OSLANDIA)
+- Paul Blottière (HYTECH-IMAGING)
 - ...
 
 **Critères de sélection :**
