@@ -7,13 +7,7 @@ menu: footer
 
 # Equipe d'organisation (ordre alphabétique courtois)
 
-* Marjorie Fangain (Keolis)
-* Jean-Marie Arsac (Azimut)
-* Landry Breuil (CRAIG)
-* Frédéric Deneux (CRAIG)
-* Régis Haubourg (Oslandia)
-* Bertrand Parpoil (Oslandia)
-* Sébastien Peillet (Oslandia)
+À venir
 
 Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
