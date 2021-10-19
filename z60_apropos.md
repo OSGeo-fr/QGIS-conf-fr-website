@@ -8,7 +8,7 @@ menu: footer
 # Equipe d'organisation (ordre alphabétique courtois)
 
 - Marjorie Fangain (KEOLIS)
-- Marie Jagaille (HITECH-IMAGING)
+- Marie Jagaille (HYTECH-IMAGING)
 - Jean-Marie Arsac(AZIMUT)
 - Loîc Bartoletti (OSLANDIA)
 - Thomas Michel (IDGEO)
