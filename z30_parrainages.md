@@ -13,7 +13,7 @@ Les modalités de soutien sont en bas de page.
 
 ---
 
-Notre partenaire, le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG) n'aura pas l'occasion de nous apporter son aide logistique cette année. Il a décidé de nous apporter en contre-partie son soutien financier et de sécuriser l'évènement. Merci à eux !
+Le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG) renouvelle son partenariat et nous apporte son soutien logistique cette année. Merci à eux !
 
 [![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
 
