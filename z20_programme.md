@@ -15,7 +15,7 @@ menu: header
 
 ## Mercredi 19 janvier - Journée conférence
 
-Journée de conférences avec diffusion vidéo live. **Sans inscription.**
+Journée de conférences avec diffusion vidéo live (sous réserve).
 
 Vous pourrez également interagir avec les présentateurs via le canal de messagerie.
 
