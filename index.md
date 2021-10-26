@@ -7,6 +7,8 @@ menu: header
 
 Le séminaire utilisateurs QGIS se déroulera en présentiel, sous des airs auvergnats. Cet événement est organisé en partenariat entre le [CRAIG](https://www.craig.fr/) (**C**entre **R**égional **A**uvergne-Rhône-Alpes de l'**I**nformation **G**éographique) et l'[OSGeo-fr](https://www.osgeo.asso.fr/).
 
+Le thème de ces rencontres est "**Simplifiez-vous la vie avec QGIS**"
+
 L’événement se déroulera sur 2 jours :
 
 * **Mardi 18 janvier 2022** Journée d'ateliers thématiques et techniques.
