@@ -11,4 +11,4 @@ Cette année, le thème est “<b>Simplifiez-vous la vie avec QGIS</b>”, le co
 
 Les présentations dureront 25 min au total, avec 15-20 minutes de présentation, suivie d'un créneau de questions/échanges de 5-10 minutes. 
 
-Les ateliers dureront 1h30 ou 3h selon les besoins. N'oubliez pas d'indiquer les pré-réquis demandés pour participer à ces derniers.
+Les ateliers dureront 1h30 ou 3h selon les besoins. N'oubliez pas d'indiquer les pré-réquis nécessaires pour participer à ces derniers.
