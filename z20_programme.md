@@ -7,7 +7,7 @@ menu: header
 
 Venez partager vos travaux et expériences. 
 
-#### Ppour proposer vos présentations ou ateliers, l'[appel à proposition](../2021/11/22/appels_a_proposition.html) est ouvert jusqu'au jeudi 25 novembre !
+#### Pour proposer vos présentations ou ateliers, l'[appel à proposition](../2021/11/22/appels_a_proposition.html) est ouvert jusqu'au jeudi 25 novembre !
 
 Cette année, le thème est “Simplifiez-vous la vie avec QGIS”, le comité de programme retiendra les propositions et vous tiendra informé rapidement.
 
