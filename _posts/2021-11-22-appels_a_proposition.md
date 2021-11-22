@@ -6,7 +6,7 @@ published: true
 
 <span style="font-size:larger;">Venez partager vos travaux et expériences. Le [formulaire](https://framaforms.org/appel-a-propositions-1635258130) est ouvert jusqu'au <b>jeudi 25 Novembre</b> pour proposer vos présentations ou ateliers </span>
 
-Cette année, le thème est “<b>Simplifiez-vous la vie avec QGIS</b>”, le comité de programme retiendra les propositions et vous tiendra informé rapidement.
+Cette année, le thème est “<b>Simplifiez-vous la vie avec QGIS</b>”. Venez présenter à la communauté les astuces et méthodes (outils, techniques, modes d'organisation, ...) mises en place chez vous pour que les choses soient plus simples avec QGIS, pourquoi et comment. Le comité de programme retiendra les propositions et vous tiendra informé rapidement.
 
 
 Les présentations dureront 25 min au total, avec 15-20 minutes de présentation, suivie d'un créneau de questions/échanges de 5-10 minutes. 
