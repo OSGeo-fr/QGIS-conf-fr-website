@@ -20,6 +20,10 @@ menu: footer
 
 Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
+# Illustrations
+
+- Sylvain  Beorchia (OSLANDIA)
+
 # Comité de programme (ordre alphabétique courtois)
 
 - Harrissou Sant-Anna (CAUE 49)
