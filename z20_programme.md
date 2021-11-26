@@ -17,7 +17,7 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. N'oubliez pas d'indiquer les
 
 
 
-#### Les inscriptions ouvriront dès le programme publié(/z25_inscription.html) !
+#### Les [inscriptions](/z25_inscription.html) ouvriront dès le programme publié  !
 
 ## Mardi 18 janvier - [Ateliers / Workshops]
 
@@ -27,7 +27,7 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. N'oubliez pas d'indiquer les
 
 ## Mercredi 19 janvier - Journée conférence
 
-Journée de conférences avec diffusion vidéo live (sous réserve).
+Journée de conférences avec diffusion vidéo live.
 
 Vous pourrez également interagir avec les présentateurs via le canal de messagerie.
 
