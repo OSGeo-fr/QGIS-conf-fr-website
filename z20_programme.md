@@ -17,7 +17,7 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. N'oubliez pas d'indiquer les
 
 
 
-#### Les inscriptions seront **ouvertes** sur la [page inscriptions](/z25_inscription.html) !
+#### Les inscriptions ouvriront dès le programme publié(/z25_inscription.html) !
 
 ## Mardi 18 janvier - [Ateliers / Workshops]
 
