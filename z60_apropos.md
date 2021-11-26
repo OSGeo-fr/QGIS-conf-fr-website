@@ -9,11 +9,13 @@ menu: footer
 
 - Marjorie Fangain (KEOLIS)
 - Marie Jagaille (HYTECH-IMAGING)
+- Julie Pierson (CNRS UMR Passages)
 - Jean-Marie Arsac(AZIMUT)
 - Loîc Bartoletti (OSLANDIA)
 - Thomas Michel (IDGEO)
 - Sébastien Peillet (HYTECH-IMAGING)
 - Kevin Ponchon (CRAIG)
+- Nicolas Roelandt (Université Gustave Eiffel)
 - Harrissou Sant-Anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
 - Etienne Trimaille (3LIZ)
@@ -30,7 +32,6 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 - Etienne Trimaille (3LIZ)
 - Loïc Bartoletti (OSLANDIA)
 - Paul Blottière (HYTECH-IMAGING)
-- ...
 
 **Critères de sélection :**
 
