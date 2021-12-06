@@ -31,6 +31,28 @@ Journée de conférences avec diffusion vidéo live.
 
 Vous pourrez également interagir avec les présentateurs via le canal de messagerie.
 
+| Horaires | Titre                                                                            | Présentateur / Présentatrice                                       | Durée (hors questions) |
+|----------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------|
+| 09:00    | Ouverture de la journée - OSGeo-FR & Groupe QGIS FR                              |                                                                    | 15 min.                |
+| 09:15    | Déploiement de QGIS à Bordeaux Métropole                                         | Julien Pagiusco (Bordeaux Métropole)                               | 20 min.                |
+| 09:40    | Associer des documents à vos données                                             | Julien Cabieces (Oslandia)                                         | 20 min.                |
+| 10:05    | QGIS Serveur, le choix de la simplicité                                          | Paul Blottiere (Hytech-Imaging)                                    | 20 min.                |
+| 10:30    | QGIS, ses formulaires et expressions pour faire un outil de saisie au poil       | Michaël Douchin (3Liz)                                             | 20 min.                |
+| 10:55    | Pause                                                                            |                                                                    | 25 min.                |
+| 11:20    | Simplifiez la vie à QGIS                                                         | Harrissou Sant-Anna (CAUE49)                                       | 20 min.                |
+| 11:45    | Gestion de l’adressage avec QGIS/PostGIS : apports et limites du couple logiciel | Théo Grondin (Conseil Départemental du Calvados)                   | 15 min.                |
+| 12:05    | Saisie de la Base Adresse Localisée (BAL) de Clermont Métropole avec QGIS        | Hervé Christol (Clermont Métropole)                                | 20 min.                |
+| 12:30    | Pause repas                                                                      |                                                                    | 1h 30min.              |
+| 14:00    | Utilisation de l'outil 'Report' pour la génération d'un atlas indexé.            | Julien Waddle (CampToCamp)                                         | 20 min.                |
+| 14:25    | Faire des cartes topo avec QGIS                                                  | Florian Boret                                                      | 20 min.                |
+| 14:50    | Cartographie et analyse topographique avec l’extension Terrain Shading de QGIS   | Zoran Čučković (Laboratoire CHEC, Université de Clermont Auvergne) | 20 min.                |
+| 15:15    | Des fonds de carte en tuiles vectorielles dans vos projets QGIS                  | Nicolas Bozon (MapTiler)                                           | 20 min.                |
+| 15:40    | Pause                                                                            |                                                                    | 25 min.                |
+| 16:05    | La prospective scolaire avec QGIS                                                | Charles Lopez (Commune de Saint-Priest)                            | 20 min.                |
+| 16:30    | KAPLAN : systématisation des analyses de scénarios de transport collectif        | Paola Palmas (Egis Rail)                                           | 20 min.                |
+| 16:55    | Optimisation de tournée : retour applicatif d'un plugin QGIS                     | Arnaud Bellec (Alkante)                                            | 20 min.                |
+| 17:20    | Clôture                                                                          |                                                                    |                        |
+
 _______________________
 
 
