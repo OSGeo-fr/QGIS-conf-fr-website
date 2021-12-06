@@ -5,23 +5,25 @@ tagline: Voici notre programme pour ces rencontres
 menu: header
 ---
 
-Venez partager vos travaux et expériences. 
-
-#### Pour proposer vos présentations ou ateliers, l'[appel à proposition](../2021/11/22/appels_a_proposition.html) est ouvert jusqu'au mardi 30 novembre, 18h00 !
-
-Cette année, le thème est “<b>Simplifiez-vous la vie avec QGIS</b>”. Venez présenter à la communauté les astuces et méthodes (outils, techniques, modes d'organisation, ...) mises en place chez vous pour que les choses soient plus simples avec QGIS, pourquoi et comment. Le comité de programme retiendra les propositions et vous tiendra informé rapidement.
-
 Les présentations dureront 25 min au total, avec 15-20 minutes de présentation, suivie d'un créneau de questions/échanges de 5-10 minutes.
 
-Les ateliers dureront 1h30 ou 3h selon les besoins. N'oubliez pas d'indiquer les pré-réquis attendus pour participer à ces derniers.
+Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuellement attendus pour participer à ces derniers vous seront précisés.
 
 
-
-#### Les [inscriptions](/z25_inscription.html) ouvriront dès le programme publié  !
+#### Les [inscriptions](/z25_inscription.html) sont ouvertes jusqu'au 31 décembre !
 
 ## Mardi 18 janvier - [Ateliers / Workshops]
 
-**Les horaires sont 9h - 17h15** (l'heure de fin pourra être repoussée si nécessaire).
+
+**_Tous les ateliers seront accessibles uniquement en ligne._**
+
+**Les horaires sont 9h30 - 15h30**
+
+| Horaire       | Salle "Pavin"                                                                                  | Salle "Saumon"                                                                      | Salle "Chambon"                                                                                                                                                                         | Salle "Guéry"                                                                       | Salle "Salers"                                                                                                                       | Salle "Sioule"                                           |
+| ------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| 09:30 - 11:00 | Simplifiez-vous la vérification des plans avec QompliGIS<br><br>Loïc Bartoletti (Oslandia)<br> | Publier un projet QGIS sur le web avec Lizmap<br><br>Etienne Trimaille (3Liz)       | Comment QGIS aide à la constitution de référentiels de données géohistoriques ?<br><br>Hélène Noizet, Eric Mermet, Julien Curie (CNRS / EHESS / Consortium Huma-Num Paris Time Machine) | Gérer ses données de réseau avec QGIS/PostGIS<br><br>Alice Salsé (Be Map Guest)<br> | Déployer et maintenir des profils utilisateurs<br><br>Benoît Ducarouge et Julien Moura (Oslandia)                                     | Ateliers discussion thématique<br><br>Groupe QGIS-fr<br> |
+| 11:00 - 12:30 | Suite atelier                                                                                  | Suite atelier                                                                       | Suite atelier                                                                                                                                                                           | Suite atelier                                                                       | Création de fiches tableau de bord à partir de l'Atlas<br><br>Jacques Blenner (Agence d'urbanisme Clermont Métropole)<br>            | Suite atelier                                            |
+| 14:00 - 15:30 | Esthétisez vos cartes issues d'OSM<br><br>Alice Caron (Les Artisans cartographes)<br>          | Les easter eggs de QGIS : chasser et être chassé<br><br>Julien Moura (GeoTribu)<br> | Fonctionnement du modeleur graphique<br><br>Marjorie Fangain (Keolis) et Pierre Serafini (Sopreco)<br>                                                                                   | Géoréférencement des plans anciens<br><br>Yves Michelin (VetAgro Sup)               | Réalisation d'une carte animée sur la base d'un paramètre temporel<br><br>Sylvain Massol (Communauté d'agglomération de l'albigeois) | Suite atelier                                            |
 
 ---
 
