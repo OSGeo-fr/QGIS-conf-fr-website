@@ -236,7 +236,7 @@ Pendant cet atelier, nous verrons la publication d'un projet QGIS avec :
 
 Comme tout bon logiciel qui se respecte, QGIS contient des fonctions cachées, communément appelées des easter eggs ("oeufs de Pâques", littéralement).
 
-Au prétexte d'un sujet léger, c'est l'occasion d'apprendre à naviguer dans le code du projet pour dénicher les easter eggs intégrés dans QGIS puis d'apprendre à en créer soi-même de façon à égayer l'expérience des utilisateur/ices finaux/les de vos plugins.
+Au prétexte d'un sujet léger, c'est l'occasion d'apprendre à naviguer dans le code du projet pour dénicher les easter eggs intégrés dans QGIS puis d'apprendre à en créer soi-même de façon à égayer l'expérience des utilisateur/ices finaux/ales de vos plugins.
 
 ## Comment QGIS aide à la constitution de référentiels de données géohistoriques ?
 
@@ -251,7 +251,7 @@ Après avoir présenté la problématique de la modélisation et les enjeux de l
 * Utilisation de flux de données via l’API de la fabriquenumeriquedupasse.fr
 * Analyse de la morphologie de données de parcellaires ou de bâtis à l’aide du plugin MorphAL (https://paris-timemachine.huma-num.fr/boite-a-outils-qgis-morphal/) développé pour Qgis comme une boîte à outils de traitement appelée à s’enrichir de nouveaux outils prochainement.
 
-Bien que l’atelier soit plutôt dédié à un public qui s’intéresse aux données géohistoriques, l’accueil de tout public est la bienvenue. Il n’y a pas de prérequis à cette participation. Le plugin MorphAL sera fourni lors de l’atelier.
+Bien que l’atelier soit plutôt dédié à un public qui s’intéresse aux données géohistoriques, l’accueil de tout public est le bienvenu. Il n’y a pas de prérequis à cette participation. Le plugin MorphAL sera fourni lors de l’atelier.
 
 ## Fonctionnement du modeleur graphique
 
@@ -295,7 +295,7 @@ A partir de données ponctuelles réparties sur un territoire, cet atelier vous 
 
 **Pré-requis :**
 * Une version à jour de QGIS
-* Eventuellement une connexion aux web services du craig (pas obligatoire)
+* Eventuellement une connexion aux web services du CRAIG (pas obligatoire)
 * Les données nécessaires seront fournies sur place
 
 ## Réalisation d'une carte animée sur la base d'un paramètre temporel
