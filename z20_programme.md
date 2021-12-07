@@ -41,7 +41,7 @@ Vous pourrez également interagir avec les présentateurs via le canal de messag
 | 10:05    | QGIS Serveur, le choix de la simplicité                                          | Paul Blottiere (Hytech-Imaging)                                    |
 | 10:30    | QGIS, ses formulaires et expressions pour faire un outil de saisie au poil       | Michaël Douchin (3Liz)                                             |
 | 10:55    | Pause                                                                            |                                                                    |
-| 11:20    | Simplifiez la vie à QGIS                                                         | Harrissou Sant-Anna (CAUE49)                                       |
+| 11:20    | Simplifiez la vie à QGIS                                                         | Harrissou Sant-anna (CAUE 49)                                      |
 | 11:45    | Gestion de l’adressage avec QGIS/PostGIS : apports et limites du couple logiciel | Théo Grondin (Conseil Départemental du Calvados)                   |
 | 12:05    | Saisie de la Base Adresse Localisée (BAL) de Clermont Métropole avec QGIS        | Hervé Christol (Clermont Métropole)                                |
 | 12:30    | Pause repas                                                                      |                                                                    |
@@ -109,7 +109,7 @@ A la fin de la présentation, on aura montré le potentiel de QGIS pour aider le
 
 ## Simplifiez la vie à QGIS
 
-**Harrissou Sant-Anna (CAUE49)**
+**Harrissou Sant-anna (CAUE 49)**
 
 QGIS ambitionne de nous simplifier la vie. Mais, comme tout projet informatique, il peut arriver qu'il ne remplisse pas convenablement la tâche. En de pareilles circonstances, on peut se sentir démuni et pourtant, chacun d'entre nous a entre ses mains des cartes pour le remettre sur de bons rails. Dans cette présentation, nous exposerons les diverses options qui nous sont offertes pour permettre de rendre QGIS meilleur et de lui faire faire les choses le plus simplement et le plus efficacement possible, pour nous.
 
@@ -182,4 +182,132 @@ La construction et l’analyse de scénarios de desserte constitue une étape cr
 **Arnaud Bellec (Alkante)**
 
 Dans le cadre d’une refonte de ses outils, Ouest-France a opté pour le développement d’une extension QGIS. L’outil porte sur l’optimisation des tournées quotidiennes de livraison de journaux. Le contexte du projet et l’attrait pour son intégration à QGIS seront présentés. Nous aborderons le fonctionnement général de l’outil et les contraintes d’intégration dans un système d’information existant (authentification, connecteurs). Le retour d’expérience après plusieurs années d’utilisation conclura la présentation.
+
+# Programme détaillé des ateliers
+
+## Simplifiez-vous la vérification des plans avec QompliGIS
+
+**Loïc Bartoletti (Oslandia)**
+
+De nombreux services font appel à des prestataires externes pour réaliser leurs plans.
+La plupart du temps, ils fournissent un cahier des charges pour la numérisation des plans que le topographe doit respecter. Le destinataire des données doit alors s’assurer de leur conformité avant de les intégrer dans le SIG.
+
+QGIS possède plusieurs outils permettant de réaliser ces étapes de vérification, mais ils ne sont pas accessibles simplement et leur automatisation est complexe. Paradoxalement aucun plugin n’existe pour réaliser cette tâche alors même qu’elle intéresse tous les utilisateurs qui travaillent à l’intégration de données.
+
+QompliGIS a pour objectif de proposer un moyen simple de vérifier si la structure d’un jeu de données est en conformité avec la structure d’un jeu de données de référence.
+
+Durant l'atelier, vous apprendrez à configurer le plugin et l'utiliser sur un modèle prédéfini afin d'être autonome dans la réutilisation avec vos cahiers des charges.
+
+## Esthétisez vos cartes issues d'OSM
+
+**Alice Caron (Les Artisans cartographes)**
+
+Dans ce atelier, nous aborderons:
+- Export données OSM
+- Intégration dans QGIS
+- Style Champs Libre à télécharger en amont : https://gitlab.com/champs-libres/public/champs-libres-qgis-osm-style
+- Application du style
+- Personnalisation suivant souhait du cartographe
+- Dernières retouches et astuces stylistiques
+
+**Pré-requis** : niveau intermédiaire QGIS vivement conseillé
+
+## Publier un projet QGIS sur le web avec Lizmap
+
+**Etienne Trimaille (3Liz)**
+
+Lizmap est une solution libre de publication de projet QGIS dans un navigateur web. Il est développé par la société Française 3Liz.
+L'objectif de cet outil opensource est de publier, le plus simplement possible, un projet QGIS (légende, couches, groupes, mise en page PDF, table attributaire, etc) sans devoir refaire des manipulations supplémentaires pour le géomaticien dans QGIS.
+
+Pendant cet atelier, nous verrons la publication d'un projet QGIS avec :
+* la légende et les groupes
+* l'affichage des informations dans une infobulle
+* un formulaire d'édition
+* mise en page PDF (sans et avec atlas)
+
+**Pré-requis :**
+* QGIS 3.16
+* Un logiciel FTP client, tel que "Filezilla Client" https://filezilla-project.org/ pour le transfert des fichiers vers le serveur.
+* On vous communiquera avant la formation les identifiants FTP et de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
+
+## Les easter eggs : chasser et être chassé
+
+**Julien Moura (GeoTribu)**
+
+Comme tout bon logiciel qui se respecte, QGIS contient des fonctions cachées, communément appelées des easter eggs ("oeufs de Pâques", littéralement).
+
+Au prétexte d'un sujet léger, c'est l'occasion d'apprendre à naviguer dans le code du projet pour dénicher les easter eggs intégrés dans QGIS puis d'apprendre à en créer soi-même de façon à égayer l'expérience des utilisateur/ices finaux/ales de vos plugins.
+
+## Comment QGIS aide à la constitution de référentiels de données géohistoriques ?
+
+**Hélène Noizet, Eric Mermet, Julien Curie (CNRS / EHESS / Consortium Huma-Num Paris Time Machine)**
+
+Le consortium CNRS Huma-Num Paris Time Machine (https://paris-timemachine.huma-num.fr/) vise à la production et à l'analyse de données historiques (géoréférencemenent de plans anciens, vectorisation d'îlots et de bâtis anciens, de la voirie, d'adresses, etc.). Bien que Paris soit un terrain de jeu privilégié par les membres du consortium, les méthodologies peuvent être facilement partagées à d'autres espaces dont l'objectif est la constitution de référentiels de données géohistoriques. En effet, ces derniers doivent permettre à des chercheurs de différentes disciplines historiques de travailler ensemble sur un espace géographique commun, tout en questionnant la dimension temporelle.
+
+Après avoir présenté la problématique de la modélisation et les enjeux de l’analyse et de la diffusion des données historiques, nous proposons d’animer un atelier pratique dans son format long autour des méthodes que nous utilisons dans le cadre de travaux de recherche historique :
+* Géoréférencement de plans anciens,
+* Saisie collaborative de données géohistoriques à l'aide de PostGIS
+* Valorisation de données géohistoriques via le portail open data fabriquenumeriquedupasse.fr
+* Utilisation de flux de données via l’API de la fabriquenumeriquedupasse.fr
+* Analyse de la morphologie de données de parcellaires ou de bâtis à l’aide du plugin MorphAL (https://paris-timemachine.huma-num.fr/boite-a-outils-qgis-morphal/) développé pour Qgis comme une boîte à outils de traitement appelée à s’enrichir de nouveaux outils prochainement.
+
+Bien que l’atelier soit plutôt dédié à un public qui s’intéresse aux données géohistoriques, l’accueil de tout public est le bienvenu. Il n’y a pas de prérequis à cette participation. Le plugin MorphAL sera fourni lors de l’atelier.
+
+## Fonctionnement du modeleur graphique
+
+**Marjorie Fangain (Keolis), Pierre Serafini (Sopreco)**
+
+Cet atelier présentera le modeleur graphique, les trucs et astuces à connaître, les liens vers la veille technique. 
+
+## Gérer ses données de réseau avec QGIS/PostGIS
+
+**Alice Salsé (Be Map Guest)**
+
+Afin de faciliter la saisie des réseaux et de maintenir une cohérence à la fois topologique mais également métier des données, nous avons développé un noyau topologique Opensource sous Postgres / Postgis.
+Ce noyau topologique est autonome : il peut être édité via l’application QGIS mais également par une application tierce.
+Un plugin avec une barre d’outils QGIS a été développé. Chaque outil s’appuie sur des fonctionnalités stockées dans base de données et est donc réplicable sur du web ou toute autre interface.
+Le noyau topologique est bâti sur le principe ARC – NOEUD. Sur la base de ce principe, 6 types de comportements sont déclinés.
+D’un point de vue fonctionnel, ce noyau permet d’assurer lors du déplacement d’un élément de type noeud que tous les arcs connectés seront modifiés afin de maintenir la connectivité avec ce noeud. Inversement, lors de la modification d’un élément de type arc, tous les noeuds qu’il supporte seront repositionnés sur celui-ci.
+D’autres objets non connectés au noyau topologique de type point / lignes / polygones sont également pris en charge.
+Hormis un socle minimaliste d’attributs nécessaires au noyau topologique, les attributs de chaque couche sont entièrement configurables.
+
+## Géoréférencement de plans anciens
+
+**Yves Michelin (VetAgro Sup)**
+
+Cet atelier vous montrera comment recaler et assembler des plans anciens (cadastres napoléoniens, cartes anciennes, plans terriers, photos aériennes, atlas routiers type Trudaine, ...) à partir du géoréférenceur de QGIS et ce que l'on peut en faire ensuite. L'objectif est de montrer comment faire mais aussi les pièges à éviter et les limites de la méthode et de discuter des trucs et astuces permettant d'être plus précis et d'aller plus vite. Nous nous appuierons sur un jeu de données varié issu des archives départementales du Puy de Dôme et de Saône et Loire (téléchargeables en ligne)
+
+## Déployer et maintenir des profils utilisateurs
+
+**Benoît Ducarouge, Julien Moura (Oslandia)**
+
+L'objectif de cet atelier est de mettre le pied à l'étrier des participant/es pour la mise en place d'une méthodologie de déploiement et de maintenance des profils utilisateurs via notamment PYQGIS_STARTUP, Git et l'introduction d'un nouveau concept : profile.json. De quoi préfigurer un gestionnaire de profils.
+
+L'idée sous-jacente est une stratégie dans laquelle on déploie le logiciel et la configuration utilisateur de façon indépendante pour permettre un cycle de vie fluide en termes d'administration et tourné à la fois vers les usages.
+
+Bref, faciliter la vie de l'admin ET du technicien/ne SIG !
+
+## Création de fiches tableau de bord à partir de l'Atlas
+
+**Jacques Blenner (Agence d'urbanisme Clermont Métropole)**
+
+A partir de données ponctuelles réparties sur un territoire, cet atelier vous accompagnera dans la création automatique des fiches de type tableau de bord par EPCI. Ces fiches comporteront une carte, un tableau de données communales, des chiffres clés, du texte. Nous utiliserons la fonction atlas de qgis et les variables produites par l'atlas ainsi que de nombreuses fonctionnalités de la mise en page.
+
+**Pré-requis :**
+* Une version à jour de QGIS
+* Eventuellement une connexion aux web services du CRAIG (pas obligatoire)
+* Les données nécessaires seront fournies sur place
+
+## Réalisation d'une carte animée sur la base d'un paramètre temporel
+
+**Sylvain Massol (Communauté d'agglomération de l'albigeois)**
+
+Cet atelier portera sur l'utilisation du paramètre temporel dans Qgis.
+Le but est de créer une carte animée (gif) faisant apparaître l'évolution d'une variable dans le temps.
+Pour l'exemple, nus nous appuierons sur la base des permis de construire et autres autorisations d'urbanisme (Sitadel) pour montrer l'évolution des créations de logements sur un territoire.
+
+**Pré-requis :**
+* QGIS 3.16 (ou supérieur) et Gimp (pour la création de l'animation)
+* Un niveau intermédiaire sur Qgis est suffisant pour suivre cet atelier.
+
 
