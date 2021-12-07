@@ -46,9 +46,9 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
             <td colspan=6><b>Pause</b></td>
         </tr>       <tr>
             <td><b>14:00 - 15h30</b><br><a href="#esth%C3%A9tisez-vos-cartes-issues-dosm">Esthétisez vos cartes issues d'OSM</a></td>
-            <td><b>14:00 - 15h30</b><br><a href="#les-easter-eggs--chasser-et-%C3%AAtre-chass%C3%A9">Les easter eggs de QGIS : chasser et être chassé</a></td>
-            <td><b>14:00 - 15h30</b><br><a href="#fonctionnement-du-modeleur-graphique">Fonctionnement du modeleur</a></td>
-            <td><b>14:00 - 15h30</b><br><a href="#g%C3%A9or%C3%A9f%C3%A9rencement-de-plans-anciens">Géoréférencement des plans anciens</a></td>
+            <td><b>14:00 - 15h30</b><br><a href="#les-easter-eggs-de-qgis--chasser-et-%C3%AAtre-chass%C3%A9">Les easter eggs de QGIS : chasser et être chassé</a></td>
+            <td><b>14:00 - 15h30</b><br><a href="#fonctionnement-du-modeleur-graphique">Fonctionnement du modeleur graphique</a></td>
+            <td><b>14:00 - 15h30</b><br><a href="#g%C3%A9or%C3%A9f%C3%A9rencement-de-plans-anciens">Géoréférencement de plans anciens</a></td>
             <td><b>14:00 - 15h30</b><br><a href="#r%C3%A9alisation-dune-carte-anim%C3%A9e-sur-la-base-dun-param%C3%A8tre-temporel">Réalisation d'une carte animée sur la base d'un paramètre temporel</a></td>
         </tr>
     </tbody>
@@ -259,7 +259,7 @@ Pendant cet atelier, nous verrons la publication d'un projet QGIS avec :
 * Un logiciel FTP client, tel que "Filezilla Client" https://filezilla-project.org/ pour le transfert des fichiers vers le serveur.
 * On vous communiquera avant la formation les identifiants FTP et de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
 
-## Les easter eggs : chasser et être chassé
+## Les easter eggs de QGIS : chasser et être chassé
 
 **Julien Moura (GeoTribu)**
 
