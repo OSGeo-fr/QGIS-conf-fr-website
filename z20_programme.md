@@ -238,11 +238,11 @@ Comme tout bon logiciel qui se respecte, QGIS contient des fonctions cachées, c
 
 Au prétexte d'un sujet léger, c'est l'occasion d'apprendre à naviguer dans le code du projet pour dénicher les easter eggs intégrés dans QGIS puis d'apprendre à en créer soi-même de façon à égayer l'expérience des utilisateur/ices finaux/les de vos plugins.
 
-## Comment Qgis aide à la constitution de référentiels de données géohistoriques ?
+## Comment QGIS aide à la constitution de référentiels de données géohistoriques ?
 
 **Hélène Noizet, Eric Mermet, Julien Curie (CNRS / EHESS / Consortium Huma-Num Paris Time Machine)**
 
-Le consortium CNRS Huma-Num Paris Time Machine (https://paris-timemachine.huma-num.fr/) vise à la production et à l'analyse de données historiques (géoréférencemenent de plans anciens, vectorisation d'îlots et de bâtis anciens, de la voirie, d'adresses, etc.). Bien que Paris soit un terrain de jeu privilégié par les membres du consortium, les méthodologies peuvent être facilement partagées à d'autres espaces dont l'objectif est la constitution de référentiels de données géohistoriques. En, effet, ces derniers doivent permettre à des chercheurs de différentes disciplines historiques de travailler ensemble sur un espace géographique commun, tout en questionnant la dimension temporelle.
+Le consortium CNRS Huma-Num Paris Time Machine (https://paris-timemachine.huma-num.fr/) vise à la production et à l'analyse de données historiques (géoréférencemenent de plans anciens, vectorisation d'îlots et de bâtis anciens, de la voirie, d'adresses, etc.). Bien que Paris soit un terrain de jeu privilégié par les membres du consortium, les méthodologies peuvent être facilement partagées à d'autres espaces dont l'objectif est la constitution de référentiels de données géohistoriques. En effet, ces derniers doivent permettre à des chercheurs de différentes disciplines historiques de travailler ensemble sur un espace géographique commun, tout en questionnant la dimension temporelle.
 
 Après avoir présenté la problématique de la modélisation et les enjeux de l’analyse et de la diffusion des données historiques, nous proposons d’animer un atelier pratique dans son format long autour des méthodes que nous utilisons dans le cadre de travaux de recherche historique :
 * Géoréférencement de plans anciens,
