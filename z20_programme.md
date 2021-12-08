@@ -10,7 +10,7 @@ Les présentations dureront 25 min au total, avec 15-20 minutes de présentation
 Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuellement attendus pour participer à ces derniers vous seront précisés.
 
 
-#### Les [inscriptions](/z25_inscription.html) sont ouvertes jusqu'au 31 décembre !
+#### Les [inscriptions](/z25_inscription.html) sont ouvertes jusqu'au 15 janvier 2022 !
 
 ## Mardi 18 janvier - [Ateliers / Workshops]
 
