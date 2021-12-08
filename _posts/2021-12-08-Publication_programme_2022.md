@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Les inscriptions sont ouvertes"
-published: True
+published: False
 ---
 
 <span style="font-size:larger;">Le programme vient d'être publié </span>
