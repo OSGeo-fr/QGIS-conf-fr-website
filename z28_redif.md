@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Revivre la conférence
+title: Revivre la journée de conférences
 tagline: Retransmission des conférences
 menu: header
 ---
 
-Pour revoir les présentations des intervenants à la journée de conférences, vous pouvez les retrouver ci-dessous en vidéos.
+Vous pouvez retrouver les vidéos des éditions précédentes ci-dessous.
 
-# Conférence du matin
+# 2020
+
+## Conférences du matin
 _______________________
 
 ### Covid, générateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison (15 min)
@@ -65,7 +67,7 @@ _______________________
 _________________
 
 
-# Conférence de l'après-midi
+## Conférences de l'après-midi
 
 _______________________
 
