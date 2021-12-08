@@ -14,5 +14,5 @@ Les conférences, en visio également, débuteront à 9h00 et se termineront à 
 
 L'inscription (nécessaire uniquement pour les ateliers) est de 10 € ou 20 € pour les ateliers.
 
-[S'inscrire](https://conf.qgis.osgeo.fr/z25inscription.html)
+[S'inscrire](https://www.helloasso.com/associations/osgeo-fr/evenements/ateliers-des-journees-qgis-2022)
 
