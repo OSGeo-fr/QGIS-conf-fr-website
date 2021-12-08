@@ -6,7 +6,7 @@ menu: header
 ---
 
 
-#### Les [inscriptions](/z25_inscription.html) sont ouvertes jusqu'au 15 janvier 2022 ! 
+#### Les [inscriptions sont ouvertes jusqu'au 15 janvier 2022](https://www.helloasso.com/associations/osgeo-fr/evenements/ateliers-des-journees-qgis-2022) ! 
 
 **_NB_** : il n'est nécessaire de s'inscrire que pour participer aux ateliers. L'accès aux conférences est totalement libre.
 Pour rappel le programme est en ligne sur la page [programme](/z20_programme.html)
