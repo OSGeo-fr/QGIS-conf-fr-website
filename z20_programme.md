@@ -17,13 +17,43 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
 
 **_Tous les ateliers seront accessibles uniquement en ligne._**
 
-**Les horaires sont 9h30 - 15h30**
+**Les horaires sont 9h00 - 15h30**
 
-| Horaire       | Salle "Pavin"                                                                                  | Salle "Saumon"                                                                      | Salle "Chambon"                                                                                                                                                                         | Salle "Guéry"                                                                       | Salle "Salers"                                                                                                                       | Salle "Sioule"                                           |
-| ------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| 09:30 - 11:00 | Simplifiez-vous la vérification des plans avec QompliGIS<br><br>Loïc Bartoletti (Oslandia)<br> | Publier un projet QGIS sur le web avec Lizmap<br><br>Etienne Trimaille (3Liz)       | Comment QGIS aide à la constitution de référentiels de données géohistoriques ?<br><br>Hélène Noizet, Eric Mermet, Julien Curie (CNRS / EHESS / Consortium Huma-Num Paris Time Machine) | Gérer ses données de réseau avec QGIS/PostGIS<br><br>Alice Salsé (Be Map Guest)<br> | Déployer et maintenir des profils utilisateurs<br><br>Benoît Ducarouge et Julien Moura (Oslandia)                                     | Ateliers discussion thématique<br><br>Groupe QGIS-fr<br> |
-| 11:00 - 12:30 | Suite atelier                                                                                  | Suite atelier                                                                       | Suite atelier                                                                                                                                                                           | Suite atelier                                                                       | Création de fiches tableau de bord à partir de l'Atlas<br><br>Jacques Blenner (Agence d'urbanisme Clermont Métropole)<br>            | Suite atelier                                            |
-| 14:00 - 15:30 | Esthétisez vos cartes issues d'OSM<br><br>Alice Caron (Les Artisans cartographes)<br>          | Les easter eggs de QGIS : chasser et être chassé<br><br>Julien Moura (GeoTribu)<br> | Fonctionnement du modeleur graphique<br><br>Marjorie Fangain (Keolis) et Pierre Serafini (Sopreco)<br>                                                                                   | Géoréférencement des plans anciens<br><br>Yves Michelin (VetAgro Sup)               | Réalisation d'une carte animée sur la base d'un paramètre temporel<br><br>Sylvain Massol (Communauté d'agglomération de l'albigeois) | Suite atelier                                            |
+<table class="atelier-table">
+    <thead>
+        <tr>
+            <th>Salle "Pavin"</th>
+            <th>Salle "Saumon"</th>
+            <th>Salle "Chambon"</th>
+            <th>Salle "Guéry"</th>
+            <th>Salle "Salers"</th>
+            <th>Salle "Sioule"</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="atelier">
+            <td rowspan=2><b>09:00 - 12h00</b><br><a href="#simplifiez-vous-la-v%C3%A9rification-des-plans-avec-qompligis">Simplifiez-vous la vérification des plans avec QompliGIS</a></td>
+            <td rowspan=2><b>09:00 - 12h00</b><br><a href="#publier-un-projet-qgis-sur-le-web-avec-lizmap">Publier un projet QGIS sur le web avec Lizmap</a></td>
+            <td rowspan=2><b>09:00 - 12h00</b><br><a href="#comment-qgis-aide-%C3%A0-la-constitution-de-r%C3%A9f%C3%A9rentiels-de-donn%C3%A9es-g%C3%A9ohistoriques-">Comment QGIS aide à la constitution de référentiels de données géohistoriques ?</a></td>
+            <td rowspan=2><b>09:00 - 12h00</b><br><a href="#g%C3%A9rer-ses-donn%C3%A9es-de-r%C3%A9seau-avec-qgispostgis">Gérer ses données de réseau avec QGIS/PostGIS</a></td>
+            <td><b>09:00 - 10h30</b><br><a href="#d%C3%A9ployer-et-maintenir-des-profils-utilisateurs"> Déployer et maintenir des profils utilisateurs</a></td>
+            <td rowspan=2><b>09:00 - 12h00</b><br>Ateliers discussion thématique</td>
+        </tr>
+        <tr class="atelier">
+            <td><b>10:45 - 12h15</b><br><a href="#cr%C3%A9ation-de-fiches-tableau-de-bord-%C3%A0-partir-de-latlas">Création de fiches tableau de bord à partir de l'Atlas</a></td>
+        </tr>
+        <tr class="pause-atelier">
+            <td colspan=6><b>Pause</b></td>
+        </tr>       
+        <tr class="atelier">
+            <td><b>14:00 - 15h30</b><br><a href="#esth%C3%A9tisez-vos-cartes-issues-dosm">Esthétisez vos cartes issues d'OSM</a></td>
+            <td><b>14:00 - 15h30</b><br><a href="#les-easter-eggs-de-qgis--chasser-et-%C3%AAtre-chass%C3%A9">Les easter eggs de QGIS : chasser et être chassé</a></td>
+            <td><b>14:00 - 15h30</b><br><a href="#fonctionnement-du-modeleur-graphique">Fonctionnement du modeleur graphique</a></td>
+            <td><b>14:00 - 15h30</b><br><a href="#g%C3%A9or%C3%A9f%C3%A9rencement-de-plans-anciens">Géoréférencement de plans anciens</a></td>
+            <td><b>14:00 - 15h30</b><br><a href="#r%C3%A9alisation-dune-carte-anim%C3%A9e-sur-la-base-dun-param%C3%A8tre-temporel">Réalisation d'une carte animée sur la base d'un paramètre temporel</a></td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
@@ -33,27 +63,112 @@ Journée de conférences avec diffusion vidéo live.
 
 Vous pourrez également interagir avec les présentateurs via le canal de messagerie.
 
-| Horaires | Titre                                                                            | Présentateur / Présentatrice                                       |
-|----------|----------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| 09:00    | Ouverture de la journée - OSGeo-FR & Groupe QGIS FR                              |                                                                    |
-| 09:15    | [Déploiement de QGIS à Bordeaux Métropole](#d%C3%A9ploiement-de-qgis-%C3%A0-bordeaux-m%C3%A9tropole)       | Julien Pagiusco (Bordeaux Métropole)                               |
-| 09:40    | [Associer des documents à vos données](#associer-des-documents-%C3%A0-vos-donn%C3%A9es)                    | Julien Cabieces (Oslandia)                                         |
-| 10:05    | [QGIS Serveur, le choix de la simplicité](#qgis-serveur-le-choix-de-la-simplicit%C3%A9)                    | Paul Blottiere (Hytech-Imaging)                                    |
-| 10:30    | [QGIS, ses formulaires et expressions pour faire un outil de saisie au poil](#qgis-ses-formulaires-et-expressions-pour-faire-un-outil-de-saisie-au-poil)       | Michaël Douchin (3Liz)                                             |
-| 10:55    | Pause                                                                            |                                                                    |
-| 11:20    | [Simplifiez la vie à QGIS](#simplifiez-la-vie-%C3%A0-qgis)                                                 | Harrissou Sant-anna (CAUE 49)                                      |
-| 11:45    | [Gestion de l’adressage avec QGIS/PostGIS : apports et limites du couple logiciel](#gestion-de-ladressage-avec-qgispostgis--apports-et-limites-du-couple-logiciel) | Théo Grondin (Conseil Départemental du Calvados)              |
-| 12:05    | [Saisie de la Base Adresse Localisée (BAL) de Clermont Métropole avec QGIS](#saisie-de-la-base-adresse-localis%C3%A9e-bal-de-clermont-m%C3%A9tropole-avec-qgis)        | Hervé Christol (Clermont Métropole)                          |
-| 12:30    | Pause repas                                                                      |                                                                    |
-| 14:00    | [Utilisation de l'outil 'Report' pour la génération d'un atlas indexé](#utilisation-de-loutil-report-pour-la-g%C3%A9n%C3%A9ration-dun-atlas-index%C3%A9)            | Julien Waddle (CampToCamp)                             |
-| 14:25    | [Des cartes topo avec QGIS](#des-cartes-topo-avec-qgis)             | Florian Boret                                                      |
-| 14:50    | [Cartographie et analyse topographique avec l’extension Terrain Shading de QGIS](#cartographie-et-analyse-topographique-avec-lextension-terrain-shading-de-qgis)   | Zoran Čučković (Laboratoire CHEC, Université de Clermont Auvergne) |
-| 15:15    | [Des fonds de carte en tuiles vectorielles dans vos projets QGIS](#des-fonds-de-carte-en-tuiles-vectorielles-dans-vos-projets-qgis)                  | Nicolas Bozon (MapTiler)                                           |
-| 15:40    | Pause                                                                            |                                                                    |
-| 16:05    | [La prospective scolaire avec QGIS](#la-prospective-scolaire-avec-qgis)          | Charles Lopez (Commune de Saint-Priest)                            |
-| 16:30    | [KAPLAN : systématisation des analyses de scénarios de transport collectif](#kaplan--syst%C3%A9matisation-des-analyses-de-sc%C3%A9narios-de-transport-collectif) | Paola Palmas (Egis Rail)                                           |
-| 16:55    | [Optimisation de tournée : retour applicatif d'un plugin QGIS](#optimisation-de-tourn%C3%A9e--retour-applicatif-dun-plugin-qgis)                     | Arnaud Bellec (Alkante)                                            |
-| 17:20    | Clôture                                                                          |                                                                    |
+<table class="tableizer-table">
+  <thead>
+    <tr class="th">
+      <th>Horaires</th>
+      <th>Titre</th>
+      <th>Présentateur / Présentatrice</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="impair">
+      <td>09:00</td>
+      <td>Ouverture de la journée - OSGeo-FR &amp; Groupe QGIS FR</td>
+      <td></td>
+    </tr>
+    <tr class="pair">
+      <td>09:15</td>
+      <td><a href="#d%C3%A9ploiement-de-qgis-%C3%A0-bordeaux-m%C3%A9tropole">Déploiement de QGIS à Bordeaux Métropole</a></td>
+      <td>Julien Pagiusco (Bordeaux Métropole)</td>
+    </tr>
+    <tr class="impair">
+      <td>09:40</td>
+      <td><a href="#associer-des-documents-%C3%A0-vos-donn%C3%A9es">Associer des documents à vos données</a></td>
+      <td>Julien Cabieces (Oslandia)</td>
+    </tr>
+    <tr  class="pair">
+      <td>10:05</td>
+      <td><a href="#qgis-serveur-le-choix-de-la-simplicit%C3%A9">QGIS Serveur, le choix de la simplicité</a></td>
+      <td>Paul Blottiere (Hytech-Imaging)</td>
+    </tr>
+    <tr class="impair">
+      <td>10:30</td>
+      <td><a href="#qgis-ses-formulaires-et-expressions-pour-faire-un-outil-de-saisie-au-poil">QGIS, ses formulaires et expressions pour faire un outil de saisie au poil</a></td>
+      <td>Michaël Douchin (3Liz)</td>
+    </tr>
+    <tr class="pause">
+      <td>10:55</td>
+      <td>Pause</td>
+      <td></td>
+    </tr>
+    <tr class="impair">
+      <td>11:20</td>
+      <td><a href="#simplifiez-la-vie-%C3%A0-qgis">Simplifiez la vie à QGIS</a></td>
+      <td>Harrissou Sant-anna (CAUE 49)</td>
+    </tr>
+    <tr class="pair">
+      <td>11:45</td>
+      <td><a href="#gestion-de-ladressage-avec-qgispostgis--apports-et-limites-du-couple-logiciel">Gestion de l’adressage avec QGIS/PostGIS : apports et limites du couple logiciel</a></td>
+      <td>Théo Grondin (Conseil Départemental du Calvados)</td>
+    </tr>
+    <tr class="impair">
+      <td>12:05</td>
+      <td><a href="#saisie-de-la-base-adresse-localis%C3%A9e-bal-de-clermont-m%C3%A9tropole-avec-qgis">Saisie de la Base Adresse Localisée (BAL) de Clermont Métropole avec QGIS</a></td>
+      <td>Hervé Christol (Clermont Métropole)</td>
+    </tr>
+    <tr class="pause">
+      <td>12:30</td>
+      <td>Pause repas</td>
+      <td></td>
+    </tr>
+    <tr class="impair">
+      <td>14:00</td>
+      <td><a href="#utilisation-de-loutil-report-pour-la-g%C3%A9n%C3%A9ration-dun-atlas-index%C3%A9">Utilisation de l'outil 'Report' pour la génération d'un atlas indexé</a></td>
+      <td>Julien Waddle (CampToCamp)</td>
+    </tr>
+    <tr class="pair">
+      <td>14:25</td>
+      <td><a href="#des-cartes-topo-avec-qgis">Des cartes topo avec QGIS</a></td>
+      <td>Florian Boret</td>
+    </tr>
+    <tr class="impair">
+      <td>14:50</td>
+      <td><a href="#cartographie-et-analyse-topographique-avec-lextension-terrain-shading-de-qgis">Cartographie et analyse topographique avec l’extension Terrain Shading de QGIS</a></td>
+      <td>Zoran Čučković (Laboratoire CHEC, Université de Clermont Auvergne)</td>
+    </tr>
+    <tr class="pair">
+      <td>15:15</td>
+      <td><a href="#des-fonds-de-carte-en-tuiles-vectorielles-dans-vos-projets-qgis">Des fonds de carte en tuiles vectorielles dans vos projets QGIS</a></td>
+      <td>Nicolas Bozon (MapTiler)</td>
+    </tr>
+    <tr class="pause">
+      <td>15:40</td>
+      <td>Pause</td>
+      <td></td>
+    </tr>
+    <tr class="pair">
+      <td>16:05</td>
+      <td><a href="#la-prospective-scolaire-avec-qgis">La prospective scolaire avec QGIS</a></td>
+      <td>Charles Lopez (Commune de Saint-Priest)</td>
+    </tr>
+    <tr class="impair">
+      <td>16:30</td>
+      <td><a href="#kaplan--syst%C3%A9matisation-des-analyses-de-sc%C3%A9narios-de-transport-collectif">KAPLAN : systématisation des analyses de scénarios de transport collectif</a></td>
+      <td>Paola Palmas (Egis Rail)</td>
+    </tr>
+    <tr class="pair">
+      <td>16:55</td>
+      <td><a href="#optimisation-de-tourn%C3%A9e--retour-applicatif-dun-plugin-qgis">Optimisation de tournée : retour applicatif d'un plugin QGIS</a></td>
+      <td>Arnaud Bellec (Alkante)</td>
+    </tr>
+    <tr class="impair">
+      <td>17:20</td>
+      <td>Clôture</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 _______________________
 
@@ -230,7 +345,7 @@ Pendant cet atelier, nous verrons la publication d'un projet QGIS avec :
 * Un logiciel FTP client, tel que "Filezilla Client" https://filezilla-project.org/ pour le transfert des fichiers vers le serveur.
 * On vous communiquera avant la formation les identifiants FTP et de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
 
-## Les easter eggs : chasser et être chassé
+## Les easter eggs de QGIS : chasser et être chassé
 
 **Julien Moura (GeoTribu)**
 
