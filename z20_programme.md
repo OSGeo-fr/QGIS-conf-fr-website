@@ -27,7 +27,6 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
             <th>Salle "Chambon"</th>
             <th>Salle "Guéry"</th>
             <th>Salle "Salers"</th>
-            <th>Salle "Sioule"</th>
         </tr>
     </thead>
     <tbody>
@@ -37,8 +36,7 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
             <td rowspan=2><b>09:00 - 12h00</b><br><a href="#comment-qgis-aide-%C3%A0-la-constitution-de-r%C3%A9f%C3%A9rentiels-de-donn%C3%A9es-g%C3%A9ohistoriques-">Comment QGIS aide à la constitution de référentiels de données géohistoriques ?</a></td>
             <td rowspan=2><b>09:00 - 12h00</b><br><a href="#g%C3%A9rer-ses-donn%C3%A9es-de-r%C3%A9seau-avec-qgispostgis">Gérer ses données de réseau avec QGIS/PostGIS</a></td>
             <td><b>09:00 - 10h30</b><br><a href="#d%C3%A9ployer-et-maintenir-des-profils-utilisateurs"> Déployer et maintenir des profils utilisateurs</a></td>
-            <td rowspan=2><b>09:00 - 12h00</b><br>Ateliers discussion thématique</td>
-        </tr>
+         </tr>
         <tr class="atelier">
             <td><b>10:45 - 12h15</b><br><a href="#cr%C3%A9ation-de-fiches-tableau-de-bord-%C3%A0-partir-de-latlas">Création de fiches tableau de bord à partir de l'Atlas</a></td>
         </tr>
