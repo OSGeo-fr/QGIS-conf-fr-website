@@ -8,7 +8,7 @@ published: True
 
 Celui-ci est susceptible d'être modifié au niveau de l'ordre de passage.
 
-Les ateliers (en visio uniquement) débuteront à 9h30 et se termineront à 15h30.
+Les ateliers (en visio uniquement) débuteront à 9h00 et se termineront à 15h30.
 
 Les conférences, en visio également, débuteront à 9h00 et se termineront à 17h20.
 
