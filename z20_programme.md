@@ -311,20 +311,6 @@ QompliGIS a pour objectif de proposer un moyen simple de vérifier si la structu
 
 Durant l'atelier, vous apprendrez à configurer le plugin et l'utiliser sur un modèle prédéfini afin d'être autonome dans la réutilisation avec vos cahiers des charges.
 
-## Esthétisez vos cartes issues d'OSM
-
-**Alice Caron (Les Artisans cartographes)**
-
-Dans ce atelier, nous aborderons:
-- Export données OSM
-- Intégration dans QGIS
-- Style Champs Libre à télécharger en amont : https://gitlab.com/champs-libres/public/champs-libres-qgis-osm-style
-- Application du style
-- Personnalisation suivant souhait du cartographe
-- Dernières retouches et astuces stylistiques
-
-**Pré-requis** : niveau intermédiaire QGIS vivement conseillé
-
 ## Publier un projet QGIS sur le web avec Lizmap
 
 **Etienne Trimaille (3Liz)**
