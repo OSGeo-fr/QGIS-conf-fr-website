@@ -44,7 +44,7 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
             <td colspan=6><b>Pause</b></td>
         </tr>       
         <tr class="atelier">
-            <td><b>14:00 - 15h30</b><br><a href="#esth%C3%A9tisez-vos-cartes-issues-dosm">Esthétisez vos cartes issues d'OSM</a></td>
+            <td></td>
             <td><b>14:00 - 15h30</b><br><a href="#les-easter-eggs-de-qgis--chasser-et-%C3%AAtre-chass%C3%A9">Les easter eggs de QGIS : chasser et être chassé</a></td>
             <td><b>14:00 - 15h30</b><br><a href="#fonctionnement-du-modeleur-graphique">Fonctionnement du modeleur graphique</a></td>
             <td><b>14:00 - 15h30</b><br><a href="#g%C3%A9or%C3%A9f%C3%A9rencement-de-plans-anciens">Géoréférencement de plans anciens</a></td>
