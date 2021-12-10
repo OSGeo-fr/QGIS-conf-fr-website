@@ -12,6 +12,8 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
 
 #### Les [inscriptions](/z25_inscription.html) sont ouvertes jusqu'au 15 janvier 2022 !
 
+**_NB : les liens d'accès aux ateliers et conférences seront publiés dans la semaine précédant l'évènement_**
+
 ## Mardi 18 janvier - [Ateliers / Workshops]
 
 
