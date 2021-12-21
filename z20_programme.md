@@ -19,7 +19,7 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
 
 **_Tous les ateliers seront accessibles uniquement en ligne._**
 
-**Les horaires sont 9h00 - 17h00**
+**Les horaires sont 9h00 - 17h1**
 
 <table class="atelier-table">
     <thead>
