@@ -19,7 +19,7 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
 
 **_Tous les ateliers seront accessibles uniquement en ligne._**
 
-**Les horaires sont 9h00 - 15h30**
+**Les horaires sont 9h00 - 17h15**
 
 <table class="atelier-table">
     <thead>
@@ -29,28 +29,38 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
             <th>Salle "Chambon"</th>
             <th>Salle "Guéry"</th>
             <th>Salle "Salers"</th>
+            <th>Salle "Sioule"</th>
         </tr>
     </thead>
     <tbody>
         <tr class="atelier">
-            <td rowspan=2><b>09:00 - 12h00</b><br><a href="#simplifiez-vous-la-v%C3%A9rification-des-plans-avec-qompligis">Simplifiez-vous la vérification des plans avec QompliGIS</a></td>
-            <td rowspan=2><b>09:00 - 12h00</b><br><a href="#publier-un-projet-qgis-sur-le-web-avec-lizmap">Publier un projet QGIS sur le web avec Lizmap</a></td>
-            <td rowspan=2><b>09:00 - 12h00</b><br><a href="#comment-qgis-aide-%C3%A0-la-constitution-de-r%C3%A9f%C3%A9rentiels-de-donn%C3%A9es-g%C3%A9ohistoriques-">Comment QGIS aide à la constitution de référentiels de données géohistoriques ?</a></td>
-            <td rowspan=2><b>09:00 - 12h00</b><br><a href="#g%C3%A9rer-ses-donn%C3%A9es-de-r%C3%A9seau-avec-qgispostgis">Gérer ses données de réseau avec QGIS/PostGIS</a></td>
-            <td><b>09:00 - 10h30</b><br><a href="#d%C3%A9ployer-et-maintenir-des-profils-utilisateurs"> Déployer et maintenir des profils utilisateurs</a></td>
+            <td rowspan=2><b>09h00 - 12h00</b><br><a href="#simplifiez-vous-la-v%C3%A9rification-des-plans-avec-qompligis">Simplifiez-vous la vérification des plans avec QompliGIS</a></td>
+            <td rowspan=2><b>09h00 - 12h00</b><br><a href="#publier-un-projet-qgis-sur-le-web-avec-lizmap">Publier un projet QGIS sur le web avec Lizmap</a></td>
+            <td rowspan=2><b>09h00 - 12h00</b><br><a href="#comment-qgis-aide-%C3%A0-la-constitution-de-r%C3%A9f%C3%A9rentiels-de-donn%C3%A9es-g%C3%A9ohistoriques-">Comment QGIS aide à la constitution de référentiels de données géohistoriques ?</a></td>
+            <td rowspan=2><b>09h00 - 12h00</b><br><a href="#g%C3%A9rer-ses-donn%C3%A9es-de-r%C3%A9seau-avec-qgispostgis">Gérer ses données de réseau avec QGIS/PostGIS</a></td>
+            <td><b>09h00 - 10h30</b><br><a href="#g%C3%A9or%C3%A9f%C3%A9rencement-de-plans-anciens">Géoréférencement de plans anciens</a></td>
+            <td><b>09h00 - 10h30</b><br><a href="#d%C3%A9ployer-et-maintenir-des-profils-utilisateurs"> Déployer et maintenir des profils utilisateurs</a></td>
          </tr>
         <tr class="atelier">
-            <td><b>10:45 - 12h15</b><br><a href="#cr%C3%A9ation-de-fiches-tableau-de-bord-%C3%A0-partir-de-latlas">Création de fiches tableau de bord à partir de l'Atlas</a></td>
+            <td><b>10h45 - 12h15</b><br><a href="#cr%C3%A9ation-de-fiches-tableau-de-bord-%C3%A0-partir-de-latlas">Création de fiches tableau de bord à partir de l'Atlas</a></td>
+            <td><b>10h45 - 12h15</b><br><a href="#r%C3%A9alisation-dune-carte-anim%C3%A9e-sur-la-base-dun-param%C3%A8tre-temporel">Réalisation d'une carte animée sur la base d'un paramètre temporel</a></td>
         </tr>
         <tr class="pause-atelier">
             <td colspan=6><b>Pause</b></td>
         </tr>       
         <tr class="atelier">
+            <td rowspan=2><b>14h00 - 17h00</b><br><a href="#simplifiez-vous-la-v%C3%A9rification-des-plans-avec-qompligis">Simplifiez-vous la vérification des plans avec QompliGIS</a></td>
+            <td rowspan=2><b>14h00 - 17h00</b><br><a href="#publier-un-projet-qgis-sur-le-web-avec-lizmap">Publier un projet QGIS sur le web avec Lizmap</a></td>
+            <td><b>14h00 - 15h30</b><br><a href="#les-easter-eggs-de-qgis--chasser-et-%C3%AAtre-chass%C3%A9">Les easter eggs de QGIS : chasser et être chassé</a></td>
+            <td><b>14h00 - 15h30</b><br><a href="#fonctionnement-du-modeleur-graphique">Fonctionnement du modeleur graphique</a></td>
+            <td><b>14h00 - 15h30</b><br><a href="#g%C3%A9or%C3%A9f%C3%A9rencement-de-plans-anciens">Géoréférencement de plans anciens</a></td>
+            <td><b>14h00 - 15h30</b><br><a href="#r%C3%A9alisation-dune-carte-anim%C3%A9e-sur-la-base-dun-param%C3%A8tre-temporel">Réalisation d'une carte animée sur la base d'un paramètre temporel</a></td>
+        </tr>       
+        <tr class="atelier">
             <td></td>
-            <td><b>14:00 - 15h30</b><br><a href="#les-easter-eggs-de-qgis--chasser-et-%C3%AAtre-chass%C3%A9">Les easter eggs de QGIS : chasser et être chassé</a></td>
-            <td><b>14:00 - 15h30</b><br><a href="#fonctionnement-du-modeleur-graphique">Fonctionnement du modeleur graphique</a></td>
-            <td><b>14:00 - 15h30</b><br><a href="#g%C3%A9or%C3%A9f%C3%A9rencement-de-plans-anciens">Géoréférencement de plans anciens</a></td>
-            <td><b>14:00 - 15h30</b><br><a href="#r%C3%A9alisation-dune-carte-anim%C3%A9e-sur-la-base-dun-param%C3%A8tre-temporel">Réalisation d'une carte animée sur la base d'un paramètre temporel</a></td>
+            <td></td>
+            <td><b>15h45 - 17h15</b><br><a href="#cr%C3%A9ation-de-fiches-tableau-de-bord-%C3%A0-partir-de-latlas">Création de fiches tableau de bord à partir de l'Atlas</a></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
