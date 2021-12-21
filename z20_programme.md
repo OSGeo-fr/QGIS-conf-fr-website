@@ -59,7 +59,7 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
         <tr class="atelier">
             <td></td>
             <td></td>
-            <td><b>15h45 - 17h00</b><br><a href="#cr%C3%A9ation-de-fiches-tableau-de-bord-%C3%A0-partir-de-latlas">Création de fiches tableau de bord à partir de l'Atlas</a></td>
+            <td><b>15h45 - 17h15</b><br><a href="#cr%C3%A9ation-de-fiches-tableau-de-bord-%C3%A0-partir-de-latlas">Création de fiches tableau de bord à partir de l'Atlas</a></td>
             <td></td>
         </tr>
     </tbody>
