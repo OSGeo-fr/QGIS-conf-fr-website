@@ -33,14 +33,14 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
 
-
+ -->
 ---
 
 [![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
 
 Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec trois core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
 
----
+<!-- ---
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
