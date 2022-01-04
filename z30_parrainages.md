@@ -9,7 +9,7 @@ Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getin
 
 Les modalités de soutien sont en bas de page. 
 
-# Nos partenaires
+# Notre partenaire
 
 ---
 
