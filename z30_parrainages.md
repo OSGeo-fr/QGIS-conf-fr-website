@@ -27,13 +27,12 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 # Nos mécènes
 
-<!-- ---
+---
 
 [![3Liz](/images/3liz.png)](https://www.3liz.com/)
 
-3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Server, aux quels nous contribuons. Nous avons aussi développer LizMap, outil de publication de cartes Web dynamiques.
+3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Serveur, auxquels nous contribuons. Nous avons aussi développé Lizmap, outil de publication de cartes Web dynamiques.
 
- -->
 ---
 
 [![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
@@ -46,6 +45,7 @@ Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée e
 
 Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
 
+-->
 ---
 
 [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
@@ -59,7 +59,6 @@ Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de 
 Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier.
 
 ---
- -->
 
 # Nos soutiens
 
@@ -141,4 +140,3 @@ Plusieurs niveaux sont possibles:
 <p><strong>Note:</strong> Ces dons sont indépendants de l’organisation des journées QGIS Francophone, mais c’est bien quand même!</p>
 
 </p></details>
-
