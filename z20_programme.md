@@ -17,7 +17,9 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
 ## Mardi 18 janvier - [Ateliers / Workshops]
 
 
-**_Tous les ateliers seront accessibles uniquement en ligne._**
+**_Tous les ateliers seront accessibles uniquement en ligne après inscription._**
+
+Il n'y aura pas d'enregistrement des ateliers.
 
 **Les horaires sont 9h00 - 17h15**
 
@@ -70,6 +72,7 @@ Les ateliers dureront 1h30 ou 3h selon les besoins. Les pré-réquis éventuelle
 ## Mercredi 19 janvier - Journée conférence
 
 Journée de conférences avec diffusion vidéo live.
+Il n'y a pas besoin d'inscription pour participer à cette journée, le lien sera public.
 
 Vous pourrez également interagir avec les présentateurs via le canal de messagerie.
 
@@ -420,5 +423,3 @@ Pour l'exemple, nus nous appuierons sur la base des permis de construire et autr
 **Pré-requis :**
 * QGIS 3.16 (ou supérieur) et Gimp (pour la création de l'animation)
 * Un niveau intermédiaire sur Qgis est suffisant pour suivre cet atelier.
-
-
