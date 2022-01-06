@@ -1,3 +1,7 @@
+# IDE
+.idea/
+
+# Build
 _site/
 vendor/
 _site/404.html
