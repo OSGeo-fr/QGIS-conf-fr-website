@@ -39,13 +39,12 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec trois core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
 
-<!-- ---
+---
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
 Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
 
--->
 ---
 
 [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
