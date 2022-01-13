@@ -61,11 +61,11 @@ Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, 
 
 # Nos soutiens
 
-<!-- ---
+<!-- --- --- -->
 
 [![Azimut](/images/azimut.png)](https://www.azimut.fr/)
 
---- -->
+
 
 
 ## Tarif et visibilité
