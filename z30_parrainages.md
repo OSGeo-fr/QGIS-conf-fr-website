@@ -13,7 +13,7 @@ Les modalités de soutien sont en bas de page.
 
 ---
 
-Le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG) renouvelle son partenariat et nous apporte son soutien logistique cette année. Merci à eux !
+Le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG) renouvelle son partenariat et nous apporte son soutien logistique et financier cette année. Merci à eux !
 
 [![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
 
@@ -21,6 +21,15 @@ Le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG)
 _Le Centre Régional Auvergne-Rhône-Alpes de l'Information Géographique (CRAIG) est un groupement d'intérêt public créé en 2011 dans le cadre du Contrat de projets Etat-Région, afin de mettre en place un Centre de ressources dans le domaine de l'information géographique. Ce projet s'inscrit dans le cadre d'une démarche globale de mutualisation des coûts et des moyens mais aussi de cohérence régionale en matière de production et d'usage de données géographiques._
 
 _[https://www.craig.fr/](https://www.craig.fr/)_
+
+
+---
+
+# Nos partenaires techniques
+
+Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur deux partenaires techniques.
+
+[FAImaison](https://www.faimaison.net/) qui nous fournit l'instance Big Blue Button et [K-prod](https://k-prod.fr/) qui  assure la diffusion des conférences
 
 ---
 
