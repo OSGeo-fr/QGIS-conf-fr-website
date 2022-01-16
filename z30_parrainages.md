@@ -29,9 +29,7 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur deux partenaires techniques.
 
-[FAImaison](https://www.faimaison.net/) qui nous fournit l'instance Big Blue Button et [K-prod](https://k-prod.fr/) qui  assure la diffusion des conférences
-
----
+[![FAImaison](/images/faimaison.svg)](https://www.faimaison.net/) qui nous fournit l'instance Big Blue Button et [![K-prod](/images/k-prod.png)](https://k-prod.fr/) qui  assure la diffusion des confk-prod-pn
 
 
 # Nos mécènes
