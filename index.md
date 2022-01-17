@@ -15,7 +15,7 @@ L’événement se déroulera sur 2 jours :
 
 * **Mercredi 19 janvier 2022** Journée de conférences.
   * [Voir le direct](https://qgis.k-prod.fr)
-  * [Afficher le chat](https://qgis-k-prod.fr/chat/readonly)
+  * [Afficher le chat](https://qgis.k-prod.fr/chat/readonly)
 
 
 Les inscriptions sont closes. 
