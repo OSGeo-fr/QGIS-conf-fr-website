@@ -14,7 +14,10 @@ L’événement se déroulera sur 2 jours :
 * **Mardi 18 janvier 2022** Journée d'ateliers thématiques et techniques.
 
 * **Mercredi 19 janvier 2022** Journée de conférences.
+  * [Voir le direct](https://qgis.k-prod.fr)
+  * [Afficher le chat](https://qgis-k-prod.fr/chat/readonly)
 
-Les inscriptions sont ouvertes. 
+
+Les inscriptions sont closes. 
 
 Suivez les actualités sur <https://twitter.com/JourneesQgis> !
