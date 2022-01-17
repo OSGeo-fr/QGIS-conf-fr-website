@@ -5,6 +5,18 @@ tagline: Retransmission des conférences
 menu: header
 ---
 
+# 2022
+
+<iframe
+  src="https://qgis.k-prod.fr/embed/video"
+  title="Owncast"
+  height="350px" width="550px"
+  referrerpolicy="origin"
+  scrolling="no"
+  allowfullscreen>
+</iframe>
+
+
 Vous pouvez retrouver les vidéos des éditions précédentes ci-dessous.
 
 # 2020
