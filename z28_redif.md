@@ -5,12 +5,6 @@ tagline: Retransmission des conférences
 menu: header
 ---
 
-# 2022
-
-### Les conférences en direct
-
-<iframe src="https://www.youtube.com/watch?v=TvrGp6NIx_Y" title="Owncast" height="350px" width="550px" referrerpolicy="origin" scrolling="no" allowfullscreen></iframe>
-
 _______________________
 
 Vous pouvez retrouver les vidéos des éditions précédentes ci-dessous.
