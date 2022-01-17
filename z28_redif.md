@@ -7,14 +7,9 @@ menu: header
 
 # 2022
 
-<iframe
-  src="https://qgis.k-prod.fr/embed/video"
-  title="Owncast"
-  height="350px" width="550px"
-  referrerpolicy="origin"
-  scrolling="no"
-  allowfullscreen>
-</iframe>
+### Les conférences en direct
+
+<iframe src="https://qgis.k-prod.fr/embed/video" title="Owncast" height="350px" width="550px" referrerpolicy="origin" scrolling="no" allowfullscreen></iframe>
 
 _______________________
 
