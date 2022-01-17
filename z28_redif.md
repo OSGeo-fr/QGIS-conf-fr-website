@@ -16,6 +16,7 @@ menu: header
   allowfullscreen>
 </iframe>
 
+_______________________
 
 Vous pouvez retrouver les vidéos des éditions précédentes ci-dessous.
 
