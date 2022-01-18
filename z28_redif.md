@@ -121,7 +121,3 @@ _______________________
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o47w7zf40nw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _______________________
-
-### Test5
-
-<iframe src="https://qgis.k-prod.fr/embed/video" title="Conférences QGIS-fr 2022" referrerpolicy="origin-when-cross-origin"></iframe>
