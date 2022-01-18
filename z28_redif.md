@@ -124,4 +124,4 @@ _______________________
 
 ### Test
 
-<iframe src="https://qgis.k-prod.fr/embed/video" title="Owncast" height="350px" width="550px" referrerpolicy="origin" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://qgis.k-prod.fr/embed/video" title="Conférences QGIS-fr 2022"></iframe>
