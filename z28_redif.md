@@ -122,6 +122,6 @@ _______________________
 
 _______________________
 
-### Test2
+### Test3
 
-<iframe src="https://qgis.k-prod.fr/embed/video" title="Conférences QGIS-fr 2022"></iframe>
+<iframe src="https://qgis.k-prod.fr/embed/video" title="Conférences QGIS-fr 2022" referrerpolicy="strict-origin"></iframe>
