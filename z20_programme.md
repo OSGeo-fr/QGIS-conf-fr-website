@@ -8,7 +8,7 @@ menu: header
 # Accès conférences le 19 janvier
 
   * [Voir le direct](https://qgis.k-prod.fr)
-  * [Afficher le chat](https://qgis.k-prod.fr/chat/readonly)
+  * [Afficher le chat](https://qgis.k-prod.fr/index-standalone-chat-readwrite.html)
 
 Les présentations dureront 25 min au total, avec 15-20 minutes de présentation, suivie d'un créneau de questions/échanges de 5-10 minutes.
 
