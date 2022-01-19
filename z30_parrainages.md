@@ -9,7 +9,7 @@ Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getin
 
 Les modalités de soutien sont en bas de page. 
 
-# Notre partenaire
+# Notre partenaire co-organisateur
 
 ---
 
@@ -27,9 +27,11 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 # Nos partenaires techniques
 
-Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur deux partenaires techniques.
+Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur deux partenaires techniques, [FAImaison](https://www.faimaison.net/) pour l'instance Big Blue Button  et [Kintésens-prod.](https://k-prod.fr/) pour la diffusion des conférences en direct.
 
-[![FAImaison](/images/faimaison.svg)](https://www.faimaison.net/) qui nous fournit l'instance Big Blue Button et [![K-prod](/images/k-prod.png)](https://k-prod.fr/) qui  assure la diffusion des confk-prod-pn
+[![FAImaison](/images/faimaison.png)](https://www.faimaison.net/)
+
+[![K-prod](/images/k-prod.png)](https://k-prod.fr/) 
 
 
 # Nos mécènes
