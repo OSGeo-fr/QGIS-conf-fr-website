@@ -5,7 +5,7 @@ Pour construire le site localement :
 - Sous ubuntu/debian,
 `sudo apt-get install jekyll`
  puis
-`bundle exec jekyll serve
+`bundle3.0 exec jekyll serve
 `
 - Autres méthodes : https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 
