@@ -11,7 +11,7 @@ menu: footer
 - Marie Jagaille (HYTECH-IMAGING)
 - Marie Suet (CRAIG)
 - Jean-Marie Arsac(AZIMUT)
-- Loîc Bartoletti (OSLANDIA)
+- Loïc Bartoletti (OSLANDIA)
 - Paul Blottière (HYTECH-IMAGING)
 - Sébastien Peillet (HYTECH-IMAGING)
 - Nicolas Roelandt (Université Gustave Eiffel)
@@ -23,7 +23,7 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 # Illustrations
 
-- Sylvain  Beorchia (OSLANDIA)
+- Sylvain Beorchia (OSLANDIA)
 
 # Comité de programme (ordre alphabétique courtois)
 
