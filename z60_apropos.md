@@ -27,10 +27,10 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 # Comité de programme (ordre alphabétique courtois)
 
+- Marie Jagaille (HYTECH-IMAGING)
+- Loïc Bartoletti (OSLANDIA)
 - Harrissou Sant-Anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
-- Loïc Bartoletti (OSLANDIA)
-- Marie Jagaille (HYTECH-IMAGING)
 
 **Critères de sélection :**
 
