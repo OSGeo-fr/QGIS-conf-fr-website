@@ -25,61 +25,16 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 ---
 
-# Nos partenaires techniques
-
-Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur deux partenaires techniques, [FAImaison](https://www.faimaison.net/) pour l'instance Big Blue Button  et [Kintésens-prod.](https://k-prod.fr/) pour la diffusion des conférences en direct.
-
-[![FAImaison](/images/faimaison.png)](https://www.faimaison.net/) [![K-prod](/images/k-prod.png)](https://k-prod.fr/) 
-
+# Nos partenaires techniques 
 
 # Nos mécènes
 
----
-
-[![3Liz](/images/3liz.png)](https://www.3liz.com/)
-
-3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Serveur, auxquels nous contribuons. Nous avons aussi développé Lizmap, outil de publication de cartes Web dynamiques.
-
----
-
-[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
-
-Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec trois core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
-
----
-
-[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
-
-Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
-
----
-
-[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
-
-Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection. Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu’elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel “technicien supérieur en SIG” et certificat de qualification professionnelle “Géomaticien”), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source.
-
----
-
-[![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
-
-Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier.
-
----
-
 # Nos soutiens
-
-<!-- --- --- -->
-
-[![Azimut](/images/azimut.png)](https://www.azimut.fr/)
-
-[![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
-
-
 
 
 ## Tarif et visibilité
 
-Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2022]).
+Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2023]).
 
 Plusieurs niveaux sont possibles:
 
@@ -98,7 +53,7 @@ Plusieurs niveaux sont possibles:
         <li>Logo, lien et courte présentation sur le programme</li>
         <li>Citation dans les communiqués de presse</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
-        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2022"</li>
+        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2023"</li>
     </ul>
 </ul>
 </p></details>

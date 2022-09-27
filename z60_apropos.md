@@ -9,14 +9,11 @@ menu: footer
 
 - Marjorie Fangain (KEOLIS)
 - Marie Jagaille (HYTECH-IMAGING)
-- Julie Pierson (CNRS UMR Passages)
+- Marie Suet (CRAIG)
 - Jean-Marie Arsac(AZIMUT)
 - Loîc Bartoletti (OSLANDIA)
 - Paul Blottière (HYTECH-IMAGING)
-- Thomas Michel (IDGEO)
-- Julien Moura (OSLANDIA)
 - Sébastien Peillet (HYTECH-IMAGING)
-- Kevin Ponchon (CRAIG)
 - Nicolas Roelandt (Université Gustave Eiffel)
 - Harrissou Sant-Anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
@@ -31,9 +28,9 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 # Comité de programme (ordre alphabétique courtois)
 
 - Harrissou Sant-Anna (CAUE 49)
-- Etienne Trimaille (3LIZ)
+- Pierre Serafini (SOPRECO)
 - Loïc Bartoletti (OSLANDIA)
-- Paul Blottière (HYTECH-IMAGING)
+- Marie Jagaille (HYTECH-IMAGING)
 
 **Critères de sélection :**
 
