@@ -29,7 +29,7 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 - Marie Jagaille (HYTECH-IMAGING)
 - Loïc Bartoletti (OSLANDIA)
-- Harrissou Sant-Anna (CAUE 49)
+- Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
 
 **Critères de sélection :**
