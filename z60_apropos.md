@@ -7,7 +7,7 @@ menu: footer
 
 # Equipe d'organisation (ordre alphabétique courtois)
 
-- Marjorie Fangain (KEOLIS)
+- Marjorie Fangain (KEOLIS RENNES)
 - Marie Jagaille (HYTECH-IMAGING)
 - Marie Suet (CRAIG)
 - Jean-Marie Arsac(AZIMUT)
