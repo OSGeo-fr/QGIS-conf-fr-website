@@ -15,7 +15,7 @@ menu: footer
 - Paul Blottière (HYTECH-IMAGING)
 - Sébastien Peillet (HYTECH-IMAGING)
 - Nicolas Roelandt (Université Gustave Eiffel)
-- Harrissou Sant-Anna (CAUE 49)
+- Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
 - Etienne Trimaille (3LIZ)
 
