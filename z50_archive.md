@@ -10,7 +10,7 @@ Les présentations des éditions précédentes sont disponibles dans le [dépôt
 
 # Programme 2021-2022:
 
-L'édition 2020 a été soutenue par:
+L'édition 2022 a été soutenue par:
 
 Mécènes:
 
@@ -91,7 +91,7 @@ Mardi 18 janvier :
 </table>
 
 
-Mercredi 20 janvier :
+Mercredi 19 janvier :
 
 <table class="tableizer-table">
   <thead>
