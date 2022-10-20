@@ -7,7 +7,7 @@ menu: header
 
 # Programme
 
-Les journées QGIS 2023 auront lieu au cours du mois de mars. L'appel à propositions sera bientôt lancé.
+Les journées QGIS 2023 auront lieu les 13 et 14 mars. L'appel à propositions sera bientôt lancé.
 
 #### Inscription
 
