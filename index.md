@@ -9,9 +9,9 @@ Le séminaire utilisateurs QGIS se déroulera en présentiel à Clermont-Ferrand
 
 L’événement se déroulera sur 2 jours les 13 et 14 mars:
 
-* **Première journée** : Journée d'ateliers thématiques et techniques.
+* **Lundi 13 mars** : Journée d'ateliers thématiques et techniques.
 
-* **Seconde journée** : Journée de conférences.
+* **Mardi 14 mars** : Journée de conférences.
 
 L'appel à propositions et les [inscriptions](/z25_inscription.html) ouvriront d'ici la fin de l'année (une fois le programme publié).
 

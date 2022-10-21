@@ -16,7 +16,7 @@ plugins_dir:
  - jekyll-seo-tag
  - jekyll-sitemap
 
-summary: Conférence QGIS des utilisateurs francophones 2023. En mars à Clermont-Ferrand
+summary: Conférence QGIS des utilisateurs francophones 2023. Les 13 et 14 mars à Clermont-Ferrand
 tags: [QGIS,OSGEO,Open Source,Conférence,CRAIG,AURA,OSGEO-FR,QGIS-fr]
 github: [metadata]
 repository: OSGeo-fr/QGIS-conf-fr-website
