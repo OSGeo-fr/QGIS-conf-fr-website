@@ -13,6 +13,6 @@ L’événement se déroulera les 13 et 14 mars:
 
 * **Mardi 14 mars** : Journée de conférences.
 
-L'appel à proposition et les [inscriptions](/z25_inscription.html) ouvriront bientôt.
+L'appel à propositions et les [inscriptions](/z25_inscription.html) ouvriront d'ici la fin de l'année (une fois le programme publié).
 
 Suivez les actualités sur <https://twitter.com/JourneesQgis> !
