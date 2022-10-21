@@ -39,12 +39,12 @@ Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-con
 Plusieurs niveaux sont possibles:
 
     
-### Mécène - 500 €
+### Mécène - 800 €
 
 <details><summary>▸ Détail du niveau mécène</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 500 € HT</li>
+    <li>Montant : 800 € HT</li>
     <li>Limité à 5 mécènes</li>
     <ul style="padding-left:40px">
         <li>Inscriptions à deux ateliers incluses</li>
@@ -59,12 +59,12 @@ Plusieurs niveaux sont possibles:
 </p></details>
 
 
-### Soutien - 200 €
+### Soutien - 500 €
 
 <details><summary>▸ Détail du niveau Soutien</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 200 € HT</li>
+    <li>Montant : 500 € HT</li>
     <li>Pas de limite</li>
     <ul style="padding-left:40px">
         <li>Inscription à un atelier incluse</li>
