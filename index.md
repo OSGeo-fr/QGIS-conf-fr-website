@@ -7,7 +7,7 @@ menu: header
 
 Le séminaire utilisateurs QGIS se déroulera en présentiel à Clermont-Ferrand. Cet événement est organisé en partenariat entre le [CRAIG](https://www.craig.fr/) (**C**entre **R**égional **A**uvergne-Rhône-Alpes de l'**I**nformation **G**éographique) et l'[OSGeo-fr](https://www.osgeo.asso.fr/).
 
-L’événement se déroulera les 13 et 14 mars:
+L’événement se déroulera sur 2 jours les 13 et 14 mars:
 
 * **Lundi 13 mars** : Journée d'ateliers thématiques et techniques.
 
