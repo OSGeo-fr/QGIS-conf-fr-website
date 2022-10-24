@@ -22,7 +22,7 @@ _Le Centre Régional Auvergne-Rhône-Alpes de l'Information Géographique (CRAIG
 
 _[https://www.craig.fr/](https://www.craig.fr/)_
 
-
+<!--
 ---
 
 # Nos partenaires techniques
@@ -68,28 +68,27 @@ Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, 
 
 # Nos soutiens
 
-<!-- --- --- -->
 
 [![Azimut](/images/azimut.png)](https://www.azimut.fr/)
 
 [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
 
-
+-->
 
 
 ## Tarif et visibilité
 
-Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2022]).
+Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2023]).
 
 Plusieurs niveaux sont possibles:
 
     
-### Mécène - 500 €
+### Mécène - 800 €
 
 <details><summary>▸ Détail du niveau mécène</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 500 € HT</li>
+    <li>Montant : 800 € HT</li>
     <li>Limité à 5 mécènes</li>
     <ul style="padding-left:40px">
         <li>Inscriptions à deux ateliers incluses</li>
@@ -98,18 +97,18 @@ Plusieurs niveaux sont possibles:
         <li>Logo, lien et courte présentation sur le programme</li>
         <li>Citation dans les communiqués de presse</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
-        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2022"</li>
+        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2023"</li>
     </ul>
 </ul>
 </p></details>
 
 
-### Soutien - 200 €
+### Soutien - 500 €
 
 <details><summary>▸ Détail du niveau Soutien</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 200 € HT</li>
+    <li>Montant : 500 € HT</li>
     <li>Pas de limite</li>
     <ul style="padding-left:40px">
         <li>Inscription à un atelier incluse</li>
@@ -127,7 +126,7 @@ Plusieurs niveaux sont possibles:
 
 <p><a href="https://www.qgis.org">QGIS.org</a> est l’association internationale qui gère les fonds issus des dons et sponsoring directs autour de QGIS. L’OSGEO-fr héberge le <a href="http://osgeo.asso.fr/content/project/qgis-user-fr/">groupe utilisateur QGIS Fr</a> qui est affilié à QGIS.org.</p>
 
-<p>Une donation ou un sponsoring direct à QGIS.org permet de financer</p>
+<p>Une donation ou un sponsoring direct à QGIS.org permet de financer :</p>
 <ul>
   <li>des développeurs pour des tâches de maintenance à chaque version</li>
   <li>les serveurs et maintenance associées</li>
@@ -141,7 +140,7 @@ Plusieurs niveaux sont possibles:
     <p>par ici <a href="https://www.qgis.org/fr/site/getinvolved/donations.html">https://www.qgis.org/fr/site/getinvolved/donations.html</a></p>
   </li>
   <li>
-    <p>ou encore en achetant t-shirt, mug ou autre goodies sur le <a href="https://shop.spreadshirt.net/qgis/">shop</a></p>
+    <p>ou encore en achetant t-shirt, mug ou autres goodies sur le <a href="https://shop.spreadshirt.net/qgis/">shop</a></p>
   </li>
 </ul>
 

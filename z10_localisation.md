@@ -5,7 +5,7 @@ tagline: Comment accéder aux Rencontres ?
 menu: header
 ---
 
-Cette année, la conférence revient de nouveau en  visio pour les deux journées, avec le soutien du CRAIG. Les informations d'accès seront renseignées prochainement.
+Cette année, la conférence se fera en présentiel après deux éditions à distance. Elle se déroulera à l'Hôtel de Région Auvergne Rhône-Alpes, à Clermont-Ferrand avec le soutien du CRAIG. Les informations pratiques seront renseignées prochainement.
 
 
 [Retour à la page d'accueil]({{ site.url }}{{ site.baseurl }})

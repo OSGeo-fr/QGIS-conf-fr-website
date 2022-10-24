@@ -7,18 +7,18 @@ menu: footer
 
 # Equipe d'organisation (ordre alphabétique courtois)
 
-- Marjorie Fangain (KEOLIS)
+- Marjorie Fangain (KEOLIS RENNES)
 - Marie Jagaille (HYTECH-IMAGING)
-- Julie Pierson (CNRS UMR Passages)
-- Jean-Marie Arsac(AZIMUT)
-- Loîc Bartoletti (OSLANDIA)
+- Marie Suet (CRAIG)
+- Jean-Marie Arsac (AZIMUT)
+- Loïc Bartoletti (OSLANDIA)
 - Paul Blottière (HYTECH-IMAGING)
-- Thomas Michel (IDGEO)
+- Jérémy Garniaux (CNRS)
+- Thomas Michel (IdGeo)
 - Julien Moura (OSLANDIA)
 - Sébastien Peillet (HYTECH-IMAGING)
-- Kevin Ponchon (CRAIG)
 - Nicolas Roelandt (Université Gustave Eiffel)
-- Harrissou Sant-Anna (CAUE 49)
+- Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
 - Etienne Trimaille (3LIZ)
 
@@ -26,14 +26,15 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 # Illustrations
 
-- Sylvain  Beorchia (OSLANDIA)
+- Sylvain Beorchia (OSLANDIA)
 
 # Comité de programme (ordre alphabétique courtois)
 
-- Harrissou Sant-Anna (CAUE 49)
-- Etienne Trimaille (3LIZ)
+- Marie Jagaille (HYTECH-IMAGING)
 - Loïc Bartoletti (OSLANDIA)
-- Paul Blottière (HYTECH-IMAGING)
+- Zoran Cuckovic (CHEC - MSH de Clermont-Ferrand)
+- Harrissou Sant-anna (CAUE 49)
+- Pierre Serafini (SOPRECO)
 
 **Critères de sélection :**
 
