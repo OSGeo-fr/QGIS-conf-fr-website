@@ -10,9 +10,12 @@ menu: footer
 - Marjorie Fangain (KEOLIS RENNES)
 - Marie Jagaille (HYTECH-IMAGING)
 - Marie Suet (CRAIG)
-- Jean-Marie Arsac(AZIMUT)
+- Jean-Marie Arsac (AZIMUT)
 - Loïc Bartoletti (OSLANDIA)
 - Paul Blottière (HYTECH-IMAGING)
+- Jérémy Garniaux (CNRS)
+- Thomas Michel (IdGeo)
+- Julien Moura (OSLANDIA)
 - Sébastien Peillet (HYTECH-IMAGING)
 - Nicolas Roelandt (Université Gustave Eiffel)
 - Harrissou Sant-anna (CAUE 49)
@@ -29,6 +32,7 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 - Marie Jagaille (HYTECH-IMAGING)
 - Loïc Bartoletti (OSLANDIA)
+- Zoran Cuckovic (CHEC - MSH de Clermont-Ferrand)
 - Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
 
