@@ -28,4 +28,4 @@ Ce comité intervient sur l’aspect financier des journées QGIS : inscriptions
 Nous nous réunissons toutes les 2/3 semaines, 1h sur le temps de midi pour échanger sur les avancées et les questions de chacune de ces thématiques.
 Selon la période, les commissions peuvent se réunir en plus sur quelques créneaux supplémentaires.
 Chacun peut s’investir dans une ou plusieurs commissions, selon ses envies et ses compétences.
-Si vous êtes intéressé.e, n’hésitez pas à nous contacter (qgis-conf@osgeo.asso.fr) ou à nous rejoindre lors de la prochaine réunion en distanciel, [date disponible ici](https://gitlab.com/osgeo-fr/journees_qgis/-/issues/?sort=created_date&state=opened&label_name%5B%5D=R%C3%A9union&first_page_size=20).
+Si vous êtes intéressé.e, n’hésitez pas à nous contacter (qgis-conf(at)osgeo.asso.fr) ou à nous rejoindre lors de la prochaine réunion en distanciel, [date disponible ici](https://gitlab.com/osgeo-fr/journees_qgis/-/issues/?sort=created_date&state=opened&label_name%5B%5D=R%C3%A9union&first_page_size=20).
