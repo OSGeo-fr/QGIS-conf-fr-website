@@ -5,7 +5,7 @@ tagline: Voici notre programme pour ces rencontres
 menu: header
 ---
 
-# Programme
+### Programme
 
 Les journées QGIS 2023 auront lieu les 13 et 14 mars.
 
