@@ -13,6 +13,7 @@ L’événement se déroulera sur 2 jours les 13 et 14 mars:
 
 * **Mardi 14 mars** : Journée de conférences.
 
-L'appel à propositions et les [inscriptions](/z25_inscription.html) ouvriront d'ici la fin de l'année (une fois le programme publié).
+L'appel à propositions est ouvert à https://sondage.osgeo.asso.fr/index.php/863591 jusqu'au 20 novembre 2022.
+Les [inscriptions](/z25_inscription.html) ouvriront d'ici la fin de l'année (une fois le programme publié).
 
 Suivez les actualités sur <https://twitter.com/JourneesQgis> !
