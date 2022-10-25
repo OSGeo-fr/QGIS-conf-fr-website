@@ -76,7 +76,7 @@ Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, 
 
 Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
 
-Les modalités de soutien sont définis ci-après. 
+Les modalités de soutien sont définies ci-après. 
 
 ## Tarif et visibilité
 
