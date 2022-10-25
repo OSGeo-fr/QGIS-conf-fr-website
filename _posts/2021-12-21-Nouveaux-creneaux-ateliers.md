@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nouveaux créneaux d'ateliers"
-published: True
+published: false
 ---
 
 <span style="font-size:larger;">[De nouveaux créneaux horaires ont été ouverts pour les ateliers](https://conf.qgis.osgeo.fr/z20_programme.html).
