@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le programme des conférences est disponible"
-published: True
+published: false
 ---
 
 Le programme des conférences détaillé vient de sortir, c'est par [ici](/z20_programme.html) !
