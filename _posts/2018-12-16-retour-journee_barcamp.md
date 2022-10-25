@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Retour sur la journée Barcamp / Community Sprint"
-published: True
+published: false
 ---
 
 ![Les contributeurs du Barcamp](/images/barcamp/barcamp_work.jpg){:class="img-responsive"}
