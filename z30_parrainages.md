@@ -5,13 +5,9 @@ tagline: Nous remercions nos généreux soutiens !
 menu: header
 ---
 
-Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
-
-Les modalités de soutien sont en bas de page. 
 
 # Notre partenaire co-organisateur
 
----
 
 Le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG) renouvelle son partenariat et nous apporte son soutien logistique et financier cette année. Merci à eux !
 
@@ -75,6 +71,12 @@ Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, 
 
 -->
 
+# Soutenir l'événement
+
+
+Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
+
+Les modalités de soutien sont définis ci-après. 
 
 ## Tarif et visibilité
 
