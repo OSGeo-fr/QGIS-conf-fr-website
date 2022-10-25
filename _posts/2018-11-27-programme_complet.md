@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le programme définitif est disponible"
-published: True
+published: false
 ---
 
 Deux jours de rencontres autour de QGIS
