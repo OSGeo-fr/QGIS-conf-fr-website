@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L'appel à proposition 2021 est ouvert"
-published: true
+published: false
 ---
 
 <span style="font-size:larger;">Venez partager vos travaux et expériences. Le [formulaire](https://framaforms.org/appel-a-propositions-1635258130) est ouvert jusqu'au <b>jeudi 25 Novembre</b> pour proposer vos présentations ou ateliers </span>
