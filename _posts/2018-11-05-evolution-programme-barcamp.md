@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Évolution du contenu de la journée Barcamp "
-published: True
+published: false
 ---
 
 Cette année, la journée de Barcamp du jeudi évolue avec un **"community sprint"!**
