@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Journées QGIS utilisateur - 1ère journée Barcamp"
-published: true
+published: false
 ---
 
 
