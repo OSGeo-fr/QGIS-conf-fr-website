@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L'appel à proposition est ouvert"
-published: true
+published: false
 ---
 
 Les présentations arrivent, vous souhaitez partager vos projets ?
