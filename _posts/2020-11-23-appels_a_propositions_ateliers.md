@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Appel à proposition d'ateliers"
-published: true
+published: false
 ---
 
 Les ateliers se dérouleront le mardi 15 décembre, de 9h à 16h. 
