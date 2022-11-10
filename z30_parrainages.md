@@ -39,13 +39,14 @@ Composée de spécialistes de l’Open Source, Camptocamp est une entreprise inn
 
 ---
 
-<!--
-
 [![3Liz](/images/3liz.png)](https://www.3liz.com/)
 
 3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Serveur, auxquels nous contribuons. Nous avons aussi développé Lizmap, outil de publication de cartes Web dynamiques.
 
 ---
+
+<!--
+
 
 [![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
 
