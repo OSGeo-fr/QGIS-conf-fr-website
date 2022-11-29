@@ -8,7 +8,7 @@ published: true
 
 La règle du jeu : Vous votez pour les conférences qui vous intéressent le plus en suivant ce [lien](https://sondage.osgeo.asso.fr/index.php/617441)
 
-En fonction de vos votes, chaque conférence et atelier obtiendra une note sur 10.
+En fonction de vos votes, chaque conférence obtiendra une note sur 10.
 Chaque membre du comité de programme notera également chaque proposition.
 
 Une moyenne entre les différentes notes permettra d'obtenir une note globale pour chaque proposition et déterminera lesquelles seront retenues pour les 13 et 14 mars prochains!
