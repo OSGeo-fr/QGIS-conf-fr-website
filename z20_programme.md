@@ -146,6 +146,8 @@ A paraître
 
 ---------------------------------------
 
+<!---
+
 ## Programme détaillé des ateliers
 
 ### QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)  
@@ -237,6 +239,8 @@ Créer un outil de saisie avec des expressions L'idée de cet atelier est d'illu
 Présentation (histoire du développement, théorie rapide, cas pratiques & développements en cours) du plugin ICEtool: modélisation thermique d'espaces publics et estimation de différents indicateurs liés à la perméabilité des sols ou encore la biodiversité. Objectif du plugin: comparer différents aménagements (actuel vs projet ou projet vs projet) et mettre en valeur les aspects eau/thermique/biodiversité de ces aménagements.
 
 <a href="https://github.com/Art-Ev/ICEtool">Dépôt Github</a>
+
+--->
 
 ---------------------------------------
 ## Programme détaillé des conférences
