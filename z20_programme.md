@@ -29,8 +29,8 @@ A paraître
         <tr class="atelier">
             <td><b>09h30 - 12h00</b><br><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
             <td><b>09h30 - 12h00</b><br><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
-            <td><b>09h30 - 12h00</b><br><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy (FREDON Occitanie)</a></td>
-            <td><b>09h30 - 12h00</b><br><a href="#a-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---sedant-olivia-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Sedant Olivia (IGN)</a></td>
+            <td><b>09h30 - 12h00</b><br><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
+            <td><b>09h30 - 12h00</b><br><a href="#a-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---terry-moreau-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)</a></td>
             <td><b>09h30 - 12h00</b><br><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
             <td><b>09h30 - 12h00</b><br><a href="#initation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
          </tr>
@@ -67,8 +67,8 @@ A paraître
     </tr>
     <tr class="pair">
       <td>09:55</td>
-      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----bré-vincent">QompliGIS, les nouveautés, vers une version web ...</a></td>
-      <td>Vincent Bré (Oslandia)</td>
+      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----vincent-bré-et-gwendoline-andres">QompliGIS, les nouveautés, vers une version web ...</a></td>
+      <td>Vincent Bré et Gwendoline Andres (Oslandia)</td>
     </tr>
     <tr class="impair">
       <td>10:20</td>
@@ -82,13 +82,13 @@ A paraître
     </tr>
     <tr class="impair">
       <td>11:10</td>
-      <td><a href="#qgisqfieldqgis-serveur--une-boite-à-outils-complète-de-lobservation-terrain---gonçalves-eric">QGIS/QField/QGIS serveur : une boite à outils complète de l’observation terrain</a></td>
+      <td><a href="#qgisqfieldqgis-serveur--une-boite-à-outils-complète-de-lobservation-terrain---eric-gonçalves">QGIS/QField/QGIS serveur : une boite à outils complète de l’observation terrain</a></td>
       <td>Théo Grondin (Conseil Départemental du Calvados)</td>
     </tr>
     <tr class="pair">
       <td>11:35</td>
-      <td><a href="#qgis-et-merginmaps-utilisation-pour-la-stéréopréparation---schmitt-valentin">QGIS et MerginMaps, utilisation pour la stéréopréparation</a></td>
-      <td>Schmitt Valentin (IGN FI)</td>
+      <td><a href="#qgis-et-merginmaps-utilisation-pour-la-stéréopréparation---valentin-schmitt-et-laurent-falala">QGIS et MerginMaps, utilisation pour la stéréopréparation</a></td>
+      <td>Schmitt Valentin et Laurent Falala (IGN FI)</td>
     </tr>
     <tr class="impair">
       <td>12:00</td>
@@ -102,17 +102,17 @@ A paraître
     </tr>
     <tr class="impair">
       <td>14:00</td>
-      <td><a href="#un-plugin-qgis-qui-facilite-laccès-aux-données-en-flux-sur-un-territoire---suet-marie">Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire</a></td>
-      <td>Marie Suet (CRAIG)</td>
+      <td><a href="#un-plugin-qgis-qui-facilite-laccès-aux-données-en-flux-sur-un-territoire---marie-suet-et-landry-breuil">Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire</a></td>
+      <td>Marie Suet et Landry Breuil (CRAIG)</td>
     </tr>
     <tr class="pair">
       <td>14:25</td>
-      <td><a href="#qgis--le-coeur-du-sig-départemental-du-calvados---ory-jérémie">QGIS : le coeur du SIG départemental du Calvados</a></td>
-      <td>Jérémie Ory (Département du Calvados)</td>
+      <td><a href="#qgis--le-coeur-du-sig-départemental-du-calvados---jérémie-ory-et-théo-grondin">QGIS : le coeur du SIG départemental du Calvados</a></td>
+      <td>Jérémie Ory et Théo Grondin (Département du Calvados)</td>
     </tr>
     <tr class="impair">
       <td>14:50</td>
-      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---douchin-mickaël">QGIS au coeur du Système d'Information Naturaliste de Martinique</a></td>
+      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---mickaël-douchin">QGIS au coeur du Système d'Information Naturaliste de Martinique</a></td>
       <td>Mickaël Douchin (3Liz)</td>
     </tr>
     <tr class="pair">
@@ -127,8 +127,8 @@ A paraître
     </tr>
     <tr class="pair">
       <td>16:05</td>
-      <td><a href="#qgis-plugin--plui-versionning----bruno-defrance">QGIS Plugin: PLU(i) versionning</a></td>
-      <td>Bruno Defrance (Grenoble Alpes Métropole)</td>
+      <td><a href="#qgis-plugin--plui-versionning----bruno-defrance-et-eric-vinouze">QGIS Plugin: PLU(i) versionning</a></td>
+      <td>Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)</td>
     </tr>
     <tr class="impair">
       <td>16:30</td>
@@ -184,7 +184,7 @@ L’objectif sera d’accompagner les participants à construire de A à Z un ta
 - Création d’indicateurs avancés (mise à jour sur sélection, combinaisons de fonctions QGIS, mise en page HTML)
 - Présentation de l’utilisation des tableaux de bord QGIS chez FREDON Occitanie. Exemple de projet « Tableau de bord » (QGIS Dashboard) sur qgis.org : https://plugins.qgis.org/geopackages/5/
 
-### A la découverte des données Lidar HD : vers une cartographie 3D France entière - Sedant Olivia (IGN)
+### A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)
 
 Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquis dans le cadre du programme LiDAR HD, sous 3 volets :
 - Accéder aux données (en téléchargement et via les flux)
@@ -216,7 +216,7 @@ L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGI
 
 On privilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la majorité des traitements: pas d'utilisation de requêtes SQL en base de données ou d'algorithmes complexes.
 
-### Présentation de la stack Mergin Maps
+### Présentation de la stack Mergin Maps - Julien Waddle
 
 Alternative à QField, Mergin Maps propose plusieurs outils pour faire de la saisie de terrain tout en gérant les conflits et les synchronisations de données directement dans une base de données PostgreSQL.
  
@@ -229,12 +229,12 @@ Alternative à QField, Mergin Maps propose plusieurs outils pour faire de la sai
  
  Puis, nous ferrons un cas d’usage en créant un projet QGIS avec des couches éditables via des formulaires avancées (menu déroulant, photographie, etc). Cela, afin d’illustrer le bon fonctionnement de la stack Mergin Maps.
 
-### Exploiter les multiples potentialités de l’Atlas
+### Exploiter les multiples potentialités de l’Atlas - Maggie Mateu
 
 Venez découvrir l’outil Atlas de QGIS au travers d’un exemple / un modèle comprenant ses multiples fonctionnalités. Vous apprendrez à construire une base de données spatiale vous permettant d’exporter en un clic une suite de cartes mises en page avec à chacune son titre, sa légende, son carton de localisation, sa ou ses photo(s) d’accompagnement, son texte explicatif et son nom de fichier correspondant. 
 Créer un outil de saisie avec des expressions L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet, à partir d'une donnée au format tabulaire, avec les étapes suivante: * Import d'une donnée "tableur" dans un Geopackage et affichage dans QGIS * Création et correction de données via des expressions * Mettre les données en relation * Créer un formulaire de saisie avancé * Visualiser les données problématiques ou importantes dans la table attributaire On privilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la majorité des traitements: pas d'utilisation de requêtes SQL en base de données ou d'algorithmes complexes.
 
-### ICEtool : plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur
+### ICEtool : plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard
 
 Présentation (histoire du développement, théorie rapide, cas pratiques & développements en cours) du plugin ICEtool: modélisation thermique d'espaces publics et estimation de différents indicateurs liés à la perméabilité des sols ou encore la biodiversité. Objectif du plugin: comparer différents aménagements (actuel vs projet ou projet vs projet) et mettre en valeur les aspects eau/thermique/biodiversité de ces aménagements.
 
@@ -245,7 +245,7 @@ Présentation (histoire du développement, théorie rapide, cas pratiques & dév
 ---------------------------------------
 ## Programme détaillé des conférences
 
-### QompliGIS, les nouveautés, vers une version web ... - Bré Vincent
+### QompliGIS, les nouveautés, vers une version web ... - Vincent Bré et Gwendoline Andres
 
 De nombreux services font appel à des prestataires pour réaliser leurs plans. Une fois la numérisation effectuée et livrée, le client doit s’assurer de la conformité des données avant de les intégrer dans son SIG. Initialement c'est pour répondre à cette problématique du monde de la topographie qu'Oslandia a développé le plugin QompliGIS. Toutefois, la vérification des données s'inscrit dans tout secteur d'activité. En effet, ce plugin a pour objectif de proposer un moyen simple de vérifier si la structure d’un jeu de données est conforme avec la structure d’un jeu de données de référence. Nous allons présenter les nouvelles fonctionnalités de cette année et, en avant première, QompliGIS web afin de faire gagner en autonomie vos prestataires et votre équipe pour valider leurs données.
 
@@ -253,11 +253,11 @@ De nombreux services font appel à des prestataires pour réaliser leurs plans. 
 
 Cette intervention présentera un nouveau plugin QGIS permettant de calculer des levers topographiques, puis intégrer les points ainsi calculés dans une base de données Geopackage. Ce plugin Topaze est issu d'un POC développé en collaboration avec Oslandia dont il utilise les fonctionnalités du plugin "Land Survey Codes Import". Ce POC a été financé par Métropole de Rennes dans le cadre de l'étude de la migration de ses outils DAO vers QGIS. Au-delà de la présentation technique du plugin, nous évoquerons l'intérêt de l'open source pour favoriser la collaboration de plusieurs entreprises prestataires sur un même projet client.
 
-### QGIS/QField/QGIS serveur : une boite à outils complète de l’observation terrain - Gonçalves Eric
+### QGIS/QField/QGIS serveur : une boite à outils complète de l’observation terrain - Eric Gonçalves
 
 Le Département du Calvados s’est doté d’une boite à outils SIG open source : QGIS / QGIS serveur / PostGIS/ QField / OpenOffice pour gérer et maintenir les itinéraires cyclables sur son territoire. Nous présenterons un workflow qui s’appuient sur ces différents outils et qui permet une gestion complète et simplifié des panneaux directionnelles. Le suivi de l’état de l’ensemble des panneaux est réalisé par un technicien sur le terrain avec qfield puis synchronisé avec la base de données SIG PostGIS, la gestion du patrimoine de panneaux est réalisée par l’ensemble de équipe avec QGIS / QGIS Serveur / Lizmap, le chargé de mission utilise OpenOffice pour générer des bons de commandes pré remplis à partir des informations stockées dans la base de données SIG PostGIS.
 
-### QGIS et MerginMaps, utilisation pour la stéréopréparation - Schmitt Valentin
+### QGIS et MerginMaps, utilisation pour la stéréopréparation - Valentin Schmitt et Laurent Falala
 
 Les missions de stéréopréparation (mesure de point d'appuis image sur le terrain) ont beaucoup de points communs avec le complètement terrain (renseignement de base de donnée). Ainsi, l'utilisation d'une solution tel que QGIS & MerginMaps simplifie la préparation au bureau, la saisie d'information sur le terrain et la finalisation par la création automatique de fiches signalétiques. MerginMaps est un outil simple et léger qui fait le lien entre les techniciens sur le terrain et le superviseur au bureau pour garantir la pertinence de chaque point.
 
@@ -269,15 +269,15 @@ L'objectif des méthodes d'Active Learning est de construire, de manière intera
 
 <a href="https://ieeexplore.ieee.org/document/9774342">Publication</a>
 
-### Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire - Suet Marie
+### Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire - Marie Suet et Landry Breuil
 
 De nombreuses données sont mises à disposition de nos jours, mais un utilisateur peut parfois difficilement s'y retrouver. Le CRAIG met à disposition un plugin QGIS qui centralise ses données et celles d'autres plateformes via des flux, dans le but de simplifier l'accès aux données de référence (Orthophoto, IGN, Cadastre, relief) et aux données thématiques pour ses utilisateurs. Ce plugin est né d'une démarche collaborative: réalisé par la Région Hauts de France et développé par la société NeoGeo Technologies, son code source est aujourd'hui réutilisé par plusieurs organismes, dont le CRAIG, et peut être utilisé par d'autres structures ou collectivités pour faciliter l'utilisation des données au sein de leur territoire.
 
-### QGIS : le coeur du SIG départemental du Calvados - Ory Jérémie
+### QGIS : le coeur du SIG départemental du Calvados - Jérémie Ory et Théo Grondin
 
 En 2019, le département du Calvados a mis en place un nouveau Système d'Information Géographique s’appuyant sur un socle logiciel QGIS - QGIS Serveur - PostgreSQL/PostGIS - Qfield. Nombreuses applications métiers ont été développées : gestion des Espaces Naturels Sensibles, gestion de la voirie vélo, observatoire de l’eau, diagnostics territoriaux, etc. Le SIG départemental compte aujourd’hui plusieurs centaines d’agents. La présentation réalisera un focus sur deux outils appréciés des utilisateurs : 1. Production automatisée de diagnostics territoriaux avec QGIS. 2. Enrichissement de données cadastrales à partir de données tierces (données d’urbanisme du GPU, données environnementales de Carmen, etc.) avec PostGIS et consultation web avec QGIS Serveur.
 
-#### QGIS au coeur du Système d'Information Naturaliste de Martinique - Douchin Mickaël
+#### QGIS au coeur du Système d'Information Naturaliste de Martinique - Mickaël Douchin
 
 Dans le cadre de l’Observatoire martiniquais de la biodiversité (OMB), le Parc Naturel Régional de Martinique a souhaité mettre en place un outil Open Source facilitant la mutualisation et la valorisation des connaissances naturalistes sur le territoire Martiniquais. Cet outil devait s'inscrire dans le Système d’information Nature et Paysage (SINP) du Ministère de l’Environnement. La solution retenue et déployée est centrée sur QGIS. L'objectif de cette présentation est de présenter l'éco-système QGIS permettant de mettre en oeuvre un Système d'Information Géographique le plus complet possible : Gestion de données (QGIS), Saisie terrain (Qfield), valorisation et publication web (Lizmap) ; en s'appuyant sur l'expérience du PNR Martinique.
 
@@ -285,7 +285,7 @@ Dans le cadre de l’Observatoire martiniquais de la biodiversité (OMB), le Par
 
 L’Etablissement public Loire est un syndicat mixte (EPTB) composé de soixante collectivités (Régions, Départements et Intercommunalités) et d'une soixantaine d'agents.  Les données métiers de l'Etablissement sont stockées dans une Base de données PostgreSQL/PostGIS et sont utilisées par une quarantaine d'agents, essentiellement via QGIS.  Jusqu'en 2022 QGIS était installé manuellement et paramétré à l'identique sur les postes utilisateurs. Un système de déploiement en masse sur l'ensemble des postes a été mis en place permettant de maintenir les versions à jour à de personnaliser les paramètres selon le profil utilisateur.  Cette présentation propose de détailler les outils et la méthodologie mis en place pour industrialiser le déploiement et la mise à jour de QGIS sur le parc.
 
-### QGIS Plugin : PLU(i) versionning -  Bruno Defrance
+### QGIS Plugin : PLU(i) versionning -  Bruno Defrance et Eric Vinouze
 
 Grenoble-Alpes-Métropole, l'Agence d'urbanisme de la région grenobloise et Oslandia développent actuellement un plugin QGIS pour faciliter le suivi de numérisation des PLU(i) dans un environnement PostgreSQL. Basé sur le standard CNIG, cet outil permet de générer des versions de numérisation en s'appuyant, pour chaque procédure traitée, sur l'ensemble des projets thématiques qui sont mobilisés (zonage, OAP, ER, etc.). Il permet ainsi, à partir de versions duplicables, d'aboutir en fin de procédure du PLU(i) à des versions validées dont le contenu constituera les éléments graphiques du document opposable. Côté IHM, outre la mise à disposition d’un tableau de bord des versions, l'outil est doté d'un système d'import des fichiers SHAPE au format CNIG.
 
