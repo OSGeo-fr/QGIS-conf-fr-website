@@ -121,7 +121,7 @@ Plusieurs niveaux sont possibles:
     <li>Montant : 500 € HT</li>
     <li>Pas de limite</li>
     <ul style="padding-left:40px">
-        <li>1 inscriptions incluses</li>
+        <li>Une inscription incluse</li>
         <li>Logo et lien sur le site web</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
     </ul>
