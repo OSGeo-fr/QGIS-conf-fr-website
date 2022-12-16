@@ -97,12 +97,12 @@ Plusieurs niveaux sont possibles:
     <li>Montant : 800 € HT</li>
     <li>Limité à 5 mécènes</li>
     <ul style="padding-left:40px">
-        <li>Inscriptions à deux ateliers incluses</li>
+        <li>Deux inscriptions incluses</li>
         <li>Logo et citation pendant l'événement</li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
         <li>Citation dans les communiqués de presse</li>
-        <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
+        <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
         <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2023"</li>
     </ul>
 </ul>
@@ -117,9 +117,9 @@ Plusieurs niveaux sont possibles:
     <li>Montant : 500 € HT</li>
     <li>Pas de limite</li>
     <ul style="padding-left:40px">
-        <li>Inscription à un atelier incluse</li>
+        <li>1 inscriptions incluses</li>
         <li>Logo et lien sur le site web</li>
-        <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "Nos précédents soutiens"</li>
+        <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
     </ul>
 </ul>
 
