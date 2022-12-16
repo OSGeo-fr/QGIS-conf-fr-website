@@ -199,7 +199,7 @@ Cet atelier vous permettra de faire vos premiers pas, de créer votre première 
 
 ### Initation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)
 
-Une initiation sera proposé pour celles et ceux qui débutent ou veulent mettre le pied à l'étrier sur QGIS <!--- résumé non officiel de Nicolas, à confirmer -->
+Une initiation sera proposé pour celles et ceux qui débutent ou veulent mettre le pied à l'étrier sur QGIS - résumé non officiel de Nicolas, à confirmer
 
 ### Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)
 
