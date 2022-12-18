@@ -137,7 +137,7 @@ A paraître
     </tr>
     <tr class="pair">
       <td>16:55</td>
-      <td>Allocution de clôture</td>
+      <td>Clôture</td>
       <td></td>
     </tr>
   </tbody>
