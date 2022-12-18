@@ -92,7 +92,7 @@ A paraître
     </tr>
     <tr class="impair">
       <td>12:00</td>
-      <td><a href="#al4eo--un-plug-in-qgis-dactive-learning---romain-thoreau">AL4EO : un plug-in QGIS d'Active Learning</a></td>
+      <td><a href="#al4eo--un-plugin-qgis-dactive-learning---romain-thoreau">AL4EO : un plug-in QGIS d'Active Learning</a></td>
       <td>Romain Thoreau (ONERA & Magellium)</td>
     </tr>
     <tr  class="pause">
@@ -260,7 +260,7 @@ Le Département du Calvados s’est doté d’une boite à outils SIG open sourc
 
 Les missions de stéréopréparation (mesure de point d'appuis image sur le terrain) ont beaucoup de points communs avec le complètement terrain (renseignement de base de donnée). Ainsi, l'utilisation d'une solution tel que QGIS & MerginMaps simplifie la préparation au bureau, la saisie d'information sur le terrain et la finalisation par la création automatique de fiches signalétiques. MerginMaps est un outil simple et léger qui fait le lien entre les techniciens sur le terrain et le superviseur au bureau pour garantir la pertinence de chaque point.
 
-### AL4EO : un plug-in QGIS d'Active Learning - Romain Thoreau
+### AL4EO : un plugin QGIS d'Active Learning - Romain Thoreau
 
 L'objectif des méthodes d'Active Learning est de construire, de manière interactive et itérative, des bases d'apprentissage optimales dans le contexte de l'apprentissage supervisé. Une bonne vérité terrain est en effet essentielle pour de nombreuses applications telles que la détection de changements ou la cartographie de l'occupation des sols à partir d'images satellites. AL4EO est un plug-in QGIS permettant d'utiliser les méthodes d'Active Learning de l'état de l'art.
 
