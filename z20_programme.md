@@ -40,9 +40,9 @@ A paraître
         <tr class="atelier">
             <td rowspan=2><b>14h00 - 17h00</b><br><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces</a></td>
             <td rowspan=2><b>14h00 - 17h00</b><br><a href="#créer-un-outil-de-saisie-avec-des-expressions---mickaël-douchin">Créer un outil de saisie avec des expressions - Mickaël Douchin (3Liz)</a></td>
-            <td><b>14h00 - 17h00</b><br><a href="#présentation-de-la-stack-mergin-maps">Présentation de la stack Mergin Maps - Waddle Julien (Camptocamp)</a></td>
-            <td><b>14h00 - 17h00</b><br><a href="#exploiter-les-multiples-potentialités-de-latlas">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
-            <td><b>14h00 - 17h00</b><br><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---evrard-arthur">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur</a></td>
+            <td><b>14h00 - 17h00</b><br><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
+            <td><b>14h00 - 17h00</b><br><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Maggie Mateu (Atopia)</a></td>
+            <td><b>14h00 - 17h00</b><br><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse-egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard (INSA Toulouse & Egis)</a></td>
             <td><b>14h00 - 17h00</b><br>Barcamp</td>
         </tr>       
     </tbody>
