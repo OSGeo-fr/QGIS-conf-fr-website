@@ -186,7 +186,7 @@ L’objectif sera d’accompagner les participants à construire de A à Z un ta
 
 ### À la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)
 
-Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquis dans le cadre du programme LiDAR HD, sous 3 volets :
+Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquises dans le cadre du programme LiDAR HD, sous 3 volets :
 - Accéder aux données (en téléchargement et via les flux)
 - Présentation (et si possible démonstration sur des cas concrets) des derniers outils QGIS (développés ou à venir) pour faciliter la gestion des nuages de points lidar (https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/ )
 - Pour aller plus loin (utilisation du plugIN LASTools) : Visualisation de nuage de points classifié, Création d’un MNT
