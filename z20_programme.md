@@ -30,7 +30,7 @@ A paraître
             <td><b>09h30 - 12h00</b><br><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
             <td><b>09h30 - 12h00</b><br><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
             <td><b>09h30 - 12h00</b><br><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
-            <td><b>09h30 - 12h00</b><br><a href="#a-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---terry-moreau-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)</a></td>
+            <td><b>09h30 - 12h00</b><br><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---terry-moreau-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)</a></td>
             <td><b>09h30 - 12h00</b><br><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
             <td><b>09h30 - 12h00</b><br><a href="#initation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
          </tr>
@@ -38,11 +38,11 @@ A paraître
             <td colspan=6><b>Pause</b></td>
         </tr>       
         <tr class="atelier">
-            <td rowspan=2><b>14h00 - 17h00</b><br><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces</a></td>
-            <td rowspan=2><b>14h00 - 17h00</b><br><a href="#créer-un-outil-de-saisie-avec-des-expressions---mickaël-douchin">Créer un outil de saisie avec des expressions - Mickaël Douchin (3Liz)</a></td>
+            <td rowspan=2><b>14h00 - 17h00</b><br><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
+            <td rowspan=2><b>14h00 - 17h00</b><br><a href="#créer-un-outil-de-saisie-avec-des-expressions---mickaël-douchin-3liz">Créer un outil de saisie avec des expressions - Mickaël Douchin (3Liz)</a></td>
             <td><b>14h00 - 17h00</b><br><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
-            <td><b>14h00 - 17h00</b><br><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Maggie Mateu (Atopia)</a></td>
-            <td><b>14h00 - 17h00</b><br><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse-egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard (INSA Toulouse & Egis)</a></td>
+            <td><b>14h00 - 17h00</b><br><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
+            <td><b>14h00 - 17h00</b><br><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
             <td><b>14h00 - 17h00</b><br>Barcamp</td>
         </tr>       
     </tbody>
@@ -67,12 +67,12 @@ A paraître
     </tr>
     <tr class="pair">
       <td>09:55</td>
-      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----vincent-bré-et-gwendoline-andres">QompliGIS, les nouveautés, vers une version web ...</a></td>
+      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----vincent-bré-et-gwendoline-andres-oslandia">QompliGIS, les nouveautés, vers une version web ...</a></td>
       <td>Vincent Bré et Gwendoline Andres (Oslandia)</td>
     </tr>
     <tr class="impair">
       <td>10:20</td>
-      <td><a href="#avec-qgis--de-la-topographie----jean-marie-arsac">Avec QGIS ? de la topographie !</a></td>
+      <td><a href="#avec-qgis--de-la-topographie----jean-marie-arsac-azimut">Avec QGIS ? de la topographie !</a></td>
       <td>Jean-Marie Arsac (Azimut)</td>
     </tr>
     <tr  class="pause">
@@ -82,17 +82,17 @@ A paraître
     </tr>
     <tr class="impair">
       <td>11:10</td>
-      <td><a href="#qgisqfieldqgis-serveur--une-boite-à-outils-complète-de-lobservation-terrain---eric-gonçalves">QGIS/QField/QGIS serveur : une boite à outils complète de l’observation terrain</a></td>
-      <td>Théo Grondin (Conseil Départemental du Calvados)</td>
+      <td><a href="#qgisqfieldqgis-serveur--une-boite-à-outils-complète-de-lobservation-terrain---eric-gonçalves-département-du-calvados">QGIS/QField/QGIS serveur : une boite à outils complète de l’observation terrain</a></td>
+      <td>Eric Gonçalves (Département du Calvados)</td>
     </tr>
     <tr class="pair">
       <td>11:35</td>
-      <td><a href="#qgis-et-merginmaps-utilisation-pour-la-stéréopréparation---valentin-schmitt-et-laurent-falala">QGIS et MerginMaps, utilisation pour la stéréopréparation</a></td>
+      <td><a href="#qgis-et-merginmaps-utilisation-pour-la-stéréopréparation---valentin-schmitt-et-laurent-falala-ign-fi">QGIS et MerginMaps, utilisation pour la stéréopréparation</a></td>
       <td>Schmitt Valentin et Laurent Falala (IGN FI)</td>
     </tr>
     <tr class="impair">
       <td>12:00</td>
-      <td><a href="#al4eo--un-plugin-qgis-dactive-learning---romain-thoreau">AL4EO : un plug-in QGIS d'Active Learning</a></td>
+      <td><a href="#al4eo--un-plugin-qgis-dactive-learning---romain-thoreau-onera--magellium">AL4EO : un plug-in QGIS d'Active Learning</a></td>
       <td>Romain Thoreau (ONERA & Magellium)</td>
     </tr>
     <tr  class="pause">
@@ -102,22 +102,22 @@ A paraître
     </tr>
     <tr class="impair">
       <td>14:00</td>
-      <td><a href="#un-plugin-qgis-qui-facilite-laccès-aux-données-en-flux-sur-un-territoire---marie-suet-et-landry-breuil">Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire</a></td>
+      <td><a href="#un-plugin-qgis-qui-facilite-laccès-aux-données-en-flux-sur-un-territoire---marie-suet-et-landry-breuil-craig">Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire</a></td>
       <td>Marie Suet et Landry Breuil (CRAIG)</td>
     </tr>
     <tr class="pair">
       <td>14:25</td>
-      <td><a href="#qgis--le-coeur-du-sig-départemental-du-calvados---jérémie-ory-et-théo-grondin">QGIS : le coeur du SIG départemental du Calvados</a></td>
+      <td><a href="#qgis--le-coeur-du-sig-départemental-du-calvados---jérémie-ory-et-théo-grondin-département-du-calvados">QGIS : le coeur du SIG départemental du Calvados</a></td>
       <td>Jérémie Ory et Théo Grondin (Département du Calvados)</td>
     </tr>
     <tr class="impair">
       <td>14:50</td>
-      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---mickaël-douchin">QGIS au coeur du Système d'Information Naturaliste de Martinique</a></td>
+      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---mickaël-douchin-3liz">QGIS au coeur du Système d'Information Naturaliste de Martinique</a></td>
       <td>Mickaël Douchin (3Liz)</td>
     </tr>
     <tr class="pair">
       <td>15:15</td>
-      <td><a href="#définitionmise-en-place-dune-stratégie-de-déploiement-de-qgis-à-letablissement-public-loire---emilie-bigorne">Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire</a></td>
+      <td><a href="#définitionmise-en-place-dune-stratégie-de-déploiement-de-qgis-à-letablissement-public-loire---emilie-bigorne-etablissement-public-loire">Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire</a></td>
       <td>Emilie Bigorne (Etablissement public Loire)</td>
     </tr>
     <tr class="pause">
@@ -127,12 +127,12 @@ A paraître
     </tr>
     <tr class="pair">
       <td>16:05</td>
-      <td><a href="#qgis-plugin--plui-versionning----bruno-defrance-et-eric-vinouze">QGIS Plugin: PLU(i) versionning</a></td>
+      <td><a href="#qgis-plugin--plui-versionning----bruno-defrance-et-eric-vinouze-aurg">QGIS Plugin: PLU(i) versionning</a></td>
       <td>Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)</td>
     </tr>
     <tr class="impair">
       <td>16:30</td>
-      <td><a href="#la-géoplateforme-et-les-plugins-qgis---xavier-thauvin">La Géoplateforme et les plugins QGIS</a></td>
+      <td><a href="#la-géoplateforme-et-les-plugins-qgis---xavier-thauvin-ign">La Géoplateforme et les plugins QGIS</a></td>
       <td>Xavier Thauvin (IGN)</td>
     </tr>
     <tr class="pair">
@@ -205,7 +205,7 @@ Une initiation sera proposée pour celles et ceux qui débutent ou veulent mettr
 
 Beaucoup d’utilisateurs ont besoin de lier leurs données géographiques avec des documents (photos, vidéos, rapports sous format pdf, manuels…). Ces documents doivent eux-mêmes être stockés sur un système existant comme un FTP, Nextcloud, un stockage objet dans le Cloud, ou un système de fichiers partagés sur le réseau. Cet atelier propose de décrire la marche à suivre pour associer données et documents. Nous verrons dans un premier temps comment concevoir le schéma de données en s'appuyant sur la base de données PostgreSQL. Puis, nous détaillerons la configuration de QGIS permettant d'échanger des documents sur un espace disque, ou depuis une plateforme distante. Enfin, nous proposerons des solutions permettant de récupérer les métadonnées des documents en vue de les insérer en base.
 
-### Créer un outil de saisie avec des expressions - Mickaël Douchin
+### Créer un outil de saisie avec des expressions - Mickaël Douchin (3Liz)
 
 L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet, à partir d'une donnée au format tabulaire, avec les étapes suivantes: 
 - Import d'une donnée "tableur" dans un Geopackage et affichage dans QGIS
@@ -216,7 +216,7 @@ L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGI
 
 On privilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la majorité des traitements: pas d'utilisation de requêtes SQL en base de données ou d'algorithmes complexes.
 
-### Présentation de la stack Mergin Maps - Julien Waddle
+### Présentation de la stack Mergin Maps - Julien Waddle (CampToCamp)
 
 Alternative à QField, Mergin Maps propose plusieurs outils pour faire de la saisie de terrain tout en gérant les conflits et les synchronisations de données directement dans une base de données PostgreSQL.
  
@@ -229,11 +229,11 @@ Alternative à QField, Mergin Maps propose plusieurs outils pour faire de la sai
  
  Puis, nous ferons un cas d’usage en créant un projet QGIS avec des couches éditables via des formulaires avancées (menu déroulant, photographie, etc). Cela, afin d’illustrer le bon fonctionnement de la stack Mergin Maps.
 
-### Exploiter les multiples potentialités de l’Atlas - Maggie Mateu
+### Exploiter les multiples potentialités de l’Atlas - Maggie Mateu (Atopia)
 
 Venez découvrir l’outil Atlas de QGIS au travers d’un exemple / un modèle comprenant ses multiples fonctionnalités. Vous apprendrez à construire une base de données spatiale vous permettant d’exporter en un clic une suite de cartes mises en page avec à chacune son titre, sa légende, son carton de localisation, sa ou ses photo(s) d’accompagnement, son texte explicatif et son nom de fichier correspondant. 
 
-### ICEtool : plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard
+### ICEtool : plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard (INSA Toulouse & Egis)
 
 Présentation (histoire du développement, théorie rapide, cas pratiques & développements en cours) du plugin ICEtool: modélisation thermique d'espaces publics et estimation de différents indicateurs liés à la perméabilité des sols ou encore la biodiversité. Objectif du plugin: comparer différents aménagements (actuel vs projet ou projet vs projet) et mettre en valeur les aspects eau/thermique/biodiversité de ces aménagements.
 
@@ -244,23 +244,23 @@ Présentation (histoire du développement, théorie rapide, cas pratiques & dév
 ---------------------------------------
 ## Programme détaillé des conférences
 
-### QompliGIS, les nouveautés, vers une version web ... - Vincent Bré et Gwendoline Andres
+### QompliGIS, les nouveautés, vers une version web ... - Vincent Bré et Gwendoline Andres (Oslandia)
 
 De nombreux services font appel à des prestataires pour réaliser leurs plans. Une fois la numérisation effectuée et livrée, le client doit s’assurer de la conformité des données avant de les intégrer dans son SIG. Initialement c'est pour répondre à cette problématique du monde de la topographie qu'Oslandia a développé le plugin QompliGIS. Toutefois, la vérification des données s'inscrit dans tout secteur d'activité. En effet, ce plugin a pour objectif de proposer un moyen simple de vérifier si la structure d’un jeu de données est conforme avec la structure d’un jeu de données de référence. Nous allons présenter les nouvelles fonctionnalités de cette année et, en avant première, QompliGIS web afin de faire gagner en autonomie vos prestataires et votre équipe pour valider leurs données.
 
-### Avec QGIS ? de la topographie ! - Jean-Marie Arsac
+### Avec QGIS ? de la topographie ! - Jean-Marie Arsac (Azimut)
 
 Cette intervention présentera un nouveau plugin QGIS permettant de calculer des levers topographiques, puis intégrer les points ainsi calculés dans une base de données GeoPackage. Ce plugin Topaze est issu d'un POC développé en collaboration avec Oslandia dont il utilise les fonctionnalités du plugin "Land Survey Codes Import". Ce POC a été financé par Métropole de Rennes dans le cadre de l'étude de la migration de ses outils DAO vers QGIS. Au-delà de la présentation technique du plugin, nous évoquerons l'intérêt de l'open source pour favoriser la collaboration de plusieurs entreprises prestataires sur un même projet client.
 
-### QGIS/QField/QGIS serveur : une boite à outils complète de l’observation terrain - Eric Gonçalves
+### QGIS/QField/QGIS serveur : une boite à outils complète de l’observation terrain - Eric Gonçalves (Département du Calvados)
 
 Le Département du Calvados s’est doté d’une boite à outils SIG open source : QGIS / QGIS serveur / PostGIS / QField / OpenOffice pour gérer et maintenir les itinéraires cyclables sur son territoire. Nous présenterons un workflow qui s’appuient sur ces différents outils et qui permet une gestion complète et simplifié des panneaux directionnelles. Le suivi de l’état de l’ensemble des panneaux est réalisé par un technicien sur le terrain avec Qfield puis synchronisé avec la base de données SIG PostGIS, la gestion du patrimoine de panneaux est réalisée par l’ensemble de équipe avec QGIS / QGIS Serveur / Lizmap, le chargé de mission utilise OpenOffice pour générer des bons de commandes pré remplis à partir des informations stockées dans la base de données SIG PostGIS.
 
-### QGIS et MerginMaps, utilisation pour la stéréopréparation - Valentin Schmitt et Laurent Falala
+### QGIS et MerginMaps, utilisation pour la stéréopréparation - Valentin Schmitt et Laurent Falala (IGN FI)
 
 Les missions de stéréopréparation (mesure de point d'appuis image sur le terrain) ont beaucoup de points communs avec le complètement terrain (renseignement de base de donnée). Ainsi, l'utilisation d'une solution telle que QGIS & MerginMaps simplifie la préparation au bureau, la saisie d'informations sur le terrain et la finalisation par la création automatique de fiches signalétiques. MerginMaps est un outil simple et léger qui fait le lien entre les techniciens sur le terrain et le superviseur au bureau pour garantir la pertinence de chaque point.
 
-### AL4EO : un plugin QGIS d'Active Learning - Romain Thoreau
+### AL4EO : un plugin QGIS d'Active Learning - Romain Thoreau (ONERA & Magellium)
 
 L'objectif des méthodes d'Active Learning est de construire, de manière interactive et itérative, des bases d'apprentissage optimales dans le contexte de l'apprentissage supervisé. Une bonne vérité terrain est en effet essentielle pour de nombreuses applications telles que la détection de changements ou la cartographie de l'occupation des sols à partir d'images satellites. AL4EO est un plug-in QGIS permettant d'utiliser les méthodes d'Active Learning de l'état de l'art.
 
@@ -268,26 +268,26 @@ L'objectif des méthodes d'Active Learning est de construire, de manière intera
 
 <a href="https://ieeexplore.ieee.org/document/9774342">Publication</a>
 
-### Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire - Marie Suet et Landry Breuil
+### Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire - Marie Suet et Landry Breuil (CRAIG)
 
 De nombreuses données sont mises à disposition de nos jours, mais un utilisateur peut parfois difficilement s'y retrouver. Le CRAIG met à disposition un plugin QGIS qui centralise ses données et celles d'autres plateformes via des flux, dans le but de simplifier l'accès aux données de référence (Orthophoto, IGN, Cadastre, relief) et aux données thématiques pour ses utilisateurs. Ce plugin est né d'une démarche collaborative: réalisé par la Région Hauts-de-France et développé par la société NeoGeo Technologies, son code source est aujourd'hui réutilisé par plusieurs organismes, dont le CRAIG, et peut être utilisé par d'autres structures ou collectivités pour faciliter l'utilisation des données au sein de leur territoire.
 
-### QGIS : le coeur du SIG départemental du Calvados - Jérémie Ory et Théo Grondin
+### QGIS : le coeur du SIG départemental du Calvados - Jérémie Ory et Théo Grondin (Département du Calvados)
 
 En 2019, le département du Calvados a mis en place un nouveau Système d'Information Géographique s’appuyant sur un socle logiciel QGIS - QGIS Serveur - PostgreSQL/PostGIS - Qfield. Nombreuses applications métiers ont été développées : gestion des Espaces Naturels Sensibles, gestion de la voirie vélo, observatoire de l’eau, diagnostics territoriaux, etc. Le SIG départemental compte aujourd’hui plusieurs centaines d’agents. La présentation réalisera un focus sur deux outils appréciés des utilisateurs : 1. Production automatisée de diagnostics territoriaux avec QGIS. 2. Enrichissement de données cadastrales à partir de données tierces (données d’urbanisme du GPU, données environnementales de Carmen, etc.) avec PostGIS et consultation web avec QGIS Serveur.
 
-#### QGIS au coeur du Système d'Information Naturaliste de Martinique - Mickaël Douchin
+#### QGIS au coeur du Système d'Information Naturaliste de Martinique - Mickaël Douchin (3Liz)
 
 Dans le cadre de l’Observatoire Martiniquais de la biodiversité (OMB), le Parc Naturel Régional de Martinique a souhaité mettre en place un outil Open Source facilitant la mutualisation et la valorisation des connaissances naturalistes sur le territoire martiniquais. Cet outil devait s'inscrire dans le Système d’Information Nature et Paysage (SINP) du Ministère de l’Environnement. La solution retenue et déployée est centrée sur QGIS. L'objectif de cette présentation est de présenter l'écosystème QGIS permettant de mettre en oeuvre un Système d'Information Géographique le plus complet possible : Gestion de données (QGIS), Saisie terrain (Qfield), valorisation et publication web (Lizmap) ; en s'appuyant sur l'expérience du PNR Martinique.
 
-### Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire - Emilie Bigorne
+### Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire - Emilie Bigorne (Etablissement public Loire)
 
 L’Etablissement public Loire est un syndicat mixte (EPTB) composé de soixante collectivités (Régions, Départements et Intercommunalités) et d'une soixantaine d'agents.  Les données métiers de l'Etablissement sont stockées dans une base de données PostgreSQL/PostGIS et sont utilisées par une quarantaine d'agents, essentiellement via QGIS.  Jusqu'en 2022, QGIS était installé manuellement et paramétré à l'identique sur les postes utilisateurs. Un système de déploiement en masse sur l'ensemble des postes a été mis en place permettant de maintenir les versions à jour et de personnaliser les paramètres selon le profil utilisateur.  Cette présentation propose de détailler les outils et la méthodologie mis en place pour industrialiser le déploiement et la mise à jour de QGIS sur le parc.
 
-### QGIS Plugin : PLU(i) versionning -  Bruno Defrance et Eric Vinouze
+### QGIS Plugin : PLU(i) versionning -  Bruno Defrance et Eric Vinouze (AURG)
 
 Grenoble-Alpes-Métropole, l'Agence d'urbanisme de la région grenobloise et Oslandia développent actuellement un plugin QGIS pour faciliter le suivi de numérisation des PLU(i) dans un environnement PostgreSQL. Basé sur le standard CNIG, cet outil permet de générer des versions de numérisation en s'appuyant, pour chaque procédure traitée, sur l'ensemble des projets thématiques qui sont mobilisés (zonage, OAP, ER, etc.). Il permet ainsi, à partir de versions duplicables, d'aboutir en fin de procédure du PLU(i) à des versions validées dont le contenu constituera les éléments graphiques du document opposable. Côté IHM, outre la mise à disposition d’un tableau de bord des versions, l'outil est doté d'un système d'import des fichiers SHAPE au format CNIG.
 
-### La Géoplateforme et les plugins QGIS - Xavier Thauvin
+### La Géoplateforme et les plugins QGIS - Xavier Thauvin (IGN)
 
 Le programme Géoplateforme, pour doter la puissance publique d’une infrastructure collaborative et mutualisée pour la production et la diffusion des géodonnées.   Le Géotuileur : transformez vos données géographiques en tuiles vectorielles simplement et diffusez-les n'importe où !   Présentation et démonstration des plugins QGIS : plugin collaboratif et plugin Géotuileur.  Les perspectives d'amélioration en commun.   Les API de la future Géoplateforme et les possibilités d'en faire des plugins QGIS ensemble.   Vers une communauté d'utilisateurs d'outils QGIS liés à la future Géoplateforme ?
