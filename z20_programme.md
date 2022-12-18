@@ -184,7 +184,7 @@ L’objectif sera d’accompagner les participants à construire de A à Z un ta
 - Création d’indicateurs avancés (mise à jour sur sélection, combinaisons de fonctions QGIS, mise en page HTML)
 - Présentation de l’utilisation des tableaux de bord QGIS chez FREDON Occitanie. Exemple de projet « Tableau de bord » (QGIS Dashboard) sur qgis.org : https://plugins.qgis.org/geopackages/5/
 
-### A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)
+### À la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)
 
 Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquis dans le cadre du programme LiDAR HD, sous 3 volets :
 - Accéder aux données (en téléchargement et via les flux)
