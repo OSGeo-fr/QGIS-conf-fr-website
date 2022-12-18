@@ -9,7 +9,7 @@ Les prochaines journées QGIS auront lieu les 13 et 14 mars 2023.
 
 L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novembre 2022. L'équipe d'organisation des journées des utilisateurs francophones de QGIS remercie toutes les personnes qui se sont mobilisées pour proposer une conférence ou un atelier !
 
-## Journée d'atelier - Lundi 13 mars
+## Journée d'ateliers - Lundi 13 mars
 
 A paraître
 
