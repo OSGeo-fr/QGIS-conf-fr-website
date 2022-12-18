@@ -207,7 +207,7 @@ Beaucoup d’utilisateurs ont besoin de lier leurs données géographiques avec 
 
 ### Créer un outil de saisie avec des expressions - Mickaël Douchin
 
-L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet, à partir d'une donnée au format tabulaire, avec les étapes suivante: 
+L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet, à partir d'une donnée au format tabulaire, avec les étapes suivantes: 
 - Import d'une donnée "tableur" dans un Geopackage et affichage dans QGIS
 - Création et correction de données via des expressions
 - Mettre les données en relation
