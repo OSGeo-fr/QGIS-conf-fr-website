@@ -232,7 +232,6 @@ Alternative à QField, Mergin Maps propose plusieurs outils pour faire de la sai
 ### Exploiter les multiples potentialités de l’Atlas - Maggie Mateu
 
 Venez découvrir l’outil Atlas de QGIS au travers d’un exemple / un modèle comprenant ses multiples fonctionnalités. Vous apprendrez à construire une base de données spatiale vous permettant d’exporter en un clic une suite de cartes mises en page avec à chacune son titre, sa légende, son carton de localisation, sa ou ses photo(s) d’accompagnement, son texte explicatif et son nom de fichier correspondant. 
-Créer un outil de saisie avec des expressions L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet, à partir d'une donnée au format tabulaire, avec les étapes suivante: * Import d'une donnée "tableur" dans un Geopackage et affichage dans QGIS * Création et correction de données via des expressions * Mettre les données en relation * Créer un formulaire de saisie avancé * Visualiser les données problématiques ou importantes dans la table attributaire On privilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la majorité des traitements: pas d'utilisation de requêtes SQL en base de données ou d'algorithmes complexes.
 
 ### ICEtool : plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard
 
