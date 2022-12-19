@@ -32,7 +32,7 @@ A paraître
             <td><b>09h30 - 12h00</b><br><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-et-émilie-algans-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
             <td><b>09h30 - 12h00</b><br><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---terry-moreau-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)</a></td>
             <td><b>09h30 - 12h00</b><br><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
-            <td><b>09h30 - 12h00</b><br><a href="#initation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
+            <td><b>09h30 - 12h00</b><br><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
          </tr>
         <tr class="pause-atelier">
             <td colspan=6><b>Pause</b></td>
@@ -92,7 +92,7 @@ A paraître
     </tr>
     <tr class="impair">
       <td>12:00</td>
-      <td><a href="#al4eo--un-plugin-qgis-dactive-learning---romain-thoreau-onera--magellium">AL4EO : un plug-in QGIS d'Active Learning</a></td>
+      <td><a href="#al4eo--un-plugin-qgis-dactive-learning---romain-thoreau-onera--magellium">AL4EO : un plugin QGIS d'Active Learning</a></td>
       <td>Romain Thoreau (ONERA & Magellium)</td>
     </tr>
     <tr  class="pause">
@@ -127,7 +127,7 @@ A paraître
     </tr>
     <tr class="pair">
       <td>16:05</td>
-      <td><a href="#qgis-plugin--plui-versionning----bruno-defrance-grenoble-alpes-métropole-eric-vinouze-aurg">QGIS Plugin: PLU(i) versionning</a></td>
+      <td><a href="#qgis-plugin--plui-versionning---bruno-defrance-grenoble-alpes-métropole-et-eric-vinouze-aurg">QGIS Plugin : PLU(i) versionning</a></td>
       <td>Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)</td>
     </tr>
     <tr class="impair">
@@ -143,10 +143,10 @@ A paraître
   </tbody>
 </table>
 
+<!---
 
 ---------------------------------------
 
-<!---
 
 ## Programme détaillé des ateliers
 
@@ -267,7 +267,7 @@ Les missions de stéréopréparation (mesure de point d'appuis image sur le terr
 
 ### AL4EO : un plugin QGIS d'Active Learning - Romain Thoreau (ONERA & Magellium)
 
-L'objectif des méthodes d'Active Learning est de construire, de manière interactive et itérative, des bases d'apprentissage optimales dans le contexte de l'apprentissage supervisé. Une bonne vérité terrain est en effet essentielle pour de nombreuses applications telles que la détection de changements ou la cartographie de l'occupation des sols à partir d'images satellites. AL4EO est un plug-in QGIS permettant d'utiliser les méthodes d'Active Learning de l'état de l'art.
+L'objectif des méthodes d'Active Learning est de construire, de manière interactive et itérative, des bases d'apprentissage optimales dans le contexte de l'apprentissage supervisé. Une bonne vérité terrain est en effet essentielle pour de nombreuses applications telles que la détection de changements ou la cartographie de l'occupation des sols à partir d'images satellites. AL4EO est un plugin QGIS permettant d'utiliser les méthodes d'Active Learning de l'état de l'art.
 
 <a href="https://github.com/Romain3Ch216/AL4EO">Dépôt GitHub</a>
 
@@ -292,7 +292,7 @@ Dans le cadre de l’Observatoire Martiniquais de la biodiversité (OMB), le Par
 
 L’Etablissement public Loire est un syndicat mixte (EPTB) composé de soixante collectivités (Régions, Départements et Intercommunalités) et d'une soixantaine d'agents.  Les données métiers de l'Etablissement sont stockées dans une base de données PostgreSQL/PostGIS et sont utilisées par une quarantaine d'agents, essentiellement via QGIS.  Jusqu'en 2022, QGIS était installé manuellement et paramétré à l'identique sur les postes utilisateurs. Un système de déploiement en masse sur l'ensemble des postes a été mis en place permettant de maintenir les versions à jour et de personnaliser les paramètres selon le profil utilisateur.  Cette présentation propose de détailler les outils et la méthodologie mis en place pour industrialiser le déploiement et la mise à jour de QGIS sur le parc.
 
-### QGIS Plugin : PLU(i) versionning -  Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)
+### QGIS Plugin : PLU(i) versionning - Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)
 
 Grenoble-Alpes-Métropole, l'Agence d'Urbanisme de la Région Grenobloise et Oslandia développent actuellement un plugin QGIS pour faciliter le suivi de numérisation des PLU(i) dans un environnement PostgreSQL. Basé sur le standard CNIG, cet outil permet de générer des versions de numérisation en s'appuyant, pour chaque procédure traitée, sur l'ensemble des projets thématiques qui sont mobilisés (zonage, OAP, ER, etc.). Il permet ainsi, à partir de versions duplicables, d'aboutir en fin de procédure du PLU(i) à des versions validées dont le contenu constituera les éléments graphiques du document opposable. Côté IHM, outre la mise à disposition d’un tableau de bord des versions, l'outil est doté d'un système d'import des fichiers SHAPE au format CNIG.
 
