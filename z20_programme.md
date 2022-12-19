@@ -15,35 +15,27 @@ A paraître
 
 <!---
 <table class="atelier-table">
-    <thead>
-        <tr>
-            <th>Salle</th>
-            <th>Salle</th>
-            <th>Salle</th>
-            <th>Salle</th>
-            <th>Salle</th>
-            <th>Salle</th>
-        </tr>
-    </thead>
     <tbody>
         <tr class="atelier">
-            <td><b>09h30 - 12h00</b><br><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
-            <td><b>09h30 - 12h00</b><br><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
-            <td><b>09h30 - 12h00</b><br><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-et-émilie-algans-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
-            <td><b>09h30 - 12h00</b><br><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---terry-moreau-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)</a></td>
-            <td><b>09h30 - 12h00</b><br><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
-            <td><b>09h30 - 12h00</b><br><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
+            <td><b>Matinée</b><br>09h30 - 12h00</a></td>
+            <td><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
+            <td><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
+            <td><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-et-émilie-algans-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
+            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---terry-moreau-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)</a></td>
+            <td><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
+            <td><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
          </tr>
         <tr class="pause-atelier">
-            <td colspan=6><b>Pause</b></td>
+            <td colspan=7><b>Pause</b></td>
         </tr>       
         <tr class="atelier">
-            <td rowspan=2><b>14h00 - 17h00</b><br><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
-            <td rowspan=2><b>14h00 - 17h00</b><br><a href="#créer-un-outil-de-saisie-avec-des-expressions---mickaël-douchin-3liz">Créer un outil de saisie avec des expressions - Mickaël Douchin (3Liz)</a></td>
-            <td><b>14h00 - 17h00</b><br><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
-            <td><b>14h00 - 17h00</b><br><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
-            <td><b>14h00 - 17h00</b><br><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
-            <td><b>14h00 - 17h00</b><br>Barcamp</td>
+            <td><b>Après-midi</b><br>14h00 - 16h30</a></td>
+            <td><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
+            <td><a href="#créer-un-outil-de-saisie-avec-des-expressions---mickaël-douchin-3liz">Créer un outil de saisie avec des expressions - Mickaël Douchin (3Liz)</a></td>
+            <td><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
+            <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
+            <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
+            <td><a href="#barcamp">Barcamp</b></td>
         </tr>       
     </tbody>
 </table>
