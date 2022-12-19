@@ -240,6 +240,10 @@ Présentation (histoire du développement, théorie rapide, cas pratiques & dév
 
 <a href="https://github.com/Art-Ev/ICEtool">Dépôt Github</a>
 
+### Barcamp
+
+Un BarCamp est une “non-conférence”. Venez faire émerger les sujets qui vous tiennent à coeur et ensemble nous chercherons à mutualiser nos pratiques pour que tout le monde puisse en bénéficier.
+
 --->
 
 ---------------------------------------
