@@ -20,7 +20,7 @@ Après deux éditions à distance, les rencontres se feront en présentiel. Elle
         <li>Tram A / Arrêt Musée d'Art Roger Quilliot</li>
         <li>Bus n°20 et 21 / Arrêt musée d'art Roger-Quilliot</li>
       </ul>
-      S'y rendre en <b>modes doux</b>
+      S'y rendre en <b>modes doux</b> : <br/>
       <ul>
         <li>A pied : 31 minutes (2,9 km) de la gare de Clermont-Ferrand / 47 minutes (3,9 km) de la place de Jaude</li>
         <li>Station C vélo Musée d'Art Roger Quilliot</li>
