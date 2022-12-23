@@ -14,7 +14,7 @@ Après deux éditions à distance, les rencontres se feront en présentiel. Elle
   </tr>
   <tr>
     <td>
-      <p>59 Boulevard Léon Jouhaux - CS 90706 63050 CLERMONT-FERRAND CEDEX 2T. 04 73 31 85 85<br/>
+      <p>59 Boulevard Léon Jouhaux - CS 90706 63050 CLERMONT-FERRAND CEDEX 2T. 04 73 31 85 85<br/><br/>
       S'y rendre en <b>transports en commun</b> : <br/>
       <ul>
         <li>Tram A / Arrêt Musée d'Art Roger Quilliot</li>
