@@ -229,6 +229,13 @@ Venez découvrir l’outil Atlas de QGIS au travers d’un exemple / un modèle 
 ### ICEtool : plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard (INSA Toulouse & Egis)
 
 Présentation (histoire du développement, théorie rapide, cas pratiques & développements en cours) du plugin ICEtool: modélisation thermique d'espaces publics et estimation de différents indicateurs liés à la perméabilité des sols ou encore la biodiversité. Objectif du plugin: comparer différents aménagements (actuel vs projet ou projet vs projet) et mettre en valeur les aspects eau/thermique/biodiversité de ces aménagements.
+Seront abordés:
+- ICEtool, histoire et théorie :
+  - Origine du plugin
+  - Théorie : quels sont les phénomènes physiques pris en compte, quels sont ceux qui sont simplifiés (important), quels sont ceux non pris en compte (le + important finalement)
+- Prise en main à travers la découverte du projet exemple livré avec le plugin (pour faire découvrir toutes les fonctions)
+- Les premières étapes de la création d’un nouveau projet (quelles données d’entrée, où les trouver, etc)
+- Conclusion (& fonctionnalités en cours de développement)
 
 <a href="https://github.com/Art-Ev/ICEtool">Dépôt Github</a>
 
