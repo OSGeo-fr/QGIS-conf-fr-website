@@ -183,9 +183,9 @@ Pour vous qui faites régulièrement les mêmes enchainements de fonctionnalité
 
 Cet atelier vous permettra de faire vos premiers pas, de créer votre première chaîne de traitement, et de vous lancer sur le grand chemin de l’automatisation de traitements avec QGIS.
 
-### Initation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)
+### Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)
 
-Une initiation sera proposée pour celles et ceux qui débutent ou veulent mettre le pied à l'étrier sur QGIS - résumé non officiel de Nicolas, à confirmer
+Une initiation sera proposée pour celles et ceux qui débutent ou veulent mettre le pied à l'étrier sur QGIS.
 
 ### Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)
 
