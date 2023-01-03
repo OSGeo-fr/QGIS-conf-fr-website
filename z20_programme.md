@@ -14,7 +14,7 @@ L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novem
 <table class="atelier-table">
     <tbody>
         <tr class="atelier">
-            <td><b>Matinée</b><br>09h30 - 12h00</a></td>
+            <td><b>Matinée</b><br>09h30 - 12h00</td>
             <td><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
             <td><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
             <td><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-et-émilie-algans-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
@@ -26,13 +26,13 @@ L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novem
             <td colspan=7><b>Pause</b></td>
         </tr>       
         <tr class="atelier">
-            <td><b>Après-midi</b><br>14h00 - 16h30</a></td>
+            <td><b>Après-midi</b><br>14h00 - 16h30</td>
             <td><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
             <td><a href="#créer-un-outil-de-saisie-avec-des-expressions---mickaël-douchin-3liz">Créer un outil de saisie avec des expressions - Mickaël Douchin (3Liz)</a></td>
             <td><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
             <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
             <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
-            <td><a href="#barcamp">Barcamp</b></td>
+            <td><a href="#barcamp">Barcamp</a></td>
         </tr>       
     </tbody>
 </table>
