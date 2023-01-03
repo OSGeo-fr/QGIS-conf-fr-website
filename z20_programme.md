@@ -32,7 +32,7 @@ L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novem
             <td><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
             <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
             <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
-            <td><a href="#barcamp">Barcamp</b></td>
+            <td><a href="#barcamp">Barcamp</a></td>
         </tr>       
     </tbody>
 </table>
