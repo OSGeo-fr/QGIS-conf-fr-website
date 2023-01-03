@@ -11,9 +11,6 @@ L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novem
 
 ## Journée d'ateliers - Lundi 13 mars
 
-A paraître
-
-<!---
 <table class="atelier-table">
     <tbody>
         <tr class="atelier">
@@ -39,7 +36,6 @@ A paraître
         </tr>       
     </tbody>
 </table>
---->
 
 ## Journée de conférence - Mardi 14 mars
 
@@ -134,8 +130,6 @@ A paraître
     </tr>
   </tbody>
 </table>
-
-<!---
 
 ---------------------------------------
 
@@ -242,8 +236,6 @@ Seront abordés:
 ### Barcamp
 
 Un BarCamp est une “non-conférence”. Venez faire émerger les sujets qui vous tiennent à coeur et ensemble nous chercherons à mutualiser nos pratiques pour que tout le monde puisse en bénéficier.
-
---->
 
 ---------------------------------------
 ## Programme détaillé des conférences
