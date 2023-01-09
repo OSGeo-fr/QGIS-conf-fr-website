@@ -7,6 +7,8 @@ menu: header
 
 Après deux éditions à distance, les rencontres se feront en présentiel. Elles se dérouleront à l'Hôtel de Région Auvergne Rhône-Alpes, à Clermont-Ferrand avec le soutien du CRAIG.
 
+Si vous venez de loin, n'hésitez pas à proposer un [covoiturage](https://www.covievent.org/covoiturage/rencontres-des-utilisateurs-francophones-de-qgis-edition-2023/fd0136f530d30cafbd9159e45cbc3fb1)
+
 
 <table>
   <tr>
