@@ -49,14 +49,13 @@ Composée de spécialistes de l’Open Source, Camptocamp est une entreprise inn
 
 Créée en 2016, Hytech-imaging contribue au développement des usages de l'imagerie spectrale pour la connaissance et le suivi de l’environnement. Hytech-imaging propose des services et une expertise tout au long de la chaîne de valeur de l’imagerie spectrale, depuis l’acquisition ou la collecte d’images, jusqu’à l’intégration et le déploiement de solutions logicielles, en passant par le traitement automatique d’images et l’extraction d’informations utiles pour vos besoins. D'abord spécialisé dans les applications thématiques maritimes et côtières, Hytech-imaging accompagne désormais ses clients sur d'autres thématiques telles l’archéologie ou l’agronomie. Hytech-imaging intègre QGIS à ses solutions, à la fois comme interface utilisateur de ses chaînes de traitement (QGIS Desktop + extension) et comme distributeur de ses productions (QGIS Server).
 
-<!--
-
-
 [![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
 
 Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec trois core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
 
 ---
+<!--
+
 
 [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
 
