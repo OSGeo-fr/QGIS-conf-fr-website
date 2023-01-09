@@ -5,7 +5,7 @@ tagline: Voici notre programme pour ces rencontres
 menu: header
 ---
 
-Les prochaines journées QGIS auront lieu les 13 et 14 mars 2023.
+Les prochaines journées QGIS auront lieu les 13 et 14 mars 2023 à l'[Hôtel de Région de Clermont-Ferrand](./z10_localisation.html)
 
 L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novembre 2022. L'équipe d'organisation des journées des utilisateurs francophones de QGIS remercie toutes les personnes qui se sont mobilisées pour proposer une conférence ou un atelier !
 
