@@ -37,7 +37,10 @@ L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novem
     </tbody>
 </table>
 
-## Journée de conférence - Mardi 14 mars
+## Journée de conférences - Mardi 14 mars
+
+Dans la mesure du possible, les présentations seront retransmises en direct
+et enregistrées pour une publication sur la chaîne Youtube de l'événement.
 
 <table class="tableizer-table">
   <thead>
