@@ -15,7 +15,7 @@ L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novem
     <tbody>
         <tr class="atelier">
             <td rowspan=2><b>Matinée</b></td>
-            <td><b>09h00 - 9h30</b></td>
+            <td><b>09h00 - 09h30</b></td>
             <td colspan=7><b>Accueil des participants</b></td>
         </tr>
         <tr class="atelier">
@@ -42,7 +42,7 @@ L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novem
         </tr>       
         <tr class="atelier">
             <td><b>16h30 - 17h30</b></td>
-            <td colspan=8><b>Discussion et retour d'expériences de la journée</b></td>
+            <td colspan=8><b>Discussion et retours d'expérience de la journée</b></td>
         </tr>
     </tbody>
 </table>
