@@ -15,6 +15,6 @@ L’événement se déroulera sur 2 jours, les 13 et 14 mars 2023:
 
 L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novembre 2022.
 
-Jusqu'au 04 décembre 2022, vous êtes conviés à [sélectionner les conférences](https://sondage.osgeo.asso.fr/index.php/617441) que vous souhaitez voir au programme.
+Le programme est maintenant [disponible](/z20_programme.html) et les [inscriptions](/z25_inscription.html) sont ouvertes.
+Pour organiser votre venue, n'hésitez pas à consulter les informations disponibles sur la [page dédiée](z10_localisation.html)
 
-Les [inscriptions](/z25_inscription.html) pour assister à ces journées ouvriront d'ici la fin de l'année (une fois le programme publié).
