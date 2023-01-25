@@ -56,8 +56,6 @@ Créée en 2016, Hytech-imaging contribue au développement des usages de l'imag
 Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation.
 
 ---
-<!--
-
 
 [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
 
@@ -70,6 +68,7 @@ Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de 
 Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier.
 
 ---
+<!--
 
 # Nos soutiens
 
