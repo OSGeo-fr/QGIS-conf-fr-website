@@ -34,7 +34,7 @@ L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novem
             <td rowspan=2><b>Après-midi</b></td>
              <td><b>14h00 - 16h30</b></td>
            <td><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
-            <td><a href="#créer-un-outil-de-saisie-avec-des-expressions---mickaël-douchin-3liz">Créer un outil de saisie avec des expressions - Mickaël Douchin (3Liz)</a></td>
+            <td><a href="#créer-un-outil-de-saisie-avec-des-expressions---michaël-douchin-3liz">Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)</a></td>
             <td><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
             <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
             <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
