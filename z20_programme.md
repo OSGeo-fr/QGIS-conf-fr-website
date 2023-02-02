@@ -118,8 +118,8 @@ et enregistrées pour une publication sur la chaîne Youtube de l'événement.
     </tr>
     <tr class="impair">
       <td>14:50</td>
-      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---mickaël-douchin-3liz">QGIS au coeur du Système d'Information Naturaliste de Martinique</a></td>
-      <td>Mickaël Douchin (3Liz)</td>
+      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---michaël-douchin-3liz">QGIS au coeur du Système d'Information Naturaliste de Martinique</a></td>
+      <td>Michaël Douchin (3Liz)</td>
     </tr>
     <tr class="pair">
       <td>15:15</td>
@@ -209,7 +209,7 @@ Une initiation sera proposée pour celles et ceux qui débutent ou veulent mettr
 
 Beaucoup d’utilisateurs ont besoin de lier leurs données géographiques avec des documents (photos, vidéos, rapports sous format pdf, manuels…). Ces documents doivent eux-mêmes être stockés sur un système existant comme un FTP, Nextcloud, un stockage objet dans le Cloud, ou un système de fichiers partagés sur le réseau. Cet atelier propose de décrire la marche à suivre pour associer données et documents. Nous verrons dans un premier temps comment concevoir le schéma de données en s'appuyant sur la base de données PostgreSQL. Puis, nous détaillerons la configuration de QGIS permettant d'échanger des documents sur un espace disque, ou depuis une plateforme distante. Enfin, nous proposerons des solutions permettant de récupérer les métadonnées des documents en vue de les insérer en base.
 
-### Créer un outil de saisie avec des expressions - Mickaël Douchin (3Liz)
+### Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)
 
 L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet, à partir d'une donnée au format tabulaire, avec les étapes suivantes: 
 - Import d'une donnée "tableur" dans un GeoPackage et affichage dans QGIS
@@ -293,7 +293,7 @@ En 2019, le département du Calvados a mis en place un nouveau Système d'Inform
 1. Production automatisée de diagnostics territoriaux avec QGIS
 2. Enrichissement de données cadastrales à partir de données tierces (données d’urbanisme du GPU, données environnementales de Carmen, etc.) avec PostGIS et consultation web avec QGIS Serveur.
 
-#### QGIS au coeur du Système d'Information Naturaliste de Martinique - Mickaël Douchin (3Liz)
+#### QGIS au coeur du Système d'Information Naturaliste de Martinique - Michaël Douchin (3Liz)
 
 Dans le cadre de l’Observatoire Martiniquais de la Biodiversité (OMB), le Parc Naturel Régional de Martinique a souhaité mettre en place un outil Open Source facilitant la mutualisation et la valorisation des connaissances naturalistes sur le territoire martiniquais. Cet outil devait s'inscrire dans le Système d’Information Nature et Paysage (SINP) du Ministère de l’Environnement. La solution retenue et déployée est centrée sur QGIS. L'objectif de cette présentation est de présenter l'écosystème QGIS permettant de mettre en oeuvre un Système d'Information Géographique le plus complet possible : Gestion de données (QGIS), Saisie terrain (QField), valorisation et publication web (Lizmap) ; en s'appuyant sur l'expérience du PNR Martinique.
 
