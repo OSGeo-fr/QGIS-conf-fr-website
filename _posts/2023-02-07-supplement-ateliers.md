@@ -18,4 +18,4 @@ L'atelier est au prix de 35€, la journée de conférences à 40€. Les tarifs
 
 Les repas du midi sont inclus dans les inscriptions aux ateliers ou aux conférences, mais pour faciliter notre organisation, merci de bien préciser si vous souhaitez manger avec nous, ou pas.
 
-Rendez-vous sur la <a href="https://www.helloasso.com/associations/osgeo-fr/evenements/journee-utilisateur-qgis-francophone-2023-2">page HelloAsso pour vous inscrire.</a>
+Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/evenements/journee-utilisateur-qgis-francophone-2023-2">HelloAsso pour vous inscrire.</a>
