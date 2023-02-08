@@ -77,8 +77,8 @@ et enregistrées pour une publication sur la chaîne Youtube de l'événement.
     </tr>
     <tr class="pair">
       <td>09:55</td>
-      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----vincent-bré-et-gwendoline-andres-oslandia">QompliGIS, les nouveautés, vers une version web ...</a></td>
-      <td>Vincent Bré et Gwendoline Andres (Oslandia)</td>
+      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----jacky-volpes-et-gwendoline-andres-oslandia">QompliGIS, les nouveautés, vers une version web ...</a></td>
+      <td>Jacky Volpes et Gwendoline Andres (Oslandia)</td>
     </tr>
     <tr class="impair">
       <td>10:20</td>
@@ -262,7 +262,7 @@ Un BarCamp est une “non-conférence”. Venez faire émerger les sujets qui vo
 ---------------------------------------
 ## Programme détaillé des conférences
 
-### QompliGIS, les nouveautés, vers une version web ... - Vincent Bré et Gwendoline Andres (Oslandia)
+### QompliGIS, les nouveautés, vers une version web ... - Jacky Volpes et Gwendoline Andres (Oslandia)
 
 De nombreux services font appel à des prestataires pour réaliser leurs plans. Une fois la numérisation effectuée et livrée, le client doit s’assurer de la conformité des données avant de les intégrer dans son SIG. Initialement c'est pour répondre à cette problématique du monde de la topographie qu'Oslandia a développé le plugin QompliGIS. Toutefois, la vérification des données s'inscrit dans tout secteur d'activité. En effet, ce plugin a pour objectif de proposer un moyen simple de vérifier si la structure d’un jeu de données est conforme avec la structure d’un jeu de données de référence. Nous allons présenter les nouvelles fonctionnalités de cette année et, en avant première, QompliGIS web afin de faire gagner en autonomie vos prestataires et votre équipe pour valider leurs données.
 
