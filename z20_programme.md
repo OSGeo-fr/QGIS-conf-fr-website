@@ -16,11 +16,20 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
 <table class="atelier-table">
     <tbody>
         <tr class="atelier">
-            <td rowspan=2><b>Matinée</b></td>
             <td><b>09h00 - 09h30</b></td>
-            <td colspan=8><b>Accueil des participants</b></td>
+            <td colspan=8><b>Accueil des participants</b> - <i>Salle Germaine Thillon</i></td>
         </tr>
-        <tr class="atelier">
+         <tr class="atelier">
+            <td></td>
+            <td><i>Salle Saumon</i></td>
+            <td><i>Salle Salers</i></td>
+            <td><i>Salle Loutre</i></td>
+            <td><i>Salle Sioule</i></td>
+            <td><i>Salle Lac du Guéry</i></td>
+            <td><i>Salle Allier</i></td>
+            <td><i>Salle Alagnon</i></td>
+        </tr>
+       <tr class="atelier">
             <td><b>09h30 - 12h00</b></td>
             <td><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
             <td><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
@@ -31,10 +40,9 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
             <td><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
          </tr>
         <tr class="pause-atelier">
-            <td colspan=10><b>Pause</b></td>
+            <td colspan=8><b>Pause déjeuner</b></td>
         </tr>       
         <tr class="atelier">
-            <td rowspan=2><b>Après-midi</b></td>
             <td><b>14h00 - 16h30</b></td>
             <td><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
             <td><a href="#créer-un-outil-de-saisie-avec-des-expressions---michaël-douchin-3liz">Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)</a></td>
