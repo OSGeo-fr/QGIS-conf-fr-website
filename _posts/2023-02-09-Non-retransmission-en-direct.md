@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Non retransmission en direct des conférences"
+title: "Pas de retransmission en direct des conférences"
 published: true
 
 ---
