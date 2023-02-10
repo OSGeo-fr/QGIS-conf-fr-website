@@ -170,6 +170,11 @@ Cet atelier présentera un ensemble de fonctionnalités à connaître pour const
 - Stocker en base un projet QGIS, un style ou le résultat d'un traitement
 - Administrer votre base depuis l'explorateur
 
+> **Pré-requis**
+> 
+> * Avoir installé QGIS 3.28.4, PostgreSQL >= 10, PostGIS >= 3.0
+> * Une console psql
+
 ### Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)
 
 Lizmap est une solution opensource de publication de projet QGIS dans un navigateur web. Il est développé par la société Française 3Liz. L'objectif de cet outil libre est de publier, le plus simplement possible, un projet QGIS (légende, couches, groupes, mise en page PDF, table attributaire, formulaire de saisie etc) sans devoir refaire des manipulations supplémentaires pour le géomaticien dans QGIS. Pendant cet atelier, nous verrons la publication d'un projet QGIS avec :
@@ -179,6 +184,13 @@ Lizmap est une solution opensource de publication de projet QGIS dans un navigat
 - un formulaire d'édition 
 - mise en page PDF (sans et avec atlas)
 - l'ajout d'une dataviz
+
+> **Pré-requis**
+>
+> * Savoir manipuler QGIS : ouvrir des couches, accèder à la table attributaire...
+> * QGIS 3.22, la version LTR actuelle
+> * On vous communiquera avant la formation les identifiants de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
+
 
 ### Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)
 
@@ -199,6 +211,12 @@ Les experts de l’IGN vous proposent un atelier de manipulation des données al
 - Présentation (et si possible démonstration sur des cas concrets) des derniers outils QGIS (développés ou à venir) pour faciliter la gestion des nuages de points lidar (https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/ )
 - Pour aller plus loin (utilisation du plugin LASTools) : Visualisation de nuage de points classifié, Création d’un MNT
 
+> **Pré-requis**
+> 
+> * Connaître QGIS (dans une certaine mesure)
+> * Avoir la dernière version LTR de QGIS sur sa machine
+> * Avoir installé et configuré le plug-in LASTools
+
 ### Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)
 
 Pour vous qui faites régulièrement les mêmes enchainements de fonctionnalités et qui souhaitez les automatiser. Pour vous qui avez déjà entendu parler du modeleur graphique, mais ne savez pas comment l’utiliser. Pour vous qui avez déjà ouvert la fenêtre du modeleur et l’avez refermée aussi vite.
@@ -213,6 +231,10 @@ Une initiation sera proposée pour celles et ceux qui débutent ou veulent mettr
 
 Beaucoup d’utilisateurs ont besoin de lier leurs données géographiques avec des documents (photos, vidéos, rapports sous format pdf, manuels…). Ces documents doivent eux-mêmes être stockés sur un système existant comme un FTP, Nextcloud, un stockage objet dans le Cloud, ou un système de fichiers partagés sur le réseau. Cet atelier propose de décrire la marche à suivre pour associer données et documents. Nous verrons dans un premier temps comment concevoir le schéma de données en s'appuyant sur la base de données PostgreSQL. Puis, nous détaillerons la configuration de QGIS permettant d'échanger des documents sur un espace disque, ou depuis une plateforme distante. Enfin, nous proposerons des solutions permettant de récupérer les métadonnées des documents en vue de les insérer en base.
 
+> **Pré-requis**
+> 
+> Avoir installé Postgres/Postgis, QGIS 3.22 ou supérieur
+
 ### Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)
 
 L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet, à partir d'une donnée au format tabulaire, avec les étapes suivantes: 
@@ -223,6 +245,12 @@ L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGI
 - Visualiser les données problématiques ou importantes dans la table attributaire.
 
 On privilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la majorité des traitements: pas d'utilisation de requêtes SQL en base de données ou d'algorithmes complexes.
+
+> **Pré-requis**
+> 
+> * Maîtrise des outils de base de QGIS
+> * Intérêt pour les configurations avancées
+
 
 ### Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)
 
@@ -241,6 +269,15 @@ Cet atelier permettra de découvrir les logiciels suivants :
 ### Exploiter les multiples potentialités de l’Atlas - Maggie Mateu (Atopia)
 
 Venez découvrir l’outil Atlas de QGIS au travers d’un exemple / un modèle comprenant ses multiples fonctionnalités. Vous apprendrez à construire une base de données spatiale vous permettant d’exporter en un clic une suite de cartes mises en page avec à chacune son titre, sa légende, son carton de localisation, sa ou ses photo(s) d’accompagnement, son texte explicatif et son nom de fichier correspondant. 
+
+> **Pré-requis**
+> 
+> * Avoir son ordinateur (peu importe le système d'exploitation) avec une version de QGIS 3 minimum installée.
+> * Pas d'extensions à installer.
+> * Avoir une connaissance rudimentaire de l’interface de QGIS et de son « composeur d’impression » / « layout manager ».
+> * Connaître les bases du langage SQL peut aider mais n'est pas obligatoire.
+> * Les étudiants sont bienvenus à cet atelier !
+
 
 ### ICEtool : plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard (INSA Toulouse & Egis)
 
