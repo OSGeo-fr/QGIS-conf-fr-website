@@ -16,11 +16,21 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
 <table class="atelier-table">
     <tbody>
         <tr class="atelier">
-            <td rowspan=2><b>Matinée</b></td>
             <td><b>09h00 - 09h30</b></td>
-            <td colspan=8><b>Accueil des participants</b></td>
+            <td colspan=8><b>Accueil des participants</b> - <i>Salle Germaine Tillion</i></td>
         </tr>
-        <tr class="atelier">
+         <tr class="atelier">
+            <td></td>
+            <td><i>Salle Saumon</i></td>
+            <td><i>Salle Salers</i></td>
+            <td><i>Salle Loutre</i></td>
+            <td><i>Salle Sioule</i></td>
+            <td><i>Salle Lac du Guéry</i></td>
+            <td><i>Salle Allier</i></td>
+            <td><i>Salle Alagnon</i></td>
+            <td><i>Salle Chambon</i></td>
+        </tr>
+       <tr class="atelier">
             <td><b>09h30 - 12h00</b></td>
             <td><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
             <td><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
@@ -29,12 +39,12 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
             <td><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
             <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
             <td><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
+            <td></td>
          </tr>
         <tr class="pause-atelier">
-            <td colspan=10><b>Pause</b></td>
+            <td colspan=9><b>Pause déjeuner</b></td>
         </tr>       
         <tr class="atelier">
-            <td rowspan=2><b>Après-midi</b></td>
             <td><b>14h00 - 16h30</b></td>
             <td><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
             <td><a href="#créer-un-outil-de-saisie-avec-des-expressions---michaël-douchin-3liz">Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)</a></td>
@@ -42,11 +52,12 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
             <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
             <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
             <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---zacharie-coq-et-sofiane-kriat-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</a></td>
+            <td></td>
             <td><a href="#barcamp">Barcamp</a></td>
         </tr>       
         <tr class="atelier">
             <td><b>16h30 - 17h30</b></td>
-            <td colspan=9><b>Discussion et retours d'expérience de la journée</b></td>
+            <td colspan=9><b>Discussion et retours d'expérience de la journée</b> - <i>Salle Chambon</i></td>
         </tr>
     </tbody>
 </table>
@@ -73,7 +84,7 @@ Des contraintes techniques insolubles dans le budget disponible, nous empêchent
     <tr class="impair">
       <td>09:30</td>
       <td>Ouverture de la journée</td>
-      <td>OSGeo-FR & CRAIG</td>
+      <td>OSGeo-fr & CRAIG</td>
     </tr>
     <tr class="pair">
       <td>09:55</td>
