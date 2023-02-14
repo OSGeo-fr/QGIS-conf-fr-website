@@ -35,7 +35,7 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
             <td><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
             <td><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
             <td><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-et-émilie-algans-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
-            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---terry-moreau-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)</a></td>
+            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---zacharie-coq-et-sofiane-kriat-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</a></td>
             <td><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
             <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
             <td><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
@@ -51,7 +51,7 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
             <td><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
             <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
             <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
-            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---terry-moreau-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)</a></td>
+            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---zacharie-coq-et-sofiane-kriat-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</a></td>
             <td></td>
             <td><a href="#barcamp">Barcamp</a></td>
         </tr>       
@@ -64,8 +64,8 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
 
 ## Journée de conférences - Mardi 14 mars
 
-Dans la mesure du possible, les présentations seront retransmises en direct
-et enregistrées pour une publication sur la chaîne Youtube de l'événement.
+Des contraintes techniques insolubles dans le budget disponible, nous empêchent de retransmettre en direct les conférences. Elles seront cependant
+ enregistrées pour une publication sur la ![chaîne Youtube de l'événement](https://www.youtube.com/@qgisfr8230/playlists).
 
 <table class="tableizer-table">
   <thead>
@@ -88,8 +88,8 @@ et enregistrées pour une publication sur la chaîne Youtube de l'événement.
     </tr>
     <tr class="pair">
       <td>09:55</td>
-      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----vincent-bré-et-gwendoline-andres-oslandia">QompliGIS, les nouveautés, vers une version web ...</a></td>
-      <td>Vincent Bré et Gwendoline Andres (Oslandia)</td>
+      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----jacky-volpes-et-gwendoline-andres-oslandia">QompliGIS, les nouveautés, vers une version web ...</a></td>
+      <td>Jacky Volpes et Gwendoline Andres (Oslandia)</td>
     </tr>
     <tr class="impair">
       <td>10:20</td>
@@ -181,6 +181,11 @@ Cet atelier présentera un ensemble de fonctionnalités à connaître pour const
 - Stocker en base un projet QGIS, un style ou le résultat d'un traitement
 - Administrer votre base depuis l'explorateur
 
+> **Pré-requis**
+> 
+> * Avoir installé QGIS 3.28, PostgreSQL >= 10, PostGIS >= 3.0
+> * Une console psql
+
 ### Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)
 
 Lizmap est une solution opensource de publication de projet QGIS dans un navigateur web. Il est développé par la société Française 3Liz. L'objectif de cet outil libre est de publier, le plus simplement possible, un projet QGIS (légende, couches, groupes, mise en page PDF, table attributaire, formulaire de saisie etc) sans devoir refaire des manipulations supplémentaires pour le géomaticien dans QGIS. Pendant cet atelier, nous verrons la publication d'un projet QGIS avec :
@@ -190,6 +195,12 @@ Lizmap est une solution opensource de publication de projet QGIS dans un navigat
 - un formulaire d'édition 
 - mise en page PDF (sans et avec atlas)
 - l'ajout d'une dataviz
+
+> **Pré-requis**
+>
+> * Savoir manipuler QGIS : ouvrir des couches, accèder à la table attributaire...
+> * Avoir la dernière version LTR de QGIS sur sa machine
+> * On vous communiquera avant la formation les identifiants de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
 
 ### Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)
 
@@ -203,12 +214,18 @@ L’objectif sera d’accompagner les participants à construire de A à Z un ta
 - Création d’indicateurs avancés (mise à jour sur sélection, combinaisons de fonctions QGIS, mise en page HTML)
 - Présentation de l’utilisation des tableaux de bord QGIS chez FREDON Occitanie. Exemple de projet « Tableau de bord » (QGIS Dashboard) sur qgis.org : https://plugins.qgis.org/geopackages/5/
 
-### À la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)
+### À la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)
 
 Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquises dans le cadre du programme LiDAR HD, sous 3 volets :
 - Accéder aux données (en téléchargement et via les flux)
 - Présentation (et si possible démonstration sur des cas concrets) des derniers outils QGIS (développés ou à venir) pour faciliter la gestion des nuages de points lidar (https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/ )
 - Pour aller plus loin (utilisation du plugin LASTools) : Visualisation de nuage de points classifié, Création d’un MNT
+
+> **Pré-requis**
+> 
+> * Connaître QGIS (dans une certaine mesure)
+> * Avoir la dernière version LTR de QGIS sur sa machine
+> * Avoir installé et configuré le plugin LAStools
 
 ### Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)
 
@@ -224,6 +241,10 @@ Une initiation sera proposée pour celles et ceux qui débutent ou veulent mettr
 
 Beaucoup d’utilisateurs ont besoin de lier leurs données géographiques avec des documents (photos, vidéos, rapports sous format pdf, manuels…). Ces documents doivent eux-mêmes être stockés sur un système existant comme un FTP, Nextcloud, un stockage objet dans le Cloud, ou un système de fichiers partagés sur le réseau. Cet atelier propose de décrire la marche à suivre pour associer données et documents. Nous verrons dans un premier temps comment concevoir le schéma de données en s'appuyant sur la base de données PostgreSQL. Puis, nous détaillerons la configuration de QGIS permettant d'échanger des documents sur un espace disque, ou depuis une plateforme distante. Enfin, nous proposerons des solutions permettant de récupérer les métadonnées des documents en vue de les insérer en base.
 
+> **Pré-requis**
+> 
+> Avoir installé PostgreSQL/Postgis, QGIS 3.22 ou supérieur
+
 ### Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)
 
 L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet, à partir d'une donnée au format tabulaire, avec les étapes suivantes: 
@@ -234,6 +255,11 @@ L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGI
 - Visualiser les données problématiques ou importantes dans la table attributaire.
 
 On privilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la majorité des traitements: pas d'utilisation de requêtes SQL en base de données ou d'algorithmes complexes.
+
+> **Pré-requis**
+> 
+> * Maîtrise des outils de base de QGIS
+> * Intérêt pour les configurations avancées
 
 ### Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)
 
@@ -252,6 +278,15 @@ Cet atelier permettra de découvrir les logiciels suivants :
 ### Exploiter les multiples potentialités de l’Atlas - Maggie Mateu (Atopia)
 
 Venez découvrir l’outil Atlas de QGIS au travers d’un exemple / un modèle comprenant ses multiples fonctionnalités. Vous apprendrez à construire une base de données spatiale vous permettant d’exporter en un clic une suite de cartes mises en page avec à chacune son titre, sa légende, son carton de localisation, sa ou ses photo(s) d’accompagnement, son texte explicatif et son nom de fichier correspondant. 
+
+> **Pré-requis**
+> 
+> * Avoir son ordinateur (peu importe le système d'exploitation) avec une version de QGIS 3 minimum installée.
+> * Pas d'extensions à installer.
+> * Avoir une connaissance rudimentaire de l’interface de QGIS et de son « gestionnaire de mise en page ».
+> * Connaître les bases du langage SQL peut aider mais n'est pas obligatoire.
+> * Les étudiants sont bienvenus à cet atelier !
+
 
 ### ICEtool : plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard (INSA Toulouse & Egis)
 
@@ -273,7 +308,7 @@ Un BarCamp est une “non-conférence”. Venez faire émerger les sujets qui vo
 ---------------------------------------
 ## Programme détaillé des conférences
 
-### QompliGIS, les nouveautés, vers une version web ... - Vincent Bré et Gwendoline Andres (Oslandia)
+### QompliGIS, les nouveautés, vers une version web ... - Jacky Volpes et Gwendoline Andres (Oslandia)
 
 De nombreux services font appel à des prestataires pour réaliser leurs plans. Une fois la numérisation effectuée et livrée, le client doit s’assurer de la conformité des données avant de les intégrer dans son SIG. Initialement c'est pour répondre à cette problématique du monde de la topographie qu'Oslandia a développé le plugin QompliGIS. Toutefois, la vérification des données s'inscrit dans tout secteur d'activité. En effet, ce plugin a pour objectif de proposer un moyen simple de vérifier si la structure d’un jeu de données est conforme avec la structure d’un jeu de données de référence. Nous allons présenter les nouvelles fonctionnalités de cette année et, en avant première, QompliGIS web afin de faire gagner en autonomie vos prestataires et votre équipe pour valider leurs données.
 
