@@ -28,6 +28,7 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
             <td><i>Salle Lac du Guéry</i></td>
             <td><i>Salle Allier</i></td>
             <td><i>Salle Alagnon</i></td>
+            <td><i>Salle Chambon</i></td>
         </tr>
        <tr class="atelier">
             <td><b>09h30 - 12h00</b></td>
@@ -38,9 +39,10 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
             <td><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
             <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
             <td><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
+            <td></td>
          </tr>
         <tr class="pause-atelier">
-            <td colspan=8><b>Pause déjeuner</b></td>
+            <td colspan=9><b>Pause déjeuner</b></td>
         </tr>       
         <tr class="atelier">
             <td><b>14h00 - 16h30</b></td>
@@ -50,6 +52,7 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
             <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
             <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
             <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---terry-moreau-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Terry Moreau (IGN)</a></td>
+            <td></td>
             <td><a href="#barcamp">Barcamp</a></td>
         </tr>       
         <tr class="atelier">
