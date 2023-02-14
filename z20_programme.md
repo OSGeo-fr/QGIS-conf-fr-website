@@ -172,7 +172,7 @@ Cet atelier présentera un ensemble de fonctionnalités à connaître pour const
 
 > **Pré-requis**
 > 
-> * Avoir installé QGIS 3.28.4, PostgreSQL >= 10, PostGIS >= 3.0
+> * Avoir installé QGIS 3.28, PostgreSQL >= 10, PostGIS >= 3.0
 > * Une console psql
 
 ### Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)
@@ -188,9 +188,8 @@ Lizmap est une solution opensource de publication de projet QGIS dans un navigat
 > **Pré-requis**
 >
 > * Savoir manipuler QGIS : ouvrir des couches, accèder à la table attributaire...
-> * QGIS 3.22, la version LTR actuelle
+> * Avoir la dernière version LTR de QGIS sur sa machine
 > * On vous communiquera avant la formation les identifiants de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
-
 
 ### Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)
 
@@ -215,7 +214,7 @@ Les experts de l’IGN vous proposent un atelier de manipulation des données al
 > 
 > * Connaître QGIS (dans une certaine mesure)
 > * Avoir la dernière version LTR de QGIS sur sa machine
-> * Avoir installé et configuré le plug-in LASTools
+> * Avoir installé et configuré le plugin LAStools
 
 ### Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)
 
@@ -233,7 +232,7 @@ Beaucoup d’utilisateurs ont besoin de lier leurs données géographiques avec 
 
 > **Pré-requis**
 > 
-> Avoir installé Postgres/Postgis, QGIS 3.22 ou supérieur
+> Avoir installé PostgreSQL/Postgis, QGIS 3.22 ou supérieur
 
 ### Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)
 
@@ -250,7 +249,6 @@ On privilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la ma
 > 
 > * Maîtrise des outils de base de QGIS
 > * Intérêt pour les configurations avancées
-
 
 ### Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)
 
@@ -274,7 +272,7 @@ Venez découvrir l’outil Atlas de QGIS au travers d’un exemple / un modèle 
 > 
 > * Avoir son ordinateur (peu importe le système d'exploitation) avec une version de QGIS 3 minimum installée.
 > * Pas d'extensions à installer.
-> * Avoir une connaissance rudimentaire de l’interface de QGIS et de son « composeur d’impression » / « layout manager ».
+> * Avoir une connaissance rudimentaire de l’interface de QGIS et de son « gestionnaire de mise en page ».
 > * Connaître les bases du langage SQL peut aider mais n'est pas obligatoire.
 > * Les étudiants sont bienvenus à cet atelier !
 
