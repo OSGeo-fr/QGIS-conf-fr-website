@@ -54,7 +54,7 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
 ## Journée de conférences - Mardi 14 mars
 
 Des contraintes techniques insolubles dans le budget disponible, nous empêchent de retransmettre en direct les conférences. Elles seront cependant
- enregistrées pour une publication sur la chaîne Youtube de l'événement.
+ enregistrées pour une publication sur la ![chaîne Youtube de l'événement](https://www.youtube.com/@qgisfr8230/playlists).
 
 <table class="tableizer-table">
   <thead>
