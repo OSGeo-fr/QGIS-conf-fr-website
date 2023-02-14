@@ -17,7 +17,7 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
     <tbody>
         <tr class="atelier">
             <td><b>09h00 - 09h30</b></td>
-            <td colspan=8><b>Accueil des participants</b> - <i>Salle Germaine Thillon</i></td>
+            <td colspan=8><b>Accueil des participants</b> - <i>Salle Germaine Tillion</i></td>
         </tr>
          <tr class="atelier">
             <td></td>
@@ -57,7 +57,7 @@ Rendez-vous sur <a href="https://www.helloasso.com/associations/osgeo-fr/eveneme
         </tr>       
         <tr class="atelier">
             <td><b>16h30 - 17h30</b></td>
-            <td colspan=9><b>Discussion et retours d'expérience de la journée</b></td>
+            <td colspan=9><b>Discussion et retours d'expérience de la journée</b> - <i>Salle Chambon</i></td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +84,7 @@ et enregistrées pour une publication sur la chaîne Youtube de l'événement.
     <tr class="impair">
       <td>09:30</td>
       <td>Ouverture de la journée</td>
-      <td>OSGeo-FR & CRAIG</td>
+      <td>OSGeo-fr & CRAIG</td>
     </tr>
     <tr class="pair">
       <td>09:55</td>
