@@ -31,9 +31,9 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 # Comité de programme (ordre alphabétique courtois)
 
-- Marie Jagaille (HYTECH-IMAGING)
 - Loïc Bartoletti (OSLANDIA)
 - Zoran Cuckovic (CHEC - MSH de Clermont-Ferrand)
+- Sébastien Peillet (HYTECH-IMAGING)
 - Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
 
