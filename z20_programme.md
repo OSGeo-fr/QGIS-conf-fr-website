@@ -212,13 +212,13 @@ L’objectif sera d’accompagner les participants à construire de A à Z un ta
 - Paramétrage de celle-ci (symbologie et étiquette)
 - Création d’indicateurs (utilisation de fonctions QGIS)
 - Création d’indicateurs avancés (mise à jour sur sélection, combinaisons de fonctions QGIS, mise en page HTML)
-- Présentation de l’utilisation des tableaux de bord QGIS chez FREDON Occitanie. Exemple de projet « Tableau de bord » (QGIS Dashboard) sur qgis.org : https://plugins.qgis.org/geopackages/5/
+- Présentation de l’utilisation des tableaux de bord QGIS chez FREDON Occitanie. Exemple de projet « Tableau de bord » (QGIS Dashboard) sur qgis.org : [https://plugins.qgis.org/geopackages/5/](https://plugins.qgis.org/geopackages/5/)
 
 ### À la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)
 
 Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquises dans le cadre du programme LiDAR HD, sous 3 volets :
 - Accéder aux données (en téléchargement et via les flux)
-- Présentation (et si possible démonstration sur des cas concrets) des derniers outils QGIS (développés ou à venir) pour faciliter la gestion des nuages de points lidar (https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/ )
+- Présentation (et si possible démonstration sur des cas concrets) des derniers outils QGIS (développés ou à venir) pour faciliter la gestion des nuages de points lidar : [https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/)
 - Pour aller plus loin (utilisation du plugin LASTools) : Visualisation de nuage de points classifié, Création d’un MNT
 
 > **Pré-requis**
@@ -300,6 +300,11 @@ Seront abordés:
 - Conclusion (& fonctionnalités en cours de développement)
 
 <a href="https://github.com/Art-Ev/ICEtool">Dépôt Github</a>
+
+> **Pré-requis**
+> 
+> * Avoir QGIS 3.16 minimum
+> * Avoir installé le plugin ICEtool
 
 ### Barcamp
 
