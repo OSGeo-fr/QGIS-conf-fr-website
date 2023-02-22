@@ -15,6 +15,7 @@ L’événement se déroulera sur 2 jours, les 13 et 14 mars 2023:
 
 L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novembre 2022.
 
-Le programme est maintenant [disponible](/z20_programme.html) et les [inscriptions](/z25_inscription.html) sont ouvertes.
+Le programme est [disponible](/z20_programme.html) mais les inscriptions sont maintenant fermées.
+
 Pour organiser votre venue, n'hésitez pas à consulter les informations disponibles sur la [page dédiée](z10_localisation.html)
 
