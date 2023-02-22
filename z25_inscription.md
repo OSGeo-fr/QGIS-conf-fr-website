@@ -6,7 +6,7 @@ menu: header
 ---
 
 
-#### Les inscriptions sont terminées ! 
+#### Les inscriptions sont closes ! 
 
 Toutes les places ont été réservées.
 
