@@ -272,8 +272,15 @@ Cet atelier permettra de découvrir les logiciels suivants :
 - Mergin Maps Cloud Community (API)
  
  Durant l’atelier, nous expliquerons les étapes d’une mise en place sous Docker d’une base de données PostGIS, d’une instance de Mergin Map Community, et d’une synchronisation de base de données (DbSync).
- 
  Puis, nous ferons un cas d’usage en créant un projet QGIS avec des couches éditables via des formulaires avancées (menu déroulant, photographie, etc). Cela, afin d’illustrer le bon fonctionnement de la stack Mergin Maps.
+
+> **Pré-requis**
+>
+> * Avoir une version récente de QGIS sur sa machine (3.16 minimum)
+> * Avoir installé l'extension MerginMaps
+> * Avoir un smartphone avec l'application MerginMaps (input)
+> * (optionnel et selon déroulement de l'atelier) une machine linux/windows avec docker qui tourne (droit root)
+
 
 ### Exploiter les multiples potentialités de l’Atlas - Maggie Mateu (Atopia)
 
