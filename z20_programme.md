@@ -198,8 +198,8 @@ Lizmap est une solution opensource de publication de projet QGIS dans un navigat
 
 > **Pré-requis**
 >
-> * Savoir manipuler QGIS : ouvrir des couches, accèder à la table attributaire...
-> * Avoir la dernière version LTR de QGIS sur sa machine (QGIS 3.28)
+> * Savoir manipuler QGIS : ouvrir des couches, accéder à la table attributaire...
+> * Avoir la dernière version LTR de QGIS sur sa machine
 > * On vous communiquera avant la formation les identifiants de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
 
 ### Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)
@@ -221,8 +221,7 @@ Les experts de l’IGN vous proposent un atelier de manipulation des données al
 * Présentation du programme LIDAR HD et des données lidar
 * Manipulations de 1er niveau sur QGIS des nuages de points sans plugin
 * Manipulations de 2ème niveau avec le plugin LAStools
-* Discussions autour des évolutions de QGIS concernant la manipulation des nuages de points
-([développements en cours](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/) coté Lutra Consulting)
+* Discussions autour des évolutions de QGIS concernant la manipulation des nuages de points ([développements en cours](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/) côté Lutra Consulting)
 
 > **Pré-requis**
 > 
@@ -247,7 +246,7 @@ Beaucoup d’utilisateurs ont besoin de lier leurs données géographiques avec 
 
 > **Pré-requis**
 > 
-> Avoir installé PostgreSQL/Postgis, QGIS 3.22 ou supérieur
+> Avoir installé PostgreSQL/PostGIS, QGIS 3.22 ou supérieur
 
 ### Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)
 
@@ -365,7 +364,7 @@ Dans le cadre de l’Observatoire Martiniquais de la Biodiversité (OMB), le Par
 
 ### Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire - Emilie Bigorne (Etablissement public Loire)
 
-L’Etablissement public Loire est un syndicat mixte (EPTB) composé de soixante collectivités (Régions, Départements et Intercommunalités) et d'une soixantaine d'agents.  Les données métiers de l'Etablissement sont stockées dans une base de données PostgreSQL/PostGIS et sont utilisées par une quarantaine d'agents, essentiellement via QGIS.  Jusqu'en 2022, QGIS était installé manuellement et paramétré à l'identique sur les postes utilisateurs. Un système de déploiement en masse sur l'ensemble des postes a été mis en place permettant de maintenir les versions à jour et de personnaliser les paramètres selon le profil utilisateur.  Cette présentation propose de détailler les outils et la méthodologie mis en place pour industrialiser le déploiement et la mise à jour de QGIS sur le parc.
+L’Etablissement public Loire est un syndicat mixte (EPTB) composé de soixante collectivités (Régions, Départements et Intercommunalités) et d'une soixantaine d'agents. Les données métiers de l'Etablissement sont stockées dans une base de données PostgreSQL/PostGIS et sont utilisées par une quarantaine d'agents, essentiellement via QGIS. Jusqu'en 2022, QGIS était installé manuellement et paramétré à l'identique sur les postes utilisateurs. Un système de déploiement en masse sur l'ensemble des postes a été mis en place permettant de maintenir les versions à jour et de personnaliser les paramètres selon le profil utilisateur. Cette présentation propose de détailler les outils et la méthodologie mis en place pour industrialiser le déploiement et la mise à jour de QGIS sur le parc.
 
 ### QGIS Plugin : PLU(i) versionning - Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)
 
