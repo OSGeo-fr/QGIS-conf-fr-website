@@ -199,7 +199,7 @@ Lizmap est une solution opensource de publication de projet QGIS dans un navigat
 
 > **Pré-requis**
 >
-> * Savoir manipuler QGIS : ouvrir des couches, accèder à la table attributaire...
+> * Savoir manipuler QGIS : ouvrir des couches, accéder à la table attributaire...
 > * Avoir la dernière version LTR de QGIS sur sa machine
 > * On vous communiquera avant la formation les identifiants de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
 
@@ -217,16 +217,19 @@ L’objectif sera d’accompagner les participants à construire de A à Z un ta
 
 ### À la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)
 
-Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquises dans le cadre du programme LiDAR HD, sous 3 volets :
-- Accéder aux données (en téléchargement et via les flux)
-- Présentation (et si possible démonstration sur des cas concrets) des derniers outils QGIS (développés ou à venir) pour faciliter la gestion des nuages de points lidar : [https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/)
-- Pour aller plus loin (utilisation du plugin LASTools) : Visualisation de nuage de points classifié, Création d’un MNT
+Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquises dans le cadre du programme LiDAR HD, sous les volets suivants :
+
+* Présentation du programme LIDAR HD et des données lidar
+* Manipulations de 1er niveau sur QGIS des nuages de points sans plugin
+* Manipulations de 2ème niveau avec le plugin LAStools
+* Discussions autour des évolutions de QGIS concernant la manipulation des nuages de points ([développements en cours](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/) côté Lutra Consulting)
 
 > **Pré-requis**
 > 
 > * Connaître QGIS (dans une certaine mesure)
-> * Avoir la dernière version LTR de QGIS sur sa machine
-> * Avoir installé et configuré le plugin LAStools
+> * Avoir la dernière version LTR de QGIS sur sa machine (QGIS 3.28)
+> * Avoir installé et configuré le plugin LAStools version 1.4
+> * Récupérer des données brutes LIDAR HD via le site [Géoservices de l’IGN](https://geoservices.ign.fr/lidarhd). En avant-première, un accès aux premières données classifiées sur l’Hérault est mis à disposition à https://poc-flux-lidar.ign.fr/  
 
 ### Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)
 
@@ -244,7 +247,7 @@ Beaucoup d’utilisateurs ont besoin de lier leurs données géographiques avec 
 
 > **Pré-requis**
 > 
-> Avoir installé PostgreSQL/Postgis, QGIS 3.22 ou supérieur
+> Avoir installé PostgreSQL/PostGIS, QGIS 3.22 ou supérieur
 
 ### Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)
 
@@ -273,8 +276,15 @@ Cet atelier permettra de découvrir les logiciels suivants :
 - Mergin Maps Cloud Community (API)
  
  Durant l’atelier, nous expliquerons les étapes d’une mise en place sous Docker d’une base de données PostGIS, d’une instance de Mergin Map Community, et d’une synchronisation de base de données (DbSync).
- 
  Puis, nous ferons un cas d’usage en créant un projet QGIS avec des couches éditables via des formulaires avancées (menu déroulant, photographie, etc). Cela, afin d’illustrer le bon fonctionnement de la stack Mergin Maps.
+
+> **Pré-requis**
+>
+> * Avoir une version récente de QGIS sur sa machine (3.16 minimum)
+> * Avoir installé l'extension MerginMaps
+> * Avoir un smartphone avec l'application MerginMaps (input)
+> * (optionnel et selon déroulement de l'atelier) une machine linux/windows avec docker qui tourne (droit root)
+
 
 ### Exploiter les multiples potentialités de l’Atlas - Maggie Mateu (Atopia)
 
@@ -355,7 +365,7 @@ Dans le cadre de l’Observatoire Martiniquais de la Biodiversité (OMB), le Par
 
 ### Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire - Emilie Bigorne (Etablissement public Loire)
 
-L’Etablissement public Loire est un syndicat mixte (EPTB) composé de soixante collectivités (Régions, Départements et Intercommunalités) et d'une soixantaine d'agents.  Les données métiers de l'Etablissement sont stockées dans une base de données PostgreSQL/PostGIS et sont utilisées par une quarantaine d'agents, essentiellement via QGIS.  Jusqu'en 2022, QGIS était installé manuellement et paramétré à l'identique sur les postes utilisateurs. Un système de déploiement en masse sur l'ensemble des postes a été mis en place permettant de maintenir les versions à jour et de personnaliser les paramètres selon le profil utilisateur.  Cette présentation propose de détailler les outils et la méthodologie mis en place pour industrialiser le déploiement et la mise à jour de QGIS sur le parc.
+L’Etablissement public Loire est un syndicat mixte (EPTB) composé de soixante collectivités (Régions, Départements et Intercommunalités) et d'une soixantaine d'agents. Les données métiers de l'Etablissement sont stockées dans une base de données PostgreSQL/PostGIS et sont utilisées par une quarantaine d'agents, essentiellement via QGIS. Jusqu'en 2022, QGIS était installé manuellement et paramétré à l'identique sur les postes utilisateurs. Un système de déploiement en masse sur l'ensemble des postes a été mis en place permettant de maintenir les versions à jour et de personnaliser les paramètres selon le profil utilisateur. Cette présentation propose de détailler les outils et la méthodologie mis en place pour industrialiser le déploiement et la mise à jour de QGIS sur le parc.
 
 ### QGIS Plugin : PLU(i) versionning - Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)
 
