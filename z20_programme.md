@@ -199,7 +199,7 @@ Lizmap est une solution opensource de publication de projet QGIS dans un navigat
 > **Pré-requis**
 >
 > * Savoir manipuler QGIS : ouvrir des couches, accèder à la table attributaire...
-> * Avoir la dernière version LTR de QGIS sur sa machine
+> * Avoir la dernière version LTR de QGIS sur sa machine (QGIS 3.28)
 > * On vous communiquera avant la formation les identifiants de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
 
 ### Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)
@@ -216,16 +216,20 @@ L’objectif sera d’accompagner les participants à construire de A à Z un ta
 
 ### À la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)
 
-Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquises dans le cadre du programme LiDAR HD, sous 3 volets :
-- Accéder aux données (en téléchargement et via les flux)
-- Présentation (et si possible démonstration sur des cas concrets) des derniers outils QGIS (développés ou à venir) pour faciliter la gestion des nuages de points lidar : [https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/)
-- Pour aller plus loin (utilisation du plugin LASTools) : Visualisation de nuage de points classifié, Création d’un MNT
+Les experts de l’IGN vous proposent un atelier de manipulation des données altimétriques 3D acquises dans le cadre du programme LiDAR HD, sous les volets suivants :
+
+* Présentation du programme LIDAR HD et des données lidar
+* Manipulations de 1er niveau sur QGIS des nuages de points sans plugin
+* Manipulations de 2ème niveau avec le plugin LAStools
+* Discussions autour des évolutions de QGIS concernant la manipulation des nuages de points
+([développements en cours](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/) coté Lutra Consulting)
 
 > **Pré-requis**
 > 
 > * Connaître QGIS (dans une certaine mesure)
-> * Avoir la dernière version LTR de QGIS sur sa machine
-> * Avoir installé et configuré le plugin LAStools
+> * Avoir la dernière version LTR de QGIS sur sa machine (QGIS 3.28)
+> * Avoir installé et configuré le plugin LAStools version 1.4
+> * Récupérer des données brutes LIDAR HD via le site [Géoservices de l’IGN](https://geoservices.ign.fr/lidarhd). En avant-première, un accès aux premières données classifiées sur l’Hérault est mise à disposition à https://poc-flux-lidar.ign.fr/  
 
 ### Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)
 
