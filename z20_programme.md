@@ -229,7 +229,7 @@ Les experts de l’IGN vous proposent un atelier de manipulation des données al
 > * Connaître QGIS (dans une certaine mesure)
 > * Avoir la dernière version LTR de QGIS sur sa machine (QGIS 3.28)
 > * Avoir installé et configuré le plugin LAStools version 1.4
-> * Récupérer des données brutes LIDAR HD via le site [Géoservices de l’IGN](https://geoservices.ign.fr/lidarhd). En avant-première, un accès aux premières données classifiées sur l’Hérault est mise à disposition à https://poc-flux-lidar.ign.fr/  
+> * Récupérer des données brutes LIDAR HD via le site [Géoservices de l’IGN](https://geoservices.ign.fr/lidarhd). En avant-première, un accès aux premières données classifiées sur l’Hérault est mis à disposition à https://poc-flux-lidar.ign.fr/  
 
 ### Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)
 
