@@ -10,7 +10,7 @@ Les prochaines journées QGIS auront lieu les 13 et 14 mars 2023 à l'[Hôtel de
 L'appel à propositions d'ateliers ou de conférences s'est terminé le 27 novembre 2022. L'équipe d'organisation des journées des utilisateurs francophones de QGIS remercie toutes les personnes qui se sont mobilisées pour proposer une conférence ou un atelier !
 
 Les ateliers et les conférences sont tous complets.
-A noter que les conférences seront filmées et diffusées suite à l'évènement sur notre [chaine Youtube](https://www.youtube.com/@qgisfr8230/playlists)
+À noter que les conférences seront filmées et diffusées suite à l'évènement sur notre [chaîne Youtube](https://www.youtube.com/@qgisfr8230/playlists).
 
 ## Journée d'ateliers - Lundi 13 mars
 
@@ -129,12 +129,12 @@ Des contraintes techniques insolubles dans le budget disponible, nous empêchent
     </tr>
     <tr class="pair">
       <td>14:25</td>
-      <td><a href="#qgis--le-coeur-du-sig-départemental-du-calvados---jérémie-ory-et-théo-grondin-département-du-calvados">QGIS : le coeur du SIG départemental du Calvados</a></td>
+      <td><a href="#qgis--le-coeur-du-sig-départemental-du-calvados---jérémie-ory-et-théo-grondin-département-du-calvados">QGIS : le cœur du SIG départemental du Calvados</a></td>
       <td>Jérémie Ory et Théo Grondin (Département du Calvados)</td>
     </tr>
     <tr class="impair">
       <td>14:50</td>
-      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---michaël-douchin-3liz">QGIS au coeur du Système d'Information Naturaliste de Martinique</a></td>
+      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---michaël-douchin-3liz">QGIS au cœur du Système d'Information Naturaliste de Martinique</a></td>
       <td>Michaël Douchin (3Liz)</td>
     </tr>
     <tr class="pair">
@@ -308,7 +308,7 @@ Venez découvrir l’outil Atlas de QGIS au travers d’un exemple / un modèle 
 
 ### ICEtool : plugin pour créer des espaces publics plus résilients et adaptés - Arthur Evrard (INSA Toulouse & Egis)
 
-Présentation (histoire du développement, théorie rapide, cas pratiques & développements en cours) du plugin ICEtool: modélisation thermique d'espaces publics et estimation de différents indicateurs liés à la perméabilité des sols ou encore la biodiversité. Objectif du plugin: comparer différents aménagements (actuel vs projet ou projet vs projet) et mettre en valeur les aspects eau/thermique/biodiversité de ces aménagements.
+Présentation (histoire du développement, théorie rapide, cas pratiques et développements en cours) du plugin ICEtool: modélisation thermique d'espaces publics et estimation de différents indicateurs liés à la perméabilité des sols ou encore la biodiversité. Objectif du plugin: comparer différents aménagements (actuel vs projet ou projet vs projet) et mettre en valeur les aspects eau/thermique/biodiversité de ces aménagements.
 Seront abordés:
 - ICEtool, histoire et théorie :
   - Origine du plugin
@@ -326,14 +326,14 @@ Seront abordés:
 
 ### Barcamp
 
-Un BarCamp est une “non-conférence”. Venez faire émerger les sujets qui vous tiennent à coeur et ensemble nous chercherons à mutualiser nos pratiques pour que tout le monde puisse en bénéficier.
+Un BarCamp est une “non-conférence”. Venez faire émerger les sujets qui vous tiennent à cœur et ensemble nous chercherons à mutualiser nos pratiques pour que tout le monde puisse en bénéficier.
 
 ---------------------------------------
 ## Programme détaillé des conférences
 
 ### QompliGIS, les nouveautés, vers une version web ... - Jacky Volpes (Oslandia)
 
-De nombreux services font appel à des prestataires pour réaliser leurs plans. Une fois la numérisation effectuée et livrée, le client doit s’assurer de la conformité des données avant de les intégrer dans son SIG. Initialement c'est pour répondre à cette problématique du monde de la topographie qu'Oslandia a développé le plugin QompliGIS. Toutefois, la vérification des données s'inscrit dans tout secteur d'activité. En effet, ce plugin a pour objectif de proposer un moyen simple de vérifier si la structure d’un jeu de données est conforme avec la structure d’un jeu de données de référence. Nous allons présenter les nouvelles fonctionnalités de cette année et, en avant première, QompliGIS web afin de faire gagner en autonomie vos prestataires et votre équipe pour valider leurs données.
+De nombreux services font appel à des prestataires pour réaliser leurs plans. Une fois la numérisation effectuée et livrée, le client doit s’assurer de la conformité des données avant de les intégrer dans son SIG. Initialement, c'est pour répondre à cette problématique du monde de la topographie qu'Oslandia a développé le plugin QompliGIS. Toutefois, la vérification des données s'inscrit dans tout secteur d'activité. En effet, ce plugin a pour objectif de proposer un moyen simple de vérifier si la structure d’un jeu de données est conforme à la structure d’un jeu de données de référence. Nous allons présenter les nouvelles fonctionnalités de cette année et, en avant-première, QompliGIS web afin de faire gagner en autonomie vos prestataires et votre équipe pour valider leurs données.
 
 ### Avec QGIS ? de la topographie ! - Jean-Marie Arsac (Azimut)
 
@@ -359,16 +359,16 @@ L'objectif des méthodes d'Active Learning est de construire, de manière intera
 
 De nombreuses données sont mises à disposition de nos jours, mais un utilisateur peut parfois difficilement s'y retrouver. Le CRAIG met à disposition un plugin QGIS qui centralise ses données et celles d'autres plateformes via des flux, dans le but de simplifier l'accès aux données de référence (Orthophoto, IGN, Cadastre, relief) et aux données thématiques pour ses utilisateurs. Ce plugin est né d'une démarche collaborative: réalisé par la Région Hauts-de-France et développé par la société NeoGeo Technologies, son code source est aujourd'hui réutilisé par plusieurs organismes, dont le CRAIG, et peut être utilisé par d'autres structures ou collectivités pour faciliter l'utilisation des données au sein de leur territoire.
 
-### QGIS : le coeur du SIG départemental du Calvados - Jérémie Ory et Théo Grondin (Département du Calvados)
+### QGIS : le cœur du SIG départemental du Calvados - Jérémie Ory et Théo Grondin (Département du Calvados)
 
 En 2019, le département du Calvados a mis en place un nouveau Système d'Information Géographique s’appuyant sur un socle logiciel QGIS - QGIS Serveur - PostgreSQL/PostGIS - QField. Nombreuses applications métiers ont été développées : gestion des Espaces Naturels Sensibles, gestion de la voirie vélo, observatoire de l’eau, diagnostics territoriaux, etc. Le SIG départemental compte aujourd’hui plusieurs centaines d’agents. La présentation réalisera un focus sur deux outils appréciés des utilisateurs :
 
 1. Production automatisée de diagnostics territoriaux avec QGIS
 2. Enrichissement de données cadastrales à partir de données tierces (données d’urbanisme du GPU, données environnementales de Carmen, etc.) avec PostGIS et consultation web avec QGIS Serveur.
 
-#### QGIS au coeur du Système d'Information Naturaliste de Martinique - Michaël Douchin (3Liz)
+#### QGIS au cœur du Système d'Information Naturaliste de Martinique - Michaël Douchin (3Liz)
 
-Dans le cadre de l’Observatoire Martiniquais de la Biodiversité (OMB), le Parc Naturel Régional de Martinique a souhaité mettre en place un outil Open Source facilitant la mutualisation et la valorisation des connaissances naturalistes sur le territoire martiniquais. Cet outil devait s'inscrire dans le Système d’Information Nature et Paysage (SINP) du Ministère de l’Environnement. La solution retenue et déployée est centrée sur QGIS. L'objectif de cette présentation est de présenter l'écosystème QGIS permettant de mettre en oeuvre un Système d'Information Géographique le plus complet possible : Gestion de données (QGIS), Saisie terrain (QField), valorisation et publication web (Lizmap) ; en s'appuyant sur l'expérience du PNR Martinique.
+Dans le cadre de l’Observatoire Martiniquais de la Biodiversité (OMB), le Parc Naturel Régional de Martinique a souhaité mettre en place un outil Open Source facilitant la mutualisation et la valorisation des connaissances naturalistes sur le territoire martiniquais. Cet outil devait s'inscrire dans le Système d’Information Nature et Paysage (SINP) du Ministère de l’Environnement. La solution retenue et déployée est centrée sur QGIS. L'objectif de cette présentation est de présenter l'écosystème QGIS permettant de mettre en œuvre un Système d'Information Géographique le plus complet possible : Gestion de données (QGIS), Saisie terrain (QField), valorisation et publication web (Lizmap) ; en s'appuyant sur l'expérience du PNR Martinique.
 
 ### Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire - Emilie Bigorne (Etablissement public Loire)
 
