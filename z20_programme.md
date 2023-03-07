@@ -184,8 +184,8 @@ Cet atelier présentera un ensemble de fonctionnalités à connaître pour const
 
 > **Pré-requis**
 > 
-> * Avoir installé QGIS 3.28, PostgreSQL >= 10, PostGIS >= 3.0
-> * Une console psql
+> * Avoir installé QGIS 3.28, PostgreSQL ≥ 10, PostGIS ≥ 3.0
+> * Pouvoir créer une base de données sur sa machine, y accéder depuis QGIS et avoir une **console psql**
 
 ### Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)
 
@@ -200,8 +200,9 @@ Lizmap est une solution opensource de publication de projet QGIS dans un navigat
 > **Pré-requis**
 >
 > * Savoir manipuler QGIS : ouvrir des couches, accéder à la table attributaire...
-> * Avoir la dernière version LTR de QGIS sur sa machine
-> * On vous communiquera avant la formation les identifiants de la base PostGIS. L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
+> * Avoir la dernière version LTR de QGIS sur sa machine (3.28.4 ou alors à défaut l'ancienne LTR 3.22)
+> * Avoir un logiciel client FTP ([WinSCP](https://winscp.net/eng/download.php) pour Windows, [Filezilla](https://filezilla-project.org/download.php?type=client) pour MacOS et Linux)
+> * L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.
 
 ### Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)
 
@@ -214,6 +215,11 @@ L’objectif sera d’accompagner les participants à construire de A à Z un ta
 - Création d’indicateurs (utilisation de fonctions QGIS)
 - Création d’indicateurs avancés (mise à jour sur sélection, combinaisons de fonctions QGIS, mise en page HTML)
 - Présentation de l’utilisation des tableaux de bord QGIS chez FREDON Occitanie. Exemple de projet « Tableau de bord » (QGIS Dashboard) sur qgis.org : [https://plugins.qgis.org/geopackages/5/](https://plugins.qgis.org/geopackages/5/)
+
+> **Pré-requis**
+> 
+> * Ordinateur avec QGIS installé (version 3.16 minimum)
+> * Connaissance intermédiaire en QGIS : ouvrir un projet, créer une couche geopackage, modifier les propriétés d'étiquettes.
 
 ### À la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)
 
@@ -247,7 +253,8 @@ Beaucoup d’utilisateurs ont besoin de lier leurs données géographiques avec 
 
 > **Pré-requis**
 > 
-> Avoir installé PostgreSQL/PostGIS, QGIS 3.22 ou supérieur
+> * Avoir installé PostgreSQL/PostGIS, QGIS 3.22 ou supérieur
+> * Pouvoir créer une base de données sur sa machine, y accéder depuis QGIS et avoir une **console psql**
 
 ### Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)
 
