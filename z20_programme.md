@@ -94,7 +94,7 @@ Des contraintes techniques insolubles dans le budget disponible, nous empêchent
     </tr>
     <tr class="impair">
       <td>10:20</td>
-      <td><a href="#la-géoplateforme-et-les-plugins-qgis---xavier-thauvin-ign">La Géoplateforme et les plugins QGIS</a></td>
+      <td><a href="#la-géoplateforme-et-les-plugins-qgis---tom-alary-ign">La Géoplateforme et les plugins QGIS</a></td>
       <td>Tom Alary (IGN)</td>
     </tr>
     <tr  class="pause">
@@ -378,6 +378,6 @@ L’Etablissement public Loire est un syndicat mixte (EPTB) composé de soixante
 
 Grenoble-Alpes-Métropole, l'Agence d'Urbanisme de la Région Grenobloise et Oslandia développent actuellement un plugin QGIS pour faciliter le suivi de numérisation des PLU(i) dans un environnement PostgreSQL. Basé sur le standard CNIG, cet outil permet de générer des versions de numérisation en s'appuyant, pour chaque procédure traitée, sur l'ensemble des projets thématiques qui sont mobilisés (zonage, OAP, ER, etc.). Il permet ainsi, à partir de versions duplicables, d'aboutir en fin de procédure du PLU(i) à des versions validées dont le contenu constituera les éléments graphiques du document opposable. Côté IHM, outre la mise à disposition d’un tableau de bord des versions, l'outil est doté d'un système d'import des fichiers SHAPE au format CNIG.
 
-### La Géoplateforme et les plugins QGIS - Xavier Thauvin (IGN)
+### La Géoplateforme et les plugins QGIS - Tom Alary (IGN)
 
 Le programme Géoplateforme, pour doter la puissance publique d’une infrastructure collaborative et mutualisée pour la production et la diffusion des géodonnées. Le Géotuileur : transformez vos données géographiques en tuiles vectorielles simplement et diffusez-les n'importe où ! Présentation et démonstration des plugins QGIS : plugin collaboratif et plugin Géotuileur. Les perspectives d'amélioration en commun. Les API de la future Géoplateforme et les possibilités d'en faire des plugins QGIS ensemble. Vers une communauté d'utilisateurs d'outils QGIS liés à la future Géoplateforme ?
