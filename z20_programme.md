@@ -94,8 +94,8 @@ Des contraintes techniques insolubles dans le budget disponible, nous empêchent
     </tr>
     <tr class="impair">
       <td>10:20</td>
-      <td><a href="#avec-qgis--de-la-topographie----jean-marie-arsac-azimut">Avec QGIS ? de la topographie !</a></td>
-      <td>Jean-Marie Arsac (Azimut)</td>
+      <td><a href="#la-géoplateforme-et-les-plugins-qgis---xavier-thauvin-ign">La Géoplateforme et les plugins QGIS</a></td>
+      <td>Tom Alary (IGN)</td>
     </tr>
     <tr  class="pause">
       <td>10:45</td>
@@ -154,8 +154,8 @@ Des contraintes techniques insolubles dans le budget disponible, nous empêchent
     </tr>
     <tr class="impair">
       <td>16:30</td>
-      <td><a href="#la-géoplateforme-et-les-plugins-qgis---xavier-thauvin-ign">La Géoplateforme et les plugins QGIS</a></td>
-      <td>Xavier Thauvin (IGN)</td>
+      <td><a href="#avec-qgis--de-la-topographie----jean-marie-arsac-azimut">Avec QGIS ? de la topographie !</a></td>
+      <td>Jean-Marie Arsac (Azimut)</td>
     </tr>
     <tr class="pair">
       <td>16:55</td>
