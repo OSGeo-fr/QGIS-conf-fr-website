@@ -88,17 +88,22 @@ Des contraintes techniques insolubles dans le budget disponible, nous empêchent
       <td>OSGeo-fr & CRAIG</td>
     </tr>
     <tr class="pair">
-      <td>09:55</td>
+      <td>09:35</td>
       <td><a href="#qompligis-les-nouveautés-vers-une-version-web----jacky-volpes-oslandia">QompliGIS, les nouveautés, vers une version web ...</a></td>
       <td>Jacky Volpes (Oslandia)</td>
     </tr>
     <tr class="impair">
-      <td>10:20</td>
+      <td>10:00</td>
       <td><a href="#la-géoplateforme-et-les-plugins-qgis---tom-alary-ign">La Géoplateforme et les plugins QGIS</a></td>
       <td>Tom Alary (IGN)</td>
     </tr>
+    <tr class="pair">
+      <td>10:25</td>
+      <td><a href="#un-plugin-qgis-qui-facilite-laccès-aux-données-en-flux-sur-un-territoire---marie-suet-et-landry-breuil-craig">Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire</a></td>
+      <td>Marie Suet et Landry Breuil (CRAIG)</td>
+    </tr>
     <tr  class="pause">
-      <td>10:45</td>
+      <td>10:50</td>
       <td>Pause</td>
       <td></td>
     </tr>
@@ -124,41 +129,36 @@ Des contraintes techniques insolubles dans le budget disponible, nous empêchent
     </tr>
     <tr class="impair">
       <td>14:00</td>
-      <td><a href="#un-plugin-qgis-qui-facilite-laccès-aux-données-en-flux-sur-un-territoire---marie-suet-et-landry-breuil-craig">Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire</a></td>
-      <td>Marie Suet et Landry Breuil (CRAIG)</td>
-    </tr>
-    <tr class="pair">
-      <td>14:25</td>
       <td><a href="#qgis--le-coeur-du-sig-départemental-du-calvados---jérémie-ory-et-théo-grondin-département-du-calvados">QGIS : le cœur du SIG départemental du Calvados</a></td>
       <td>Jérémie Ory et Théo Grondin (Département du Calvados)</td>
     </tr>
-    <tr class="impair">
-      <td>14:50</td>
+    <tr class="pair">
+      <td>14:25</td>
       <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---michaël-douchin-3liz">QGIS au cœur du Système d'Information Naturaliste de Martinique</a></td>
       <td>Michaël Douchin (3Liz)</td>
     </tr>
-    <tr class="pair">
-      <td>15:15</td>
+    <tr class="impair">
+      <td>14:50</td>
       <td><a href="#définitionmise-en-place-dune-stratégie-de-déploiement-de-qgis-à-letablissement-public-loire---emilie-bigorne-etablissement-public-loire">Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire</a></td>
       <td>Emilie Bigorne (Etablissement public Loire)</td>
     </tr>
     <tr class="pause">
-      <td>15:40</td>
+      <td>15:15</td>
       <td>Pause</td>
       <td></td>
     </tr>
-    <tr class="pair">
-      <td>16:05</td>
+    <tr class="impair">
+      <td>15:40</td>
       <td><a href="#qgis-plugin--plui-versionning---bruno-defrance-grenoble-alpes-métropole-et-eric-vinouze-aurg">QGIS Plugin : PLU(i) versionning</a></td>
       <td>Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)</td>
     </tr>
-    <tr class="impair">
-      <td>16:30</td>
+    <tr class="pair">
+      <td>16:05</td>
       <td><a href="#avec-qgis--de-la-topographie----jean-marie-arsac-azimut">Avec QGIS ? de la topographie !</a></td>
       <td>Jean-Marie Arsac (Azimut)</td>
     </tr>
-    <tr class="pair">
-      <td>16:55</td>
+    <tr class="impair">
+      <td>16:30</td>
       <td>Clôture</td>
       <td></td>
     </tr>
