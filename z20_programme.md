@@ -331,23 +331,43 @@ Un BarCamp est une “non-conférence”. Venez faire émerger les sujets qui vo
 ---------------------------------------
 ## Programme détaillé des conférences
 
-### QompliGIS, les nouveautés, vers une version web ... - Jacky Volpes (Oslandia) - [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/01_Volpes_Jacky.pdf)
+### QompliGIS, les nouveautés, vers une version web ... - Jacky Volpes (Oslandia)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/01_Volpes_Jacky.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=ypVKBGLmB-o)
 
 De nombreux services font appel à des prestataires pour réaliser leurs plans. Une fois la numérisation effectuée et livrée, le client doit s’assurer de la conformité des données avant de les intégrer dans son SIG. Initialement, c'est pour répondre à cette problématique du monde de la topographie qu'Oslandia a développé le plugin QompliGIS. Toutefois, la vérification des données s'inscrit dans tout secteur d'activité. En effet, ce plugin a pour objectif de proposer un moyen simple de vérifier si la structure d’un jeu de données est conforme à la structure d’un jeu de données de référence. Nous allons présenter les nouvelles fonctionnalités de cette année et, en avant-première, QompliGIS web afin de faire gagner en autonomie vos prestataires et votre équipe pour valider leurs données.
 
-### Avec QGIS ? de la topographie ! - Jean-Marie Arsac (Azimut) - [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/11_Arsac_Jean_Marie.pdf)
+### Avec QGIS ? de la topographie ! - Jean-Marie Arsac (Azimut)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/11_Arsac_Jean_Marie.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=7oRdh6vRf14)
 
 Cette intervention présentera un nouveau plugin QGIS permettant de calculer des levers topographiques, puis intégrer les points ainsi calculés dans une base de données GeoPackage. Ce plugin Topaze est issu d'un POC développé en collaboration avec Oslandia dont il utilise les fonctionnalités du plugin "Land Survey Codes Import". Ce POC a été financé par Métropole de Rennes dans le cadre de l'étude de la migration de ses outils DAO vers QGIS. Au-delà de la présentation technique du plugin, nous évoquerons l'intérêt de l'open source pour favoriser la collaboration de plusieurs entreprises prestataires sur un même projet client.
 
-### QGIS/QField/QGIS Serveur : une boîte à outils complète de l’observation terrain - Eric Gonçalves (Département du Calvados) - [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/03_Gonçalves_Eric.pdf)
+### QGIS/QField/QGIS Serveur : une boîte à outils complète de l’observation terrain - Eric Gonçalves (Département du Calvados)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/03_Gonçalves_Eric.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=r6NIfCZhArk)
 
 Le Département du Calvados s’est doté d’une boite à outils SIG open source : QGIS/QGIS Serveur/PostGIS/QField/OpenOffice pour gérer et maintenir les itinéraires cyclables sur son territoire. Nous présenterons un workflow qui s’appuie sur ces différents outils et qui permet une gestion complète et simplifiée des panneaux directionnels. Le suivi de l’état de l’ensemble des panneaux est réalisé par un technicien sur le terrain avec QField puis synchronisé avec la base de données SIG PostGIS, la gestion du patrimoine de panneaux est réalisée par l’ensemble de l'équipe avec QGIS / QGIS Serveur / Lizmap, le chargé de mission utilise OpenOffice pour générer des bons de commandes pré-remplis à partir des informations stockées dans la base de données SIG PostGIS.
 
-### QGIS et MerginMaps, utilisation pour la stéréopréparation - Valentin Schmitt et Laurent Falala (IGN FI) - [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/04_Schmitt_Valentin.pdf)
+### QGIS et MerginMaps, utilisation pour la stéréopréparation - Valentin Schmitt et Laurent Falala (IGN FI)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/04_Schmitt_Valentin.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=CSY7JitUe1c)
 
 Les missions de stéréopréparation (mesure de point d'appuis image sur le terrain) ont beaucoup de points communs avec le complètement terrain (renseignement de base de donnée). Ainsi, l'utilisation d'une solution telle que QGIS & MerginMaps simplifie la préparation au bureau, la saisie d'informations sur le terrain et la finalisation par la création automatique de fiches signalétiques. MerginMaps est un outil simple et léger qui fait le lien entre les techniciens sur le terrain et le superviseur au bureau pour garantir la pertinence de chaque point.
 
-### AL4EO : un plugin QGIS d'Active Learning - Romain Thoreau (ONERA & Magellium) - [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/05_Thoreau_Romain.pdf)
+### AL4EO : un plugin QGIS d'Active Learning - Romain Thoreau (ONERA & Magellium)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/05_Thoreau_Romain.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=BouunEytxxI)
 
 L'objectif des méthodes d'Active Learning est de construire, de manière interactive et itérative, des bases d'apprentissage optimales dans le contexte de l'apprentissage supervisé. Une bonne vérité terrain est en effet essentielle pour de nombreuses applications telles que la détection de changements ou la cartographie de l'occupation des sols à partir d'images satellites. AL4EO est un plugin QGIS permettant d'utiliser les méthodes d'Active Learning de l'état de l'art.
 
@@ -355,29 +375,53 @@ L'objectif des méthodes d'Active Learning est de construire, de manière intera
 
 <a href="https://ieeexplore.ieee.org/document/9774342">Publication</a>
 
-### Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire - Marie Suet et Landry Breuil (CRAIG) - [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/06_Suet_Marie.pdf)
+### Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire - Marie Suet et Landry Breuil (CRAIG)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/06_Suet_Marie.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=QKZGjVR6V_E)
 
 De nombreuses données sont mises à disposition de nos jours, mais un utilisateur peut parfois difficilement s'y retrouver. Le CRAIG met à disposition un plugin QGIS qui centralise ses données et celles d'autres plateformes via des flux, dans le but de simplifier l'accès aux données de référence (Orthophoto, IGN, Cadastre, relief) et aux données thématiques pour ses utilisateurs. Ce plugin est né d'une démarche collaborative: réalisé par la Région Hauts-de-France et développé par la société NeoGeo Technologies, son code source est aujourd'hui réutilisé par plusieurs organismes, dont le CRAIG, et peut être utilisé par d'autres structures ou collectivités pour faciliter l'utilisation des données au sein de leur territoire.
 
-### QGIS : le cœur du SIG départemental du Calvados - Jérémie Ory et Théo Grondin (Département du Calvados) - [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/07_Grondin_Théo.pdf)
+### QGIS : le cœur du SIG départemental du Calvados - Jérémie Ory et Théo Grondin (Département du Calvados)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/07_Grondin_Théo.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=QKZGjVR6V_E)
 
 En 2019, le département du Calvados a mis en place un nouveau Système d'Information Géographique s’appuyant sur un socle logiciel QGIS - QGIS Serveur - PostgreSQL/PostGIS - QField. Nombreuses applications métiers ont été développées : gestion des Espaces Naturels Sensibles, gestion de la voirie vélo, observatoire de l’eau, diagnostics territoriaux, etc. Le SIG départemental compte aujourd’hui plusieurs centaines d’agents. La présentation réalisera un focus sur deux outils appréciés des utilisateurs :
 
 1. Production automatisée de diagnostics territoriaux avec QGIS
 2. Enrichissement de données cadastrales à partir de données tierces (données d’urbanisme du GPU, données environnementales de Carmen, etc.) avec PostGIS et consultation web avec QGIS Serveur.
 
-### QGIS au cœur du Système d'Information Naturaliste de Martinique - Michaël Douchin (3Liz) - [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/08_Douchin_Michael.pdf)
+### QGIS au cœur du Système d'Information Naturaliste de Martinique - Michaël Douchin (3Liz)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/08_Douchin_Michael.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=Yuhs_YSpMxE)
 
 Dans le cadre de l’Observatoire Martiniquais de la Biodiversité (OMB), le Parc Naturel Régional de Martinique a souhaité mettre en place un outil Open Source facilitant la mutualisation et la valorisation des connaissances naturalistes sur le territoire martiniquais. Cet outil devait s'inscrire dans le Système d’Information Nature et Paysage (SINP) du Ministère de l’Environnement. La solution retenue et déployée est centrée sur QGIS. L'objectif de cette présentation est de présenter l'écosystème QGIS permettant de mettre en œuvre un Système d'Information Géographique le plus complet possible : Gestion de données (QGIS), Saisie terrain (QField), valorisation et publication web (Lizmap) ; en s'appuyant sur l'expérience du PNR Martinique.
 
-### Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire - Emilie Bigorne (Etablissement public Loire) [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/09_Bigorne_Emilie.pdf)
+### Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire - Emilie Bigorne (Etablissement public Loire)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/09_Bigorne_Emilie.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=u-yFPiBlvA0)
 
 L’Etablissement public Loire est un syndicat mixte (EPTB) composé de soixante collectivités (Régions, Départements et Intercommunalités) et d'une soixantaine d'agents. Les données métiers de l'Etablissement sont stockées dans une base de données PostgreSQL/PostGIS et sont utilisées par une quarantaine d'agents, essentiellement via QGIS. Jusqu'en 2022, QGIS était installé manuellement et paramétré à l'identique sur les postes utilisateurs. Un système de déploiement en masse sur l'ensemble des postes a été mis en place permettant de maintenir les versions à jour et de personnaliser les paramètres selon le profil utilisateur. Cette présentation propose de détailler les outils et la méthodologie mis en place pour industrialiser le déploiement et la mise à jour de QGIS sur le parc.
 
-### QGIS Plugin : PLU(i) versionning - Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG) - [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/10_Defrance_Bruno.pdf)
+### QGIS Plugin : PLU(i) versionning - Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/10_Defrance_Bruno.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=nKHcA12Iiao)
 
 Grenoble-Alpes-Métropole, l'Agence d'Urbanisme de la Région Grenobloise et Oslandia développent actuellement un plugin QGIS pour faciliter le suivi de numérisation des PLU(i) dans un environnement PostgreSQL. Basé sur le standard CNIG, cet outil permet de générer des versions de numérisation en s'appuyant, pour chaque procédure traitée, sur l'ensemble des projets thématiques qui sont mobilisés (zonage, OAP, ER, etc.). Il permet ainsi, à partir de versions duplicables, d'aboutir en fin de procédure du PLU(i) à des versions validées dont le contenu constituera les éléments graphiques du document opposable. Côté IHM, outre la mise à disposition d’un tableau de bord des versions, l'outil est doté d'un système d'import des fichiers SHAPE au format CNIG.
 
-### La Géoplateforme et les plugins QGIS - Tom Alary (IGN) [&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/02_Alary_Tom.pdf)
+### La Géoplateforme et les plugins QGIS - Tom Alary (IGN)
+
+[&#128193; Diaporama](https://gitlab.com/osgeo-fr/journees_qgis/-/raw/master/Pr%C3%A9sentations/2023/02_Alary_Tom.pdf)
+
+[&#128253; Vidéo](https://www.youtube.com/watch?v=RdCeu9EUPlY)
 
 Le programme Géoplateforme, pour doter la puissance publique d’une infrastructure collaborative et mutualisée pour la production et la diffusion des géodonnées. Le Géotuileur : transformez vos données géographiques en tuiles vectorielles simplement et diffusez-les n'importe où ! Présentation et démonstration des plugins QGIS : plugin collaboratif et plugin Géotuileur. Les perspectives d'amélioration en commun. Les API de la future Géoplateforme et les possibilités d'en faire des plugins QGIS ensemble. Vers une communauté d'utilisateurs d'outils QGIS liés à la future Géoplateforme ?
