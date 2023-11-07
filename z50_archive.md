@@ -8,6 +8,182 @@ menu: footer
 
 Les présentations des éditions précédentes sont disponibles dans le [dépôt](https://github.com/OSGeo-fr/QGIS-user-fr).
 
+# Programme 2023:
+
+Mécènes:
+
+[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
+
+[![3Liz](/images/3liz.png)](https://www.3liz.com/)
+
+[![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
+
+[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
+
+[![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
+
+Soutiens:
+
+[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
+
+Partenaires communication:
+
+[![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
+
+### Programmes
+
+Lundi 13 mars :
+
+<table class="atelier-table">
+    <tbody>
+        <tr class="atelier">
+            <td><b>09h00 - 09h30</b></td>
+            <td colspan=8><b>Accueil des participants</b> - <i>Salle Germaine Tillion</i></td>
+        </tr>
+         <tr class="atelier">
+            <td></td>
+            <td><i>Salle Saumon</i></td>
+            <td><i>Salle Salers</i></td>
+            <td><i>Salle Loutre</i></td>
+            <td><i>Salle Sioule</i></td>
+            <td><i>Salle Lac du Guéry</i></td>
+            <td><i>Salle Allier</i></td>
+            <td><i>Salle Alagnon</i></td>
+            <td><i>Salle Chambon</i></td>
+        </tr>
+       <tr class="atelier">
+            <td><b>09h30 - 12h00</b></td>
+            <td><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
+            <td><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
+            <td><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-et-émilie-algans-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
+            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---zacharie-coq-et-sofiane-kriat-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</a></td>
+            <td><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
+            <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
+            <td><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
+            <td></td>
+         </tr>
+        <tr class="pause-atelier">
+            <td colspan=9><b>Pause déjeuner</b></td>
+        </tr>       
+        <tr class="atelier">
+            <td><b>14h00 - 16h30</b></td>
+            <td><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
+            <td><a href="#créer-un-outil-de-saisie-avec-des-expressions---michaël-douchin-3liz">Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)</a></td>
+            <td><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
+            <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
+            <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
+            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---zacharie-coq-et-sofiane-kriat-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</a></td>
+            <td></td>
+            <td><a href="#barcamp">Barcamp</a></td>
+        </tr>       
+        <tr class="atelier">
+            <td><b>16h30 - 17h30</b></td>
+            <td colspan=9><b>Discussion et retours d'expérience de la journée</b> - <i>Salle Chambon</i></td>
+        </tr>
+    </tbody>
+</table>
+
+Mardi 14 mars:
+
+<table class="tableizer-table">
+  <thead>
+    <tr class="th">
+      <th>Horaires</th>
+      <th>Titre</th>
+      <th>Présentateur / Présentatrice</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="pair">
+      <td>09:00</td>
+      <td>Pot et accueil des participants</td>
+      <td></td>
+    </tr>
+    <tr class="impair">
+      <td>09:30</td>
+      <td>Ouverture de la journée</td>
+      <td>OSGeo-fr & CRAIG</td>
+    </tr>
+    <tr class="pair">
+      <td>09:35</td>
+      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----jacky-volpes-oslandia">QompliGIS, les nouveautés, vers une version web ...</a></td>
+      <td>Jacky Volpes (Oslandia)</td>
+    </tr>
+    <tr class="impair">
+      <td>10:00</td>
+      <td><a href="#la-géoplateforme-et-les-plugins-qgis---tom-alary-ign">La Géoplateforme et les plugins QGIS</a></td>
+      <td>Tom Alary (IGN)</td>
+    </tr>
+    <tr class="pair">
+      <td>10:25</td>
+      <td><a href="#un-plugin-qgis-qui-facilite-laccès-aux-données-en-flux-sur-un-territoire---marie-suet-et-landry-breuil-craig">Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire</a></td>
+      <td>Marie Suet et Landry Breuil (CRAIG)</td>
+    </tr>
+    <tr  class="pause">
+      <td>10:50</td>
+      <td>Pause</td>
+      <td></td>
+    </tr>
+    <tr class="impair">
+      <td>11:10</td>
+      <td><a href="#qgisqfieldqgis-serveur--une-boîte-à-outils-complète-de-lobservation-terrain---eric-gonçalves-département-du-calvados">QGIS/QField/QGIS Serveur : une boîte à outils complète de l’observation terrain</a></td>
+      <td>Eric Gonçalves (Département du Calvados)</td>
+    </tr>
+    <tr class="pair">
+      <td>11:35</td>
+      <td><a href="#qgis-et-merginmaps-utilisation-pour-la-stéréopréparation---valentin-schmitt-et-laurent-falala-ign-fi">QGIS et MerginMaps, utilisation pour la stéréopréparation</a></td>
+      <td>Schmitt Valentin et Laurent Falala (IGN FI)</td>
+    </tr>
+    <tr class="impair">
+      <td>12:00</td>
+      <td><a href="#al4eo--un-plugin-qgis-dactive-learning---romain-thoreau-onera--magellium">AL4EO : un plugin QGIS d'Active Learning</a></td>
+      <td>Romain Thoreau (ONERA & Magellium)</td>
+    </tr>
+    <tr  class="pause">
+      <td>12:25</td>
+      <td>Pause midi</td>
+      <td></td>
+    </tr>
+    <tr class="impair">
+      <td>14:00</td>
+      <td><a href="#qgis--le-coeur-du-sig-départemental-du-calvados---jérémie-ory-et-théo-grondin-département-du-calvados">QGIS : le cœur du SIG départemental du Calvados</a></td>
+      <td>Jérémie Ory et Théo Grondin (Département du Calvados)</td>
+    </tr>
+    <tr class="pair">
+      <td>14:25</td>
+      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---michaël-douchin-3liz">QGIS au cœur du Système d'Information Naturaliste de Martinique</a></td>
+      <td>Michaël Douchin (3Liz)</td>
+    </tr>
+    <tr class="impair">
+      <td>14:50</td>
+      <td><a href="#définitionmise-en-place-dune-stratégie-de-déploiement-de-qgis-à-letablissement-public-loire---emilie-bigorne-etablissement-public-loire">Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire</a></td>
+      <td>Emilie Bigorne (Etablissement public Loire)</td>
+    </tr>
+    <tr class="pause">
+      <td>15:15</td>
+      <td>Pause</td>
+      <td></td>
+    </tr>
+    <tr class="impair">
+      <td>15:40</td>
+      <td><a href="#qgis-plugin--plui-versionning---bruno-defrance-grenoble-alpes-métropole-et-eric-vinouze-aurg">QGIS Plugin : PLU(i) versionning</a></td>
+      <td>Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)</td>
+    </tr>
+    <tr class="pair">
+      <td>16:05</td>
+      <td><a href="#avec-qgis--de-la-topographie----jean-marie-arsac-azimut">Avec QGIS ? de la topographie !</a></td>
+      <td>Jean-Marie Arsac (Azimut)</td>
+    </tr>
+    <tr class="impair">
+      <td>16:30</td>
+      <td>Clôture</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+_______________________________________________________________________________
+
 # Programme 2021-2022:
 
 L'édition 2022 a été soutenue par:

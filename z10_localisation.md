@@ -5,11 +5,12 @@ tagline: Comment accéder aux Rencontres ?
 menu: header
 ---
 
-Après deux éditions à distance, les rencontres se feront en présentiel. Elles se dérouleront à l'Hôtel de Région Auvergne Rhône-Alpes, à Clermont-Ferrand avec le soutien du CRAIG.
+Après une édition à Clermont-Ferrand, les rencontres traversent la Région Auvergne-Rhône-Alpes
+pour rejoindre Grenoble avec le soutien de l'Université Grenoble-Alpes. Les détails sont à venir !
 
-Si vous venez de loin, n'hésitez pas à proposer un [covoiturage](https://www.covievent.org/covoiturage/rencontres-des-utilisateurs-francophones-de-qgis-edition-2023/fd0136f530d30cafbd9159e45cbc3fb1)
+<!-- Si vous venez de loin, n'hésitez pas à proposer un [covoiturage](https://www.covievent.org/covoiturage/rencontres-des-utilisateurs-francophones-de-qgis-edition-2023/fd0136f530d30cafbd9159e45cbc3fb1) -->
 
-
+<!-- 
 <table>
   <tr>
     <th colspan=2><p align=center>Se rendre à l'Hôtel de Région de Clermont-Ferrand</p></th>
@@ -33,7 +34,7 @@ Si vous venez de loin, n'hésitez pas à proposer un [covoiturage](https://www.c
       <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=3.113363385200501%2C45.79328860609485%2C3.1201118230819707%2C45.7967034277847&amp;layer=mapnik&amp;marker=45.79499604309612%2C3.1167376041412354" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.79500&amp;mlon=3.11674#map=18/45.79500/3.11674">Afficher une carte plus grande</a></small>
     </td>
   </tr>
- </table>
+ </table> -->
 
 
 [Retour à la page d'accueil]({{ site.url }}{{ site.baseurl }})

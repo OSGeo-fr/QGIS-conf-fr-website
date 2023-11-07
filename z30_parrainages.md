@@ -8,15 +8,16 @@ menu: header
 
 # Notre partenaire co-organisateur
 
+L'Université Grenoble-Alpes apporte son soutien logistique et financier pour l'organisation de l'édition 2024. Merci à eux !
 
-Le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG) renouvelle son partenariat et nous apporte son soutien logistique et financier cette année. Merci à eux !
+<!-- Le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG) renouvelle son partenariat et nous apporte son soutien logistique et financier cette année. Merci à eux !
 
 [![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
 
 
 _Le Centre Régional Auvergne-Rhône-Alpes de l'Information Géographique (CRAIG) est un groupement d'intérêt public créé en 2011 dans le cadre du Contrat de projets Etat-Région, afin de mettre en place un Centre de ressources dans le domaine de l'information géographique. Ce projet s'inscrit dans le cadre d'une démarche globale de mutualisation des coûts et des moyens mais aussi de cohérence régionale en matière de production et d'usage de données géographiques._
 
-_[https://www.craig.fr/](https://www.craig.fr/)_
+_[https://www.craig.fr/](https://www.craig.fr/)_ -->
 
 <!--
 ---
@@ -31,7 +32,7 @@ Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur d
 
 # Nos mécènes
 
----
+<!-- ---
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
@@ -59,12 +60,12 @@ Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée e
 
 [![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
 
-Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier.
+Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier. -->
 
 
 # Nos soutiens
 
-[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
+<!-- [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr) -->
 
 <!--
 Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection. Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu’elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel “technicien supérieur en SIG” et certificat de qualification professionnelle “Géomaticien”), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source.
@@ -91,7 +92,7 @@ Les modalités de soutien sont définies ci-après.
 
 ## Tarif et visibilité
 
-Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2023]).
+Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2024]).
 
 Plusieurs niveaux sont possibles:
 
@@ -110,7 +111,7 @@ Plusieurs niveaux sont possibles:
         <li>Logo, lien et courte présentation sur le programme</li>
         <li>Citation dans les communiqués de presse</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
-        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2023"</li>
+        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2024"</li>
     </ul>
 </ul>
 </p></details>
