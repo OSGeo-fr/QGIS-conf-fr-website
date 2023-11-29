@@ -31,9 +31,9 @@ div#contact div input, textarea, select {
 }
 
 .page-header {
-    background: url(../img/header.png) no-repeat left top;
+    background: url(../img/header.png) no-repeat left top, linear-gradient(180deg, rgb(255, 255, 255) 25%, rgb(223, 244, 253) 100%);
     box-shadow: 0px 1px 5px #aaa;
-    height: 340px;
+    height: 300px;
     margin-top: 55px;
 }
 
