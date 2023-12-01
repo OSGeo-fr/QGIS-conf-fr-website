@@ -1,7 +1,11 @@
 ---
 layout: contact
 title: Contact
-tagline: Contactez nous à l'adresse qgis-conf à osgeo.asso.fr
+tagline: Contacter nous 
 menu: footer
 ---
+
+
+
+
 
