@@ -11,12 +11,10 @@
 {% if page.author or page.facebook.publisher %}
   {% assign page_author = page.author | default: nil | escape %}
   {% assign facebook_publisher = page.facebook.publisher | default: nil | escape %}
-  {% assign twitter_creator = page.twitter.username | default: site.twitter.site | default: nil | escape %}
   {% assign facebook_authors = page.facebook.authors | default: nil | escape %}
 {% else %}
   {% assign page_author = site.author | default: nil | escape %}
   {% assign facebook_publisher = site.facebook.publisher | default: nil | escape %}
-  {% assign twitter_creator = site.twitter.username | default: nil | escape %}
   {% assign facebook_authors = site.facebook.authors | default: nil | escape %}
 {% endif %}
 
@@ -55,26 +53,7 @@
   <meta itemprop="image" content="{{ page_image }}">
 {%endif %}
 
-<!-- Twitter Card data -->
-<meta name="twitter:card" content="summary_large_image">
 
-{%if site.twitter.site %}
-  <meta name="twitter:site" content="@{{ site.twitter.site }}">
-{%endif %}
-
-<meta name="twitter:title" content="{{ page_title }}">
-<meta name="twitter:description" content="{{ page_description }}">
-
-{%if twitter_creator %}
-  <meta name="twitter:creator" content="@{{ twitter_creator }}">
-{%endif %}
-
-<!-- Twitter summary card with large image must be at least 280x150px -->
-{%if page_image %}
-  <meta name="twitter:image:src" content="{{ page_image }}">
-  <meta property="twitter:image" content="{{ page_image }}">
-{%endif %}
-<meta property="twitter:url" content="{{ canonical_url }}">
 
 <!-- Open Graph data -->
 <meta property="og:title" content="{{ page_title }}" />
