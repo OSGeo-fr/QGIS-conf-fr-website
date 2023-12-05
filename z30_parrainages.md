@@ -131,7 +131,7 @@ Plusieurs niveaux sont possibles:
 <ul style="padding-left:40px">
     <li>Montant : 700 € HT</li>
     <ul style="padding-left:40px">
-        <li>Une inscription incluse dans la journée de conférence</li>
+        <li>Une inscription incluse dans la journée de conférences</li>
         <li>Logo pendant l'évènement (deuxième page d'écran) </li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
