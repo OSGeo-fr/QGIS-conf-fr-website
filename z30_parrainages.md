@@ -130,7 +130,6 @@ Plusieurs niveaux sont possibles:
 
 <ul style="padding-left:40px">
     <li>Montant : 700 € HT</li>
-    <li>Limité à 5 mécènes</li>
     <ul style="padding-left:40px">
         <li>Une inscription incluse dans la journée de conférence</li>
         <li>Logo pendant l'évènement (deuxième page d'écran) </li>
