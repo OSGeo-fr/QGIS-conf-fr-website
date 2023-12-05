@@ -94,38 +94,58 @@ Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getin
 
 Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2024]).
 
-<!-- Plusieurs niveaux sont possibles:
+_Note : Nous n'offrons pas d'offre de stand sur cet évènement_
 
-    
-### Mécène - 800 €
+Plusieurs niveaux sont possibles:
 
-<details><summary>▸ Détail du niveau mécène</summary><p>
+### Mécène Or - 950 €
+
+<details>
+    <summary>▸ Détail du niveau Or</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 800 € HT</li>
-    <li>Limité à 5 mécènes</li>
+    <li>Montant : 950 € HT</li>
     <ul style="padding-left:40px">
-        <li>Deux inscriptions incluses</li>
-        <li>Logo et citation pendant l'événement</li>
+        <li>Deux inscriptions incluses pour la journée de conférences</li>
+        <li>Logo et citation pendant l'événement (écran d'accueil)</li>
+        <li>Possibilité d'amener un Kakemono sur la scéne de la conférence pleinière et un autre dans le hall</li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
         <li>Citation dans les communiqués de presse</li>
+        <li>Espace pour présenter vos flyers et goodies dans le hall</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
-        <li>Autorisation d'utilisation de l'image badge "SEMINAIRE UTILISATEURS QGIS MÉCÈNE 2024"</li>
+    </ul>
+</ul>
+</p>
+</details>
+
+
+### Mécène Argent - 700 €
+
+<details><summary>▸ Détail du niveau Argent</summary><p>
+
+<ul style="padding-left:40px">
+    <li>Montant : 700 € HT</li>
+    <li>Limité à 5 mécènes</li>
+    <ul style="padding-left:40px">
+        <li>Une inscriptions incluse dans la journée de conférence</li>
+        <li>Logo pendant l'évènement (deuxième page d'écran) </li>
+        <li>Logo, lien et présentation de l'organisme sur le site web</li>
+        <li>Logo, lien et courte présentation sur le programme</li>
+        <li>Espace pour présenter vos flyers et goodies dans le hall</li>
+        <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
     </ul>
 </ul>
 </p></details>
 
+### Mécène Bronze - 300 €
 
-### Soutien - 500 €
-
-<details><summary>▸ Détail du niveau Soutien</summary><p>
+<details><summary>▸ Détail du niveau Bronze</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 500 € HT</li>
+    <li>Montant : 300 € HT</li>
     <li>Pas de limite</li>
     <ul style="padding-left:40px">
-        <li>Une inscription incluse</li>
         <li>Logo et lien sur le site web</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
     </ul>
