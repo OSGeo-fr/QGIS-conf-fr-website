@@ -109,7 +109,6 @@ Plusieurs niveaux sont possibles:
     <summary>▸ Détail du niveau Or</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 950 € HT</li>
     <ul style="padding-left:40px">
         <li>Deux inscriptions incluses pour la journée de conférences</li>
         <li>Logo et citation pendant l'événement (écran d'accueil)</li>
@@ -130,7 +129,6 @@ Plusieurs niveaux sont possibles:
 <details><summary>▸ Détail du niveau Argent</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 700 € HT</li>
     <ul style="padding-left:40px">
         <li>Une inscription incluse dans la journée de conférences</li>
         <li>Logo pendant l'évènement (deuxième page d'écran) </li>
@@ -147,7 +145,6 @@ Plusieurs niveaux sont possibles:
 <details><summary>▸ Détail du niveau Bronze</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Montant : 300 € HT</li>
     <li>Pas de limite</li>
     <ul style="padding-left:40px">
         <li>Logo et lien sur le site web</li>
@@ -167,7 +164,7 @@ Plusieurs niveaux sont possibles:
 <p>Une donation ou un sponsoring direct à QGIS.org permet de financer :</p>
 <ul>
   <li>des développeurs pour des tâches de maintenance à chaque version</li>
-  <li>les serveurs et maintenance associées</li>
+  <li>les serveurs et maintenances associées</li>
   <li>les rencontres communautaires QGIS internationales</li>
 </ul>
 
@@ -182,6 +179,6 @@ Plusieurs niveaux sont possibles:
   </li>
 </ul>
 
-<p><strong>Note:</strong> Ces dons sont indépendants de l’organisation des journées QGIS Francophone, mais c’est bien quand même!</p>
+<p><strong>Note:</strong> Ces dons sont indépendants de l’organisation des journées QGIS Francophones.</p>
 
 </p></details>
