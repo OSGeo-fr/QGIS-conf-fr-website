@@ -88,13 +88,13 @@ Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de 
 
 Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
 
-Les modalités de soutien sont définies ci-après. 
+<!-- Les modalités de soutien sont définies ci-après.  -->
 
 ## Tarif et visibilité
 
 Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2024]).
 
-Plusieurs niveaux sont possibles:
+<!-- Plusieurs niveaux sont possibles:
 
     
 ### Mécène - 800 €
@@ -131,7 +131,7 @@ Plusieurs niveaux sont possibles:
     </ul>
 </ul>
 
-</p></details>
+</p></details> -->
 
 
 ### Autre soutien
