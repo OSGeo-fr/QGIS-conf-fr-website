@@ -115,7 +115,7 @@ Plusieurs niveaux sont possibles:
         <li>Possibilité d'amener un Kakemono sur la scène de la conférence plénière et un autre dans le hall</li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
-        <li>Citation dans les communiqués de presse</li>
+        <li>Citation dans les communications sur les réseaux sociaux</li>
         <li>Espace pour présenter vos flyers et goodies dans le hall</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
     </ul>
