@@ -83,9 +83,10 @@ Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de 
 [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
 
 -->
-# Nos partenaires communication
+<!-- # Nos partenaires communication -->
+<!---->
+<!-- [![GeoRezo](/images/georezo.png)](https://www.georezo.net/) -->
 
-[![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
 
 # Soutenir l'événement
 
