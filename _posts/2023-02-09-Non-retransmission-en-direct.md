@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pas de retransmission en direct des conférences"
-published: true
+published: false
 
 ---
 
