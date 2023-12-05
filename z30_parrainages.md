@@ -135,7 +135,7 @@ Plusieurs niveaux sont possibles:
         <li>Logo pendant l'évènement (deuxième page d'écran) </li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
-        <li>Espace pour présenter vos flyers et goodies dans le hall</li>
+        <li>Espace pour déposer vos flyers et goodies dans le hall</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
     </ul>
 </ul>
