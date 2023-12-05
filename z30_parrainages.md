@@ -112,7 +112,7 @@ Plusieurs niveaux sont possibles:
     <ul style="padding-left:40px">
         <li>Deux inscriptions incluses pour la journée de conférences</li>
         <li>Logo et citation pendant l'événement (écran d'accueil)</li>
-        <li>Possibilité d'amener un Kakemono sur la scéne de la conférence pleinière et un autre dans le hall</li>
+        <li>Possibilité d'amener un Kakemono sur la scène de la conférence plénière et un autre dans le hall</li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
         <li>Citation dans les communiqués de presse</li>
@@ -132,7 +132,7 @@ Plusieurs niveaux sont possibles:
     <li>Montant : 700 € HT</li>
     <li>Limité à 5 mécènes</li>
     <ul style="padding-left:40px">
-        <li>Une inscriptions incluse dans la journée de conférence</li>
+        <li>Une inscription incluse dans la journée de conférence</li>
         <li>Logo pendant l'évènement (deuxième page d'écran) </li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
