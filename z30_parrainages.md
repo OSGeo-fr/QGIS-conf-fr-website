@@ -98,7 +98,7 @@ Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getin
 
 Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2024]).
 
-_Note : Nous n'offrons pas d'offre de stand sur cet évènement_
+_Note : Cet évènement ne dispose pas d'offre de stand_
 
 Plusieurs niveaux sont possibles:
 
