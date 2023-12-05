@@ -31,5 +31,25 @@ layout: default
 
 </div>
 
+<div class="column-two">
+<div class="newsletter">
+    <h1>Newsletter</h1>
+    <p>(* champs obligatoires)</p>
+    <form method="POST" action="https://post.express-mailing.com/gestion/abonnement.php">
+      <input type="hidden" name="liste" value="F34C2572">
+      Prénom * :<br/>
+      <input type="text" name="prenom" required><br/>
+      Nom * :<br/>
+      <input type="text" name="nom" required onkeyup="this.value = this.value.toUpperCase();"><br/>
+      Entreprise :<br/>
+      <input type="text" name="societe"><br/>
+      Adresse e-mail * :<br/>
+      <input type="text" name="email" required><br/><br/>
+      <input type="submit" value="S'inscrire">
+    </form>
+  </div>
+<br/>
+<iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" width="400" height="800" src="https://mastofeed.com/apiv2/feed?userurl=https%3A%2F%2Fmapstodon.space%2Fusers%2Fosgeofr&theme=light&size=100&header=true&replies=false&boosts=false"></iframe>
+</div>
 </div>
 
