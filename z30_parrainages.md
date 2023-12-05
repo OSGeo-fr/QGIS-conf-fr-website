@@ -34,7 +34,7 @@ Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur d
 
 -->
 
-# Nos mécènes
+<!-- # Nos mécènes -->
 
 <!-- ---
 
@@ -67,7 +67,7 @@ Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée e
 Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier. -->
 
 
-# Nos soutiens
+<!-- # Nos soutiens -->
 
 <!-- [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr) -->
 
