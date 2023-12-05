@@ -155,7 +155,7 @@ Plusieurs niveaux sont possibles:
 </p></details>
 
 
-### Autre soutien
+### Autres formes de soutien
 
 <details><summary>▸ Vous pouvez aussi soutenir directement QGIS.org!</summary><p>
 
