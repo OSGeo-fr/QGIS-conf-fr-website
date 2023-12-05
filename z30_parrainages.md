@@ -103,7 +103,7 @@ _Note : Cet évènement ne dispose pas d'offre de stand_
 
 Plusieurs niveaux sont possibles:
 
-### Mécène Or - 950 €
+## Mécène Or - 950 €
 
 <details>
     <summary>▸ Détail du niveau Or</summary><p>
@@ -124,7 +124,7 @@ Plusieurs niveaux sont possibles:
 </details>
 
 
-### Mécène Argent - 700 €
+## Mécène Argent - 700 €
 
 <details><summary>▸ Détail du niveau Argent</summary><p>
 
@@ -140,7 +140,7 @@ Plusieurs niveaux sont possibles:
 </ul>
 </p></details>
 
-### Mécène Bronze - 300 €
+## Mécène Bronze - 300 €
 
 <details><summary>▸ Détail du niveau Bronze</summary><p>
 
