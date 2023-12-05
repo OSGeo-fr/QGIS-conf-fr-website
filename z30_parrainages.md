@@ -155,7 +155,7 @@ Plusieurs niveaux sont possibles:
     </ul>
 </ul>
 
-</p></details> -->
+</p></details>
 
 
 ### Autre soutien
