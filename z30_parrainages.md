@@ -130,7 +130,7 @@ Plusieurs niveaux sont possibles:
 
 <ul style="padding-left:40px">
     <ul style="padding-left:40px">
-        <li>Une inscription incluse dans la journée de conférences</li>
+        <li>Une inscription incluse pour la journée de conférences</li>
         <li>Logo pendant l'évènement (deuxième page d'écran) </li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
         <li>Logo, lien et courte présentation sur le programme</li>
