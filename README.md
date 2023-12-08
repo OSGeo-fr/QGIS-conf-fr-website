@@ -2,12 +2,28 @@ Ce dépot est le site internet des Rencontres Utilisateurs Francophone de QGIS. 
 
 Pour construire le site localement :
 
-- Sous ubuntu/debian,
-`sudo apt-get install jekyll`
- puis
-`bundle3.0 exec jekyll serve
-`
-- Autres méthodes : https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+Suivre les instructions d'installation https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekylls
+
+puis 
+
+```~~
+- puis 
+
+```
+$ bundle exec jekyll serve
+> Configuration file: /Users/octocat/my-site/_config.yml
+>            Source: /Users/octocat/my-site
+>       Destination: /Users/octocat/my-site/_site
+> Incremental build: disabled. Enable with --incremental
+>      Generating...
+>                    done in 0.309 seconds.
+> Auto-regeneration: enabled for '/Users/octocat/my-site'
+> Configuration file: /Users/octocat/my-site/_config.yml
+>    Server address: http://127.0.0.1:4000/
+>  Server running... press ctrl-c to stop.
+```
+
+
 
 - avec docker : 
 depuis le répertoire courant de ce projet :
