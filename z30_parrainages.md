@@ -97,7 +97,8 @@ Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getin
 
 ## Tarif et visibilité
 
-Pour toute information ou demande, utilisez le [mail de contact](mailto:qgis-conf@osgeo.asso.fr?subject=[SoutienQGISFR_2024]).
+
+Pour toute information ou demande, utilisez le <a href="mailto:contact-project+osgeo-fr-journees-qgis-2024@incoming.gitlab.com">mail de contact</a>
 
 _Note : Cet évènement ne dispose pas d'offre de stand_
 
