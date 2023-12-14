@@ -19,4 +19,4 @@ QGIS vit grâce à vos [contributions](https://qgis.org/fr/site/getinvolved/inde
 
 ou ...
 
-# **[>> Acheter des goodies <<]({{ site.url }}{{ site.baseurl }}/z55_qgis_shop.html)** et venez avec à la conférence  :)
+# **[>> Acheter des goodies <<]({{ site.url }}{{ site.baseurl }}/z55_qgis_shop.html)** et venir avec à la conférence  :)
