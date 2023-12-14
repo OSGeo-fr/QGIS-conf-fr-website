@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mécénat
-tagline: Nous remercions nos généreux soutiens !
+tagline: Nous remercions nos généreux mécènes !
 menu: header
 ---
 
