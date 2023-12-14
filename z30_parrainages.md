@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Parrainage
+title: Mécénat
 tagline: Nous remercions nos généreux soutiens !
 menu: header
 ---
