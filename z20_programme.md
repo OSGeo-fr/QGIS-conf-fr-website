@@ -9,7 +9,7 @@ menu: header
 
 Les prochaines journées QGIS auront lieu les 27 et 28 mars 2024.
 
-L'appel à propositions d'ateliers ou de conférences est disponible [ici](https://talks.osgeo.org/qgis-french-users-days-2024/cfp) jusqu'au 31 décembre 2023.
+L'appel à propositions d'ateliers ou de conférences est disponible [ici](https://talks.osgeo.org/qgis-french-users-days-2024/cfp) jusqu'au 15 janvier 2024.
 
 #### Inscription
 
