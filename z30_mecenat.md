@@ -57,13 +57,13 @@ _[https://www.intermezzo-coop.eu/fr](https://www.intermezzo-coop.eu/fr)_
 
 _Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source._
 
-<!-- ---
+---
 
 [![3Liz](/images/3liz.png)](https://www.3liz.com/)
 
 3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Serveur, auxquels nous contribuons. Nous avons aussi développé Lizmap, outil de publication de cartes Web dynamiques.
 
----
+<!-- ---
 
 [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
 
