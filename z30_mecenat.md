@@ -47,7 +47,7 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 [![InterMezzo](/images/logo-intermezzo.svg)](https://www.intermezzo-coop.eu/fr)
 
-_Intermezzo est un bureau d’études qui accompagne les acteurs publics et privés dans leurs démarches et projets de de transition énergétique, changement climatique et développement territorial durable. Son offre est faite de services, conseils, outils et formations. L'approche spatiale est au cœur des activités de l'entreprise._
+_Intermezzo est un bureau d’études qui accompagne les acteurs publics et privés dans leurs démarches et projets de transition énergétique, changement climatique et développement territorial durable. Son offre est faite de services, conseils, outils et formations. L'approche spatiale est au cœur des activités de l'entreprise._
 
 _[https://www.intermezzo-coop.eu/fr](https://www.intermezzo-coop.eu/fr)_
 
