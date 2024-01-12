@@ -34,15 +34,32 @@ Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur d
 
 -->
 
-<!-- # Nos mécènes -->
+# Nos mécènes OR
 
-<!-- ---
+[![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
+
+
+_Le Centre Régional Auvergne-Rhône-Alpes de l'Information Géographique (CRAIG) est un groupement d'intérêt public créé en 2011 dans le cadre du Contrat de projets Etat-Région, afin de mettre en place un Centre de ressources dans le domaine de l'information géographique. Ce projet s'inscrit dans le cadre d'une démarche globale de mutualisation des coûts et des moyens mais aussi de cohérence régionale en matière de production et d'usage de données géographiques._
+
+_[https://www.craig.fr/](https://www.craig.fr/)_ 
+
+---
+
+[![InterMezzo](/images/logo-intermezzo.png)](https://www.intermezzo-coop.eu/fr)
+
+_InterMezzo réinterroge les savoirs et les usages afin de proposer des services simples, innovants et adaptés.
+Nous accompagnons les acteurs publics et privés dans l'élaboration et la conduite de leurs politiques et projets opérationnels traitant du développement durable, du changement et de l'adaptation des modes de vies. 
+InterMezzo est une structure indépendante, agissant en toute liberté._
+
+_[https://www.intermezzo-coop.eu/fr](https://www.intermezzo-coop.eu/fr)_
+
+---
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
-Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source.
+_Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source._
 
----
+<!-- ---
 
 [![3Liz](/images/3liz.png)](https://www.3liz.com/)
 
@@ -67,7 +84,7 @@ Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée e
 Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier. -->
 
 
-<!-- # Nos soutiens -->
+<!-- # Nos mécènes ARGENT -->
 
 <!-- [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr) -->
 
