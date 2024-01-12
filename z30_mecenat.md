@@ -45,7 +45,7 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 ---
 
-[![InterMezzo](/images/logo-intermezzo.png)](https://www.intermezzo-coop.eu/fr)
+[![InterMezzo](/images/logo-intermezzo.svg)](https://www.intermezzo-coop.eu/fr)
 
 _InterMezzo réinterroge les savoirs et les usages afin de proposer des services simples, innovants et adaptés.
 Nous accompagnons les acteurs publics et privés dans l'élaboration et la conduite de leurs politiques et projets opérationnels traitant du développement durable, du changement et de l'adaptation des modes de vies. 
