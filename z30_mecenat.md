@@ -45,14 +45,6 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 ---
 
-[![InterMezzo](/images/logo-intermezzo.svg)](https://www.intermezzo-coop.eu/fr)
-
-_Intermezzo est un bureau d’études qui accompagne les acteurs publics et privés dans leurs démarches et projets de transition énergétique, changement climatique et développement territorial durable. Son offre est faite de services, conseils, outils et formations. L'approche spatiale est au cœur des activités de l'entreprise._
-
-_[https://www.intermezzo-coop.eu/fr](https://www.intermezzo-coop.eu/fr)_
-
----
-
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
 _Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source._
@@ -82,7 +74,13 @@ Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée e
 Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier. -->
 
 
-<!-- # Nos mécènes ARGENT -->
+# Nos mécènes ARGENT
+
+[![InterMezzo](/images/logo-intermezzo.svg)](https://www.intermezzo-coop.eu/fr)
+
+_Intermezzo est un bureau d’études qui accompagne les acteurs publics et privés dans leurs démarches et projets de transition énergétique, changement climatique et développement territorial durable. Son offre est faite de services, conseils, outils et formations. L'approche spatiale est au cœur des activités de l'entreprise._
+
+_[https://www.intermezzo-coop.eu/fr](https://www.intermezzo-coop.eu/fr)_
 
 <!-- [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr) -->
 
