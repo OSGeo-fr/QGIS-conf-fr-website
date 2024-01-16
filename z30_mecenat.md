@@ -58,10 +58,7 @@ _Composée de spécialistes de l’Open Source, Camptocamp est une entreprise in
 
 ---
 
-[![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](http://www.cstb.fr)
-
-[![CSTB - Centre Scientifique et Technique du Bâtiment](/images/logo_CSTB.png)](http://www.cstb.fr)
-
+[![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](http://www.cstb.fr)  
 
 Le Centre Scientifique et Technique du Bâtiment, CSTB, est une entreprise publique à caractère industriel et commercial (EPIC), au service de ses clients et de l’intérêt général.
 Il a pour ambition d’imaginer les bâtiments et la ville de demain en accompagnant et sécurisant les projets de construction et de rénovation durable, pour améliorer la qualité de vie de leurs usagers, en anticipant les effets du changement climatique. Son champ de compétences couvre les produits de construction, les bâtiments et leur intégration dans le quartier et la ville. 
