@@ -55,6 +55,17 @@ _Composée de spécialistes de l’Open Source, Camptocamp est une entreprise in
 
 3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Serveur, auxquels nous contribuons. Nous avons aussi développé Lizmap, outil de publication de cartes Web dynamiques.
 
+
+---
+
+[![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](http://www.cstb.fr)  
+
+Le Centre Scientifique et Technique du Bâtiment, CSTB, est une entreprise publique à caractère industriel et commercial (EPIC), au service de ses clients et de l’intérêt général.
+Il a pour ambition d’imaginer les bâtiments et la ville de demain en accompagnant et sécurisant les projets de construction et de rénovation durable, pour améliorer la qualité de vie de leurs usagers, en anticipant les effets du changement climatique. Son champ de compétences couvre les produits de construction, les bâtiments et leur intégration dans le quartier et la ville. 
+Au travers du projet de Base de Données Nationale des Bâtiments (BDNB), le CSTB s'engage résolument dans le monde de l'open data et de la géomatique au service de la transition écologique. QGIS et les outils rassemblés sous le giron de l'OSGEO sont des éléments essentiels à la constitution et l'utilisation de la BDNB. 
+
+
+
 <!-- ---
 
 [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
