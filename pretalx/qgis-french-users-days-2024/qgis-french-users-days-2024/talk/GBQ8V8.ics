@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//GBQ8V8
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-GBQ8V8@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Aprés un bref rappel sur les concepts de base de la réalisati
+ on de symbologie dans QGIS\, cet atelier vous propose d'explorer les fonct
+ ionnalités de symbologies avancées sur des données vectorielles ou imag
+ es. Nous aborderons entre autres :\n- Le rendu par catégorie ou via un en
+ semble de règles\,\n- les masques sélectifs\,\n- l'utilisation du géné
+ rateur de géométrie\,\n- l'intégration de la dimension temporelle dans 
+ vos cartes.\n\nEnfin\, nous présenterons quelques notions avancées à co
+ nnaître pour réussir l'intégration de vos cartes dans les mises en page
+ s et rapport.
+DTSTAMP:20240131T163354Z
+LOCATION:Salle Atelier 5
+SUMMARY:Cartographie avancée avec QGIS - Jacky Volpes\, Julien Cabieces
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GBQ8V8/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//qgis-french-users-days-2024//BWFJNT
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-AUAYUU@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T113500
+DTEND;TZID=Europe/Paris:20240328T115500
+DESCRIPTION:Présenté comme un Google Maps de la vulnérabilité aux inond
+ ations\, AgiRisk est un plugin développé sous QGIS visant à la réalisa
+ tion de diagnostics personnalisés afin de réduire l’impact des inondat
+ ions sur les différents types d’enjeux territoriaux grâce à la mise e
+ n place d'actions concrètes proposées par l'outil et l'intégration du s
+ uivi temporel de cette vulnérabilité. AgiRisk s'appuie sur un panel de r
+ eprésentations cartographiques multi-échelles\, statistiques et infograp
+ hiques (tableaux de bord) pour s'adapter aux différents profils d'utilisa
+ teurs (collectivités\, aménageurs\, services de l’État...). Son écos
+ ystème est basé sur le plugin (interface utilisateur)\, une base de donn
+ ées (PostgreSQL/PostGis) pour les géotraitements et un site web techniqu
+ e pour la méthodologie.
+DTSTAMP:20240131T163405Z
+LOCATION:Salle de conférence
+SUMMARY:AgiRisk\, un plugin QGIS d'aide à la décision pour évaluer et g
+ érer les impacts des inondations - Manuel Collongues et Anaïs Cazaubon\,
+  Collongues
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/AUAYUU/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//GHAKAM
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-GHAKAM@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:L'idée de cet atelier est d'illustrer comment utiliser les exp
+ ressions dans QGIS pour créer un outil de saisie complet\,\nà partir d'u
+ ne donnée au format tabulaire\, avec les étapes suivantes :\n\n* Import 
+ d'une donnée "tableur" dans un GeoPackage et affichage dans QGIS\n* Créa
+ tion et correction de données via des expressions\n* Mettre les données 
+ en relation\n* Créer un formulaire de saisie avancé\n* Visualiser les do
+ nnées problématiques ou importantes dans la table attributaire.\n\nOn pr
+ ivilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la m
+ ajorité des traitements : pas d'utilisation\nde requêtes SQL en base de 
+ données ou d'algorithmes complexes.
+DTSTAMP:20240131T163353Z
+LOCATION:Salle Atelier 5
+SUMMARY:Créer un outil de saisie avec des expressions - Michaël Douchin\,
+  René-Luc Dhont
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GHAKAM/
+END:VEVENT
+END:VCALENDAR

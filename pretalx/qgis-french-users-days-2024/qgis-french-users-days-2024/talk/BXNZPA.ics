@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//BXNZPA
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-BXNZPA@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T144500
+DTEND;TZID=Europe/Paris:20240328T150500
+DESCRIPTION:Dans notre architecture PostgreSQL/Postgis & QGIS nous avons be
+ soin de permettre à des utilisateurs non linuxiens/non informaticiens de 
+ publier leurs données depuis nos bases de production vers notre base de p
+ ublication. Il faut également que ces publications puissent être automat
+ isées simplement. A terme un plugin QGIS pour que la publication puisse 
+ être ordonnée directement depuis leur sig favori.\nNous avons donc trava
+ illé avec CampToCamp pour la création de cette CLI python.
+DTSTAMP:20240131T163357Z
+LOCATION:Salle de conférence
+SUMMARY:Publier de base à base depuis QGIS avec Python - Pierre Muckenstur
+ m
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/BXNZPA/
+END:VEVENT
+END:VCALENDAR

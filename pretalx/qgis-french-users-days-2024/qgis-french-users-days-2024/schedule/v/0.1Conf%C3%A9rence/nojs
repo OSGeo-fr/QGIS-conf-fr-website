@@ -1,0 +1,1102 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>  Rencontres des utilisateurs francophones de QGIS 2024 :: pretalx</title>
+        <meta name="title" content="  - Rencontres des utilisateurs francophones de QGIS 2024 pretalx">
+        <meta name="description" content="Schedule, talks and talk submissions for Rencontres des utilisateurs francophones de QGIS 2024">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="Rencontres des utilisateurs francophones de QGIS 2024, qgis-french-users-days-2024, 2024, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#3aa57c">
+        <meta name="HandheldFriendly" content="True"/>
+        
+        <meta property="og:title" content=" Rencontres des utilisateurs francophones de QGIS 2024">
+        <meta property="og:description" content="Schedule, talks and talk submissions for Rencontres des utilisateurs francophones de QGIS 2024">
+        <meta property="og:url" content="http://testserver/qgis-french-users-days-2024/schedule/v/0.1Conf%C3%A9rence/nojs">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/pretalx/qgis-french-users-days-2024/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/pretalx/qgis-french-users-days-2024/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/pretalx/qgis-french-users-days-2024/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" href="/pretalx/qgis-french-users-days-2024/static/CACHE/css/output.c3eca3efda85.css" type="text/css">
+        
+        <link rel="stylesheet" type="text/css" href="/pretalx/qgis-french-users-days-2024/media/qgis-french-users-days-2024/css/qgis-french-users-days-2024_uldMkgD.css"/>
+        <script src="/pretalx/qgis-french-users-days-2024/static/CACHE/js/output.30f92f7afc90.js" defer></script>
+        
+    
+        <link rel="alternate" type="application/atom+xml" title="Rencontres des utilisateurs francophones de QGIS 2024 Schedule Versions" href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/feed.xml" />
+        <link rel="alternate" type="application/json" title="Rencontres des utilisateurs francophones de QGIS 2024 API" href="http://talks.osgeo.org/api/events/qgis-french-users-days-2024/" />
+    
+    
+    
+
+    </head>
+    <body>
+        <div id="top-bg" class="header topo">
+            
+                <img src="/pretalx/qgis-french-users-days-2024/media/qgis-french-users-days-2024/img/header_VmJkHdU.png" id="header-image">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/
+">
+                        
+                            Rencontres des utilisateurs francophones de QGIS 2024
+                        
+                    </a>
+                </h1>
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <div id="fahrplan" class="list">
+
+        <div class="alert alert-info">
+            <div></div>
+            <div>
+                Pour consulter notre agenda en profitant de toutes les fonctionalités, comme la conversion de fuseau horaire, merci d'activer JavaScript et de vous dirigez vers <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/">ici</a>.
+            </div>
+        </div>
+        
+            <div class="alert alert-warning m-3"><span>
+                
+                    Vous êtes en train de voir une vieille version du planning.
+                
+                
+                    Vous pouvez trouver la version actuelle <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/">ici</a>.
+                
+            </span></div>
+        
+
+        
+
+<nav id="schedule-nav" class="p-3">
+    <div class="navigation">
+        <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/" class="btn btn-outline-success  active">
+            <i class="fa fa-calendar"></i> Planning
+            
+                </a><a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/" class="btn btn-outline-success ">
+                    <i class="fa fa-comments-o"></i> Interventions
+            
+        </a><a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/speaker/" class="btn btn-outline-success ">
+            <i class="fa fa-group"></i> Intervenants</a>
+    </div>
+    <div class="header-right">
+        
+            <span>Version <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/changelog/">0.1Conférence</a></span>
+            <details class="dropdown">
+                <summary class="btn btn-sm btn-outline-info">
+                    <i class="fa fa-code"></i><i class="fa fa-caret-down"></i>
+                </summary>
+                <ul class="dropdown-content dropdown-content-sw">
+                    
+                        <li><a class="dropdown-item" href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/export/schedule.ics">
+                            
+                                <span class="fa fa-calendar export-icon"></span>
+                            
+                            iCal
+                            
+                                <span class="export-qrcode">
+                                    <div class="btn btn-default btn-sm">
+                                        <i class="fa fa-qrcode"></i>
+                                    </div>
+                                    <div class="export-qrcode-image btn btn-default"><svg width="45mm" height="45mm" version="1.1" xmlns="http://www.w3.org/2000/svg"><rect x="4mm" y="4mm" width="1mm" height="1mm" /><rect x="5mm" y="4mm" width="1mm" height="1mm" /><rect x="6mm" y="4mm" width="1mm" height="1mm" /><rect x="7mm" y="4mm" width="1mm" height="1mm" /><rect x="8mm" y="4mm" width="1mm" height="1mm" /><rect x="9mm" y="4mm" width="1mm" height="1mm" /><rect x="10mm" y="4mm" width="1mm" height="1mm" /><rect x="12mm" y="4mm" width="1mm" height="1mm" /><rect x="14mm" y="4mm" width="1mm" height="1mm" /><rect x="15mm" y="4mm" width="1mm" height="1mm" /><rect x="16mm" y="4mm" width="1mm" height="1mm" /><rect x="17mm" y="4mm" width="1mm" height="1mm" /><rect x="18mm" y="4mm" width="1mm" height="1mm" /><rect x="20mm" y="4mm" width="1mm" height="1mm" /><rect x="22mm" y="4mm" width="1mm" height="1mm" /><rect x="25mm" y="4mm" width="1mm" height="1mm" /><rect x="29mm" y="4mm" width="1mm" height="1mm" /><rect x="30mm" y="4mm" width="1mm" height="1mm" /><rect x="34mm" y="4mm" width="1mm" height="1mm" /><rect x="35mm" y="4mm" width="1mm" height="1mm" /><rect x="36mm" y="4mm" width="1mm" height="1mm" /><rect x="37mm" y="4mm" width="1mm" height="1mm" /><rect x="38mm" y="4mm" width="1mm" height="1mm" /><rect x="39mm" y="4mm" width="1mm" height="1mm" /><rect x="40mm" y="4mm" width="1mm" height="1mm" /><rect x="4mm" y="5mm" width="1mm" height="1mm" /><rect x="10mm" y="5mm" width="1mm" height="1mm" /><rect x="12mm" y="5mm" width="1mm" height="1mm" /><rect x="14mm" y="5mm" width="1mm" height="1mm" /><rect x="16mm" y="5mm" width="1mm" height="1mm" /><rect x="17mm" y="5mm" width="1mm" height="1mm" /><rect x="19mm" y="5mm" width="1mm" height="1mm" /><rect x="22mm" y="5mm" width="1mm" height="1mm" /><rect x="23mm" y="5mm" width="1mm" height="1mm" /><rect x="24mm" y="5mm" width="1mm" height="1mm" /><rect x="25mm" y="5mm" width="1mm" height="1mm" /><rect x="26mm" y="5mm" width="1mm" height="1mm" /><rect x="34mm" y="5mm" width="1mm" height="1mm" /><rect x="40mm" y="5mm" width="1mm" height="1mm" /><rect x="4mm" y="6mm" width="1mm" height="1mm" /><rect x="6mm" y="6mm" width="1mm" height="1mm" /><rect x="7mm" y="6mm" width="1mm" height="1mm" /><rect x="8mm" y="6mm" width="1mm" height="1mm" /><rect x="10mm" y="6mm" width="1mm" height="1mm" /><rect x="12mm" y="6mm" width="1mm" height="1mm" /><rect x="13mm" y="6mm" width="1mm" height="1mm" /><rect x="14mm" y="6mm" width="1mm" height="1mm" /><rect x="15mm" y="6mm" width="1mm" height="1mm" /><rect x="17mm" y="6mm" width="1mm" height="1mm" /><rect x="18mm" y="6mm" width="1mm" height="1mm" /><rect x="22mm" y="6mm" width="1mm" height="1mm" /><rect x="24mm" y="6mm" width="1mm" height="1mm" /><rect x="25mm" y="6mm" width="1mm" height="1mm" /><rect x="27mm" y="6mm" width="1mm" height="1mm" /><rect x="29mm" y="6mm" width="1mm" height="1mm" /><rect x="30mm" y="6mm" width="1mm" height="1mm" /><rect x="31mm" y="6mm" width="1mm" height="1mm" /><rect x="34mm" y="6mm" width="1mm" height="1mm" /><rect x="36mm" y="6mm" width="1mm" height="1mm" /><rect x="37mm" y="6mm" width="1mm" height="1mm" /><rect x="38mm" y="6mm" width="1mm" height="1mm" /><rect x="40mm" y="6mm" width="1mm" height="1mm" /><rect x="4mm" y="7mm" width="1mm" height="1mm" /><rect x="6mm" y="7mm" width="1mm" height="1mm" /><rect x="7mm" y="7mm" width="1mm" height="1mm" /><rect x="8mm" y="7mm" width="1mm" height="1mm" /><rect x="10mm" y="7mm" width="1mm" height="1mm" /><rect x="16mm" y="7mm" width="1mm" height="1mm" /><rect x="19mm" y="7mm" width="1mm" height="1mm" /><rect x="21mm" y="7mm" width="1mm" height="1mm" /><rect x="22mm" y="7mm" width="1mm" height="1mm" /><rect x="23mm" y="7mm" width="1mm" height="1mm" /><rect x="24mm" y="7mm" width="1mm" height="1mm" /><rect x="25mm" y="7mm" width="1mm" height="1mm" /><rect x="27mm" y="7mm" width="1mm" height="1mm" /><rect x="28mm" y="7mm" width="1mm" height="1mm" /><rect x="29mm" y="7mm" width="1mm" height="1mm" /><rect x="31mm" y="7mm" width="1mm" height="1mm" /><rect x="32mm" y="7mm" width="1mm" height="1mm" /><rect x="34mm" y="7mm" width="1mm" height="1mm" /><rect x="36mm" y="7mm" width="1mm" height="1mm" /><rect x="37mm" y="7mm" width="1mm" height="1mm" /><rect x="38mm" y="7mm" width="1mm" height="1mm" /><rect x="40mm" y="7mm" width="1mm" height="1mm" /><rect x="4mm" y="8mm" width="1mm" height="1mm" /><rect x="6mm" y="8mm" width="1mm" height="1mm" /><rect x="7mm" y="8mm" width="1mm" height="1mm" /><rect x="8mm" y="8mm" width="1mm" height="1mm" /><rect x="10mm" y="8mm" width="1mm" height="1mm" /><rect x="12mm" y="8mm" width="1mm" height="1mm" /><rect x="13mm" y="8mm" width="1mm" height="1mm" /><rect x="14mm" y="8mm" width="1mm" height="1mm" /><rect x="15mm" y="8mm" width="1mm" height="1mm" /><rect x="16mm" y="8mm" width="1mm" height="1mm" /><rect x="19mm" y="8mm" width="1mm" height="1mm" /><rect x="20mm" y="8mm" width="1mm" height="1mm" /><rect x="22mm" y="8mm" width="1mm" height="1mm" /><rect x="23mm" y="8mm" width="1mm" height="1mm" /><rect x="25mm" y="8mm" width="1mm" height="1mm" /><rect x="30mm" y="8mm" width="1mm" height="1mm" /><rect x="32mm" y="8mm" width="1mm" height="1mm" /><rect x="34mm" y="8mm" width="1mm" height="1mm" /><rect x="36mm" y="8mm" width="1mm" height="1mm" /><rect x="37mm" y="8mm" width="1mm" height="1mm" /><rect x="38mm" y="8mm" width="1mm" height="1mm" /><rect x="40mm" y="8mm" width="1mm" height="1mm" /><rect x="4mm" y="9mm" width="1mm" height="1mm" /><rect x="10mm" y="9mm" width="1mm" height="1mm" /><rect x="17mm" y="9mm" width="1mm" height="1mm" /><rect x="18mm" y="9mm" width="1mm" height="1mm" /><rect x="21mm" y="9mm" width="1mm" height="1mm" /><rect x="22mm" y="9mm" width="1mm" height="1mm" /><rect x="24mm" y="9mm" width="1mm" height="1mm" /><rect x="25mm" y="9mm" width="1mm" height="1mm" /><rect x="26mm" y="9mm" width="1mm" height="1mm" /><rect x="27mm" y="9mm" width="1mm" height="1mm" /><rect x="30mm" y="9mm" width="1mm" height="1mm" /><rect x="34mm" y="9mm" width="1mm" height="1mm" /><rect x="40mm" y="9mm" width="1mm" height="1mm" /><rect x="4mm" y="10mm" width="1mm" height="1mm" /><rect x="5mm" y="10mm" width="1mm" height="1mm" /><rect x="6mm" y="10mm" width="1mm" height="1mm" /><rect x="7mm" y="10mm" width="1mm" height="1mm" /><rect x="8mm" y="10mm" width="1mm" height="1mm" /><rect x="9mm" y="10mm" width="1mm" height="1mm" /><rect x="10mm" y="10mm" width="1mm" height="1mm" /><rect x="12mm" y="10mm" width="1mm" height="1mm" /><rect x="14mm" y="10mm" width="1mm" height="1mm" /><rect x="16mm" y="10mm" width="1mm" height="1mm" /><rect x="18mm" y="10mm" width="1mm" height="1mm" /><rect x="20mm" y="10mm" width="1mm" height="1mm" /><rect x="22mm" y="10mm" width="1mm" height="1mm" /><rect x="24mm" y="10mm" width="1mm" height="1mm" /><rect x="26mm" y="10mm" width="1mm" height="1mm" /><rect x="28mm" y="10mm" width="1mm" height="1mm" /><rect x="30mm" y="10mm" width="1mm" height="1mm" /><rect x="32mm" y="10mm" width="1mm" height="1mm" /><rect x="34mm" y="10mm" width="1mm" height="1mm" /><rect x="35mm" y="10mm" width="1mm" height="1mm" /><rect x="36mm" y="10mm" width="1mm" height="1mm" /><rect x="37mm" y="10mm" width="1mm" height="1mm" /><rect x="38mm" y="10mm" width="1mm" height="1mm" /><rect x="39mm" y="10mm" width="1mm" height="1mm" /><rect x="40mm" y="10mm" width="1mm" height="1mm" /><rect x="13mm" y="11mm" width="1mm" height="1mm" /><rect x="17mm" y="11mm" width="1mm" height="1mm" /><rect x="18mm" y="11mm" width="1mm" height="1mm" /><rect x="19mm" y="11mm" width="1mm" height="1mm" /><rect x="20mm" y="11mm" width="1mm" height="1mm" /><rect x="24mm" y="11mm" width="1mm" height="1mm" /><rect x="26mm" y="11mm" width="1mm" height="1mm" /><rect x="28mm" y="11mm" width="1mm" height="1mm" /><rect x="29mm" y="11mm" width="1mm" height="1mm" /><rect x="31mm" y="11mm" width="1mm" height="1mm" /><rect x="4mm" y="12mm" width="1mm" height="1mm" /><rect x="7mm" y="12mm" width="1mm" height="1mm" /><rect x="8mm" y="12mm" width="1mm" height="1mm" /><rect x="9mm" y="12mm" width="1mm" height="1mm" /><rect x="10mm" y="12mm" width="1mm" height="1mm" /><rect x="11mm" y="12mm" width="1mm" height="1mm" /><rect x="12mm" y="12mm" width="1mm" height="1mm" /><rect x="13mm" y="12mm" width="1mm" height="1mm" /><rect x="15mm" y="12mm" width="1mm" height="1mm" /><rect x="16mm" y="12mm" width="1mm" height="1mm" /><rect x="17mm" y="12mm" width="1mm" height="1mm" /><rect x="20mm" y="12mm" width="1mm" height="1mm" /><rect x="21mm" y="12mm" width="1mm" height="1mm" /><rect x="23mm" y="12mm" width="1mm" height="1mm" /><rect x="28mm" y="12mm" width="1mm" height="1mm" /><rect x="31mm" y="12mm" width="1mm" height="1mm" /><rect x="32mm" y="12mm" width="1mm" height="1mm" /><rect x="33mm" y="12mm" width="1mm" height="1mm" /><rect x="36mm" y="12mm" width="1mm" height="1mm" /><rect x="38mm" y="12mm" width="1mm" height="1mm" /><rect x="39mm" y="12mm" width="1mm" height="1mm" /><rect x="40mm" y="12mm" width="1mm" height="1mm" /><rect x="4mm" y="13mm" width="1mm" height="1mm" /><rect x="7mm" y="13mm" width="1mm" height="1mm" /><rect x="8mm" y="13mm" width="1mm" height="1mm" /><rect x="12mm" y="13mm" width="1mm" height="1mm" /><rect x="16mm" y="13mm" width="1mm" height="1mm" /><rect x="17mm" y="13mm" width="1mm" height="1mm" /><rect x="18mm" y="13mm" width="1mm" height="1mm" /><rect x="21mm" y="13mm" width="1mm" height="1mm" /><rect x="22mm" y="13mm" width="1mm" height="1mm" /><rect x="23mm" y="13mm" width="1mm" height="1mm" /><rect x="24mm" y="13mm" width="1mm" height="1mm" /><rect x="25mm" y="13mm" width="1mm" height="1mm" /><rect x="26mm" y="13mm" width="1mm" height="1mm" /><rect x="27mm" y="13mm" width="1mm" height="1mm" /><rect x="28mm" y="13mm" width="1mm" height="1mm" /><rect x="30mm" y="13mm" width="1mm" height="1mm" /><rect x="31mm" y="13mm" width="1mm" height="1mm" /><rect x="33mm" y="13mm" width="1mm" height="1mm" /><rect x="35mm" y="13mm" width="1mm" height="1mm" /><rect x="36mm" y="13mm" width="1mm" height="1mm" /><rect x="38mm" y="13mm" width="1mm" height="1mm" /><rect x="39mm" y="13mm" width="1mm" height="1mm" /><rect x="4mm" y="14mm" width="1mm" height="1mm" /><rect x="7mm" y="14mm" width="1mm" height="1mm" /><rect x="10mm" y="14mm" width="1mm" height="1mm" /><rect x="12mm" y="14mm" width="1mm" height="1mm" /><rect x="14mm" y="14mm" width="1mm" height="1mm" /><rect x="21mm" y="14mm" width="1mm" height="1mm" /><rect x="25mm" y="14mm" width="1mm" height="1mm" /><rect x="27mm" y="14mm" width="1mm" height="1mm" /><rect x="28mm" y="14mm" width="1mm" height="1mm" /><rect x="31mm" y="14mm" width="1mm" height="1mm" /><rect x="32mm" y="14mm" width="1mm" height="1mm" /><rect x="33mm" y="14mm" width="1mm" height="1mm" /><rect x="34mm" y="14mm" width="1mm" height="1mm" /><rect x="35mm" y="14mm" width="1mm" height="1mm" /><rect x="38mm" y="14mm" width="1mm" height="1mm" /><rect x="40mm" y="14mm" width="1mm" height="1mm" /><rect x="5mm" y="15mm" width="1mm" height="1mm" /><rect x="7mm" y="15mm" width="1mm" height="1mm" /><rect x="11mm" y="15mm" width="1mm" height="1mm" /><rect x="12mm" y="15mm" width="1mm" height="1mm" /><rect x="14mm" y="15mm" width="1mm" height="1mm" /><rect x="15mm" y="15mm" width="1mm" height="1mm" /><rect x="16mm" y="15mm" width="1mm" height="1mm" /><rect x="17mm" y="15mm" width="1mm" height="1mm" /><rect x="19mm" y="15mm" width="1mm" height="1mm" /><rect x="21mm" y="15mm" width="1mm" height="1mm" /><rect x="24mm" y="15mm" width="1mm" height="1mm" /><rect x="27mm" y="15mm" width="1mm" height="1mm" /><rect x="30mm" y="15mm" width="1mm" height="1mm" /><rect x="34mm" y="15mm" width="1mm" height="1mm" /><rect x="35mm" y="15mm" width="1mm" height="1mm" /><rect x="36mm" y="15mm" width="1mm" height="1mm" /><rect x="38mm" y="15mm" width="1mm" height="1mm" /><rect x="39mm" y="15mm" width="1mm" height="1mm" /><rect x="40mm" y="15mm" width="1mm" height="1mm" /><rect x="5mm" y="16mm" width="1mm" height="1mm" /><rect x="6mm" y="16mm" width="1mm" height="1mm" /><rect x="7mm" y="16mm" width="1mm" height="1mm" /><rect x="8mm" y="16mm" width="1mm" height="1mm" /><rect x="9mm" y="16mm" width="1mm" height="1mm" /><rect x="10mm" y="16mm" width="1mm" height="1mm" /><rect x="11mm" y="16mm" width="1mm" height="1mm" /><rect x="12mm" y="16mm" width="1mm" height="1mm" /><rect x="13mm" y="16mm" width="1mm" height="1mm" /><rect x="15mm" y="16mm" width="1mm" height="1mm" /><rect x="16mm" y="16mm" width="1mm" height="1mm" /><rect x="17mm" y="16mm" width="1mm" height="1mm" /><rect x="20mm" y="16mm" width="1mm" height="1mm" /><rect x="23mm" y="16mm" width="1mm" height="1mm" /><rect x="24mm" y="16mm" width="1mm" height="1mm" /><rect x="27mm" y="16mm" width="1mm" height="1mm" /><rect x="31mm" y="16mm" width="1mm" height="1mm" /><rect x="34mm" y="16mm" width="1mm" height="1mm" /><rect x="35mm" y="16mm" width="1mm" height="1mm" /><rect x="37mm" y="16mm" width="1mm" height="1mm" /><rect x="40mm" y="16mm" width="1mm" height="1mm" /><rect x="4mm" y="17mm" width="1mm" height="1mm" /><rect x="5mm" y="17mm" width="1mm" height="1mm" /><rect x="6mm" y="17mm" width="1mm" height="1mm" /><rect x="8mm" y="17mm" width="1mm" height="1mm" /><rect x="9mm" y="17mm" width="1mm" height="1mm" /><rect x="12mm" y="17mm" width="1mm" height="1mm" /><rect x="14mm" y="17mm" width="1mm" height="1mm" /><rect x="17mm" y="17mm" width="1mm" height="1mm" /><rect x="19mm" y="17mm" width="1mm" height="1mm" /><rect x="20mm" y="17mm" width="1mm" height="1mm" /><rect x="26mm" y="17mm" width="1mm" height="1mm" /><rect x="27mm" y="17mm" width="1mm" height="1mm" /><rect x="30mm" y="17mm" width="1mm" height="1mm" /><rect x="31mm" y="17mm" width="1mm" height="1mm" /><rect x="32mm" y="17mm" width="1mm" height="1mm" /><rect x="36mm" y="17mm" width="1mm" height="1mm" /><rect x="37mm" y="17mm" width="1mm" height="1mm" /><rect x="39mm" y="17mm" width="1mm" height="1mm" /><rect x="4mm" y="18mm" width="1mm" height="1mm" /><rect x="6mm" y="18mm" width="1mm" height="1mm" /><rect x="7mm" y="18mm" width="1mm" height="1mm" /><rect x="8mm" y="18mm" width="1mm" height="1mm" /><rect x="9mm" y="18mm" width="1mm" height="1mm" /><rect x="10mm" y="18mm" width="1mm" height="1mm" /><rect x="11mm" y="18mm" width="1mm" height="1mm" /><rect x="12mm" y="18mm" width="1mm" height="1mm" /><rect x="14mm" y="18mm" width="1mm" height="1mm" /><rect x="15mm" y="18mm" width="1mm" height="1mm" /><rect x="16mm" y="18mm" width="1mm" height="1mm" /><rect x="18mm" y="18mm" width="1mm" height="1mm" /><rect x="19mm" y="18mm" width="1mm" height="1mm" /><rect x="21mm" y="18mm" width="1mm" height="1mm" /><rect x="22mm" y="18mm" width="1mm" height="1mm" /><rect x="23mm" y="18mm" width="1mm" height="1mm" /><rect x="26mm" y="18mm" width="1mm" height="1mm" /><rect x="30mm" y="18mm" width="1mm" height="1mm" /><rect x="31mm" y="18mm" width="1mm" height="1mm" /><rect x="34mm" y="18mm" width="1mm" height="1mm" /><rect x="35mm" y="18mm" width="1mm" height="1mm" /><rect x="37mm" y="18mm" width="1mm" height="1mm" /><rect x="38mm" y="18mm" width="1mm" height="1mm" /><rect x="39mm" y="18mm" width="1mm" height="1mm" /><rect x="40mm" y="18mm" width="1mm" height="1mm" /><rect x="4mm" y="19mm" width="1mm" height="1mm" /><rect x="7mm" y="19mm" width="1mm" height="1mm" /><rect x="9mm" y="19mm" width="1mm" height="1mm" /><rect x="11mm" y="19mm" width="1mm" height="1mm" /><rect x="13mm" y="19mm" width="1mm" height="1mm" /><rect x="15mm" y="19mm" width="1mm" height="1mm" /><rect x="16mm" y="19mm" width="1mm" height="1mm" /><rect x="23mm" y="19mm" width="1mm" height="1mm" /><rect x="27mm" y="19mm" width="1mm" height="1mm" /><rect x="31mm" y="19mm" width="1mm" height="1mm" /><rect x="33mm" y="19mm" width="1mm" height="1mm" /><rect x="35mm" y="19mm" width="1mm" height="1mm" /><rect x="36mm" y="19mm" width="1mm" height="1mm" /><rect x="37mm" y="19mm" width="1mm" height="1mm" /><rect x="38mm" y="19mm" width="1mm" height="1mm" /><rect x="39mm" y="19mm" width="1mm" height="1mm" /><rect x="40mm" y="19mm" width="1mm" height="1mm" /><rect x="4mm" y="20mm" width="1mm" height="1mm" /><rect x="5mm" y="20mm" width="1mm" height="1mm" /><rect x="7mm" y="20mm" width="1mm" height="1mm" /><rect x="9mm" y="20mm" width="1mm" height="1mm" /><rect x="10mm" y="20mm" width="1mm" height="1mm" /><rect x="11mm" y="20mm" width="1mm" height="1mm" /><rect x="13mm" y="20mm" width="1mm" height="1mm" /><rect x="15mm" y="20mm" width="1mm" height="1mm" /><rect x="18mm" y="20mm" width="1mm" height="1mm" /><rect x="20mm" y="20mm" width="1mm" height="1mm" /><rect x="23mm" y="20mm" width="1mm" height="1mm" /><rect x="24mm" y="20mm" width="1mm" height="1mm" /><rect x="26mm" y="20mm" width="1mm" height="1mm" /><rect x="29mm" y="20mm" width="1mm" height="1mm" /><rect x="32mm" y="20mm" width="1mm" height="1mm" /><rect x="34mm" y="20mm" width="1mm" height="1mm" /><rect x="38mm" y="20mm" width="1mm" height="1mm" /><rect x="39mm" y="20mm" width="1mm" height="1mm" /><rect x="7mm" y="21mm" width="1mm" height="1mm" /><rect x="8mm" y="21mm" width="1mm" height="1mm" /><rect x="9mm" y="21mm" width="1mm" height="1mm" /><rect x="12mm" y="21mm" width="1mm" height="1mm" /><rect x="13mm" y="21mm" width="1mm" height="1mm" /><rect x="16mm" y="21mm" width="1mm" height="1mm" /><rect x="17mm" y="21mm" width="1mm" height="1mm" /><rect x="18mm" y="21mm" width="1mm" height="1mm" /><rect x="20mm" y="21mm" width="1mm" height="1mm" /><rect x="21mm" y="21mm" width="1mm" height="1mm" /><rect x="23mm" y="21mm" width="1mm" height="1mm" /><rect x="24mm" y="21mm" width="1mm" height="1mm" /><rect x="26mm" y="21mm" width="1mm" height="1mm" /><rect x="29mm" y="21mm" width="1mm" height="1mm" /><rect x="31mm" y="21mm" width="1mm" height="1mm" /><rect x="33mm" y="21mm" width="1mm" height="1mm" /><rect x="37mm" y="21mm" width="1mm" height="1mm" /><rect x="4mm" y="22mm" width="1mm" height="1mm" /><rect x="5mm" y="22mm" width="1mm" height="1mm" /><rect x="9mm" y="22mm" width="1mm" height="1mm" /><rect x="10mm" y="22mm" width="1mm" height="1mm" /><rect x="11mm" y="22mm" width="1mm" height="1mm" /><rect x="13mm" y="22mm" width="1mm" height="1mm" /><rect x="19mm" y="22mm" width="1mm" height="1mm" /><rect x="21mm" y="22mm" width="1mm" height="1mm" /><rect x="23mm" y="22mm" width="1mm" height="1mm" /><rect x="24mm" y="22mm" width="1mm" height="1mm" /><rect x="26mm" y="22mm" width="1mm" height="1mm" /><rect x="27mm" y="22mm" width="1mm" height="1mm" /><rect x="28mm" y="22mm" width="1mm" height="1mm" /><rect x="31mm" y="22mm" width="1mm" height="1mm" /><rect x="32mm" y="22mm" width="1mm" height="1mm" /><rect x="35mm" y="22mm" width="1mm" height="1mm" /><rect x="36mm" y="22mm" width="1mm" height="1mm" /><rect x="38mm" y="22mm" width="1mm" height="1mm" /><rect x="40mm" y="22mm" width="1mm" height="1mm" /><rect x="4mm" y="23mm" width="1mm" height="1mm" /><rect x="5mm" y="23mm" width="1mm" height="1mm" /><rect x="7mm" y="23mm" width="1mm" height="1mm" /><rect x="11mm" y="23mm" width="1mm" height="1mm" /><rect x="13mm" y="23mm" width="1mm" height="1mm" /><rect x="15mm" y="23mm" width="1mm" height="1mm" /><rect x="16mm" y="23mm" width="1mm" height="1mm" /><rect x="17mm" y="23mm" width="1mm" height="1mm" /><rect x="18mm" y="23mm" width="1mm" height="1mm" /><rect x="23mm" y="23mm" width="1mm" height="1mm" /><rect x="26mm" y="23mm" width="1mm" height="1mm" /><rect x="27mm" y="23mm" width="1mm" height="1mm" /><rect x="28mm" y="23mm" width="1mm" height="1mm" /><rect x="29mm" y="23mm" width="1mm" height="1mm" /><rect x="32mm" y="23mm" width="1mm" height="1mm" /><rect x="34mm" y="23mm" width="1mm" height="1mm" /><rect x="36mm" y="23mm" width="1mm" height="1mm" /><rect x="40mm" y="23mm" width="1mm" height="1mm" /><rect x="5mm" y="24mm" width="1mm" height="1mm" /><rect x="7mm" y="24mm" width="1mm" height="1mm" /><rect x="8mm" y="24mm" width="1mm" height="1mm" /><rect x="10mm" y="24mm" width="1mm" height="1mm" /><rect x="11mm" y="24mm" width="1mm" height="1mm" /><rect x="14mm" y="24mm" width="1mm" height="1mm" /><rect x="15mm" y="24mm" width="1mm" height="1mm" /><rect x="19mm" y="24mm" width="1mm" height="1mm" /><rect x="20mm" y="24mm" width="1mm" height="1mm" /><rect x="21mm" y="24mm" width="1mm" height="1mm" /><rect x="26mm" y="24mm" width="1mm" height="1mm" /><rect x="28mm" y="24mm" width="1mm" height="1mm" /><rect x="31mm" y="24mm" width="1mm" height="1mm" /><rect x="32mm" y="24mm" width="1mm" height="1mm" /><rect x="33mm" y="24mm" width="1mm" height="1mm" /><rect x="34mm" y="24mm" width="1mm" height="1mm" /><rect x="36mm" y="24mm" width="1mm" height="1mm" /><rect x="4mm" y="25mm" width="1mm" height="1mm" /><rect x="6mm" y="25mm" width="1mm" height="1mm" /><rect x="7mm" y="25mm" width="1mm" height="1mm" /><rect x="8mm" y="25mm" width="1mm" height="1mm" /><rect x="9mm" y="25mm" width="1mm" height="1mm" /><rect x="12mm" y="25mm" width="1mm" height="1mm" /><rect x="13mm" y="25mm" width="1mm" height="1mm" /><rect x="15mm" y="25mm" width="1mm" height="1mm" /><rect x="18mm" y="25mm" width="1mm" height="1mm" /><rect x="19mm" y="25mm" width="1mm" height="1mm" /><rect x="20mm" y="25mm" width="1mm" height="1mm" /><rect x="23mm" y="25mm" width="1mm" height="1mm" /><rect x="25mm" y="25mm" width="1mm" height="1mm" /><rect x="26mm" y="25mm" width="1mm" height="1mm" /><rect x="27mm" y="25mm" width="1mm" height="1mm" /><rect x="28mm" y="25mm" width="1mm" height="1mm" /><rect x="30mm" y="25mm" width="1mm" height="1mm" /><rect x="31mm" y="25mm" width="1mm" height="1mm" /><rect x="35mm" y="25mm" width="1mm" height="1mm" /><rect x="36mm" y="25mm" width="1mm" height="1mm" /><rect x="38mm" y="25mm" width="1mm" height="1mm" /><rect x="39mm" y="25mm" width="1mm" height="1mm" /><rect x="5mm" y="26mm" width="1mm" height="1mm" /><rect x="9mm" y="26mm" width="1mm" height="1mm" /><rect x="10mm" y="26mm" width="1mm" height="1mm" /><rect x="12mm" y="26mm" width="1mm" height="1mm" /><rect x="14mm" y="26mm" width="1mm" height="1mm" /><rect x="16mm" y="26mm" width="1mm" height="1mm" /><rect x="17mm" y="26mm" width="1mm" height="1mm" /><rect x="18mm" y="26mm" width="1mm" height="1mm" /><rect x="19mm" y="26mm" width="1mm" height="1mm" /><rect x="20mm" y="26mm" width="1mm" height="1mm" /><rect x="22mm" y="26mm" width="1mm" height="1mm" /><rect x="25mm" y="26mm" width="1mm" height="1mm" /><rect x="27mm" y="26mm" width="1mm" height="1mm" /><rect x="31mm" y="26mm" width="1mm" height="1mm" /><rect x="33mm" y="26mm" width="1mm" height="1mm" /><rect x="34mm" y="26mm" width="1mm" height="1mm" /><rect x="35mm" y="26mm" width="1mm" height="1mm" /><rect x="37mm" y="26mm" width="1mm" height="1mm" /><rect x="40mm" y="26mm" width="1mm" height="1mm" /><rect x="4mm" y="27mm" width="1mm" height="1mm" /><rect x="5mm" y="27mm" width="1mm" height="1mm" /><rect x="7mm" y="27mm" width="1mm" height="1mm" /><rect x="8mm" y="27mm" width="1mm" height="1mm" /><rect x="9mm" y="27mm" width="1mm" height="1mm" /><rect x="12mm" y="27mm" width="1mm" height="1mm" /><rect x="13mm" y="27mm" width="1mm" height="1mm" /><rect x="14mm" y="27mm" width="1mm" height="1mm" /><rect x="15mm" y="27mm" width="1mm" height="1mm" /><rect x="16mm" y="27mm" width="1mm" height="1mm" /><rect x="17mm" y="27mm" width="1mm" height="1mm" /><rect x="18mm" y="27mm" width="1mm" height="1mm" /><rect x="19mm" y="27mm" width="1mm" height="1mm" /><rect x="20mm" y="27mm" width="1mm" height="1mm" /><rect x="21mm" y="27mm" width="1mm" height="1mm" /><rect x="24mm" y="27mm" width="1mm" height="1mm" /><rect x="26mm" y="27mm" width="1mm" height="1mm" /><rect x="30mm" y="27mm" width="1mm" height="1mm" /><rect x="31mm" y="27mm" width="1mm" height="1mm" /><rect x="35mm" y="27mm" width="1mm" height="1mm" /><rect x="36mm" y="27mm" width="1mm" height="1mm" /><rect x="38mm" y="27mm" width="1mm" height="1mm" /><rect x="40mm" y="27mm" width="1mm" height="1mm" /><rect x="5mm" y="28mm" width="1mm" height="1mm" /><rect x="7mm" y="28mm" width="1mm" height="1mm" /><rect x="9mm" y="28mm" width="1mm" height="1mm" /><rect x="10mm" y="28mm" width="1mm" height="1mm" /><rect x="11mm" y="28mm" width="1mm" height="1mm" /><rect x="13mm" y="28mm" width="1mm" height="1mm" /><rect x="14mm" y="28mm" width="1mm" height="1mm" /><rect x="17mm" y="28mm" width="1mm" height="1mm" /><rect x="19mm" y="28mm" width="1mm" height="1mm" /><rect x="20mm" y="28mm" width="1mm" height="1mm" /><rect x="21mm" y="28mm" width="1mm" height="1mm" /><rect x="22mm" y="28mm" width="1mm" height="1mm" /><rect x="23mm" y="28mm" width="1mm" height="1mm" /><rect x="24mm" y="28mm" width="1mm" height="1mm" /><rect x="27mm" y="28mm" width="1mm" height="1mm" /><rect x="32mm" y="28mm" width="1mm" height="1mm" /><rect x="34mm" y="28mm" width="1mm" height="1mm" /><rect x="39mm" y="28mm" width="1mm" height="1mm" /><rect x="40mm" y="28mm" width="1mm" height="1mm" /><rect x="4mm" y="29mm" width="1mm" height="1mm" /><rect x="5mm" y="29mm" width="1mm" height="1mm" /><rect x="7mm" y="29mm" width="1mm" height="1mm" /><rect x="9mm" y="29mm" width="1mm" height="1mm" /><rect x="11mm" y="29mm" width="1mm" height="1mm" /><rect x="13mm" y="29mm" width="1mm" height="1mm" /><rect x="14mm" y="29mm" width="1mm" height="1mm" /><rect x="15mm" y="29mm" width="1mm" height="1mm" /><rect x="17mm" y="29mm" width="1mm" height="1mm" /><rect x="18mm" y="29mm" width="1mm" height="1mm" /><rect x="20mm" y="29mm" width="1mm" height="1mm" /><rect x="22mm" y="29mm" width="1mm" height="1mm" /><rect x="25mm" y="29mm" width="1mm" height="1mm" /><rect x="27mm" y="29mm" width="1mm" height="1mm" /><rect x="31mm" y="29mm" width="1mm" height="1mm" /><rect x="32mm" y="29mm" width="1mm" height="1mm" /><rect x="35mm" y="29mm" width="1mm" height="1mm" /><rect x="36mm" y="29mm" width="1mm" height="1mm" /><rect x="4mm" y="30mm" width="1mm" height="1mm" /><rect x="5mm" y="30mm" width="1mm" height="1mm" /><rect x="6mm" y="30mm" width="1mm" height="1mm" /><rect x="8mm" y="30mm" width="1mm" height="1mm" /><rect x="9mm" y="30mm" width="1mm" height="1mm" /><rect x="10mm" y="30mm" width="1mm" height="1mm" /><rect x="16mm" y="30mm" width="1mm" height="1mm" /><rect x="17mm" y="30mm" width="1mm" height="1mm" /><rect x="18mm" y="30mm" width="1mm" height="1mm" /><rect x="20mm" y="30mm" width="1mm" height="1mm" /><rect x="21mm" y="30mm" width="1mm" height="1mm" /><rect x="22mm" y="30mm" width="1mm" height="1mm" /><rect x="23mm" y="30mm" width="1mm" height="1mm" /><rect x="24mm" y="30mm" width="1mm" height="1mm" /><rect x="25mm" y="30mm" width="1mm" height="1mm" /><rect x="30mm" y="30mm" width="1mm" height="1mm" /><rect x="31mm" y="30mm" width="1mm" height="1mm" /><rect x="35mm" y="30mm" width="1mm" height="1mm" /><rect x="36mm" y="30mm" width="1mm" height="1mm" /><rect x="37mm" y="30mm" width="1mm" height="1mm" /><rect x="39mm" y="30mm" width="1mm" height="1mm" /><rect x="40mm" y="30mm" width="1mm" height="1mm" /><rect x="4mm" y="31mm" width="1mm" height="1mm" /><rect x="7mm" y="31mm" width="1mm" height="1mm" /><rect x="11mm" y="31mm" width="1mm" height="1mm" /><rect x="12mm" y="31mm" width="1mm" height="1mm" /><rect x="14mm" y="31mm" width="1mm" height="1mm" /><rect x="15mm" y="31mm" width="1mm" height="1mm" /><rect x="17mm" y="31mm" width="1mm" height="1mm" /><rect x="18mm" y="31mm" width="1mm" height="1mm" /><rect x="19mm" y="31mm" width="1mm" height="1mm" /><rect x="27mm" y="31mm" width="1mm" height="1mm" /><rect x="30mm" y="31mm" width="1mm" height="1mm" /><rect x="33mm" y="31mm" width="1mm" height="1mm" /><rect x="36mm" y="31mm" width="1mm" height="1mm" /><rect x="38mm" y="31mm" width="1mm" height="1mm" /><rect x="39mm" y="31mm" width="1mm" height="1mm" /><rect x="4mm" y="32mm" width="1mm" height="1mm" /><rect x="7mm" y="32mm" width="1mm" height="1mm" /><rect x="9mm" y="32mm" width="1mm" height="1mm" /><rect x="10mm" y="32mm" width="1mm" height="1mm" /><rect x="12mm" y="32mm" width="1mm" height="1mm" /><rect x="13mm" y="32mm" width="1mm" height="1mm" /><rect x="14mm" y="32mm" width="1mm" height="1mm" /><rect x="15mm" y="32mm" width="1mm" height="1mm" /><rect x="16mm" y="32mm" width="1mm" height="1mm" /><rect x="17mm" y="32mm" width="1mm" height="1mm" /><rect x="20mm" y="32mm" width="1mm" height="1mm" /><rect x="24mm" y="32mm" width="1mm" height="1mm" /><rect x="26mm" y="32mm" width="1mm" height="1mm" /><rect x="28mm" y="32mm" width="1mm" height="1mm" /><rect x="29mm" y="32mm" width="1mm" height="1mm" /><rect x="31mm" y="32mm" width="1mm" height="1mm" /><rect x="32mm" y="32mm" width="1mm" height="1mm" /><rect x="33mm" y="32mm" width="1mm" height="1mm" /><rect x="34mm" y="32mm" width="1mm" height="1mm" /><rect x="35mm" y="32mm" width="1mm" height="1mm" /><rect x="36mm" y="32mm" width="1mm" height="1mm" /><rect x="38mm" y="32mm" width="1mm" height="1mm" /><rect x="12mm" y="33mm" width="1mm" height="1mm" /><rect x="17mm" y="33mm" width="1mm" height="1mm" /><rect x="19mm" y="33mm" width="1mm" height="1mm" /><rect x="22mm" y="33mm" width="1mm" height="1mm" /><rect x="23mm" y="33mm" width="1mm" height="1mm" /><rect x="24mm" y="33mm" width="1mm" height="1mm" /><rect x="26mm" y="33mm" width="1mm" height="1mm" /><rect x="29mm" y="33mm" width="1mm" height="1mm" /><rect x="32mm" y="33mm" width="1mm" height="1mm" /><rect x="36mm" y="33mm" width="1mm" height="1mm" /><rect x="39mm" y="33mm" width="1mm" height="1mm" /><rect x="4mm" y="34mm" width="1mm" height="1mm" /><rect x="5mm" y="34mm" width="1mm" height="1mm" /><rect x="6mm" y="34mm" width="1mm" height="1mm" /><rect x="7mm" y="34mm" width="1mm" height="1mm" /><rect x="8mm" y="34mm" width="1mm" height="1mm" /><rect x="9mm" y="34mm" width="1mm" height="1mm" /><rect x="10mm" y="34mm" width="1mm" height="1mm" /><rect x="12mm" y="34mm" width="1mm" height="1mm" /><rect x="14mm" y="34mm" width="1mm" height="1mm" /><rect x="16mm" y="34mm" width="1mm" height="1mm" /><rect x="17mm" y="34mm" width="1mm" height="1mm" /><rect x="19mm" y="34mm" width="1mm" height="1mm" /><rect x="20mm" y="34mm" width="1mm" height="1mm" /><rect x="23mm" y="34mm" width="1mm" height="1mm" /><rect x="24mm" y="34mm" width="1mm" height="1mm" /><rect x="25mm" y="34mm" width="1mm" height="1mm" /><rect x="27mm" y="34mm" width="1mm" height="1mm" /><rect x="28mm" y="34mm" width="1mm" height="1mm" /><rect x="29mm" y="34mm" width="1mm" height="1mm" /><rect x="30mm" y="34mm" width="1mm" height="1mm" /><rect x="32mm" y="34mm" width="1mm" height="1mm" /><rect x="34mm" y="34mm" width="1mm" height="1mm" /><rect x="36mm" y="34mm" width="1mm" height="1mm" /><rect x="37mm" y="34mm" width="1mm" height="1mm" /><rect x="40mm" y="34mm" width="1mm" height="1mm" /><rect x="4mm" y="35mm" width="1mm" height="1mm" /><rect x="10mm" y="35mm" width="1mm" height="1mm" /><rect x="12mm" y="35mm" width="1mm" height="1mm" /><rect x="14mm" y="35mm" width="1mm" height="1mm" /><rect x="15mm" y="35mm" width="1mm" height="1mm" /><rect x="16mm" y="35mm" width="1mm" height="1mm" /><rect x="17mm" y="35mm" width="1mm" height="1mm" /><rect x="18mm" y="35mm" width="1mm" height="1mm" /><rect x="19mm" y="35mm" width="1mm" height="1mm" /><rect x="21mm" y="35mm" width="1mm" height="1mm" /><rect x="22mm" y="35mm" width="1mm" height="1mm" /><rect x="24mm" y="35mm" width="1mm" height="1mm" /><rect x="26mm" y="35mm" width="1mm" height="1mm" /><rect x="27mm" y="35mm" width="1mm" height="1mm" /><rect x="28mm" y="35mm" width="1mm" height="1mm" /><rect x="29mm" y="35mm" width="1mm" height="1mm" /><rect x="30mm" y="35mm" width="1mm" height="1mm" /><rect x="32mm" y="35mm" width="1mm" height="1mm" /><rect x="36mm" y="35mm" width="1mm" height="1mm" /><rect x="40mm" y="35mm" width="1mm" height="1mm" /><rect x="4mm" y="36mm" width="1mm" height="1mm" /><rect x="6mm" y="36mm" width="1mm" height="1mm" /><rect x="7mm" y="36mm" width="1mm" height="1mm" /><rect x="8mm" y="36mm" width="1mm" height="1mm" /><rect x="10mm" y="36mm" width="1mm" height="1mm" /><rect x="12mm" y="36mm" width="1mm" height="1mm" /><rect x="13mm" y="36mm" width="1mm" height="1mm" /><rect x="14mm" y="36mm" width="1mm" height="1mm" /><rect x="16mm" y="36mm" width="1mm" height="1mm" /><rect x="17mm" y="36mm" width="1mm" height="1mm" /><rect x="19mm" y="36mm" width="1mm" height="1mm" /><rect x="23mm" y="36mm" width="1mm" height="1mm" /><rect x="24mm" y="36mm" width="1mm" height="1mm" /><rect x="28mm" y="36mm" width="1mm" height="1mm" /><rect x="30mm" y="36mm" width="1mm" height="1mm" /><rect x="31mm" y="36mm" width="1mm" height="1mm" /><rect x="32mm" y="36mm" width="1mm" height="1mm" /><rect x="33mm" y="36mm" width="1mm" height="1mm" /><rect x="34mm" y="36mm" width="1mm" height="1mm" /><rect x="35mm" y="36mm" width="1mm" height="1mm" /><rect x="36mm" y="36mm" width="1mm" height="1mm" /><rect x="37mm" y="36mm" width="1mm" height="1mm" /><rect x="39mm" y="36mm" width="1mm" height="1mm" /><rect x="40mm" y="36mm" width="1mm" height="1mm" /><rect x="4mm" y="37mm" width="1mm" height="1mm" /><rect x="6mm" y="37mm" width="1mm" height="1mm" /><rect x="7mm" y="37mm" width="1mm" height="1mm" /><rect x="8mm" y="37mm" width="1mm" height="1mm" /><rect x="10mm" y="37mm" width="1mm" height="1mm" /><rect x="12mm" y="37mm" width="1mm" height="1mm" /><rect x="13mm" y="37mm" width="1mm" height="1mm" /><rect x="14mm" y="37mm" width="1mm" height="1mm" /><rect x="16mm" y="37mm" width="1mm" height="1mm" /><rect x="18mm" y="37mm" width="1mm" height="1mm" /><rect x="20mm" y="37mm" width="1mm" height="1mm" /><rect x="22mm" y="37mm" width="1mm" height="1mm" /><rect x="23mm" y="37mm" width="1mm" height="1mm" /><rect x="26mm" y="37mm" width="1mm" height="1mm" /><rect x="27mm" y="37mm" width="1mm" height="1mm" /><rect x="29mm" y="37mm" width="1mm" height="1mm" /><rect x="31mm" y="37mm" width="1mm" height="1mm" /><rect x="33mm" y="37mm" width="1mm" height="1mm" /><rect x="34mm" y="37mm" width="1mm" height="1mm" /><rect x="38mm" y="37mm" width="1mm" height="1mm" /><rect x="40mm" y="37mm" width="1mm" height="1mm" /><rect x="4mm" y="38mm" width="1mm" height="1mm" /><rect x="6mm" y="38mm" width="1mm" height="1mm" /><rect x="7mm" y="38mm" width="1mm" height="1mm" /><rect x="8mm" y="38mm" width="1mm" height="1mm" /><rect x="10mm" y="38mm" width="1mm" height="1mm" /><rect x="13mm" y="38mm" width="1mm" height="1mm" /><rect x="18mm" y="38mm" width="1mm" height="1mm" /><rect x="19mm" y="38mm" width="1mm" height="1mm" /><rect x="20mm" y="38mm" width="1mm" height="1mm" /><rect x="21mm" y="38mm" width="1mm" height="1mm" /><rect x="24mm" y="38mm" width="1mm" height="1mm" /><rect x="26mm" y="38mm" width="1mm" height="1mm" /><rect x="27mm" y="38mm" width="1mm" height="1mm" /><rect x="28mm" y="38mm" width="1mm" height="1mm" /><rect x="29mm" y="38mm" width="1mm" height="1mm" /><rect x="31mm" y="38mm" width="1mm" height="1mm" /><rect x="36mm" y="38mm" width="1mm" height="1mm" /><rect x="37mm" y="38mm" width="1mm" height="1mm" /><rect x="40mm" y="38mm" width="1mm" height="1mm" /><rect x="4mm" y="39mm" width="1mm" height="1mm" /><rect x="10mm" y="39mm" width="1mm" height="1mm" /><rect x="18mm" y="39mm" width="1mm" height="1mm" /><rect x="20mm" y="39mm" width="1mm" height="1mm" /><rect x="21mm" y="39mm" width="1mm" height="1mm" /><rect x="24mm" y="39mm" width="1mm" height="1mm" /><rect x="26mm" y="39mm" width="1mm" height="1mm" /><rect x="27mm" y="39mm" width="1mm" height="1mm" /><rect x="28mm" y="39mm" width="1mm" height="1mm" /><rect x="30mm" y="39mm" width="1mm" height="1mm" /><rect x="33mm" y="39mm" width="1mm" height="1mm" /><rect x="35mm" y="39mm" width="1mm" height="1mm" /><rect x="36mm" y="39mm" width="1mm" height="1mm" /><rect x="38mm" y="39mm" width="1mm" height="1mm" /><rect x="39mm" y="39mm" width="1mm" height="1mm" /><rect x="40mm" y="39mm" width="1mm" height="1mm" /><rect x="4mm" y="40mm" width="1mm" height="1mm" /><rect x="5mm" y="40mm" width="1mm" height="1mm" /><rect x="6mm" y="40mm" width="1mm" height="1mm" /><rect x="7mm" y="40mm" width="1mm" height="1mm" /><rect x="8mm" y="40mm" width="1mm" height="1mm" /><rect x="9mm" y="40mm" width="1mm" height="1mm" /><rect x="10mm" y="40mm" width="1mm" height="1mm" /><rect x="12mm" y="40mm" width="1mm" height="1mm" /><rect x="13mm" y="40mm" width="1mm" height="1mm" /><rect x="14mm" y="40mm" width="1mm" height="1mm" /><rect x="15mm" y="40mm" width="1mm" height="1mm" /><rect x="17mm" y="40mm" width="1mm" height="1mm" /><rect x="19mm" y="40mm" width="1mm" height="1mm" /><rect x="23mm" y="40mm" width="1mm" height="1mm" /><rect x="27mm" y="40mm" width="1mm" height="1mm" /><rect x="32mm" y="40mm" width="1mm" height="1mm" /><rect x="33mm" y="40mm" width="1mm" height="1mm" /><rect x="34mm" y="40mm" width="1mm" height="1mm" /><rect x="40mm" y="40mm" width="1mm" height="1mm" /></svg></div>
+                                </span>
+                            
+                        </a></li>
+                    
+                        <li><a class="dropdown-item" href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/export/schedule.json">
+                            
+                                <span class="export-icon">{ }</span>
+                            
+                            JSON (frab compatible)
+                            
+                        </a></li>
+                    
+                        <li><a class="dropdown-item" href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/export/schedule.xcal">
+                            
+                                <span class="fa fa-calendar export-icon"></span>
+                            
+                            XCal (frab compatible)
+                            
+                        </a></li>
+                    
+                        <li><a class="dropdown-item" href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/export/schedule.xml">
+                            
+                                <span class="fa fa-code export-icon"></span>
+                            
+                            XML (frab compatible)
+                            
+                                <span class="export-qrcode">
+                                    <div class="btn btn-default btn-sm">
+                                        <i class="fa fa-qrcode"></i>
+                                    </div>
+                                    <div class="export-qrcode-image btn btn-default"><svg width="45mm" height="45mm" version="1.1" xmlns="http://www.w3.org/2000/svg"><rect x="4mm" y="4mm" width="1mm" height="1mm" /><rect x="5mm" y="4mm" width="1mm" height="1mm" /><rect x="6mm" y="4mm" width="1mm" height="1mm" /><rect x="7mm" y="4mm" width="1mm" height="1mm" /><rect x="8mm" y="4mm" width="1mm" height="1mm" /><rect x="9mm" y="4mm" width="1mm" height="1mm" /><rect x="10mm" y="4mm" width="1mm" height="1mm" /><rect x="12mm" y="4mm" width="1mm" height="1mm" /><rect x="14mm" y="4mm" width="1mm" height="1mm" /><rect x="15mm" y="4mm" width="1mm" height="1mm" /><rect x="17mm" y="4mm" width="1mm" height="1mm" /><rect x="25mm" y="4mm" width="1mm" height="1mm" /><rect x="29mm" y="4mm" width="1mm" height="1mm" /><rect x="30mm" y="4mm" width="1mm" height="1mm" /><rect x="34mm" y="4mm" width="1mm" height="1mm" /><rect x="35mm" y="4mm" width="1mm" height="1mm" /><rect x="36mm" y="4mm" width="1mm" height="1mm" /><rect x="37mm" y="4mm" width="1mm" height="1mm" /><rect x="38mm" y="4mm" width="1mm" height="1mm" /><rect x="39mm" y="4mm" width="1mm" height="1mm" /><rect x="40mm" y="4mm" width="1mm" height="1mm" /><rect x="4mm" y="5mm" width="1mm" height="1mm" /><rect x="10mm" y="5mm" width="1mm" height="1mm" /><rect x="12mm" y="5mm" width="1mm" height="1mm" /><rect x="14mm" y="5mm" width="1mm" height="1mm" /><rect x="15mm" y="5mm" width="1mm" height="1mm" /><rect x="16mm" y="5mm" width="1mm" height="1mm" /><rect x="17mm" y="5mm" width="1mm" height="1mm" /><rect x="22mm" y="5mm" width="1mm" height="1mm" /><rect x="23mm" y="5mm" width="1mm" height="1mm" /><rect x="24mm" y="5mm" width="1mm" height="1mm" /><rect x="25mm" y="5mm" width="1mm" height="1mm" /><rect x="26mm" y="5mm" width="1mm" height="1mm" /><rect x="34mm" y="5mm" width="1mm" height="1mm" /><rect x="40mm" y="5mm" width="1mm" height="1mm" /><rect x="4mm" y="6mm" width="1mm" height="1mm" /><rect x="6mm" y="6mm" width="1mm" height="1mm" /><rect x="7mm" y="6mm" width="1mm" height="1mm" /><rect x="8mm" y="6mm" width="1mm" height="1mm" /><rect x="10mm" y="6mm" width="1mm" height="1mm" /><rect x="12mm" y="6mm" width="1mm" height="1mm" /><rect x="13mm" y="6mm" width="1mm" height="1mm" /><rect x="14mm" y="6mm" width="1mm" height="1mm" /><rect x="15mm" y="6mm" width="1mm" height="1mm" /><rect x="17mm" y="6mm" width="1mm" height="1mm" /><rect x="18mm" y="6mm" width="1mm" height="1mm" /><rect x="19mm" y="6mm" width="1mm" height="1mm" /><rect x="20mm" y="6mm" width="1mm" height="1mm" /><rect x="22mm" y="6mm" width="1mm" height="1mm" /><rect x="24mm" y="6mm" width="1mm" height="1mm" /><rect x="25mm" y="6mm" width="1mm" height="1mm" /><rect x="27mm" y="6mm" width="1mm" height="1mm" /><rect x="29mm" y="6mm" width="1mm" height="1mm" /><rect x="30mm" y="6mm" width="1mm" height="1mm" /><rect x="31mm" y="6mm" width="1mm" height="1mm" /><rect x="34mm" y="6mm" width="1mm" height="1mm" /><rect x="36mm" y="6mm" width="1mm" height="1mm" /><rect x="37mm" y="6mm" width="1mm" height="1mm" /><rect x="38mm" y="6mm" width="1mm" height="1mm" /><rect x="40mm" y="6mm" width="1mm" height="1mm" /><rect x="4mm" y="7mm" width="1mm" height="1mm" /><rect x="6mm" y="7mm" width="1mm" height="1mm" /><rect x="7mm" y="7mm" width="1mm" height="1mm" /><rect x="8mm" y="7mm" width="1mm" height="1mm" /><rect x="10mm" y="7mm" width="1mm" height="1mm" /><rect x="16mm" y="7mm" width="1mm" height="1mm" /><rect x="21mm" y="7mm" width="1mm" height="1mm" /><rect x="22mm" y="7mm" width="1mm" height="1mm" /><rect x="23mm" y="7mm" width="1mm" height="1mm" /><rect x="24mm" y="7mm" width="1mm" height="1mm" /><rect x="25mm" y="7mm" width="1mm" height="1mm" /><rect x="27mm" y="7mm" width="1mm" height="1mm" /><rect x="28mm" y="7mm" width="1mm" height="1mm" /><rect x="29mm" y="7mm" width="1mm" height="1mm" /><rect x="31mm" y="7mm" width="1mm" height="1mm" /><rect x="32mm" y="7mm" width="1mm" height="1mm" /><rect x="34mm" y="7mm" width="1mm" height="1mm" /><rect x="36mm" y="7mm" width="1mm" height="1mm" /><rect x="37mm" y="7mm" width="1mm" height="1mm" /><rect x="38mm" y="7mm" width="1mm" height="1mm" /><rect x="40mm" y="7mm" width="1mm" height="1mm" /><rect x="4mm" y="8mm" width="1mm" height="1mm" /><rect x="6mm" y="8mm" width="1mm" height="1mm" /><rect x="7mm" y="8mm" width="1mm" height="1mm" /><rect x="8mm" y="8mm" width="1mm" height="1mm" /><rect x="10mm" y="8mm" width="1mm" height="1mm" /><rect x="12mm" y="8mm" width="1mm" height="1mm" /><rect x="14mm" y="8mm" width="1mm" height="1mm" /><rect x="15mm" y="8mm" width="1mm" height="1mm" /><rect x="16mm" y="8mm" width="1mm" height="1mm" /><rect x="17mm" y="8mm" width="1mm" height="1mm" /><rect x="19mm" y="8mm" width="1mm" height="1mm" /><rect x="20mm" y="8mm" width="1mm" height="1mm" /><rect x="22mm" y="8mm" width="1mm" height="1mm" /><rect x="23mm" y="8mm" width="1mm" height="1mm" /><rect x="25mm" y="8mm" width="1mm" height="1mm" /><rect x="30mm" y="8mm" width="1mm" height="1mm" /><rect x="32mm" y="8mm" width="1mm" height="1mm" /><rect x="34mm" y="8mm" width="1mm" height="1mm" /><rect x="36mm" y="8mm" width="1mm" height="1mm" /><rect x="37mm" y="8mm" width="1mm" height="1mm" /><rect x="38mm" y="8mm" width="1mm" height="1mm" /><rect x="40mm" y="8mm" width="1mm" height="1mm" /><rect x="4mm" y="9mm" width="1mm" height="1mm" /><rect x="10mm" y="9mm" width="1mm" height="1mm" /><rect x="14mm" y="9mm" width="1mm" height="1mm" /><rect x="17mm" y="9mm" width="1mm" height="1mm" /><rect x="21mm" y="9mm" width="1mm" height="1mm" /><rect x="22mm" y="9mm" width="1mm" height="1mm" /><rect x="24mm" y="9mm" width="1mm" height="1mm" /><rect x="25mm" y="9mm" width="1mm" height="1mm" /><rect x="26mm" y="9mm" width="1mm" height="1mm" /><rect x="27mm" y="9mm" width="1mm" height="1mm" /><rect x="30mm" y="9mm" width="1mm" height="1mm" /><rect x="34mm" y="9mm" width="1mm" height="1mm" /><rect x="40mm" y="9mm" width="1mm" height="1mm" /><rect x="4mm" y="10mm" width="1mm" height="1mm" /><rect x="5mm" y="10mm" width="1mm" height="1mm" /><rect x="6mm" y="10mm" width="1mm" height="1mm" /><rect x="7mm" y="10mm" width="1mm" height="1mm" /><rect x="8mm" y="10mm" width="1mm" height="1mm" /><rect x="9mm" y="10mm" width="1mm" height="1mm" /><rect x="10mm" y="10mm" width="1mm" height="1mm" /><rect x="12mm" y="10mm" width="1mm" height="1mm" /><rect x="14mm" y="10mm" width="1mm" height="1mm" /><rect x="16mm" y="10mm" width="1mm" height="1mm" /><rect x="18mm" y="10mm" width="1mm" height="1mm" /><rect x="20mm" y="10mm" width="1mm" height="1mm" /><rect x="22mm" y="10mm" width="1mm" height="1mm" /><rect x="24mm" y="10mm" width="1mm" height="1mm" /><rect x="26mm" y="10mm" width="1mm" height="1mm" /><rect x="28mm" y="10mm" width="1mm" height="1mm" /><rect x="30mm" y="10mm" width="1mm" height="1mm" /><rect x="32mm" y="10mm" width="1mm" height="1mm" /><rect x="34mm" y="10mm" width="1mm" height="1mm" /><rect x="35mm" y="10mm" width="1mm" height="1mm" /><rect x="36mm" y="10mm" width="1mm" height="1mm" /><rect x="37mm" y="10mm" width="1mm" height="1mm" /><rect x="38mm" y="10mm" width="1mm" height="1mm" /><rect x="39mm" y="10mm" width="1mm" height="1mm" /><rect x="40mm" y="10mm" width="1mm" height="1mm" /><rect x="17mm" y="11mm" width="1mm" height="1mm" /><rect x="19mm" y="11mm" width="1mm" height="1mm" /><rect x="20mm" y="11mm" width="1mm" height="1mm" /><rect x="22mm" y="11mm" width="1mm" height="1mm" /><rect x="24mm" y="11mm" width="1mm" height="1mm" /><rect x="26mm" y="11mm" width="1mm" height="1mm" /><rect x="28mm" y="11mm" width="1mm" height="1mm" /><rect x="29mm" y="11mm" width="1mm" height="1mm" /><rect x="31mm" y="11mm" width="1mm" height="1mm" /><rect x="4mm" y="12mm" width="1mm" height="1mm" /><rect x="7mm" y="12mm" width="1mm" height="1mm" /><rect x="8mm" y="12mm" width="1mm" height="1mm" /><rect x="9mm" y="12mm" width="1mm" height="1mm" /><rect x="10mm" y="12mm" width="1mm" height="1mm" /><rect x="11mm" y="12mm" width="1mm" height="1mm" /><rect x="12mm" y="12mm" width="1mm" height="1mm" /><rect x="15mm" y="12mm" width="1mm" height="1mm" /><rect x="16mm" y="12mm" width="1mm" height="1mm" /><rect x="18mm" y="12mm" width="1mm" height="1mm" /><rect x="20mm" y="12mm" width="1mm" height="1mm" /><rect x="21mm" y="12mm" width="1mm" height="1mm" /><rect x="23mm" y="12mm" width="1mm" height="1mm" /><rect x="28mm" y="12mm" width="1mm" height="1mm" /><rect x="31mm" y="12mm" width="1mm" height="1mm" /><rect x="32mm" y="12mm" width="1mm" height="1mm" /><rect x="33mm" y="12mm" width="1mm" height="1mm" /><rect x="36mm" y="12mm" width="1mm" height="1mm" /><rect x="38mm" y="12mm" width="1mm" height="1mm" /><rect x="39mm" y="12mm" width="1mm" height="1mm" /><rect x="40mm" y="12mm" width="1mm" height="1mm" /><rect x="4mm" y="13mm" width="1mm" height="1mm" /><rect x="5mm" y="13mm" width="1mm" height="1mm" /><rect x="6mm" y="13mm" width="1mm" height="1mm" /><rect x="7mm" y="13mm" width="1mm" height="1mm" /><rect x="8mm" y="13mm" width="1mm" height="1mm" /><rect x="11mm" y="13mm" width="1mm" height="1mm" /><rect x="14mm" y="13mm" width="1mm" height="1mm" /><rect x="15mm" y="13mm" width="1mm" height="1mm" /><rect x="17mm" y="13mm" width="1mm" height="1mm" /><rect x="18mm" y="13mm" width="1mm" height="1mm" /><rect x="21mm" y="13mm" width="1mm" height="1mm" /><rect x="22mm" y="13mm" width="1mm" height="1mm" /><rect x="23mm" y="13mm" width="1mm" height="1mm" /><rect x="24mm" y="13mm" width="1mm" height="1mm" /><rect x="25mm" y="13mm" width="1mm" height="1mm" /><rect x="26mm" y="13mm" width="1mm" height="1mm" /><rect x="27mm" y="13mm" width="1mm" height="1mm" /><rect x="28mm" y="13mm" width="1mm" height="1mm" /><rect x="30mm" y="13mm" width="1mm" height="1mm" /><rect x="31mm" y="13mm" width="1mm" height="1mm" /><rect x="33mm" y="13mm" width="1mm" height="1mm" /><rect x="35mm" y="13mm" width="1mm" height="1mm" /><rect x="36mm" y="13mm" width="1mm" height="1mm" /><rect x="38mm" y="13mm" width="1mm" height="1mm" /><rect x="39mm" y="13mm" width="1mm" height="1mm" /><rect x="4mm" y="14mm" width="1mm" height="1mm" /><rect x="6mm" y="14mm" width="1mm" height="1mm" /><rect x="10mm" y="14mm" width="1mm" height="1mm" /><rect x="11mm" y="14mm" width="1mm" height="1mm" /><rect x="12mm" y="14mm" width="1mm" height="1mm" /><rect x="14mm" y="14mm" width="1mm" height="1mm" /><rect x="15mm" y="14mm" width="1mm" height="1mm" /><rect x="16mm" y="14mm" width="1mm" height="1mm" /><rect x="21mm" y="14mm" width="1mm" height="1mm" /><rect x="25mm" y="14mm" width="1mm" height="1mm" /><rect x="27mm" y="14mm" width="1mm" height="1mm" /><rect x="28mm" y="14mm" width="1mm" height="1mm" /><rect x="31mm" y="14mm" width="1mm" height="1mm" /><rect x="32mm" y="14mm" width="1mm" height="1mm" /><rect x="33mm" y="14mm" width="1mm" height="1mm" /><rect x="34mm" y="14mm" width="1mm" height="1mm" /><rect x="35mm" y="14mm" width="1mm" height="1mm" /><rect x="38mm" y="14mm" width="1mm" height="1mm" /><rect x="40mm" y="14mm" width="1mm" height="1mm" /><rect x="5mm" y="15mm" width="1mm" height="1mm" /><rect x="6mm" y="15mm" width="1mm" height="1mm" /><rect x="11mm" y="15mm" width="1mm" height="1mm" /><rect x="14mm" y="15mm" width="1mm" height="1mm" /><rect x="17mm" y="15mm" width="1mm" height="1mm" /><rect x="19mm" y="15mm" width="1mm" height="1mm" /><rect x="21mm" y="15mm" width="1mm" height="1mm" /><rect x="24mm" y="15mm" width="1mm" height="1mm" /><rect x="27mm" y="15mm" width="1mm" height="1mm" /><rect x="30mm" y="15mm" width="1mm" height="1mm" /><rect x="34mm" y="15mm" width="1mm" height="1mm" /><rect x="35mm" y="15mm" width="1mm" height="1mm" /><rect x="36mm" y="15mm" width="1mm" height="1mm" /><rect x="38mm" y="15mm" width="1mm" height="1mm" /><rect x="39mm" y="15mm" width="1mm" height="1mm" /><rect x="40mm" y="15mm" width="1mm" height="1mm" /><rect x="5mm" y="16mm" width="1mm" height="1mm" /><rect x="7mm" y="16mm" width="1mm" height="1mm" /><rect x="8mm" y="16mm" width="1mm" height="1mm" /><rect x="9mm" y="16mm" width="1mm" height="1mm" /><rect x="10mm" y="16mm" width="1mm" height="1mm" /><rect x="12mm" y="16mm" width="1mm" height="1mm" /><rect x="13mm" y="16mm" width="1mm" height="1mm" /><rect x="15mm" y="16mm" width="1mm" height="1mm" /><rect x="16mm" y="16mm" width="1mm" height="1mm" /><rect x="17mm" y="16mm" width="1mm" height="1mm" /><rect x="20mm" y="16mm" width="1mm" height="1mm" /><rect x="23mm" y="16mm" width="1mm" height="1mm" /><rect x="24mm" y="16mm" width="1mm" height="1mm" /><rect x="27mm" y="16mm" width="1mm" height="1mm" /><rect x="31mm" y="16mm" width="1mm" height="1mm" /><rect x="34mm" y="16mm" width="1mm" height="1mm" /><rect x="35mm" y="16mm" width="1mm" height="1mm" /><rect x="37mm" y="16mm" width="1mm" height="1mm" /><rect x="40mm" y="16mm" width="1mm" height="1mm" /><rect x="4mm" y="17mm" width="1mm" height="1mm" /><rect x="5mm" y="17mm" width="1mm" height="1mm" /><rect x="6mm" y="17mm" width="1mm" height="1mm" /><rect x="9mm" y="17mm" width="1mm" height="1mm" /><rect x="12mm" y="17mm" width="1mm" height="1mm" /><rect x="13mm" y="17mm" width="1mm" height="1mm" /><rect x="14mm" y="17mm" width="1mm" height="1mm" /><rect x="19mm" y="17mm" width="1mm" height="1mm" /><rect x="20mm" y="17mm" width="1mm" height="1mm" /><rect x="21mm" y="17mm" width="1mm" height="1mm" /><rect x="26mm" y="17mm" width="1mm" height="1mm" /><rect x="27mm" y="17mm" width="1mm" height="1mm" /><rect x="30mm" y="17mm" width="1mm" height="1mm" /><rect x="31mm" y="17mm" width="1mm" height="1mm" /><rect x="32mm" y="17mm" width="1mm" height="1mm" /><rect x="36mm" y="17mm" width="1mm" height="1mm" /><rect x="37mm" y="17mm" width="1mm" height="1mm" /><rect x="39mm" y="17mm" width="1mm" height="1mm" /><rect x="6mm" y="18mm" width="1mm" height="1mm" /><rect x="7mm" y="18mm" width="1mm" height="1mm" /><rect x="10mm" y="18mm" width="1mm" height="1mm" /><rect x="11mm" y="18mm" width="1mm" height="1mm" /><rect x="12mm" y="18mm" width="1mm" height="1mm" /><rect x="13mm" y="18mm" width="1mm" height="1mm" /><rect x="14mm" y="18mm" width="1mm" height="1mm" /><rect x="15mm" y="18mm" width="1mm" height="1mm" /><rect x="16mm" y="18mm" width="1mm" height="1mm" /><rect x="17mm" y="18mm" width="1mm" height="1mm" /><rect x="19mm" y="18mm" width="1mm" height="1mm" /><rect x="23mm" y="18mm" width="1mm" height="1mm" /><rect x="26mm" y="18mm" width="1mm" height="1mm" /><rect x="30mm" y="18mm" width="1mm" height="1mm" /><rect x="31mm" y="18mm" width="1mm" height="1mm" /><rect x="34mm" y="18mm" width="1mm" height="1mm" /><rect x="35mm" y="18mm" width="1mm" height="1mm" /><rect x="37mm" y="18mm" width="1mm" height="1mm" /><rect x="38mm" y="18mm" width="1mm" height="1mm" /><rect x="39mm" y="18mm" width="1mm" height="1mm" /><rect x="40mm" y="18mm" width="1mm" height="1mm" /><rect x="4mm" y="19mm" width="1mm" height="1mm" /><rect x="7mm" y="19mm" width="1mm" height="1mm" /><rect x="8mm" y="19mm" width="1mm" height="1mm" /><rect x="11mm" y="19mm" width="1mm" height="1mm" /><rect x="14mm" y="19mm" width="1mm" height="1mm" /><rect x="15mm" y="19mm" width="1mm" height="1mm" /><rect x="16mm" y="19mm" width="1mm" height="1mm" /><rect x="17mm" y="19mm" width="1mm" height="1mm" /><rect x="23mm" y="19mm" width="1mm" height="1mm" /><rect x="27mm" y="19mm" width="1mm" height="1mm" /><rect x="31mm" y="19mm" width="1mm" height="1mm" /><rect x="33mm" y="19mm" width="1mm" height="1mm" /><rect x="35mm" y="19mm" width="1mm" height="1mm" /><rect x="36mm" y="19mm" width="1mm" height="1mm" /><rect x="37mm" y="19mm" width="1mm" height="1mm" /><rect x="38mm" y="19mm" width="1mm" height="1mm" /><rect x="39mm" y="19mm" width="1mm" height="1mm" /><rect x="40mm" y="19mm" width="1mm" height="1mm" /><rect x="4mm" y="20mm" width="1mm" height="1mm" /><rect x="5mm" y="20mm" width="1mm" height="1mm" /><rect x="7mm" y="20mm" width="1mm" height="1mm" /><rect x="10mm" y="20mm" width="1mm" height="1mm" /><rect x="11mm" y="20mm" width="1mm" height="1mm" /><rect x="12mm" y="20mm" width="1mm" height="1mm" /><rect x="15mm" y="20mm" width="1mm" height="1mm" /><rect x="16mm" y="20mm" width="1mm" height="1mm" /><rect x="17mm" y="20mm" width="1mm" height="1mm" /><rect x="20mm" y="20mm" width="1mm" height="1mm" /><rect x="23mm" y="20mm" width="1mm" height="1mm" /><rect x="24mm" y="20mm" width="1mm" height="1mm" /><rect x="26mm" y="20mm" width="1mm" height="1mm" /><rect x="29mm" y="20mm" width="1mm" height="1mm" /><rect x="32mm" y="20mm" width="1mm" height="1mm" /><rect x="34mm" y="20mm" width="1mm" height="1mm" /><rect x="38mm" y="20mm" width="1mm" height="1mm" /><rect x="39mm" y="20mm" width="1mm" height="1mm" /><rect x="7mm" y="21mm" width="1mm" height="1mm" /><rect x="8mm" y="21mm" width="1mm" height="1mm" /><rect x="9mm" y="21mm" width="1mm" height="1mm" /><rect x="11mm" y="21mm" width="1mm" height="1mm" /><rect x="12mm" y="21mm" width="1mm" height="1mm" /><rect x="13mm" y="21mm" width="1mm" height="1mm" /><rect x="15mm" y="21mm" width="1mm" height="1mm" /><rect x="17mm" y="21mm" width="1mm" height="1mm" /><rect x="18mm" y="21mm" width="1mm" height="1mm" /><rect x="20mm" y="21mm" width="1mm" height="1mm" /><rect x="21mm" y="21mm" width="1mm" height="1mm" /><rect x="22mm" y="21mm" width="1mm" height="1mm" /><rect x="23mm" y="21mm" width="1mm" height="1mm" /><rect x="24mm" y="21mm" width="1mm" height="1mm" /><rect x="26mm" y="21mm" width="1mm" height="1mm" /><rect x="29mm" y="21mm" width="1mm" height="1mm" /><rect x="31mm" y="21mm" width="1mm" height="1mm" /><rect x="33mm" y="21mm" width="1mm" height="1mm" /><rect x="37mm" y="21mm" width="1mm" height="1mm" /><rect x="4mm" y="22mm" width="1mm" height="1mm" /><rect x="5mm" y="22mm" width="1mm" height="1mm" /><rect x="6mm" y="22mm" width="1mm" height="1mm" /><rect x="9mm" y="22mm" width="1mm" height="1mm" /><rect x="10mm" y="22mm" width="1mm" height="1mm" /><rect x="12mm" y="22mm" width="1mm" height="1mm" /><rect x="13mm" y="22mm" width="1mm" height="1mm" /><rect x="19mm" y="22mm" width="1mm" height="1mm" /><rect x="21mm" y="22mm" width="1mm" height="1mm" /><rect x="23mm" y="22mm" width="1mm" height="1mm" /><rect x="24mm" y="22mm" width="1mm" height="1mm" /><rect x="26mm" y="22mm" width="1mm" height="1mm" /><rect x="27mm" y="22mm" width="1mm" height="1mm" /><rect x="28mm" y="22mm" width="1mm" height="1mm" /><rect x="31mm" y="22mm" width="1mm" height="1mm" /><rect x="32mm" y="22mm" width="1mm" height="1mm" /><rect x="35mm" y="22mm" width="1mm" height="1mm" /><rect x="36mm" y="22mm" width="1mm" height="1mm" /><rect x="38mm" y="22mm" width="1mm" height="1mm" /><rect x="40mm" y="22mm" width="1mm" height="1mm" /><rect x="4mm" y="23mm" width="1mm" height="1mm" /><rect x="5mm" y="23mm" width="1mm" height="1mm" /><rect x="7mm" y="23mm" width="1mm" height="1mm" /><rect x="13mm" y="23mm" width="1mm" height="1mm" /><rect x="15mm" y="23mm" width="1mm" height="1mm" /><rect x="17mm" y="23mm" width="1mm" height="1mm" /><rect x="18mm" y="23mm" width="1mm" height="1mm" /><rect x="23mm" y="23mm" width="1mm" height="1mm" /><rect x="26mm" y="23mm" width="1mm" height="1mm" /><rect x="27mm" y="23mm" width="1mm" height="1mm" /><rect x="28mm" y="23mm" width="1mm" height="1mm" /><rect x="29mm" y="23mm" width="1mm" height="1mm" /><rect x="32mm" y="23mm" width="1mm" height="1mm" /><rect x="34mm" y="23mm" width="1mm" height="1mm" /><rect x="36mm" y="23mm" width="1mm" height="1mm" /><rect x="40mm" y="23mm" width="1mm" height="1mm" /><rect x="5mm" y="24mm" width="1mm" height="1mm" /><rect x="7mm" y="24mm" width="1mm" height="1mm" /><rect x="8mm" y="24mm" width="1mm" height="1mm" /><rect x="10mm" y="24mm" width="1mm" height="1mm" /><rect x="11mm" y="24mm" width="1mm" height="1mm" /><rect x="14mm" y="24mm" width="1mm" height="1mm" /><rect x="15mm" y="24mm" width="1mm" height="1mm" /><rect x="19mm" y="24mm" width="1mm" height="1mm" /><rect x="20mm" y="24mm" width="1mm" height="1mm" /><rect x="21mm" y="24mm" width="1mm" height="1mm" /><rect x="26mm" y="24mm" width="1mm" height="1mm" /><rect x="28mm" y="24mm" width="1mm" height="1mm" /><rect x="31mm" y="24mm" width="1mm" height="1mm" /><rect x="32mm" y="24mm" width="1mm" height="1mm" /><rect x="33mm" y="24mm" width="1mm" height="1mm" /><rect x="34mm" y="24mm" width="1mm" height="1mm" /><rect x="36mm" y="24mm" width="1mm" height="1mm" /><rect x="4mm" y="25mm" width="1mm" height="1mm" /><rect x="6mm" y="25mm" width="1mm" height="1mm" /><rect x="7mm" y="25mm" width="1mm" height="1mm" /><rect x="8mm" y="25mm" width="1mm" height="1mm" /><rect x="9mm" y="25mm" width="1mm" height="1mm" /><rect x="12mm" y="25mm" width="1mm" height="1mm" /><rect x="13mm" y="25mm" width="1mm" height="1mm" /><rect x="15mm" y="25mm" width="1mm" height="1mm" /><rect x="17mm" y="25mm" width="1mm" height="1mm" /><rect x="18mm" y="25mm" width="1mm" height="1mm" /><rect x="19mm" y="25mm" width="1mm" height="1mm" /><rect x="20mm" y="25mm" width="1mm" height="1mm" /><rect x="21mm" y="25mm" width="1mm" height="1mm" /><rect x="23mm" y="25mm" width="1mm" height="1mm" /><rect x="25mm" y="25mm" width="1mm" height="1mm" /><rect x="26mm" y="25mm" width="1mm" height="1mm" /><rect x="27mm" y="25mm" width="1mm" height="1mm" /><rect x="28mm" y="25mm" width="1mm" height="1mm" /><rect x="30mm" y="25mm" width="1mm" height="1mm" /><rect x="31mm" y="25mm" width="1mm" height="1mm" /><rect x="35mm" y="25mm" width="1mm" height="1mm" /><rect x="36mm" y="25mm" width="1mm" height="1mm" /><rect x="38mm" y="25mm" width="1mm" height="1mm" /><rect x="39mm" y="25mm" width="1mm" height="1mm" /><rect x="8mm" y="26mm" width="1mm" height="1mm" /><rect x="10mm" y="26mm" width="1mm" height="1mm" /><rect x="12mm" y="26mm" width="1mm" height="1mm" /><rect x="14mm" y="26mm" width="1mm" height="1mm" /><rect x="16mm" y="26mm" width="1mm" height="1mm" /><rect x="17mm" y="26mm" width="1mm" height="1mm" /><rect x="18mm" y="26mm" width="1mm" height="1mm" /><rect x="19mm" y="26mm" width="1mm" height="1mm" /><rect x="20mm" y="26mm" width="1mm" height="1mm" /><rect x="21mm" y="26mm" width="1mm" height="1mm" /><rect x="25mm" y="26mm" width="1mm" height="1mm" /><rect x="27mm" y="26mm" width="1mm" height="1mm" /><rect x="31mm" y="26mm" width="1mm" height="1mm" /><rect x="33mm" y="26mm" width="1mm" height="1mm" /><rect x="34mm" y="26mm" width="1mm" height="1mm" /><rect x="35mm" y="26mm" width="1mm" height="1mm" /><rect x="37mm" y="26mm" width="1mm" height="1mm" /><rect x="40mm" y="26mm" width="1mm" height="1mm" /><rect x="5mm" y="27mm" width="1mm" height="1mm" /><rect x="7mm" y="27mm" width="1mm" height="1mm" /><rect x="9mm" y="27mm" width="1mm" height="1mm" /><rect x="12mm" y="27mm" width="1mm" height="1mm" /><rect x="14mm" y="27mm" width="1mm" height="1mm" /><rect x="15mm" y="27mm" width="1mm" height="1mm" /><rect x="16mm" y="27mm" width="1mm" height="1mm" /><rect x="19mm" y="27mm" width="1mm" height="1mm" /><rect x="20mm" y="27mm" width="1mm" height="1mm" /><rect x="21mm" y="27mm" width="1mm" height="1mm" /><rect x="22mm" y="27mm" width="1mm" height="1mm" /><rect x="24mm" y="27mm" width="1mm" height="1mm" /><rect x="26mm" y="27mm" width="1mm" height="1mm" /><rect x="30mm" y="27mm" width="1mm" height="1mm" /><rect x="31mm" y="27mm" width="1mm" height="1mm" /><rect x="35mm" y="27mm" width="1mm" height="1mm" /><rect x="36mm" y="27mm" width="1mm" height="1mm" /><rect x="38mm" y="27mm" width="1mm" height="1mm" /><rect x="40mm" y="27mm" width="1mm" height="1mm" /><rect x="4mm" y="28mm" width="1mm" height="1mm" /><rect x="5mm" y="28mm" width="1mm" height="1mm" /><rect x="7mm" y="28mm" width="1mm" height="1mm" /><rect x="9mm" y="28mm" width="1mm" height="1mm" /><rect x="10mm" y="28mm" width="1mm" height="1mm" /><rect x="11mm" y="28mm" width="1mm" height="1mm" /><rect x="12mm" y="28mm" width="1mm" height="1mm" /><rect x="16mm" y="28mm" width="1mm" height="1mm" /><rect x="19mm" y="28mm" width="1mm" height="1mm" /><rect x="20mm" y="28mm" width="1mm" height="1mm" /><rect x="21mm" y="28mm" width="1mm" height="1mm" /><rect x="22mm" y="28mm" width="1mm" height="1mm" /><rect x="23mm" y="28mm" width="1mm" height="1mm" /><rect x="24mm" y="28mm" width="1mm" height="1mm" /><rect x="27mm" y="28mm" width="1mm" height="1mm" /><rect x="32mm" y="28mm" width="1mm" height="1mm" /><rect x="34mm" y="28mm" width="1mm" height="1mm" /><rect x="39mm" y="28mm" width="1mm" height="1mm" /><rect x="40mm" y="28mm" width="1mm" height="1mm" /><rect x="4mm" y="29mm" width="1mm" height="1mm" /><rect x="9mm" y="29mm" width="1mm" height="1mm" /><rect x="11mm" y="29mm" width="1mm" height="1mm" /><rect x="13mm" y="29mm" width="1mm" height="1mm" /><rect x="14mm" y="29mm" width="1mm" height="1mm" /><rect x="17mm" y="29mm" width="1mm" height="1mm" /><rect x="20mm" y="29mm" width="1mm" height="1mm" /><rect x="22mm" y="29mm" width="1mm" height="1mm" /><rect x="25mm" y="29mm" width="1mm" height="1mm" /><rect x="27mm" y="29mm" width="1mm" height="1mm" /><rect x="31mm" y="29mm" width="1mm" height="1mm" /><rect x="32mm" y="29mm" width="1mm" height="1mm" /><rect x="35mm" y="29mm" width="1mm" height="1mm" /><rect x="36mm" y="29mm" width="1mm" height="1mm" /><rect x="4mm" y="30mm" width="1mm" height="1mm" /><rect x="5mm" y="30mm" width="1mm" height="1mm" /><rect x="6mm" y="30mm" width="1mm" height="1mm" /><rect x="8mm" y="30mm" width="1mm" height="1mm" /><rect x="9mm" y="30mm" width="1mm" height="1mm" /><rect x="10mm" y="30mm" width="1mm" height="1mm" /><rect x="16mm" y="30mm" width="1mm" height="1mm" /><rect x="17mm" y="30mm" width="1mm" height="1mm" /><rect x="18mm" y="30mm" width="1mm" height="1mm" /><rect x="20mm" y="30mm" width="1mm" height="1mm" /><rect x="21mm" y="30mm" width="1mm" height="1mm" /><rect x="22mm" y="30mm" width="1mm" height="1mm" /><rect x="23mm" y="30mm" width="1mm" height="1mm" /><rect x="24mm" y="30mm" width="1mm" height="1mm" /><rect x="25mm" y="30mm" width="1mm" height="1mm" /><rect x="30mm" y="30mm" width="1mm" height="1mm" /><rect x="31mm" y="30mm" width="1mm" height="1mm" /><rect x="35mm" y="30mm" width="1mm" height="1mm" /><rect x="36mm" y="30mm" width="1mm" height="1mm" /><rect x="37mm" y="30mm" width="1mm" height="1mm" /><rect x="39mm" y="30mm" width="1mm" height="1mm" /><rect x="40mm" y="30mm" width="1mm" height="1mm" /><rect x="4mm" y="31mm" width="1mm" height="1mm" /><rect x="11mm" y="31mm" width="1mm" height="1mm" /><rect x="14mm" y="31mm" width="1mm" height="1mm" /><rect x="16mm" y="31mm" width="1mm" height="1mm" /><rect x="17mm" y="31mm" width="1mm" height="1mm" /><rect x="18mm" y="31mm" width="1mm" height="1mm" /><rect x="19mm" y="31mm" width="1mm" height="1mm" /><rect x="27mm" y="31mm" width="1mm" height="1mm" /><rect x="30mm" y="31mm" width="1mm" height="1mm" /><rect x="33mm" y="31mm" width="1mm" height="1mm" /><rect x="36mm" y="31mm" width="1mm" height="1mm" /><rect x="38mm" y="31mm" width="1mm" height="1mm" /><rect x="39mm" y="31mm" width="1mm" height="1mm" /><rect x="4mm" y="32mm" width="1mm" height="1mm" /><rect x="6mm" y="32mm" width="1mm" height="1mm" /><rect x="7mm" y="32mm" width="1mm" height="1mm" /><rect x="9mm" y="32mm" width="1mm" height="1mm" /><rect x="10mm" y="32mm" width="1mm" height="1mm" /><rect x="12mm" y="32mm" width="1mm" height="1mm" /><rect x="13mm" y="32mm" width="1mm" height="1mm" /><rect x="14mm" y="32mm" width="1mm" height="1mm" /><rect x="15mm" y="32mm" width="1mm" height="1mm" /><rect x="16mm" y="32mm" width="1mm" height="1mm" /><rect x="17mm" y="32mm" width="1mm" height="1mm" /><rect x="20mm" y="32mm" width="1mm" height="1mm" /><rect x="24mm" y="32mm" width="1mm" height="1mm" /><rect x="26mm" y="32mm" width="1mm" height="1mm" /><rect x="28mm" y="32mm" width="1mm" height="1mm" /><rect x="29mm" y="32mm" width="1mm" height="1mm" /><rect x="31mm" y="32mm" width="1mm" height="1mm" /><rect x="32mm" y="32mm" width="1mm" height="1mm" /><rect x="33mm" y="32mm" width="1mm" height="1mm" /><rect x="34mm" y="32mm" width="1mm" height="1mm" /><rect x="35mm" y="32mm" width="1mm" height="1mm" /><rect x="36mm" y="32mm" width="1mm" height="1mm" /><rect x="38mm" y="32mm" width="1mm" height="1mm" /><rect x="12mm" y="33mm" width="1mm" height="1mm" /><rect x="19mm" y="33mm" width="1mm" height="1mm" /><rect x="22mm" y="33mm" width="1mm" height="1mm" /><rect x="23mm" y="33mm" width="1mm" height="1mm" /><rect x="24mm" y="33mm" width="1mm" height="1mm" /><rect x="26mm" y="33mm" width="1mm" height="1mm" /><rect x="29mm" y="33mm" width="1mm" height="1mm" /><rect x="32mm" y="33mm" width="1mm" height="1mm" /><rect x="36mm" y="33mm" width="1mm" height="1mm" /><rect x="39mm" y="33mm" width="1mm" height="1mm" /><rect x="4mm" y="34mm" width="1mm" height="1mm" /><rect x="5mm" y="34mm" width="1mm" height="1mm" /><rect x="6mm" y="34mm" width="1mm" height="1mm" /><rect x="7mm" y="34mm" width="1mm" height="1mm" /><rect x="8mm" y="34mm" width="1mm" height="1mm" /><rect x="9mm" y="34mm" width="1mm" height="1mm" /><rect x="10mm" y="34mm" width="1mm" height="1mm" /><rect x="12mm" y="34mm" width="1mm" height="1mm" /><rect x="13mm" y="34mm" width="1mm" height="1mm" /><rect x="14mm" y="34mm" width="1mm" height="1mm" /><rect x="16mm" y="34mm" width="1mm" height="1mm" /><rect x="17mm" y="34mm" width="1mm" height="1mm" /><rect x="19mm" y="34mm" width="1mm" height="1mm" /><rect x="20mm" y="34mm" width="1mm" height="1mm" /><rect x="23mm" y="34mm" width="1mm" height="1mm" /><rect x="24mm" y="34mm" width="1mm" height="1mm" /><rect x="25mm" y="34mm" width="1mm" height="1mm" /><rect x="27mm" y="34mm" width="1mm" height="1mm" /><rect x="28mm" y="34mm" width="1mm" height="1mm" /><rect x="29mm" y="34mm" width="1mm" height="1mm" /><rect x="30mm" y="34mm" width="1mm" height="1mm" /><rect x="32mm" y="34mm" width="1mm" height="1mm" /><rect x="34mm" y="34mm" width="1mm" height="1mm" /><rect x="36mm" y="34mm" width="1mm" height="1mm" /><rect x="37mm" y="34mm" width="1mm" height="1mm" /><rect x="40mm" y="34mm" width="1mm" height="1mm" /><rect x="4mm" y="35mm" width="1mm" height="1mm" /><rect x="10mm" y="35mm" width="1mm" height="1mm" /><rect x="12mm" y="35mm" width="1mm" height="1mm" /><rect x="13mm" y="35mm" width="1mm" height="1mm" /><rect x="15mm" y="35mm" width="1mm" height="1mm" /><rect x="16mm" y="35mm" width="1mm" height="1mm" /><rect x="17mm" y="35mm" width="1mm" height="1mm" /><rect x="18mm" y="35mm" width="1mm" height="1mm" /><rect x="19mm" y="35mm" width="1mm" height="1mm" /><rect x="21mm" y="35mm" width="1mm" height="1mm" /><rect x="22mm" y="35mm" width="1mm" height="1mm" /><rect x="24mm" y="35mm" width="1mm" height="1mm" /><rect x="26mm" y="35mm" width="1mm" height="1mm" /><rect x="27mm" y="35mm" width="1mm" height="1mm" /><rect x="28mm" y="35mm" width="1mm" height="1mm" /><rect x="29mm" y="35mm" width="1mm" height="1mm" /><rect x="30mm" y="35mm" width="1mm" height="1mm" /><rect x="32mm" y="35mm" width="1mm" height="1mm" /><rect x="36mm" y="35mm" width="1mm" height="1mm" /><rect x="40mm" y="35mm" width="1mm" height="1mm" /><rect x="4mm" y="36mm" width="1mm" height="1mm" /><rect x="6mm" y="36mm" width="1mm" height="1mm" /><rect x="7mm" y="36mm" width="1mm" height="1mm" /><rect x="8mm" y="36mm" width="1mm" height="1mm" /><rect x="10mm" y="36mm" width="1mm" height="1mm" /><rect x="12mm" y="36mm" width="1mm" height="1mm" /><rect x="16mm" y="36mm" width="1mm" height="1mm" /><rect x="18mm" y="36mm" width="1mm" height="1mm" /><rect x="19mm" y="36mm" width="1mm" height="1mm" /><rect x="23mm" y="36mm" width="1mm" height="1mm" /><rect x="24mm" y="36mm" width="1mm" height="1mm" /><rect x="28mm" y="36mm" width="1mm" height="1mm" /><rect x="30mm" y="36mm" width="1mm" height="1mm" /><rect x="31mm" y="36mm" width="1mm" height="1mm" /><rect x="32mm" y="36mm" width="1mm" height="1mm" /><rect x="33mm" y="36mm" width="1mm" height="1mm" /><rect x="34mm" y="36mm" width="1mm" height="1mm" /><rect x="35mm" y="36mm" width="1mm" height="1mm" /><rect x="36mm" y="36mm" width="1mm" height="1mm" /><rect x="37mm" y="36mm" width="1mm" height="1mm" /><rect x="39mm" y="36mm" width="1mm" height="1mm" /><rect x="40mm" y="36mm" width="1mm" height="1mm" /><rect x="4mm" y="37mm" width="1mm" height="1mm" /><rect x="6mm" y="37mm" width="1mm" height="1mm" /><rect x="7mm" y="37mm" width="1mm" height="1mm" /><rect x="8mm" y="37mm" width="1mm" height="1mm" /><rect x="10mm" y="37mm" width="1mm" height="1mm" /><rect x="12mm" y="37mm" width="1mm" height="1mm" /><rect x="13mm" y="37mm" width="1mm" height="1mm" /><rect x="14mm" y="37mm" width="1mm" height="1mm" /><rect x="15mm" y="37mm" width="1mm" height="1mm" /><rect x="16mm" y="37mm" width="1mm" height="1mm" /><rect x="20mm" y="37mm" width="1mm" height="1mm" /><rect x="22mm" y="37mm" width="1mm" height="1mm" /><rect x="23mm" y="37mm" width="1mm" height="1mm" /><rect x="26mm" y="37mm" width="1mm" height="1mm" /><rect x="27mm" y="37mm" width="1mm" height="1mm" /><rect x="29mm" y="37mm" width="1mm" height="1mm" /><rect x="31mm" y="37mm" width="1mm" height="1mm" /><rect x="33mm" y="37mm" width="1mm" height="1mm" /><rect x="34mm" y="37mm" width="1mm" height="1mm" /><rect x="38mm" y="37mm" width="1mm" height="1mm" /><rect x="40mm" y="37mm" width="1mm" height="1mm" /><rect x="4mm" y="38mm" width="1mm" height="1mm" /><rect x="6mm" y="38mm" width="1mm" height="1mm" /><rect x="7mm" y="38mm" width="1mm" height="1mm" /><rect x="8mm" y="38mm" width="1mm" height="1mm" /><rect x="10mm" y="38mm" width="1mm" height="1mm" /><rect x="13mm" y="38mm" width="1mm" height="1mm" /><rect x="18mm" y="38mm" width="1mm" height="1mm" /><rect x="19mm" y="38mm" width="1mm" height="1mm" /><rect x="20mm" y="38mm" width="1mm" height="1mm" /><rect x="21mm" y="38mm" width="1mm" height="1mm" /><rect x="24mm" y="38mm" width="1mm" height="1mm" /><rect x="26mm" y="38mm" width="1mm" height="1mm" /><rect x="27mm" y="38mm" width="1mm" height="1mm" /><rect x="28mm" y="38mm" width="1mm" height="1mm" /><rect x="29mm" y="38mm" width="1mm" height="1mm" /><rect x="31mm" y="38mm" width="1mm" height="1mm" /><rect x="36mm" y="38mm" width="1mm" height="1mm" /><rect x="37mm" y="38mm" width="1mm" height="1mm" /><rect x="40mm" y="38mm" width="1mm" height="1mm" /><rect x="4mm" y="39mm" width="1mm" height="1mm" /><rect x="10mm" y="39mm" width="1mm" height="1mm" /><rect x="15mm" y="39mm" width="1mm" height="1mm" /><rect x="18mm" y="39mm" width="1mm" height="1mm" /><rect x="20mm" y="39mm" width="1mm" height="1mm" /><rect x="21mm" y="39mm" width="1mm" height="1mm" /><rect x="24mm" y="39mm" width="1mm" height="1mm" /><rect x="26mm" y="39mm" width="1mm" height="1mm" /><rect x="27mm" y="39mm" width="1mm" height="1mm" /><rect x="28mm" y="39mm" width="1mm" height="1mm" /><rect x="30mm" y="39mm" width="1mm" height="1mm" /><rect x="33mm" y="39mm" width="1mm" height="1mm" /><rect x="35mm" y="39mm" width="1mm" height="1mm" /><rect x="36mm" y="39mm" width="1mm" height="1mm" /><rect x="38mm" y="39mm" width="1mm" height="1mm" /><rect x="39mm" y="39mm" width="1mm" height="1mm" /><rect x="40mm" y="39mm" width="1mm" height="1mm" /><rect x="4mm" y="40mm" width="1mm" height="1mm" /><rect x="5mm" y="40mm" width="1mm" height="1mm" /><rect x="6mm" y="40mm" width="1mm" height="1mm" /><rect x="7mm" y="40mm" width="1mm" height="1mm" /><rect x="8mm" y="40mm" width="1mm" height="1mm" /><rect x="9mm" y="40mm" width="1mm" height="1mm" /><rect x="10mm" y="40mm" width="1mm" height="1mm" /><rect x="12mm" y="40mm" width="1mm" height="1mm" /><rect x="13mm" y="40mm" width="1mm" height="1mm" /><rect x="14mm" y="40mm" width="1mm" height="1mm" /><rect x="17mm" y="40mm" width="1mm" height="1mm" /><rect x="19mm" y="40mm" width="1mm" height="1mm" /><rect x="23mm" y="40mm" width="1mm" height="1mm" /><rect x="27mm" y="40mm" width="1mm" height="1mm" /><rect x="32mm" y="40mm" width="1mm" height="1mm" /><rect x="33mm" y="40mm" width="1mm" height="1mm" /><rect x="34mm" y="40mm" width="1mm" height="1mm" /><rect x="40mm" y="40mm" width="1mm" height="1mm" /></svg></div>
+                                </span>
+                            
+                        </a></li>
+                    
+                </ul>
+            </details>
+        
+    </div>
+</nav>
+
+        <div class="pretalx-tabbed"><div class="pretalx-tabbed-content">
+            
+                <div class="pretalx-tabs">
+                    
+                        <div class="pretalx-tab">
+                            <label class="pretalx-tab-label" for="2024-03-27">
+                                mercredi, 27 mars 2024
+                            </label>
+                        </div>
+                    
+                        <div class="pretalx-tab">
+                            <label class="pretalx-tab-label" for="2024-03-28">
+                                jeudi, 28 mars 2024
+                            </label>
+                        </div>
+                    
+                </div>
+            
+            
+                
+                    <input name="tabs" id="2024-03-27" type="radio" checked>
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">09:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="M7Z7RJ"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Atelier QGIS et Base de données des Bâtiments
+            
+        </div>
+        
+            <div class="speakers">
+                Régis Haubourg
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Cet atelier vise à prendre en main une base de données spatiale massive sur les bâtiments. L'objectif est de prendre en main la BDNB pour explorer plusieurs cas d'utilisations, et aller jusqu'à la production cartographique et dataviz. <br>
+Exploration des diagnostics de performance énergétique ( DPE ) sur une métropole, visualisation d'un indicateur de raccordement potentiel à un réseau de chaleur, statistiques par type d'usage et de propriété par zones. <br>
+Cet atelier vise à montrer comment exploiter au maximum des prétraitements en base de données PostGIS via des requêtes d'agrégation sur une base. <br>
+Il s'adresse à des chargés d'études métier (urbanisme, énergie etc..) souhaitant découvrir les possibilités d'exploration et d'analyse de QGIS couplé à une base de données.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 4</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="GBQ8V8"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Cartographie avancée avec QGIS
+            
+        </div>
+        
+            <div class="speakers">
+                Jacky Volpes, Julien Cabieces
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Aprés un bref rappel sur les concepts de base de la réalisation de symbologie dans QGIS, cet atelier vous propose d'explorer les fonctionnalités de symbologies avancées sur des données vectorielles ou images. Nous aborderons entre autres :<br>
+- Le rendu par catégorie ou via un ensemble de règles,<br>
+- les masques sélectifs,<br>
+- l'utilisation du générateur de géométrie,<br>
+- l'intégration de la dimension temporelle dans vos cartes.</p>
+<p>Enfin, nous présenterons quelques notions avancées à connaître pour réussir l'intégration de vos cartes dans les mises en pages et rapport.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 5</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="KFXHDA"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Collecter vos données sur le terrain avec QField
+            
+        </div>
+        
+            <div class="speakers">
+                Loïc Bartoletti
+            </div>
+        
+        
+            <div class="abstract">
+                <p>QField permet une intégration transparente avec QGIS, propose des fonctionnalités essentielles pour capturer, éditer et synchroniser aisément des données géographiques en temps réel sur vos appareils mobiles.</p>
+<p>L'atelier explorera comment importer des couches cartographiques de QGIS vers QField, ainsi que les méthodes de travail hors ligne et synchronisé sur les données collectées. Vous découvrirez comment QField optimise la saisie précise des données terrain, améliorant ainsi la productivité et la qualité des données recueillies.</p>
+<p>Cette présentation conjointe entre Oslandia, promoteur QField France et OpenGIS, développeur suisse de QField, sera l'occasion de partager astuces et bonnes pratiques ainsi que des retours d'expérience pour optimiser l'utilisation de QField dans votre SIG.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 3</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="9ERMAV"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Créer et publier un joli projet sur QWC
+            
+        </div>
+        
+            <div class="speakers">
+                Andres Gwendoline, Florent Fougeres
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Durant cet atelier vous découvrirez comment publier une jolie carte web sur QWC à partir de votre projet QGIS.</p>
+<p>Vous verrez ce qu'il est possible de réaliser au niveau visuel (sur la carte), comment mettre en valeur ses attributs et le paramétrage de l'impression de cartes.<br>
+Ensuite nous aborderons la publication de vos projets QGIS depuis l'interface d'administration de QWC.<br>
+Pour finir, nous découvrirons le nouveau plugin QGIS pour publier confortablement depuis QGIS.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 1</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="TV7D3U"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Initiation au déploiement rationalisé de QGIS avec PowerShell et QDT
+            
+        </div>
+        
+            <div class="speakers">
+                Julien Moura, Florent Fougeres
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Automatisez vos installations de QGIS avec PowerShell et rationalisez le déploiement des profils QGIS plus efficacement avec QGIS Deployment Toolbelt (QDT). </p>
+<p>Apprenez à :</p>
+<ul>
+<li>installer, désinstaller et mettre à jour QGIS en mode silencieux</li>
+<li>rationaliser, stocker et versionner vos profils QGIS avec un fichier <code>profile.json</code> et Git</li>
+<li>concevoir un scénario de déploiement pour automatiser le déploiement des profils avec QDT</li>
+</ul>
+<p>Bref une bonne occasion de mettre le pied à l'étrier pour optimiser votre flux de travail d'administrateur/ice QGIS !</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 7</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">14:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="KFXHDA"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Collecter vos données sur le terrain avec QField
+            
+        </div>
+        
+            <div class="speakers">
+                Loïc Bartoletti
+            </div>
+        
+        
+            <div class="abstract">
+                <p>QField permet une intégration transparente avec QGIS, propose des fonctionnalités essentielles pour capturer, éditer et synchroniser aisément des données géographiques en temps réel sur vos appareils mobiles.</p>
+<p>L'atelier explorera comment importer des couches cartographiques de QGIS vers QField, ainsi que les méthodes de travail hors ligne et synchronisé sur les données collectées. Vous découvrirez comment QField optimise la saisie précise des données terrain, améliorant ainsi la productivité et la qualité des données recueillies.</p>
+<p>Cette présentation conjointe entre Oslandia, promoteur QField France et OpenGIS, développeur suisse de QField, sera l'occasion de partager astuces et bonnes pratiques ainsi que des retours d'expérience pour optimiser l'utilisation de QField dans votre SIG.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 3</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="9ERMAV"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Créer et publier un joli projet sur QWC
+            
+        </div>
+        
+            <div class="speakers">
+                Andres Gwendoline, Florent Fougeres
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Durant cet atelier vous découvrirez comment publier une jolie carte web sur QWC à partir de votre projet QGIS.</p>
+<p>Vous verrez ce qu'il est possible de réaliser au niveau visuel (sur la carte), comment mettre en valeur ses attributs et le paramétrage de l'impression de cartes.<br>
+Ensuite nous aborderons la publication de vos projets QGIS depuis l'interface d'administration de QWC.<br>
+Pour finir, nous découvrirons le nouveau plugin QGIS pour publier confortablement depuis QGIS.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 1</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="GHAKAM"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Créer un outil de saisie avec des expressions
+            
+        </div>
+        
+            <div class="speakers">
+                Michaël Douchin, René-Luc Dhont
+            </div>
+        
+        
+            <div class="abstract">
+                <p>L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet,<br>
+à partir d'une donnée au format tabulaire, avec les étapes suivantes :</p>
+<ul>
+<li>Import d'une donnée "tableur" dans un GeoPackage et affichage dans QGIS</li>
+<li>Création et correction de données via des expressions</li>
+<li>Mettre les données en relation</li>
+<li>Créer un formulaire de saisie avancé</li>
+<li>Visualiser les données problématiques ou importantes dans la table attributaire.</li>
+</ul>
+<p>On privilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la majorité des traitements : pas d'utilisation<br>
+de requêtes SQL en base de données ou d'algorithmes complexes.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 5</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="TKMYD8"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Mise en place d&#x27;une instance QFieldCloud custom
+            
+        </div>
+        
+            <div class="speakers">
+                Guilhem Allaman
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Lors de cet atelier nous partirons à la découverte de QFieldCloud, qui offre la possibilité de synchroniser les données entre QGIS et QField. L'ouverture du code source de la solution permet de mettre en place sa propre instance, son QFieldCloud custom, ce en quoi consistera l'objectif de l'atelier.</p>
+<p>Nous nous initierons et découvrirons docker, l'outil de containerisation sur lequel se base QFieldCloud. Nous verrons les installations et le paramétrage nécessaire de l'infrastructure linux hébergeant l'instance. Puis nous lancerons le serveur pour appréhender sa configuration et son administration, au fil d'un atelier plutôt geek orienté lignes de commande.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 7</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="NQMLUE"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Nouveautés QGIS 3D
+            
+        </div>
+        
+            <div class="speakers">
+                Jean Felder, Benoit De Mezzo
+            </div>
+        
+        
+            <div class="abstract">
+                <p>QGIS intègre un visualiseur 3D prenant en charge une variété de formats de données 2D et 3D. Cet atelier vous présentera les fonctionnalités bases (vues, caméra, chargement de données) ainsi que des avancées. </p>
+<p>Vous y découvrirez la manipulation des données 3D : chargement, configuration des vues et caméra ainsi que le chargement de données tels que les modèle numérique de terrain, les tuiles 3D (3dtiles), les nuages de points et PostGIS 3D. Vous pourrez exploiter des outils comme la boundingbox ou l'élévation de profils et des méthodes d'analyse adaptées à cet environnement tridimensionnel.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Atelier 6</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2024-03-28" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">09:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="HYVSJP"
+    style="--track-color:#FFFFFF"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            5minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Ouverture de la journée de conférence
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Introduction à la journée de conférence</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Organisation de la journée</div>
+            <div class="room">Salle de conférence</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">09:35</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="TQEUSW"
+    style="--track-color:#D95F02"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:35
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Utiliser QGIS pour créer un atlas d&#x27;appui à une enquête de terrain: l&#x27;exemple de la nuit de la solidarité 2023 à Montpellier
+            
+        </div>
+        
+            <div class="speakers">
+                Jérémy Garniaux
+            </div>
+        
+        
+            <div class="abstract">
+                <p>La nuit de la solidarité est une opération annuelle, à échelle nationale mais reposant sur l'initiative des collectivités locales. Son objectif principal est de dénombrer les personnes en situation de rue sur le territoire concerné. Programmée à Montpellier le 18 mai 2023 de 18h à minuit, elle a mobilisé près de 200 bénévoles qui ont compté près de 2800 personnes sans abri, dont plus de 500 directement rencontrées pendant l'enquête.  </p>
+<p>J'ai été mandaté par Montpellier Méditerranée Métropole pour créer un atlas d'appui à l'enquête de terrain, afin de fournir à chaque équipe de bénévoles une carte détaillée de son secteur au format A4. Je présenterai dans cette intervention comment j'ai réalisé ces 135 cartes à l'aide de QGIS, de ses expressions et de son outil Atlas.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Cas d&#x27;usage</div>
+            <div class="room">Salle de conférence</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">10:00</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="8QFNTR"
+    style="--track-color:#66A61E"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Retour d&#x27;une année d&#x27;expérience avec Mergin Maps
+            
+        </div>
+        
+            <div class="speakers">
+                Julien Waddle
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Découvrez Mergin Maps : l'ensemble d'applications qui simplifie la création de projets QGIS sur iOS et Android, idéal pour les missions sur le terrain. Après une année d'expérience, nous avons rassemblé des astuces incontournables pour améliorer votre efficacité :<br>
+Exploitez au maximum un iPhone avec Mergin Maps<br>
+Optimisez la gestion hors ligne<br>
+Gérez vos liens vers images et PDF de manière optimale<br>
+Assurez la sécurité de vos données… et bien d'autres astuces pratiques pour vous faciliter la vie.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Nouveautés</div>
+            <div class="room">Salle de conférence</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">10:25</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="XWBHHX"
+    style="--track-color:#D95F02"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:25
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Retour d&#x27;expérience sur l&#x27;utilisation d&#x27;un QFieldCloud auto-hébergé
+            
+        </div>
+        
+            <div class="speakers">
+                Michaël Douchin, René-Luc Dhont
+            </div>
+        
+        
+            <div class="abstract">
+                <p>L’application QField de la société OpenGIS permet de consulter des projets QGIS sur sa tablette ou son smartphone, et de faire des relevés sur le terrain via les formulaires d’édition.<br>
+QFieldCloud d'OpenGIS est la plate-forme de gestion centralisée des projets QGIS et des données collectées dans l’application QField. En suivant la documentation en ligne, il est possible avec l’outil Docker de créer sa propre instance de QFieldCloud.<br>
+Nous présenterons notre retour d'expérience sur son installation et sa configuration. Nous montrerons son utilisation en tant qu'administrateur de projets QGIS, avec les astuces et les écueils à éviter, et nous expliquerons comment configurer un projet QGIS pour activer la synchronisation automatique avec une base de données PostgreSQL centralisée.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Cas d&#x27;usage</div>
+            <div class="room">Salle de conférence</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">10:50</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="B8SAP3"
+    style="--track-color:#FFFFFF"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:50
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Pause
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Pause</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Organisation de la journée</div>
+            <div class="room">Salle de conférence</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">12:25</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="QRAC8E"
+    style="--track-color:#FFFFFF"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:25
+        </div>
+        <div class="duration">
+            90minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Pause midi
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Pause midi</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Organisation de la journée</div>
+            <div class="room">Salle de conférence</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">13:55</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="MWEUP9"
+    style="--track-color:#7570B3"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            13:55
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Accéder aux données des géoplateformes régionales et nationale avec le plugin IDG
+            
+        </div>
+        
+            <div class="speakers">
+                Jean-Baptiste Desbas, Benjamin Chartier
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Initiée par Geo2France (ex-GeoPicardie) en 2015, à l'origine, le plugin simplifiait le chargement des fonds WMTS, WMS et WFS de la plateforme de données régionale.<br>
+Au fil des années, plusieurs CRIGE ont adapté le plugin à leurs plateformes spécifiques, ajoutant des fonctionnalités pour répondre à leurs besoins particuliers. Fin 2022, une collaboration s'est formée lorsque les auteurs de ces forks ont décidé de regrouper leurs fonctionnalités.<br>
+En 2023, Geo2France a pris l'initiative de refondre complètement le plugin, le baptisant IDG, offrant ainsi une interface unifiée permettant aux utilisateurs de choisir la ou les plateformes préférées.<br>
+Dernièrement, l'IGN a récemment annoncé son intention de contribuer.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Extension</div>
+            <div class="room">Salle de conférence</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">15:10</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="B8SAP3"
+    style="--track-color:#FFFFFF"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:10
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Pause
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Pause</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Organisation de la journée</div>
+            <div class="room">Salle de conférence</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                            <div class="bucket-time">15:30</div>
+                            
+                            
+
+<div class="pretalx-session"
+    id="WP3NSW"
+    style="--track-color:#D95F02"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:30
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                QGIS Server : composant principal du SIG d&#x27;Orange
+            
+        </div>
+        
+            <div class="speakers">
+                Erwan Ropartz
+            </div>
+        
+        
+            <div class="abstract">
+                <p>En 2016, Orange France a entamé un projet de refonte de son Système d’Information Géographique. Cette infrastructure basée sur des briques OpenSource doit répondre à des enjeux multiples: Évolutivité, Mobilité et Performance. Le serveur QGIS est le composant principal de ce SIG. <br>
+Orange France a effectué un partenariat avec Oslandia afin de bénéficier d’une vision experte, mais aussi de devenir un acteur majeur de la communauté. Dans cette session nous proposons de vous présenter l'utilisation de QGIS serveur au sein du socle cartographique OpenSource d'Orange mais aussi les travaux communautaires réalisés pour que ce projet  soit un succès.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Cas d&#x27;usage</div>
+            <div class="room">Salle de conférence</div>
+        </div>
+    </div>
+</div>
+
+                            
+                        
+                    
+                </div>
+            
+            <script src="/pretalx/qgis-french-users-days-2024/static/CACHE/js/output.878453ca853a.js" defer></script>
+        </div>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        Ceci est un export statique qui a été généré le 2024-01-31 17:33 CET
+                    </div>
+                
+                
+
+
+    propulsé par <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:qgis@osgeo.asso.fr">Contactez-nous</a>
+                
+                
+                    &middot;
+                    <a href="https://www.osgeo.fr/contact/" target="_blank" rel="noopener">Mentions légales</a>
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

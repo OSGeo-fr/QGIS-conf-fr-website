@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//GH8PLC
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-GH8PLC@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T155500
+DTEND;TZID=Europe/Paris:20240328T161500
+DESCRIPTION:Il s'agit de présenter le plugin QGIS QWC2_Tools qui permet de
+  gérer directement depuis QGIS les projets d'une instance QWC2 (QGIS Web 
+ Client\, projet communautaire officiel de QGIS en matière de web SIG). Pa
+ r gérer\, on entend publier\, modifier\, ouvrir et supprimer des projets\
+ , mais également gérer l'arborescence. Ce plugin fonctionne avec un micr
+ o-service dédié QWC2\, développé en parallèle\, qui propose une API R
+ EST permettant la communication entre le plugin QGIS et l'instance QWC2.\n
+ \nPrésentation effectuée conjointement par Nicolas AUBIN de la Direction
+  des Systèmes d’Information et des Usages Numériques des Agences de l'
+ eau et Florent FOUGERES de la société Oslandia.\n\nLien vers la document
+ ation du plugin : https://oslandia.gitlab.io/qgis/qwc2_tools/
+DTSTAMP:20240131T163357Z
+LOCATION:Salle de conférence
+SUMMARY:Un plugin QGIS et un service de publication pour QGIS Web Client (Q
+ WC) - Florent Fougeres\, Nicolas Aubin
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GH8PLC/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//M7Z7RJ
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-M7Z7RJ@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Cet atelier vise à prendre en main une base de données spatia
+ le massive sur les bâtiments. L'objectif est de prendre en main la BDNB p
+ our explorer plusieurs cas d'utilisations\, et aller jusqu'à la productio
+ n cartographique et dataviz. \nExploration des diagnostics de performance 
+ énergétique ( DPE ) sur une métropole\, visualisation d'un indicateur d
+ e raccordement potentiel à un réseau de chaleur\, statistiques par type 
+ d'usage et de propriété par zones. \nCet atelier vise à montrer comment
+  exploiter au maximum des prétraitements en base de données PostGIS via 
+ des requêtes d'agrégation sur une base. \nIl s'adresse à des chargés d
+ 'études métier (urbanisme\, énergie etc..) souhaitant découvrir les po
+ ssibilités d'exploration et d'analyse de QGIS couplé à une base de donn
+ ées.
+DTSTAMP:20240131T163352Z
+LOCATION:Salle Atelier 4
+SUMMARY:Atelier QGIS et Base de données des Bâtiments - Régis Haubourg
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/M7Z7RJ/
+END:VEVENT
+END:VCALENDAR

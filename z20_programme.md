@@ -1,18 +1,14 @@
 ---
-layout: page
+layout: page_with_program
 title: Programme
 tagline: Voici notre programme pour ces rencontres
 menu: header
 ---
 
-#### Appel à participation
-
-Les prochaines journées QGIS auront lieu les 27 et 28 mars 2024.
-
-L'appel à propositions d'ateliers ou de conférences est disponible [ici](https://talks.osgeo.org/qgis-french-users-days-2024/cfp) jusqu'au 15 janvier 2024.
-
 #### Inscription
 
-Une fois le programme défini, les inscriptions seront ouvertes [ici](/z25_inscription.html).
+Les inscriptions ouvriront bientôt [ici](/z25_inscription.html).
 
-_______________________
+#### Programme
+
+Le programme est sorti ! Le détail est ci-desssous : 

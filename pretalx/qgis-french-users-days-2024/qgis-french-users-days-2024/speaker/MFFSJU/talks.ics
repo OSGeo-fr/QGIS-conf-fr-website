@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//qgis-french-users-days-2024//MFFSJU
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-ZGKQLD@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Initiation au modeleur graphique : principe\, entrées\, traite
+ ments vecteur et raster\, sorties ...
+DTSTAMP:20240131T163403Z
+LOCATION:Salle Atelier 6
+SUMMARY:Atelier autour du modeleur graphique de QGIS - Bruno Defrance\, Oua
+ doud
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/ZGKQLD/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//TQEUSW
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-TQEUSW@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T093500
+DTEND;TZID=Europe/Paris:20240328T095500
+DESCRIPTION:La nuit de la solidarité est une opération annuelle\, à éch
+ elle nationale mais reposant sur l'initiative des collectivités locales. 
+ Son objectif principal est de dénombrer les personnes en situation de rue
+  sur le territoire concerné. Programmée à Montpellier le 18 mai 2023 de
+  18h à minuit\, elle a mobilisé près de 200 bénévoles qui ont compté
+  près de 2800 personnes sans abri\, dont plus de 500 directement rencontr
+ ées pendant l'enquête.  \n\nJ'ai été mandaté par Montpellier Méditer
+ ranée Métropole pour créer un atlas d'appui à l'enquête de terrain\, 
+ afin de fournir à chaque équipe de bénévoles une carte détaillée de 
+ son secteur au format A4. Je présenterai dans cette intervention comment 
+ j'ai réalisé ces 135 cartes à l'aide de QGIS\, de ses expressions et de
+  son outil Atlas.
+DTSTAMP:20240131T163356Z
+LOCATION:Salle de conférence
+SUMMARY:Utiliser QGIS pour créer un atlas d'appui à une enquête de terra
+ in: l'exemple de la nuit de la solidarité 2023 à Montpellier - Jérémy 
+ Garniaux
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TQEUSW/
+END:VEVENT
+END:VCALENDAR
