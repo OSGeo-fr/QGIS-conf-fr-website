@@ -29,8 +29,8 @@ DESCRIPTION:Dans notre architecture PostgreSQL/Postgis & QGIS nous avons be
  isées simplement. A terme un plugin QGIS pour que la publication puisse 
  être ordonnée directement depuis leur sig favori.\nNous avons donc trava
  illé avec CampToCamp pour la création de cette CLI python.
-DTSTAMP:20240131T163357Z
-LOCATION:Salle de conférence
+DTSTAMP:20240201T153439Z
+LOCATION:Salle Chartreuse
 SUMMARY:Publier de base à base depuis QGIS avec Python - Pierre Muckenstur
  m
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/BXNZPA/

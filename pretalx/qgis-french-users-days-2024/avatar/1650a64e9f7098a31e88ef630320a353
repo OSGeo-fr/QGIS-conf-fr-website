@@ -14,7 +14,7 @@
     <body>
         <div id="wrapper">
             <img src="/pretalx/qgis-french-users-days-2024/static/common/img/error_403.b9823e4b6c5b.svg" class="img" alt="Page introuvable.">
-            <h2>Cette page n&#x27;existe pas.</h2>
+            <h2>Page introuvable.</h2>
             <h4 class="mt-4">HTTP 404</h4>
         </div>
     </body>

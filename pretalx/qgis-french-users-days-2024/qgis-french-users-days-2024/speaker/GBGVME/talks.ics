@@ -34,8 +34,8 @@ DESCRIPTION:L’application QField de la société OpenGIS permet de consul
  à éviter\, et nous expliquerons comment configurer un projet QGIS pour a
  ctiver la synchronisation automatique avec une base de données PostgreSQL
   centralisée.
-DTSTAMP:20240131T163402Z
-LOCATION:Salle de conférence
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Chartreuse
 SUMMARY:Retour d'expérience sur l'utilisation d'un QFieldCloud auto-héber
  gé - Michaël Douchin\, René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/XWBHHX/
@@ -54,10 +54,10 @@ DESCRIPTION:L'idée de cet atelier est d'illustrer comment utiliser les exp
  ivilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la m
  ajorité des traitements : pas d'utilisation\nde requêtes SQL en base de 
  données ou d'algorithmes complexes.
-DTSTAMP:20240131T163402Z
-LOCATION:Salle Atelier 5
-SUMMARY:Créer un outil de saisie avec des expressions - Michaël Douchin\,
-  René-Luc Dhont
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Ecrins
+SUMMARY:[Atelier 7] Créer un outil de saisie avec des expressions - Micha
+ ël Douchin\, René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GHAKAM/
 END:VEVENT
 END:VCALENDAR

@@ -34,9 +34,10 @@ DESCRIPTION:QField permet une intégration transparente avec QGIS\, propose
  peur suisse de QField\, sera l'occasion de partager astuces et bonnes prat
  iques ainsi que des retours d'expérience pour optimiser l'utilisation de 
  QField dans votre SIG.
-DTSTAMP:20240131T163401Z
-LOCATION:Salle Atelier 3
-SUMMARY:Collecter vos données sur le terrain avec QField - Loïc Bartoletti
+DTSTAMP:20240201T153443Z
+LOCATION:Salle Vercors
+SUMMARY:[Atelier 3] Collecter vos données sur le terrain avec QField - Lo
+ ïc Bartoletti
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/
 END:VEVENT
 BEGIN:VEVENT
@@ -55,9 +56,10 @@ DESCRIPTION:QField permet une intégration transparente avec QGIS\, propose
  peur suisse de QField\, sera l'occasion de partager astuces et bonnes prat
  iques ainsi que des retours d'expérience pour optimiser l'utilisation de 
  QField dans votre SIG.
-DTSTAMP:20240131T163401Z
-LOCATION:Salle Atelier 3
-SUMMARY:Collecter vos données sur le terrain avec QField - Loïc Bartoletti
+DTSTAMP:20240201T153443Z
+LOCATION:Salle Vercors
+SUMMARY:[Atelier 3] Collecter vos données sur le terrain avec QField - Lo
+ ïc Bartoletti
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/
 END:VEVENT
 END:VCALENDAR

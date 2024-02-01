@@ -31,9 +31,9 @@ DESCRIPTION:QGIS intègre un visualiseur 3D prenant en charge une variété
  es nuages de points et PostGIS 3D. Vous pourrez exploiter des outils comme
   la boundingbox ou l'élévation de profils et des méthodes d'analyse ada
  ptées à cet environnement tridimensionnel.
-DTSTAMP:20240131T163403Z
-LOCATION:Salle Atelier 6
-SUMMARY:Nouveautés QGIS 3D - Jean Felder\, Benoit De Mezzo
+DTSTAMP:20240201T153446Z
+LOCATION:Salle Grandes rousses
+SUMMARY:[Atelier 9] Nouveautés QGIS 3D - Jean Felder\, Benoit De Mezzo
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/NQMLUE/
 END:VEVENT
 END:VCALENDAR

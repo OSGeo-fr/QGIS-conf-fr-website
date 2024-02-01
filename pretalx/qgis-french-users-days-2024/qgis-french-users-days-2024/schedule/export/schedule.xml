@@ -2,7 +2,7 @@
 <!-- Made with love by pretalx v2.3.1. -->
 <schedule>
     <generator name="pretalx" version="2.3.1" />
-    <version>v1.0.0</version>
+    <version>v1.0.2</version>
     <conference>
         <acronym>qgis-french-users-days-2024</acronym>
         <title>Rencontres des utilisateurs francophones de QGIS 2024</title>
@@ -14,19 +14,19 @@
         <time_zone_name>Europe/Paris</time_zone_name>
     </conference>
     <day index='1' date='2024-03-27' start='2024-03-27T04:00:00+01:00' end='2024-03-28T03:59:00+01:00'>
-        <room name='Salle Atelier 1'>
+        <room name='Salle Taillefer'>
             <event guid='1bb26de1-bc0d-5204-adfe-981b831e67a9' id='2046'>
                 <date>2024-03-27T09:30:00+01:00</date>
                 <start>09:30</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 1</room>
-                <slug>qgis-french-users-days-2024-2046-1-crer-et-publier-un-joli-projet-sur-qwc</slug>
+                <room>Salle Taillefer</room>
+                <slug>qgis-french-users-days-2024-2046-1--atelier-1-crer-et-publier-un-joli-projet-sur-qwc</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Cr&#233;er et publier un joli projet sur QWC</title>
+                <title>[Atelier 1] Cr&#233;er et publier un joli projet sur QWC</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -48,14 +48,14 @@ Pour finir, nous d&#233;couvrirons le nouveau plugin QGIS pour publier confortab
                 <date>2024-03-27T14:00:00+01:00</date>
                 <start>14:00</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 1</room>
-                <slug>qgis-french-users-days-2024-2046-0-crer-et-publier-un-joli-projet-sur-qwc</slug>
+                <room>Salle Taillefer</room>
+                <slug>qgis-french-users-days-2024-2046-0--atelier-1-crer-et-publier-un-joli-projet-sur-qwc</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Cr&#233;er et publier un joli projet sur QWC</title>
+                <title>[Atelier 1] Cr&#233;er et publier un joli projet sur QWC</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -75,19 +75,19 @@ Pour finir, nous d&#233;couvrirons le nouveau plugin QGIS pour publier confortab
             </event>
             
         </room>
-        <room name='Salle Atelier 2'>
+        <room name='Salle Belledonne'>
             <event guid='5e58cf5d-9392-5230-b84b-1442d09bed8d' id='2042'>
                 <date>2024-03-27T09:30:00+01:00</date>
                 <start>09:30</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 2</room>
-                <slug>qgis-french-users-days-2024-2042-1-publication-sur-le-web-d-un-projet-qgis-avec-la-solution-opensource-lizmap</slug>
+                <room>Salle Belledonne</room>
+                <slug>qgis-french-users-days-2024-2042-1--atelier-2-publication-sur-le-web-d-un-projet-qgis-avec-la-solution-opensource-lizmap</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Publication sur le web d&#8217;un projet QGIS avec la solution opensource Lizmap</title>
+                <title>[Atelier 2] Publication sur le web d&#8217;un projet QGIS avec la solution opensource Lizmap</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -114,14 +114,14 @@ Pendant cet atelier, nous verrons la publication d&apos;un projet QGIS avec :
                 <date>2024-03-27T14:00:00+01:00</date>
                 <start>14:00</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 2</room>
-                <slug>qgis-french-users-days-2024-2042-0-publication-sur-le-web-d-un-projet-qgis-avec-la-solution-opensource-lizmap</slug>
+                <room>Salle Belledonne</room>
+                <slug>qgis-french-users-days-2024-2042-0--atelier-2-publication-sur-le-web-d-un-projet-qgis-avec-la-solution-opensource-lizmap</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Publication sur le web d&#8217;un projet QGIS avec la solution opensource Lizmap</title>
+                <title>[Atelier 2] Publication sur le web d&#8217;un projet QGIS avec la solution opensource Lizmap</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -146,19 +146,19 @@ Pendant cet atelier, nous verrons la publication d&apos;un projet QGIS avec :
             </event>
             
         </room>
-        <room name='Salle Atelier 3'>
+        <room name='Salle Vercors'>
             <event guid='c7de61d1-c374-5ced-849f-4054ce7b1807' id='1994'>
                 <date>2024-03-27T09:30:00+01:00</date>
                 <start>09:30</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 3</room>
-                <slug>qgis-french-users-days-2024-1994-1-collecter-vos-donnes-sur-le-terrain-avec-qfield</slug>
+                <room>Salle Vercors</room>
+                <slug>qgis-french-users-days-2024-1994-1--atelier-3-collecter-vos-donnes-sur-le-terrain-avec-qfield</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Collecter vos donn&#233;es sur le terrain avec QField</title>
+                <title>[Atelier 3] Collecter vos donn&#233;es sur le terrain avec QField</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -180,14 +180,14 @@ Cette pr&#233;sentation conjointe entre Oslandia, promoteur QField France et Ope
                 <date>2024-03-27T14:00:00+01:00</date>
                 <start>14:00</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 3</room>
-                <slug>qgis-french-users-days-2024-1994-0-collecter-vos-donnes-sur-le-terrain-avec-qfield</slug>
+                <room>Salle Vercors</room>
+                <slug>qgis-french-users-days-2024-1994-0--atelier-3-collecter-vos-donnes-sur-le-terrain-avec-qfield</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Collecter vos donn&#233;es sur le terrain avec QField</title>
+                <title>[Atelier 3] Collecter vos donn&#233;es sur le terrain avec QField</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -207,19 +207,19 @@ Cette pr&#233;sentation conjointe entre Oslandia, promoteur QField France et Ope
             </event>
             
         </room>
-        <room name='Salle Atelier 4'>
+        <room name='Salle Tri&#232;ves'>
             <event guid='c1a4aa81-ef7f-5160-ae2c-2797de2ce7b5' id='2086'>
                 <date>2024-03-27T09:30:00+01:00</date>
                 <start>09:30</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 4</room>
-                <slug>qgis-french-users-days-2024-2086-atelier-qgis-et-base-de-donnes-des-btiments</slug>
+                <room>Salle Tri&#232;ves</room>
+                <slug>qgis-french-users-days-2024-2086--atelier-4-qgis-et-base-de-donnes-des-btiments</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/M7Z7RJ/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Atelier QGIS et Base de donn&#233;es des B&#226;timents</title>
+                <title>[Atelier 4] QGIS et Base de donn&#233;es des B&#226;timents</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -240,14 +240,14 @@ Il s&apos;adresse &#224; des charg&#233;s d&apos;&#233;tudes m&#233;tier (urbani
                 <date>2024-03-27T14:00:00+01:00</date>
                 <start>14:00</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 4</room>
-                <slug>qgis-french-users-days-2024-2003-fonctionnement-du-module-dt-dict-numrotation-projet-et-report-recolement</slug>
+                <room>Salle Tri&#232;ves</room>
+                <slug>qgis-french-users-days-2024-2003--atelier-5-fonctionnement-du-module-dt-dict-numrotation-projet-et-report-recolement</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/DXWZBM/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Fonctionnement du module DT DICT, num&#233;rotation projet et report recolement</title>
+                <title>[Atelier 5] Fonctionnement du module DT DICT, num&#233;rotation projet et report recolement</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -263,19 +263,19 @@ Il s&apos;adresse &#224; des charg&#233;s d&apos;&#233;tudes m&#233;tier (urbani
             </event>
             
         </room>
-        <room name='Salle Atelier 5'>
+        <room name='Salle Ecrins'>
             <event guid='a0f33847-599e-5d3a-835d-1edbf9f48499' id='2033'>
                 <date>2024-03-27T09:30:00+01:00</date>
                 <start>09:30</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 5</room>
-                <slug>qgis-french-users-days-2024-2033-cartographie-avance-avec-qgis</slug>
+                <room>Salle Ecrins</room>
+                <slug>qgis-french-users-days-2024-2033--atelier-6-cartographie-avance-avec-qgis</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GBQ8V8/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Cartographie avanc&#233;e avec QGIS</title>
+                <title>[Atelier 6] Cartographie avanc&#233;e avec QGIS</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -299,14 +299,14 @@ Enfin, nous pr&#233;senterons quelques notions avanc&#233;es &#224; conna&#238;t
                 <date>2024-03-27T14:00:00+01:00</date>
                 <start>14:00</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 5</room>
-                <slug>qgis-french-users-days-2024-2041-crer-un-outil-de-saisie-avec-des-expressions</slug>
+                <room>Salle Ecrins</room>
+                <slug>qgis-french-users-days-2024-2041--atelier-7-crer-un-outil-de-saisie-avec-des-expressions</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GHAKAM/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Cr&#233;er un outil de saisie avec des expressions</title>
+                <title>[Atelier 7] Cr&#233;er un outil de saisie avec des expressions</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -332,19 +332,19 @@ de requ&#234;tes SQL en base de donn&#233;es ou d&apos;algorithmes complexes.</a
             </event>
             
         </room>
-        <room name='Salle Atelier 6'>
+        <room name='Salle Grandes rousses'>
             <event guid='6a22298a-a4e4-50b2-a77a-d05b88d8d10b' id='1995'>
                 <date>2024-03-27T09:30:00+01:00</date>
                 <start>09:30</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 6</room>
-                <slug>qgis-french-users-days-2024-1995-atelier-autour-du-modeleur-graphique-de-qgis</slug>
+                <room>Salle Grandes rousses</room>
+                <slug>qgis-french-users-days-2024-1995--atelier-8-modeleur-graphique-de-qgis</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/ZGKQLD/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Atelier autour du modeleur graphique de QGIS</title>
+                <title>[Atelier 8] Modeleur graphique de QGIS</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -362,14 +362,14 @@ de requ&#234;tes SQL en base de donn&#233;es ou d&apos;algorithmes complexes.</a
                 <date>2024-03-27T14:00:00+01:00</date>
                 <start>14:00</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 6</room>
-                <slug>qgis-french-users-days-2024-1999-nouveauts-qgis-3d</slug>
+                <room>Salle Grandes rousses</room>
+                <slug>qgis-french-users-days-2024-1999--atelier-9-nouveauts-qgis-3d</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/NQMLUE/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Nouveaut&#233;s QGIS 3D</title>
+                <title>[Atelier 9] Nouveaut&#233;s QGIS 3D</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -387,19 +387,19 @@ Vous y d&#233;couvrirez la manipulation des donn&#233;es 3D : chargement, config
             </event>
             
         </room>
-        <room name='Salle Atelier 7'>
+        <room name='Salle Diois'>
             <event guid='f3d8919d-46d3-502c-91a7-a405c4595929' id='2084'>
                 <date>2024-03-27T09:30:00+01:00</date>
                 <start>09:30</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 7</room>
-                <slug>qgis-french-users-days-2024-2084-initiation-au-dploiement-rationalis-de-qgis-avec-powershell-et-qdt</slug>
+                <room>Salle Diois</room>
+                <slug>qgis-french-users-days-2024-2084--atelier-10-initiation-au-dploiement-rationalis-de-qgis-avec-powershell-et-qdt</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/TV7D3U/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Initiation au d&#233;ploiement rationalis&#233; de QGIS avec PowerShell et QDT</title>
+                <title>[Atelier 10] Initiation au d&#233;ploiement rationalis&#233; de QGIS avec PowerShell et QDT</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -425,14 +425,14 @@ Bref une bonne occasion de mettre le pied &#224; l&apos;&#233;trier pour optimis
                 <date>2024-03-27T14:00:00+01:00</date>
                 <start>14:00</start>
                 <duration>03:00</duration>
-                <room>Salle Atelier 7</room>
-                <slug>qgis-french-users-days-2024-2019-mise-en-place-d-une-instance-qfieldcloud-custom</slug>
+                <room>Salle Diois</room>
+                <slug>qgis-french-users-days-2024-2019--atelier-11-mise-en-place-d-une-instance-qfieldcloud-custom</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/TKMYD8/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Mise en place d&apos;une instance QFieldCloud custom</title>
+                <title>[Atelier 11] Mise en place d&apos;une instance QFieldCloud custom</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -453,12 +453,12 @@ Nous nous initierons et d&#233;couvrirons docker, l&apos;outil de containerisati
         
     </day>
     <day index='2' date='2024-03-28' start='2024-03-28T04:00:00+01:00' end='2024-03-29T03:59:00+01:00'>
-        <room name='Salle de conf&#233;rence'>
+        <room name='Salle Chartreuse'>
             <event guid='7c075614-b475-55f0-b146-1210921fa12b' id='2095'>
-                <date>2024-03-28T09:30:00+01:00</date>
-                <start>09:30</start>
-                <duration>00:05</duration>
-                <room>Salle de conf&#233;rence</room>
+                <date>2024-03-28T09:20:00+01:00</date>
+                <start>09:20</start>
+                <duration>00:15</duration>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2095-ouverture-de-la-journe-de-confrence</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/HYVSJP/</url>
                 <recording>
@@ -483,7 +483,7 @@ Nous nous initierons et d&#233;couvrirons docker, l&apos;outil de containerisati
                 <date>2024-03-28T09:35:00+01:00</date>
                 <start>09:35</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-1989-utiliser-qgis-pour-crer-un-atlas-d-appui--une-enqute-de-terrain-l-exemple-de-la-nuit-de-la-solidarit-2023--montpellier</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/TQEUSW/</url>
                 <recording>
@@ -510,7 +510,7 @@ J&apos;ai &#233;t&#233; mandat&#233; par Montpellier M&#233;diterran&#233;e M&#2
                 <date>2024-03-28T10:00:00+01:00</date>
                 <start>10:00</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-1986-retour-d-une-anne-d-exprience-avec-mergin-maps</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/8QFNTR/</url>
                 <recording>
@@ -539,7 +539,7 @@ Assurez la s&#233;curit&#233; de vos donn&#233;es&#8230; et bien d&apos;autres a
                 <date>2024-03-28T10:25:00+01:00</date>
                 <start>10:25</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2043-retour-d-exprience-sur-l-utilisation-d-un-qfieldcloud-auto-hberg</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/XWBHHX/</url>
                 <recording>
@@ -566,7 +566,7 @@ Nous pr&#233;senterons notre retour d&apos;exp&#233;rience sur son installation 
                 <date>2024-03-28T10:50:00+01:00</date>
                 <start>10:50</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2096-1-pause</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/B8SAP3/</url>
                 <recording>
@@ -591,7 +591,7 @@ Nous pr&#233;senterons notre retour d&apos;exp&#233;rience sur son installation 
                 <date>2024-03-28T11:10:00+01:00</date>
                 <start>11:10</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2005-contrle-qualit-de-donnes-d-occupation-du-sol-avec-qgis</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/78AFNA/</url>
                 <recording>
@@ -618,7 +618,7 @@ Retour d&apos;exp&#233;rience sur la gen&#232;se de cette d&#233;marche, son uti
                 <date>2024-03-28T11:35:00+01:00</date>
                 <start>11:35</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2012-agirisk-un-plugin-qgis-d-aide--la-dcision-pour-valuer-et-grer-les-impacts-des-inondations</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/AUAYUU/</url>
                 <recording>
@@ -643,7 +643,7 @@ Retour d&apos;exp&#233;rience sur la gen&#232;se de cette d&#233;marche, son uti
                 <date>2024-03-28T12:00:00+01:00</date>
                 <start>12:00</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2044-utilisation-des-actions-qgis-pour-la-gestion-des-donnes-vloroutes-et-voies-vertes</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/XC8MBH/</url>
                 <recording>
@@ -672,7 +672,7 @@ Pour simplifier la maintenance d&apos;un r&#233;seau cyclable dans QGIS, nous vo
                 <date>2024-03-28T12:25:00+01:00</date>
                 <start>12:25</start>
                 <duration>01:30</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2097-pause-midi</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/QRAC8E/</url>
                 <recording>
@@ -697,7 +697,7 @@ Pour simplifier la maintenance d&apos;un r&#233;seau cyclable dans QGIS, nous vo
                 <date>2024-03-28T13:55:00+01:00</date>
                 <start>13:55</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2007-accder-aux-donnes-des-goplateformes-rgionales-et-nationale-avec-le-plugin-idg</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/MWEUP9/</url>
                 <recording>
@@ -725,7 +725,7 @@ Derni&#232;rement, l&apos;IGN a r&#233;cemment annonc&#233; son intention de con
                 <date>2024-03-28T14:20:00+01:00</date>
                 <start>14:20</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2026-qgis-et-les-bases-de-donnes-trs-massives-comment-qgis-est-utilis-dans-la-production-de-la-base-de-donnes-nationale-des-btiments-bdnb-</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/DFGASC/</url>
                 <recording>
@@ -754,7 +754,7 @@ Cette pr&#233;sentation passera en revue les trucs et astuces, optimisations Pos
                 <date>2024-03-28T14:45:00+01:00</date>
                 <start>14:45</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2000-publier-de-base--base-depuis-qgis-avec-python</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/BXNZPA/</url>
                 <recording>
@@ -780,7 +780,7 @@ Nous avons donc travaill&#233; avec CampToCamp pour la cr&#233;ation de cette CL
                 <date>2024-03-28T15:10:00+01:00</date>
                 <start>15:10</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2096-0-pause</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/B8SAP3/</url>
                 <recording>
@@ -805,7 +805,7 @@ Nous avons donc travaill&#233; avec CampToCamp pour la cr&#233;ation de cette CL
                 <date>2024-03-28T15:30:00+01:00</date>
                 <start>15:30</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2013-qgis-server-composant-principal-du-sig-d-orange</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/WP3NSW/</url>
                 <recording>
@@ -831,7 +831,7 @@ Orange France a effectu&#233; un partenariat avec Oslandia afin de b&#233;n&#233
                 <date>2024-03-28T15:55:00+01:00</date>
                 <start>15:55</start>
                 <duration>00:20</duration>
-                <room>Salle de conf&#233;rence</room>
+                <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2054-un-plugin-qgis-et-un-service-de-publication-pour-qgis-web-client-qwc-</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GH8PLC/</url>
                 <recording>

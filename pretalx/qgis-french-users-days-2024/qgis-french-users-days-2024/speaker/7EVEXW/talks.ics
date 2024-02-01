@@ -32,9 +32,10 @@ DESCRIPTION:Lors de cet atelier nous partirons à la découverte de QFieldC
  ébergeant l'instance. Puis nous lancerons le serveur pour appréhender sa
   configuration et son administration\, au fil d'un atelier plutôt geek or
  ienté lignes de commande.
-DTSTAMP:20240131T163406Z
-LOCATION:Salle Atelier 7
-SUMMARY:Mise en place d'une instance QFieldCloud custom - Guilhem Allaman
+DTSTAMP:20240201T153450Z
+LOCATION:Salle Diois
+SUMMARY:[Atelier 11] Mise en place d'une instance QFieldCloud custom - Guil
+ hem Allaman
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TKMYD8/
 END:VEVENT
 END:VCALENDAR

@@ -24,10 +24,9 @@ DTSTART;TZID=Europe/Paris:20240327T093000
 DTEND;TZID=Europe/Paris:20240327T123000
 DESCRIPTION:Initiation au modeleur graphique : principe\, entrées\, traite
  ments vecteur et raster\, sorties ...
-DTSTAMP:20240131T163404Z
-LOCATION:Salle Atelier 6
-SUMMARY:Atelier autour du modeleur graphique de QGIS - Bruno Defrance\, Oua
- doud
+DTSTAMP:20240201T153448Z
+LOCATION:Salle Grandes rousses
+SUMMARY:[Atelier 8] Modeleur graphique de QGIS - Bruno Defrance\, Ouadoud
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/ZGKQLD/
 END:VEVENT
 END:VCALENDAR

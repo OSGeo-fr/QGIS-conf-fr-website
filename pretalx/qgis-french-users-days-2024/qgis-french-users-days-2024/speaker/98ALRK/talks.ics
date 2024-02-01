@@ -31,10 +31,10 @@ DESCRIPTION:Automatisez vos installations de QGIS avec PowerShell et ration
  pour automatiser le déploiement des profils avec QDT\n\nBref une bonne oc
  casion de mettre le pied à l'étrier pour optimiser votre flux de travail
   d'administrateur/ice QGIS !
-DTSTAMP:20240131T163401Z
-LOCATION:Salle Atelier 7
-SUMMARY:Initiation au déploiement rationalisé de QGIS avec PowerShell et 
- QDT - Julien Moura\, Florent Fougeres
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Diois
+SUMMARY:[Atelier 10] Initiation au déploiement rationalisé de QGIS avec P
+ owerShell et QDT - Julien Moura\, Florent Fougeres
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TV7D3U/
 END:VEVENT
 END:VCALENDAR

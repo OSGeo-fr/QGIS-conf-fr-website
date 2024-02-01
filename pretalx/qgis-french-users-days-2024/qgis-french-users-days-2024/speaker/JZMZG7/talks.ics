@@ -25,10 +25,10 @@ DTEND;TZID=Europe/Paris:20240327T170000
 DESCRIPTION:Cet atelier abordera le fonctionnement du module DT DICT\, son 
  suivi\, les interactions avec la numérotation d'un projet et la confectio
  n/intégration d'un recolement d'un chantier d'éclairage public
-DTSTAMP:20240131T163405Z
-LOCATION:Salle Atelier 4
-SUMMARY:Fonctionnement du module DT DICT\, numérotation projet et report r
- ecolement - Jean-Claude Anotta
+DTSTAMP:20240201T153448Z
+LOCATION:Salle Trièves
+SUMMARY:[Atelier 5] Fonctionnement du module DT DICT\, numérotation projet
+  et report recolement - Jean-Claude Anotta
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/DXWZBM/
 END:VEVENT
 END:VCALENDAR

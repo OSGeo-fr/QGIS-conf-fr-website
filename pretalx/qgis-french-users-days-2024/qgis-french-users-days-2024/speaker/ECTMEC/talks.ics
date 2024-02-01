@@ -34,8 +34,8 @@ DESCRIPTION:QGIS est né du besoin de visualiser des données spatiales. 20
  u d'entreprise ?\nCette présentation passera en revue les trucs et astuce
  s\, optimisations PostgreSQL et pistes d'amélioration pour QGIS et Postgr
  eSQL.
-DTSTAMP:20240131T163402Z
-LOCATION:Salle de conférence
+DTSTAMP:20240201T153446Z
+LOCATION:Salle Chartreuse
 SUMMARY:QGIS et les bases de données très massives. Comment QGIS est util
  isé dans la production de la Base de Données Nationale des Bâtiments (B
  DNB) - Régis Haubourg
@@ -57,9 +57,9 @@ DESCRIPTION:Cet atelier vise à prendre en main une base de données spatia
  'études métier (urbanisme\, énergie etc..) souhaitant découvrir les po
  ssibilités d'exploration et d'analyse de QGIS couplé à une base de donn
  ées.
-DTSTAMP:20240131T163402Z
-LOCATION:Salle Atelier 4
-SUMMARY:Atelier QGIS et Base de données des Bâtiments - Régis Haubourg
+DTSTAMP:20240201T153446Z
+LOCATION:Salle Trièves
+SUMMARY:[Atelier 4] QGIS et Base de données des Bâtiments - Régis Haubourg
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/M7Z7RJ/
 END:VEVENT
 END:VCALENDAR

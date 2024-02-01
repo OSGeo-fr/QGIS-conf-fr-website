@@ -34,8 +34,8 @@ DESCRIPTION:QGIS est né du besoin de visualiser des données spatiales. 20
  u d'entreprise ?\nCette présentation passera en revue les trucs et astuce
  s\, optimisations PostgreSQL et pistes d'amélioration pour QGIS et Postgr
  eSQL.
-DTSTAMP:20240131T163356Z
-LOCATION:Salle de conférence
+DTSTAMP:20240201T153438Z
+LOCATION:Salle Chartreuse
 SUMMARY:QGIS et les bases de données très massives. Comment QGIS est util
  isé dans la production de la Base de Données Nationale des Bâtiments (B
  DNB) - Régis Haubourg

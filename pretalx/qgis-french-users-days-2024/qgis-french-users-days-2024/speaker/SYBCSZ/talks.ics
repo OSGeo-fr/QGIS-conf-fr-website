@@ -32,10 +32,10 @@ DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
  égende et les groupes\n* l'affichage des informations attributaires dans 
  une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
  c atlas)\n* l'ajout d'une dataviz
-DTSTAMP:20240131T163402Z
-LOCATION:Salle Atelier 2
-SUMMARY:Publication sur le web d’un projet QGIS avec la solution opensour
- ce Lizmap - René-Luc Dhont
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Belledonne
+SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
+ ion opensource Lizmap - René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
 END:VEVENT
 BEGIN:VEVENT
@@ -52,10 +52,10 @@ DESCRIPTION:L'idée de cet atelier est d'illustrer comment utiliser les exp
  ivilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la m
  ajorité des traitements : pas d'utilisation\nde requêtes SQL en base de 
  données ou d'algorithmes complexes.
-DTSTAMP:20240131T163402Z
-LOCATION:Salle Atelier 5
-SUMMARY:Créer un outil de saisie avec des expressions - Michaël Douchin\,
-  René-Luc Dhont
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Ecrins
+SUMMARY:[Atelier 7] Créer un outil de saisie avec des expressions - Micha
+ ël Douchin\, René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GHAKAM/
 END:VEVENT
 BEGIN:VEVENT
@@ -74,8 +74,8 @@ DESCRIPTION:Dans le standard COVADIS des Véloroutes et Voies Vertes\, le r
  ntenance d'un réseau cyclable dans QGIS\, nous vous présenterons les ava
  ntages offerts par les "Actions" pour la gestion de données complexes en 
  s'appuyant sur un standard.
-DTSTAMP:20240131T163402Z
-LOCATION:Salle de conférence
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Chartreuse
 SUMMARY:Utilisation des “actions QGIS” pour la gestion des données Vé
  loroutes et Voies Vertes - René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/XC8MBH/
@@ -96,8 +96,8 @@ DESCRIPTION:L’application QField de la société OpenGIS permet de consul
  à éviter\, et nous expliquerons comment configurer un projet QGIS pour a
  ctiver la synchronisation automatique avec une base de données PostgreSQL
   centralisée.
-DTSTAMP:20240131T163402Z
-LOCATION:Salle de conférence
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Chartreuse
 SUMMARY:Retour d'expérience sur l'utilisation d'un QFieldCloud auto-héber
  gé - Michaël Douchin\, René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/XWBHHX/
@@ -116,10 +116,10 @@ DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
  égende et les groupes\n* l'affichage des informations attributaires dans 
  une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
  c atlas)\n* l'ajout d'une dataviz
-DTSTAMP:20240131T163402Z
-LOCATION:Salle Atelier 2
-SUMMARY:Publication sur le web d’un projet QGIS avec la solution opensour
- ce Lizmap - René-Luc Dhont
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Belledonne
+SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
+ ion opensource Lizmap - René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
 END:VEVENT
 END:VCALENDAR

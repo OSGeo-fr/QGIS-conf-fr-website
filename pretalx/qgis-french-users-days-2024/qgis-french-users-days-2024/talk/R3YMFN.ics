@@ -32,10 +32,10 @@ DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
  égende et les groupes\n* l'affichage des informations attributaires dans 
  une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
  c atlas)\n* l'ajout d'une dataviz
-DTSTAMP:20240131T163358Z
-LOCATION:Salle Atelier 2
-SUMMARY:Publication sur le web d’un projet QGIS avec la solution opensour
- ce Lizmap - René-Luc Dhont
+DTSTAMP:20240201T153441Z
+LOCATION:Salle Belledonne
+SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
+ ion opensource Lizmap - René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
 END:VEVENT
 BEGIN:VEVENT
@@ -52,10 +52,10 @@ DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
  égende et les groupes\n* l'affichage des informations attributaires dans 
  une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
  c atlas)\n* l'ajout d'une dataviz
-DTSTAMP:20240131T163358Z
-LOCATION:Salle Atelier 2
-SUMMARY:Publication sur le web d’un projet QGIS avec la solution opensour
- ce Lizmap - René-Luc Dhont
+DTSTAMP:20240201T153441Z
+LOCATION:Salle Belledonne
+SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
+ ion opensource Lizmap - René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
 END:VEVENT
 END:VCALENDAR
