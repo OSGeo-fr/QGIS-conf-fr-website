@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//qgis-french-users-days-2024//GNANGN
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-WP3NSW@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T153000
+DTEND;TZID=Europe/Paris:20240328T155000
+DESCRIPTION:En 2016\, Orange France a entamé un projet de refonte de son S
+ ystème d’Information Géographique. Cette infrastructure basée sur des
+  briques OpenSource doit répondre à des enjeux multiples: Évolutivité\
+ , Mobilité et Performance. Le serveur QGIS est le composant principal de 
+ ce SIG. \nOrange France a effectué un partenariat avec Oslandia afin de b
+ énéficier d’une vision experte\, mais aussi de devenir un acteur majeu
+ r de la communauté. Dans cette session nous proposons de vous présenter 
+ l'utilisation de QGIS serveur au sein du socle cartographique OpenSource d
+ 'Orange mais aussi les travaux communautaires réalisés pour que ce proje
+ t  soit un succès.
+DTSTAMP:20240201T153450Z
+LOCATION:Salle Chartreuse
+SUMMARY:QGIS Server : composant principal du SIG d'Orange - Erwan Ropartz
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/WP3NSW/
+END:VEVENT
+END:VCALENDAR

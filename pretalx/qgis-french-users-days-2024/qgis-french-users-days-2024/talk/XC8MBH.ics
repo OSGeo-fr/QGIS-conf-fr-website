@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//XC8MBH
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-XC8MBH@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T120000
+DTEND;TZID=Europe/Paris:20240328T122000
+DESCRIPTION:Dans le standard COVADIS des Véloroutes et Voies Vertes\, le r
+ éseau cyclable est décomposé en plusieurs "éléments" géométriques :
+  les segments.\nIls sont ensuite assemblés afin de construire des "portio
+ ns" puis des "itinéraires"\, pour former un réseau cyclable.\nD'un côt
+ é\, QGIS permet de renseigner les "relations" entre les différentes tabl
+ es d'un projet\, mais la manipulation entre les tables reste technique.\nD
+ e l'autre\, il existe le concept des "Actions" qui permet de déclencher d
+ es traitements complexes sur des contextes précis (à l'échelle d'une se
+ ule entité par exemple). Ce concept est méconnu.\nPour simplifier la mai
+ ntenance d'un réseau cyclable dans QGIS\, nous vous présenterons les ava
+ ntages offerts par les "Actions" pour la gestion de données complexes en 
+ s'appuyant sur un standard.
+DTSTAMP:20240201T153437Z
+LOCATION:Salle Chartreuse
+SUMMARY:Utilisation des “actions QGIS” pour la gestion des données Vé
+ loroutes et Voies Vertes - René-Luc Dhont
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/XC8MBH/
+END:VEVENT
+END:VCALENDAR

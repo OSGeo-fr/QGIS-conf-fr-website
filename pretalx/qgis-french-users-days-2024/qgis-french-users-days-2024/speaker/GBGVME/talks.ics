@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//qgis-french-users-days-2024//GBGVME
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-XWBHHX@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T102500
+DTEND;TZID=Europe/Paris:20240328T104500
+DESCRIPTION:L’application QField de la société OpenGIS permet de consul
+ ter des projets QGIS sur sa tablette ou son smartphone\, et de faire des r
+ elevés sur le terrain via les formulaires d’édition.\nQFieldCloud d'Op
+ enGIS est la plate-forme de gestion centralisée des projets QGIS et des d
+ onnées collectées dans l’application QField. En suivant la documentati
+ on en ligne\, il est possible avec l’outil Docker de créer sa propre in
+ stance de QFieldCloud.\nNous présenterons notre retour d'expérience sur 
+ son installation et sa configuration. Nous montrerons son utilisation en t
+ ant qu'administrateur de projets QGIS\, avec les astuces et les écueils 
+ à éviter\, et nous expliquerons comment configurer un projet QGIS pour a
+ ctiver la synchronisation automatique avec une base de données PostgreSQL
+  centralisée.
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Chartreuse
+SUMMARY:Retour d'expérience sur l'utilisation d'un QFieldCloud auto-héber
+ gé - Michaël Douchin\, René-Luc Dhont
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/XWBHHX/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-GHAKAM@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:L'idée de cet atelier est d'illustrer comment utiliser les exp
+ ressions dans QGIS pour créer un outil de saisie complet\,\nà partir d'u
+ ne donnée au format tabulaire\, avec les étapes suivantes :\n\n* Import 
+ d'une donnée "tableur" dans un GeoPackage et affichage dans QGIS\n* Créa
+ tion et correction de données via des expressions\n* Mettre les données 
+ en relation\n* Créer un formulaire de saisie avancé\n* Visualiser les do
+ nnées problématiques ou importantes dans la table attributaire.\n\nOn pr
+ ivilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la m
+ ajorité des traitements : pas d'utilisation\nde requêtes SQL en base de 
+ données ou d'algorithmes complexes.
+DTSTAMP:20240201T153445Z
+LOCATION:Salle Ecrins
+SUMMARY:[Atelier 7] Créer un outil de saisie avec des expressions - Micha
+ ël Douchin\, René-Luc Dhont
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GHAKAM/
+END:VEVENT
+END:VCALENDAR

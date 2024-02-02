@@ -1,0 +1,19 @@
+h1 a {
+ color: #343a40;
+}
+
+summary {
+  color: #343a40;
+}
+
+header {
+  height: 300px;
+}
+
+#header-row a {
+  color: #343a40;
+}
+
+a {
+  text-decoration: underline;
+}

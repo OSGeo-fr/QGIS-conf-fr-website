@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//qgis-french-users-days-2024//7EVEXW
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-TKMYD8@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:Lors de cet atelier nous partirons à la découverte de QFieldC
+ loud\, qui offre la possibilité de synchroniser les données entre QGIS e
+ t QField. L'ouverture du code source de la solution permet de mettre en pl
+ ace sa propre instance\, son QFieldCloud custom\, ce en quoi consistera l'
+ objectif de l'atelier.\n\nNous nous initierons et découvrirons docker\, l
+ 'outil de containerisation sur lequel se base QFieldCloud. Nous verrons le
+ s installations et le paramétrage nécessaire de l'infrastructure linux h
+ ébergeant l'instance. Puis nous lancerons le serveur pour appréhender sa
+  configuration et son administration\, au fil d'un atelier plutôt geek or
+ ienté lignes de commande.
+DTSTAMP:20240201T153450Z
+LOCATION:Salle Diois
+SUMMARY:[Atelier 11] Mise en place d'une instance QFieldCloud custom - Guil
+ hem Allaman
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TKMYD8/
+END:VEVENT
+END:VCALENDAR

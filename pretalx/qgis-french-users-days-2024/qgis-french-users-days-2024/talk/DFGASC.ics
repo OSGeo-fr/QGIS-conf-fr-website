@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//DFGASC
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-DFGASC@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T142000
+DTEND;TZID=Europe/Paris:20240328T144000
+DESCRIPTION:QGIS est né du besoin de visualiser des données spatiales. 20
+  ans plus tard\, QGIS est devenu un SIG professionnel complet capable de t
+ ravailler avec des bases de données très massives.  \nLe CSTB produit un
+  socle de données sur l'ensemble des 27 millions de bâtiments\, 90 milli
+ ons de logements\, adresses\, parcelles et centaines de caractéristiques 
+ de ces objets.\n\nEntièrement produit dans PostGIS\, chaque millésime re
+ présente plus de 300 Go de données\, au sein d'une base de production co
+ mpilant 5 To de données. Comment travailler efficacement avec de tels vol
+ umes\, particulièrement avec une base de données distante hors du résea
+ u d'entreprise ?\nCette présentation passera en revue les trucs et astuce
+ s\, optimisations PostgreSQL et pistes d'amélioration pour QGIS et Postgr
+ eSQL.
+DTSTAMP:20240201T153438Z
+LOCATION:Salle Chartreuse
+SUMMARY:QGIS et les bases de données très massives. Comment QGIS est util
+ isé dans la production de la Base de Données Nationale des Bâtiments (B
+ DNB) - Régis Haubourg
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/DFGASC/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//qgis-french-users-days-2024//S9KHUB
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-KFXHDA-0@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:QField permet une intégration transparente avec QGIS\, propose
+  des fonctionnalités essentielles pour capturer\, éditer et synchroniser
+  aisément des données géographiques en temps réel sur vos appareils mo
+ biles.\n\nL'atelier explorera comment importer des couches cartographiques
+  de QGIS vers QField\, ainsi que les méthodes de travail hors ligne et sy
+ nchronisé sur les données collectées. Vous découvrirez comment QField 
+ optimise la saisie précise des données terrain\, améliorant ainsi la pr
+ oductivité et la qualité des données recueillies.\n\nCette présentatio
+ n conjointe entre Oslandia\, promoteur QField France et OpenGIS\, dévelop
+ peur suisse de QField\, sera l'occasion de partager astuces et bonnes prat
+ iques ainsi que des retours d'expérience pour optimiser l'utilisation de 
+ QField dans votre SIG.
+DTSTAMP:20240201T153443Z
+LOCATION:Salle Vercors
+SUMMARY:[Atelier 3] Collecter vos données sur le terrain avec QField - Lo
+ ïc Bartoletti
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-KFXHDA-1@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:QField permet une intégration transparente avec QGIS\, propose
+  des fonctionnalités essentielles pour capturer\, éditer et synchroniser
+  aisément des données géographiques en temps réel sur vos appareils mo
+ biles.\n\nL'atelier explorera comment importer des couches cartographiques
+  de QGIS vers QField\, ainsi que les méthodes de travail hors ligne et sy
+ nchronisé sur les données collectées. Vous découvrirez comment QField 
+ optimise la saisie précise des données terrain\, améliorant ainsi la pr
+ oductivité et la qualité des données recueillies.\n\nCette présentatio
+ n conjointe entre Oslandia\, promoteur QField France et OpenGIS\, dévelop
+ peur suisse de QField\, sera l'occasion de partager astuces et bonnes prat
+ iques ainsi que des retours d'expérience pour optimiser l'utilisation de 
+ QField dans votre SIG.
+DTSTAMP:20240201T153443Z
+LOCATION:Salle Vercors
+SUMMARY:[Atelier 3] Collecter vos données sur le terrain avec QField - Lo
+ ïc Bartoletti
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/
+END:VEVENT
+END:VCALENDAR

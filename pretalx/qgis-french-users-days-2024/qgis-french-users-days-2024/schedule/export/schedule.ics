@@ -1,0 +1,546 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-M7Z7RJ@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Cet atelier vise à prendre en main une base de données spatia
+ le massive sur les bâtiments. L'objectif est de prendre en main la BDNB p
+ our explorer plusieurs cas d'utilisations\, et aller jusqu'à la productio
+ n cartographique et dataviz. \nExploration des diagnostics de performance 
+ énergétique ( DPE ) sur une métropole\, visualisation d'un indicateur d
+ e raccordement potentiel à un réseau de chaleur\, statistiques par type 
+ d'usage et de propriété par zones. \nCet atelier vise à montrer comment
+  exploiter au maximum des prétraitements en base de données PostGIS via 
+ des requêtes d'agrégation sur une base. \nIl s'adresse à des chargés d
+ 'études métier (urbanisme\, énergie etc..) souhaitant découvrir les po
+ ssibilités d'exploration et d'analyse de QGIS couplé à une base de donn
+ ées.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Trièves
+SUMMARY:[Atelier 4] QGIS et Base de données des Bâtiments - Régis Haubourg
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/M7Z7RJ/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-TV7D3U@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Automatisez vos installations de QGIS avec PowerShell et ration
+ alisez le déploiement des profils QGIS plus efficacement avec [QGIS Deplo
+ yment Toolbelt (QDT)](https://guts.github.io/qgis-deployment-cli/). \n\nAp
+ prenez à :\n\n- installer\, désinstaller et mettre à jour QGIS en mode 
+ silencieux\n- rationaliser\, stocker et versionner vos profils QGIS avec u
+ n fichier `profile.json` et Git\n- concevoir un scénario de déploiement 
+ pour automatiser le déploiement des profils avec QDT\n\nBref une bonne oc
+ casion de mettre le pied à l'étrier pour optimiser votre flux de travail
+  d'administrateur/ice QGIS !
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Diois
+SUMMARY:[Atelier 10] Initiation au déploiement rationalisé de QGIS avec P
+ owerShell et QDT - Julien Moura\, Florent Fougeres
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TV7D3U/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-GBQ8V8@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Aprés un bref rappel sur les concepts de base de la réalisati
+ on de symbologie dans QGIS\, cet atelier vous propose d'explorer les fonct
+ ionnalités de symbologies avancées sur des données vectorielles ou imag
+ es. Nous aborderons entre autres :\n- Le rendu par catégorie ou via un en
+ semble de règles\,\n- les masques sélectifs\,\n- l'utilisation du géné
+ rateur de géométrie\,\n- l'intégration de la dimension temporelle dans 
+ vos cartes.\n\nEnfin\, nous présenterons quelques notions avancées à co
+ nnaître pour réussir l'intégration de vos cartes dans les mises en page
+ s et rapport.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Ecrins
+SUMMARY:[Atelier 6] Cartographie avancée avec QGIS - Jacky Volpes\, Julien
+  Cabieces
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GBQ8V8/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-ZGKQLD@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Initiation au modeleur graphique : principe\, entrées\, traite
+ ments vecteur et raster\, sorties ...
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Grandes rousses
+SUMMARY:[Atelier 8] Modeleur graphique de QGIS - Bruno Defrance\, Ouadoud
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/ZGKQLD/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-9ERMAV-1@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie 
+ carte web sur QWC à partir de votre projet QGIS.\n\nVous verrez ce qu'il 
+ est possible de réaliser au niveau visuel (sur la carte)\, comment mettre
+  en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
+ suite nous aborderons la publication de vos projets QGIS depuis l'interfac
+ e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
+ gin QGIS pour publier confortablement depuis QGIS.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Taillefer
+SUMMARY:[Atelier 1] Créer et publier un joli projet sur QWC - Andres Gwend
+ oline\, Florent Fougeres
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-R3YMFN-1@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
+ S dans un navigateur web.\nIl est développé par la société française 
+ 3Liz. L'objectif de cet outil libre est de publier\, le plus simplement po
+ ssible\, un projet QGIS (légende\, couches\, groupes\, mise en page PDF\,
+  table attributaire\, formulaire de saisie etc) sans devoir refaire des ma
+ nipulations supplémentaires pour le géomaticien dans QGIS.\n\nPendant ce
+ t atelier\, nous verrons la publication d'un projet QGIS avec :\n\n* la l
+ égende et les groupes\n* l'affichage des informations attributaires dans 
+ une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
+ c atlas)\n* l'ajout d'une dataviz
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Belledonne
+SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
+ ion opensource Lizmap - René-Luc Dhont
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-KFXHDA-1@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:QField permet une intégration transparente avec QGIS\, propose
+  des fonctionnalités essentielles pour capturer\, éditer et synchroniser
+  aisément des données géographiques en temps réel sur vos appareils mo
+ biles.\n\nL'atelier explorera comment importer des couches cartographiques
+  de QGIS vers QField\, ainsi que les méthodes de travail hors ligne et sy
+ nchronisé sur les données collectées. Vous découvrirez comment QField 
+ optimise la saisie précise des données terrain\, améliorant ainsi la pr
+ oductivité et la qualité des données recueillies.\n\nCette présentatio
+ n conjointe entre Oslandia\, promoteur QField France et OpenGIS\, dévelop
+ peur suisse de QField\, sera l'occasion de partager astuces et bonnes prat
+ iques ainsi que des retours d'expérience pour optimiser l'utilisation de 
+ QField dans votre SIG.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Vercors
+SUMMARY:[Atelier 3] Collecter vos données sur le terrain avec QField - Lo
+ ïc Bartoletti
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-9ERMAV-0@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie 
+ carte web sur QWC à partir de votre projet QGIS.\n\nVous verrez ce qu'il 
+ est possible de réaliser au niveau visuel (sur la carte)\, comment mettre
+  en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
+ suite nous aborderons la publication de vos projets QGIS depuis l'interfac
+ e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
+ gin QGIS pour publier confortablement depuis QGIS.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Taillefer
+SUMMARY:[Atelier 1] Créer et publier un joli projet sur QWC - Andres Gwend
+ oline\, Florent Fougeres
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-R3YMFN-0@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
+ S dans un navigateur web.\nIl est développé par la société française 
+ 3Liz. L'objectif de cet outil libre est de publier\, le plus simplement po
+ ssible\, un projet QGIS (légende\, couches\, groupes\, mise en page PDF\,
+  table attributaire\, formulaire de saisie etc) sans devoir refaire des ma
+ nipulations supplémentaires pour le géomaticien dans QGIS.\n\nPendant ce
+ t atelier\, nous verrons la publication d'un projet QGIS avec :\n\n* la l
+ égende et les groupes\n* l'affichage des informations attributaires dans 
+ une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
+ c atlas)\n* l'ajout d'une dataviz
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Belledonne
+SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
+ ion opensource Lizmap - René-Luc Dhont
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-GHAKAM@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:L'idée de cet atelier est d'illustrer comment utiliser les exp
+ ressions dans QGIS pour créer un outil de saisie complet\,\nà partir d'u
+ ne donnée au format tabulaire\, avec les étapes suivantes :\n\n* Import 
+ d'une donnée "tableur" dans un GeoPackage et affichage dans QGIS\n* Créa
+ tion et correction de données via des expressions\n* Mettre les données 
+ en relation\n* Créer un formulaire de saisie avancé\n* Visualiser les do
+ nnées problématiques ou importantes dans la table attributaire.\n\nOn pr
+ ivilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la m
+ ajorité des traitements : pas d'utilisation\nde requêtes SQL en base de 
+ données ou d'algorithmes complexes.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Ecrins
+SUMMARY:[Atelier 7] Créer un outil de saisie avec des expressions - Micha
+ ël Douchin\, René-Luc Dhont
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GHAKAM/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-TKMYD8@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:Lors de cet atelier nous partirons à la découverte de QFieldC
+ loud\, qui offre la possibilité de synchroniser les données entre QGIS e
+ t QField. L'ouverture du code source de la solution permet de mettre en pl
+ ace sa propre instance\, son QFieldCloud custom\, ce en quoi consistera l'
+ objectif de l'atelier.\n\nNous nous initierons et découvrirons docker\, l
+ 'outil de containerisation sur lequel se base QFieldCloud. Nous verrons le
+ s installations et le paramétrage nécessaire de l'infrastructure linux h
+ ébergeant l'instance. Puis nous lancerons le serveur pour appréhender sa
+  configuration et son administration\, au fil d'un atelier plutôt geek or
+ ienté lignes de commande.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Diois
+SUMMARY:[Atelier 11] Mise en place d'une instance QFieldCloud custom - Guil
+ hem Allaman
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TKMYD8/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-DXWZBM@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:Cet atelier abordera le fonctionnement du module DT DICT\, son 
+ suivi\, les interactions avec la numérotation d'un projet et la confectio
+ n/intégration d'un recolement d'un chantier d'éclairage public
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Trièves
+SUMMARY:[Atelier 5] Fonctionnement du module DT DICT\, numérotation projet
+  et report recolement - Jean-Claude Anotta
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/DXWZBM/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-NQMLUE@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:QGIS intègre un visualiseur 3D prenant en charge une variété
+  de formats de données 2D et 3D. Cet atelier vous présentera les fonctio
+ nnalités bases (vues\, caméra\, chargement de données) ainsi que des av
+ ancées. \n\nVous y découvrirez la manipulation des données 3D : chargem
+ ent\, configuration des vues et caméra ainsi que le chargement de donnée
+ s tels que les modèle numérique de terrain\, les tuiles 3D (3dtiles)\, l
+ es nuages de points et PostGIS 3D. Vous pourrez exploiter des outils comme
+  la boundingbox ou l'élévation de profils et des méthodes d'analyse ada
+ ptées à cet environnement tridimensionnel.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Grandes rousses
+SUMMARY:[Atelier 9] Nouveautés QGIS 3D - Jean Felder\, Benoit De Mezzo
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/NQMLUE/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-KFXHDA-0@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:QField permet une intégration transparente avec QGIS\, propose
+  des fonctionnalités essentielles pour capturer\, éditer et synchroniser
+  aisément des données géographiques en temps réel sur vos appareils mo
+ biles.\n\nL'atelier explorera comment importer des couches cartographiques
+  de QGIS vers QField\, ainsi que les méthodes de travail hors ligne et sy
+ nchronisé sur les données collectées. Vous découvrirez comment QField 
+ optimise la saisie précise des données terrain\, améliorant ainsi la pr
+ oductivité et la qualité des données recueillies.\n\nCette présentatio
+ n conjointe entre Oslandia\, promoteur QField France et OpenGIS\, dévelop
+ peur suisse de QField\, sera l'occasion de partager astuces et bonnes prat
+ iques ainsi que des retours d'expérience pour optimiser l'utilisation de 
+ QField dans votre SIG.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Vercors
+SUMMARY:[Atelier 3] Collecter vos données sur le terrain avec QField - Lo
+ ïc Bartoletti
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-HYVSJP@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T092000
+DTEND;TZID=Europe/Paris:20240328T093500
+DESCRIPTION:Introduction à la journée de conférence
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Ouverture de la journée de conférence - 
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/HYVSJP/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-TQEUSW@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T093500
+DTEND;TZID=Europe/Paris:20240328T095500
+DESCRIPTION:La nuit de la solidarité est une opération annuelle\, à éch
+ elle nationale mais reposant sur l'initiative des collectivités locales. 
+ Son objectif principal est de dénombrer les personnes en situation de rue
+  sur le territoire concerné. Programmée à Montpellier le 18 mai 2023 de
+  18h à minuit\, elle a mobilisé près de 200 bénévoles qui ont compté
+  près de 2800 personnes sans abri\, dont plus de 500 directement rencontr
+ ées pendant l'enquête.  \n\nJ'ai été mandaté par Montpellier Méditer
+ ranée Métropole pour créer un atlas d'appui à l'enquête de terrain\, 
+ afin de fournir à chaque équipe de bénévoles une carte détaillée de 
+ son secteur au format A4. Je présenterai dans cette intervention comment 
+ j'ai réalisé ces 135 cartes à l'aide de QGIS\, de ses expressions et de
+  son outil Atlas.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Utiliser QGIS pour créer un atlas d'appui à une enquête de terra
+ in: l'exemple de la nuit de la solidarité 2023 à Montpellier - Jérémy 
+ Garniaux
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TQEUSW/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-8QFNTR@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T100000
+DTEND;TZID=Europe/Paris:20240328T102000
+DESCRIPTION:Découvrez Mergin Maps : l'ensemble d'applications qui simplifi
+ e la création de projets QGIS sur iOS et Android\, idéal pour les missio
+ ns sur le terrain. Après une année d'expérience\, nous avons rassemblé
+  des astuces incontournables pour améliorer votre efficacité :\nExploite
+ z au maximum un iPhone avec Mergin Maps\nOptimisez la gestion hors ligne\n
+ Gérez vos liens vers images et PDF de manière optimale\nAssurez la sécu
+ rité de vos données… et bien d'autres astuces pratiques pour vous faci
+ liter la vie.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Retour d'une année d'expérience avec Mergin Maps - Julien Waddle
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/8QFNTR/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-XWBHHX@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T102500
+DTEND;TZID=Europe/Paris:20240328T104500
+DESCRIPTION:L’application QField de la société OpenGIS permet de consul
+ ter des projets QGIS sur sa tablette ou son smartphone\, et de faire des r
+ elevés sur le terrain via les formulaires d’édition.\nQFieldCloud d'Op
+ enGIS est la plate-forme de gestion centralisée des projets QGIS et des d
+ onnées collectées dans l’application QField. En suivant la documentati
+ on en ligne\, il est possible avec l’outil Docker de créer sa propre in
+ stance de QFieldCloud.\nNous présenterons notre retour d'expérience sur 
+ son installation et sa configuration. Nous montrerons son utilisation en t
+ ant qu'administrateur de projets QGIS\, avec les astuces et les écueils 
+ à éviter\, et nous expliquerons comment configurer un projet QGIS pour a
+ ctiver la synchronisation automatique avec une base de données PostgreSQL
+  centralisée.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Retour d'expérience sur l'utilisation d'un QFieldCloud auto-héber
+ gé - Michaël Douchin\, René-Luc Dhont
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/XWBHHX/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-B8SAP3-1@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T105000
+DTEND;TZID=Europe/Paris:20240328T111000
+DESCRIPTION:Pause
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Pause - 
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/B8SAP3/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-78AFNA@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T111000
+DTEND;TZID=Europe/Paris:20240328T113000
+DESCRIPTION:Le projet de production de l'occupation du sol à 2 dimensions 
+ (OCS2d) a impliqué les partenaires de la plateforme Geo2France dans le co
+ ntrôle qualité d'une donnée à fort enjeu (Loi Climat Résilience\, ZAN
+ \, etc.).\nLa plateforme a mis en place un kit contrôle qualité sur QGIS
+  pour optimiser l'efficacité et le temps consacré à une tâche répéti
+ tive en exploitant diverses fonctionnalités de QGIS. \nRetour d'expérien
+ ce sur la genèse de cette démarche\, son utilisation et comment l'adapte
+ r à d'autres thématiques.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Contrôle qualité de données d'occupation du sol avec QGIS - Nico
+ las Rochard
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/78AFNA/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-AUAYUU@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T113500
+DTEND;TZID=Europe/Paris:20240328T115500
+DESCRIPTION:Présenté comme un Google Maps de la vulnérabilité aux inond
+ ations\, AgiRisk est un plugin développé sous QGIS visant à la réalisa
+ tion de diagnostics personnalisés afin de réduire l’impact des inondat
+ ions sur les différents types d’enjeux territoriaux grâce à la mise e
+ n place d'actions concrètes proposées par l'outil et l'intégration du s
+ uivi temporel de cette vulnérabilité. AgiRisk s'appuie sur un panel de r
+ eprésentations cartographiques multi-échelles\, statistiques et infograp
+ hiques (tableaux de bord) pour s'adapter aux différents profils d'utilisa
+ teurs (collectivités\, aménageurs\, services de l’État...). Son écos
+ ystème est basé sur le plugin (interface utilisateur)\, une base de donn
+ ées (PostgreSQL/PostGis) pour les géotraitements et un site web techniqu
+ e pour la méthodologie.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:AgiRisk\, un plugin QGIS d'aide à la décision pour évaluer et g
+ érer les impacts des inondations - Manuel Collongues et Anaïs Cazaubon\,
+  Collongues
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/AUAYUU/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-XC8MBH@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T120000
+DTEND;TZID=Europe/Paris:20240328T122000
+DESCRIPTION:Dans le standard COVADIS des Véloroutes et Voies Vertes\, le r
+ éseau cyclable est décomposé en plusieurs "éléments" géométriques :
+  les segments.\nIls sont ensuite assemblés afin de construire des "portio
+ ns" puis des "itinéraires"\, pour former un réseau cyclable.\nD'un côt
+ é\, QGIS permet de renseigner les "relations" entre les différentes tabl
+ es d'un projet\, mais la manipulation entre les tables reste technique.\nD
+ e l'autre\, il existe le concept des "Actions" qui permet de déclencher d
+ es traitements complexes sur des contextes précis (à l'échelle d'une se
+ ule entité par exemple). Ce concept est méconnu.\nPour simplifier la mai
+ ntenance d'un réseau cyclable dans QGIS\, nous vous présenterons les ava
+ ntages offerts par les "Actions" pour la gestion de données complexes en 
+ s'appuyant sur un standard.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Utilisation des “actions QGIS” pour la gestion des données Vé
+ loroutes et Voies Vertes - René-Luc Dhont
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/XC8MBH/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-QRAC8E@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T122500
+DTEND;TZID=Europe/Paris:20240328T135500
+DESCRIPTION:Pause midi
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Pause midi - 
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/QRAC8E/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-MWEUP9@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T135500
+DTEND;TZID=Europe/Paris:20240328T141500
+DESCRIPTION:Initiée par Geo2France (ex-GeoPicardie) en 2015\, à l'origine
+ \, le plugin simplifiait le chargement des fonds WMTS\, WMS et WFS de la p
+ lateforme de données régionale.\nAu fil des années\, plusieurs CRIGE on
+ t adapté le plugin à leurs plateformes spécifiques\, ajoutant des fonct
+ ionnalités pour répondre à leurs besoins particuliers. Fin 2022\, une c
+ ollaboration s'est formée lorsque les auteurs de ces forks ont décidé d
+ e regrouper leurs fonctionnalités.\nEn 2023\, Geo2France a pris l'initiat
+ ive de refondre complètement le plugin\, le baptisant IDG\, offrant ainsi
+  une interface unifiée permettant aux utilisateurs de choisir la ou les p
+ lateformes préférées.\nDernièrement\, l'IGN a récemment annoncé son 
+ intention de contribuer.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Accéder aux données des géoplateformes régionales et nationale 
+ avec le plugin IDG - Jean-Baptiste Desbas\, Benjamin Chartier
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/MWEUP9/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-DFGASC@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T142000
+DTEND;TZID=Europe/Paris:20240328T144000
+DESCRIPTION:QGIS est né du besoin de visualiser des données spatiales. 20
+  ans plus tard\, QGIS est devenu un SIG professionnel complet capable de t
+ ravailler avec des bases de données très massives.  \nLe CSTB produit un
+  socle de données sur l'ensemble des 27 millions de bâtiments\, 90 milli
+ ons de logements\, adresses\, parcelles et centaines de caractéristiques 
+ de ces objets.\n\nEntièrement produit dans PostGIS\, chaque millésime re
+ présente plus de 300 Go de données\, au sein d'une base de production co
+ mpilant 5 To de données. Comment travailler efficacement avec de tels vol
+ umes\, particulièrement avec une base de données distante hors du résea
+ u d'entreprise ?\nCette présentation passera en revue les trucs et astuce
+ s\, optimisations PostgreSQL et pistes d'amélioration pour QGIS et Postgr
+ eSQL.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:QGIS et les bases de données très massives. Comment QGIS est util
+ isé dans la production de la Base de Données Nationale des Bâtiments (B
+ DNB) - Régis Haubourg
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/DFGASC/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-BXNZPA@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T144500
+DTEND;TZID=Europe/Paris:20240328T150500
+DESCRIPTION:Dans notre architecture PostgreSQL/Postgis & QGIS nous avons be
+ soin de permettre à des utilisateurs non linuxiens/non informaticiens de 
+ publier leurs données depuis nos bases de production vers notre base de p
+ ublication. Il faut également que ces publications puissent être automat
+ isées simplement. A terme un plugin QGIS pour que la publication puisse 
+ être ordonnée directement depuis leur sig favori.\nNous avons donc trava
+ illé avec CampToCamp pour la création de cette CLI python.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Publier de base à base depuis QGIS avec Python - Pierre Muckenstur
+ m
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/BXNZPA/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-B8SAP3-0@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T151000
+DTEND;TZID=Europe/Paris:20240328T153000
+DESCRIPTION:Pause
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Pause - 
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/B8SAP3/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-WP3NSW@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T153000
+DTEND;TZID=Europe/Paris:20240328T155000
+DESCRIPTION:En 2016\, Orange France a entamé un projet de refonte de son S
+ ystème d’Information Géographique. Cette infrastructure basée sur des
+  briques OpenSource doit répondre à des enjeux multiples: Évolutivité\
+ , Mobilité et Performance. Le serveur QGIS est le composant principal de 
+ ce SIG. \nOrange France a effectué un partenariat avec Oslandia afin de b
+ énéficier d’une vision experte\, mais aussi de devenir un acteur majeu
+ r de la communauté. Dans cette session nous proposons de vous présenter 
+ l'utilisation de QGIS serveur au sein du socle cartographique OpenSource d
+ 'Orange mais aussi les travaux communautaires réalisés pour que ce proje
+ t  soit un succès.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:QGIS Server : composant principal du SIG d'Orange - Erwan Ropartz
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/WP3NSW/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-GH8PLC@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T155500
+DTEND;TZID=Europe/Paris:20240328T161500
+DESCRIPTION:Il s'agit de présenter le plugin QGIS QWC2_Tools qui permet de
+  gérer directement depuis QGIS les projets d'une instance QWC2 (QGIS Web 
+ Client\, projet communautaire officiel de QGIS en matière de web SIG). Pa
+ r gérer\, on entend publier\, modifier\, ouvrir et supprimer des projets\
+ , mais également gérer l'arborescence. Ce plugin fonctionne avec un micr
+ o-service dédié QWC2\, développé en parallèle\, qui propose une API R
+ EST permettant la communication entre le plugin QGIS et l'instance QWC2.\n
+ \nPrésentation effectuée conjointement par Nicolas AUBIN de la Direction
+  des Systèmes d’Information et des Usages Numériques des Agences de l'
+ eau et Florent FOUGERES de la société Oslandia.\n\nLien vers la document
+ ation du plugin : https://oslandia.gitlab.io/qgis/qwc2_tools/
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Un plugin QGIS et un service de publication pour QGIS Web Client (Q
+ WC) - Florent Fougeres\, Nicolas Aubin
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GH8PLC/
+END:VEVENT
+END:VCALENDAR

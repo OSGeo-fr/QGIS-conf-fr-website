@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//MWEUP9
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-MWEUP9@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T135500
+DTEND;TZID=Europe/Paris:20240328T141500
+DESCRIPTION:Initiée par Geo2France (ex-GeoPicardie) en 2015\, à l'origine
+ \, le plugin simplifiait le chargement des fonds WMTS\, WMS et WFS de la p
+ lateforme de données régionale.\nAu fil des années\, plusieurs CRIGE on
+ t adapté le plugin à leurs plateformes spécifiques\, ajoutant des fonct
+ ionnalités pour répondre à leurs besoins particuliers. Fin 2022\, une c
+ ollaboration s'est formée lorsque les auteurs de ces forks ont décidé d
+ e regrouper leurs fonctionnalités.\nEn 2023\, Geo2France a pris l'initiat
+ ive de refondre complètement le plugin\, le baptisant IDG\, offrant ainsi
+  une interface unifiée permettant aux utilisateurs de choisir la ou les p
+ lateformes préférées.\nDernièrement\, l'IGN a récemment annoncé son 
+ intention de contribuer.
+DTSTAMP:20240201T153439Z
+LOCATION:Salle Chartreuse
+SUMMARY:Accéder aux données des géoplateformes régionales et nationale 
+ avec le plugin IDG - Jean-Baptiste Desbas\, Benjamin Chartier
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/MWEUP9/
+END:VEVENT
+END:VCALENDAR

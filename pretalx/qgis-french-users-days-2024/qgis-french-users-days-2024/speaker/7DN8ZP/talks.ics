@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//qgis-french-users-days-2024//7DN8ZP
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-NQMLUE@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:QGIS intègre un visualiseur 3D prenant en charge une variété
+  de formats de données 2D et 3D. Cet atelier vous présentera les fonctio
+ nnalités bases (vues\, caméra\, chargement de données) ainsi que des av
+ ancées. \n\nVous y découvrirez la manipulation des données 3D : chargem
+ ent\, configuration des vues et caméra ainsi que le chargement de donnée
+ s tels que les modèle numérique de terrain\, les tuiles 3D (3dtiles)\, l
+ es nuages de points et PostGIS 3D. Vous pourrez exploiter des outils comme
+  la boundingbox ou l'élévation de profils et des méthodes d'analyse ada
+ ptées à cet environnement tridimensionnel.
+DTSTAMP:20240201T153447Z
+LOCATION:Salle Grandes rousses
+SUMMARY:[Atelier 9] Nouveautés QGIS 3D - Jean Felder\, Benoit De Mezzo
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/NQMLUE/
+END:VEVENT
+END:VCALENDAR

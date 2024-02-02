@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article>
+
+  <div>
+    {{ content }}
+  </div>
+
+  <a href="https://talks.osgeo.org/qgis-french-users-days-2024/schedule/#" class="btn btn-outline-success  active" style="color: #fff;background-color: #3aa57c;border-color: #3aa57c;">Programme en plein écran</a>
+  <div><b>Attention à la mise en page, il y a sept salles d'atelier !</b></div><br/>
+  <div>Le détail est ci-desssous : </div><br/>
+  <iframe id=programme  style="min-height: 600px;max-height:1000px; height:fit-content; width:100%;" src="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/only_prog.html"> </iframe>
+<script>
+   var iframe = document.getElementById("programme");
+   iframe.width = iframe.contentWindow.document.body.scrollWidth;
+   iframe.height = iframe.contentWindow.document.body.scrollHeight;
+</script>
+</article>

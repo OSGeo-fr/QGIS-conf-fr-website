@@ -1,0 +1,222 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB) ::  Rencontres des utilisateurs francophones de QGIS 2024 :: pretalx</title>
+        <meta name="title" content="QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)  - Rencontres des utilisateurs francophones de QGIS 2024 pretalx">
+        <meta name="description" content="QGIS est né du besoin de visualiser des données spatiales. 20 ans plus tard, QGIS est devenu un SIG professionnel complet capable de travailler avec des bases de données très massives.  
+Le CSTB produit un socle de données sur l&#x27;ensemble des 27 millions de bâtiments, 90 millions de logements, adresses, parcelles et centaines de caractéristiques de ces objets.
+
+Entièrement produit dans PostGIS, chaque millésime représente plus de 300 Go de données, au sein d&#x27;une base de production compilant 5 To de données. Comment travailler efficacement avec de tels volumes, particulièrement avec une base de données distante hors du réseau d&#x27;entreprise ?
+Cette présentation passera en revue les trucs et astuces, optimisations PostgreSQL et pistes d&#x27;amélioration pour QGIS et PostgreSQL.">
+        <meta name="application-name" content="pretalx">
+        <meta name="generator" content="pretalx">
+        <meta name="keywords" content="Rencontres des utilisateurs francophones de QGIS 2024, qgis-french-users-days-2024, 2024, schedule, talks, cfp, call for papers, conference, submissions, organizer">
+        
+        <meta name="robots" content="index, follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#3aa57c">
+        <meta name="HandheldFriendly" content="True"/>
+        <meta property="thumbnail" content="http://talks.osgeo.org/media/qgis-french-users-days-2024/submissions/DFGASC/bdnb_loves_qgis_9R5H7nk.png">
+    <meta property="og:image" content="http://talks.osgeo.org/media/qgis-french-users-days-2024/submissions/DFGASC/bdnb_loves_qgis_9R5H7nk.png">
+        <meta property="og:title" content="QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB) Rencontres des utilisateurs francophones de QGIS 2024">
+        <meta property="og:description" content="QGIS est né du besoin de visualiser des données spatiales. 20 ans plus tard, QGIS est devenu un SIG professionnel complet capable de travailler avec des bases de données très massives.  
+Le CSTB produit un socle de données sur l&#x27;ensemble des 27 millions de bâtiments, 90 millions de logements, adresses, parcelles et centaines de caractéristiques de ces objets.
+
+Entièrement produit dans PostGIS, chaque millésime représente plus de 300 Go de données, au sein d&#x27;une base de production compilant 5 To de données. Comment travailler efficacement avec de tels volumes, particulièrement avec une base de données distante hors du réseau d&#x27;entreprise ?
+Cette présentation passera en revue les trucs et astuces, optimisations PostgreSQL et pistes d&#x27;amélioration pour QGIS et PostgreSQL.">
+        <meta property="og:url" content="http://testserver/qgis-french-users-days-2024/talk/DFGASC/">
+        <meta property="twitter:card" content="summary">
+
+        
+            <link rel="icon" type="image/png" sizes="32x32" href="/pretalx/qgis-french-users-days-2024/static/common/img/favicon-32x32.38c2aab28d3a.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/pretalx/qgis-french-users-days-2024/static/common/img/favicon-16x16.02f8a56e1af3.png">
+        
+
+        <link rel="stylesheet" type="text/css" href="/pretalx/qgis-french-users-days-2024/static/common/scss/uncompressed.cabbf3759e3e.css" />
+        
+            <link rel="stylesheet" href="/pretalx/qgis-french-users-days-2024/static/CACHE/css/output.c3eca3efda85.css" type="text/css">
+        
+        <link rel="stylesheet" type="text/css" href="/pretalx/qgis-french-users-days-2024/media/qgis-french-users-days-2024/css/qgis-french-users-days-2024_uldMkgD.css"/>
+        <script src="/pretalx/qgis-french-users-days-2024/static/CACHE/js/output.30f92f7afc90.js" defer></script>
+        
+    
+    <link rel="alternate" type="application/json" title="Rencontres des utilisateurs francophones de QGIS 2024 API" href="http://talks.osgeo.org/api/events/qgis-french-users-days-2024/talks/DFGASC" />
+
+    
+    
+
+    </head>
+    <body>
+        <div id="top-bg" class="header topo">
+            
+                <img src="/pretalx/qgis-french-users-days-2024/media/qgis-french-users-days-2024/img/header_VmJkHdU.png" id="header-image">
+            
+        </div>
+        
+        <div class="container" id="main-container">
+            <header>
+                <h1>
+                    <a href="
+    /pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/
+">
+                        
+                            Rencontres des utilisateurs francophones de QGIS 2024
+                        
+                    </a>
+                </h1>
+                <div class="d-flex" id="header-row">
+                    
+                    
+                </div>
+            </header>
+            <div class="card" id="main-card">
+                <main>
+                    
+
+                    
+    
+    
+    <article>
+        <h3 class="talk-title">
+            <div class="heading-with-buttons">
+                QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)
+                <div class="buttons" id="talk-buttons">
+                    
+                        <a class="btn btn-outline-primary" href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DFGASC.ics">
+                            <i class="fa fa-calendar"></i> .ical
+                        </a>
+                    
+                    
+                    
+                </div>
+            </div>
+            <small>
+                
+                    2024-03-28, 14:20–14:40 (Europe/Paris), Salle Chartreuse
+                
+                
+                
+            </small>
+        </h3>
+        <div class="talk row">
+            <div class="talk-content">
+                
+                    <div class="talk-image">
+                        <a href="/pretalx/qgis-french-users-days-2024/media/qgis-french-users-days-2024/submissions/DFGASC/bdnb_loves_qgis_9R5H7nk.png">
+                            <img src="/pretalx/qgis-french-users-days-2024/media/qgis-french-users-days-2024/submissions/DFGASC/bdnb_loves_qgis_9R5H7nk.png" alt="L'image d'entête de cette intervention">
+                        </a>
+                    </div>
+                
+                
+                
+                <section class="abstract">
+                    <p>QGIS est né du besoin de visualiser des données spatiales. 20 ans plus tard, QGIS est devenu un SIG professionnel complet capable de travailler avec des bases de données très massives.<br>
+Le CSTB produit un socle de données sur l'ensemble des 27 millions de bâtiments, 90 millions de logements, adresses, parcelles et centaines de caractéristiques de ces objets.</p>
+<p>Entièrement produit dans PostGIS, chaque millésime représente plus de 300 Go de données, au sein d'une base de production compilant 5 To de données. Comment travailler efficacement avec de tels volumes, particulièrement avec une base de données distante hors du réseau d'entreprise ?<br>
+Cette présentation passera en revue les trucs et astuces, optimisations PostgreSQL et pistes d'amélioration pour QGIS et PostgreSQL.</p>
+                </section>
+                
+                <section class="description">
+                    
+                </section>
+                
+                    <hr />
+                    <section class="answers">
+                        
+                            <span class="question"><strong>Ressources accessibles (git, article, ...)</strong></span>
+                            <span class="answer">– 
+
+
+    <p>Site web du projet : <a href="https://bdnb.io/" rel="nofollow" target="_blank">https://bdnb.io/</a><br>
+Diffusion open data : <a href="https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/" rel="nofollow" target="_blank">https://www.data.gouv.fr/fr/datasets/base-de-donnees-nationale-des-batiments/</a><br>
+Forge (présentations, documentation, wiki, notebooks):  <a href="https://gitlab.com/BDNB/" rel="nofollow" target="_blank">https://gitlab.com/BDNB/</a></p>
+
+</span>
+                        
+                
+            </section>
+            
+        </div>
+    </div>
+    
+        
+            
+
+
+<div class="pretalx-session">
+    <div class="pretalx-session-time-box avatar">
+        
+            <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/speaker/ECTMEC/">
+        
+        <div class="avatar-wrapper">
+            
+                <img src="/pretalx/qgis-french-users-days-2024/media/avatars/rha_ziM49KP.jpg">
+            
+        </div>
+        
+            </a>
+        
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/speaker/ECTMEC/">Régis Haubourg</a>
+            
+        </div>
+        <div class="abstract"><p>Géomaticien passionné d'open source et spécialisé en environnement. A la frontière entre développeurs, data scientists, communautés open sources et spécialistes métiers.<br>
+Ancien administrateur SIG en agence de l'eau, j'ai eu le privilège de pouvoir financer beaucoup d'évolutions de QGIS, puis de contribuer à sa communauté de développement chez Oslandia. <br>
+Passionné également par l'utilisation des données au service de la transition écologique, j'ai rejoint le CSTB pour appuyer l'équipe BDNB en 2021.<br>
+Je suis au comité de pilotage de QGIS.org depuis un an et actif dans le groupe utilisateur francophone.</p></div>
+        
+            Autre(s) intervention(s) de l'orateur :
+            <ul>
+                
+                    <li>
+                        
+                            <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/M7Z7RJ/">[Atelier 4] QGIS et Base de données des Bâtiments</a>
+                        
+                    </li>
+                
+            </ul>
+        
+    </div>
+</div>
+
+        
+    
+    </article>
+
+
+                </main>
+            </div>
+            <footer>
+                
+                    <div id="exporttimestamp" class="text-muted">
+                        
+                        Ceci est un export statique qui a été généré le 2024-02-01 16:34 CET
+                    </div>
+                
+                
+
+
+    propulsé par <a href="https://pretalx.com" target="_blank" rel="noopener">pretalx</a>
+
+
+                
+                    &middot;
+                    <a href="mailto:qgis@osgeo.asso.fr">Contactez-nous</a>
+                
+                
+                    &middot;
+                    <a href="https://www.osgeo.fr/contact/" target="_blank" rel="noopener">Mentions légales</a>
+                
+                
+            </footer>
+        </div>
+    </body>
+</html>

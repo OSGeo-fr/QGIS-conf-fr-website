@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//TV7D3U
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-TV7D3U@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Automatisez vos installations de QGIS avec PowerShell et ration
+ alisez le déploiement des profils QGIS plus efficacement avec [QGIS Deplo
+ yment Toolbelt (QDT)](https://guts.github.io/qgis-deployment-cli/). \n\nAp
+ prenez à :\n\n- installer\, désinstaller et mettre à jour QGIS en mode 
+ silencieux\n- rationaliser\, stocker et versionner vos profils QGIS avec u
+ n fichier `profile.json` et Git\n- concevoir un scénario de déploiement 
+ pour automatiser le déploiement des profils avec QDT\n\nBref une bonne oc
+ casion de mettre le pied à l'étrier pour optimiser votre flux de travail
+  d'administrateur/ice QGIS !
+DTSTAMP:20240201T153433Z
+LOCATION:Salle Diois
+SUMMARY:[Atelier 10] Initiation au déploiement rationalisé de QGIS avec P
+ owerShell et QDT - Julien Moura\, Florent Fougeres
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TV7D3U/
+END:VEVENT
+END:VCALENDAR

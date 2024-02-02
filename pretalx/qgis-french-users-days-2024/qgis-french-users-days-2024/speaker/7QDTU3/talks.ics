@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//qgis-french-users-days-2024//7QDTU3
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-9ERMAV-0@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie 
+ carte web sur QWC à partir de votre projet QGIS.\n\nVous verrez ce qu'il 
+ est possible de réaliser au niveau visuel (sur la carte)\, comment mettre
+  en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
+ suite nous aborderons la publication de vos projets QGIS depuis l'interfac
+ e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
+ gin QGIS pour publier confortablement depuis QGIS.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Taillefer
+SUMMARY:[Atelier 1] Créer et publier un joli projet sur QWC - Andres Gwend
+ oline\, Florent Fougeres
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-9ERMAV-1@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie 
+ carte web sur QWC à partir de votre projet QGIS.\n\nVous verrez ce qu'il 
+ est possible de réaliser au niveau visuel (sur la carte)\, comment mettre
+  en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
+ suite nous aborderons la publication de vos projets QGIS depuis l'interfac
+ e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
+ gin QGIS pour publier confortablement depuis QGIS.
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Taillefer
+SUMMARY:[Atelier 1] Créer et publier un joli projet sur QWC - Andres Gwend
+ oline\, Florent Fougeres
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-GH8PLC@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T155500
+DTEND;TZID=Europe/Paris:20240328T161500
+DESCRIPTION:Il s'agit de présenter le plugin QGIS QWC2_Tools qui permet de
+  gérer directement depuis QGIS les projets d'une instance QWC2 (QGIS Web 
+ Client\, projet communautaire officiel de QGIS en matière de web SIG). Pa
+ r gérer\, on entend publier\, modifier\, ouvrir et supprimer des projets\
+ , mais également gérer l'arborescence. Ce plugin fonctionne avec un micr
+ o-service dédié QWC2\, développé en parallèle\, qui propose une API R
+ EST permettant la communication entre le plugin QGIS et l'instance QWC2.\n
+ \nPrésentation effectuée conjointement par Nicolas AUBIN de la Direction
+  des Systèmes d’Information et des Usages Numériques des Agences de l'
+ eau et Florent FOUGERES de la société Oslandia.\n\nLien vers la document
+ ation du plugin : https://oslandia.gitlab.io/qgis/qwc2_tools/
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Chartreuse
+SUMMARY:Un plugin QGIS et un service de publication pour QGIS Web Client (Q
+ WC) - Florent Fougeres\, Nicolas Aubin
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GH8PLC/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-TV7D3U@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Automatisez vos installations de QGIS avec PowerShell et ration
+ alisez le déploiement des profils QGIS plus efficacement avec [QGIS Deplo
+ yment Toolbelt (QDT)](https://guts.github.io/qgis-deployment-cli/). \n\nAp
+ prenez à :\n\n- installer\, désinstaller et mettre à jour QGIS en mode 
+ silencieux\n- rationaliser\, stocker et versionner vos profils QGIS avec u
+ n fichier `profile.json` et Git\n- concevoir un scénario de déploiement 
+ pour automatiser le déploiement des profils avec QDT\n\nBref une bonne oc
+ casion de mettre le pied à l'étrier pour optimiser votre flux de travail
+  d'administrateur/ice QGIS !
+DTSTAMP:20240201T153451Z
+LOCATION:Salle Diois
+SUMMARY:[Atelier 10] Initiation au déploiement rationalisé de QGIS avec P
+ owerShell et QDT - Julien Moura\, Florent Fougeres
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TV7D3U/
+END:VEVENT
+END:VCALENDAR

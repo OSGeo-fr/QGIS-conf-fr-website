@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//talks.osgeo.org//qgis-french-users-days-2024//UGBGMK
+BEGIN:VTIMEZONE
+TZID:Europe/Paris
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-8QFNTR@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240328T100000
+DTEND;TZID=Europe/Paris:20240328T102000
+DESCRIPTION:Découvrez Mergin Maps : l'ensemble d'applications qui simplifi
+ e la création de projets QGIS sur iOS et Android\, idéal pour les missio
+ ns sur le terrain. Après une année d'expérience\, nous avons rassemblé
+  des astuces incontournables pour améliorer votre efficacité :\nExploite
+ z au maximum un iPhone avec Mergin Maps\nOptimisez la gestion hors ligne\n
+ Gérez vos liens vers images et PDF de manière optimale\nAssurez la sécu
+ rité de vos données… et bien d'autres astuces pratiques pour vous faci
+ liter la vie.
+DTSTAMP:20240201T153443Z
+LOCATION:Salle Chartreuse
+SUMMARY:Retour d'une année d'expérience avec Mergin Maps - Julien Waddle
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/8QFNTR/
+END:VEVENT
+END:VCALENDAR

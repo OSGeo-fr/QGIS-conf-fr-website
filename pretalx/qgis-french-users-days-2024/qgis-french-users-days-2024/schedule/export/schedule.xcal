@@ -1,0 +1,720 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<iCalendar xmlns:pentabarf='http://pentabarf.org' xmlns:xCal='urn:ietf:params:xml:ns:xcal'>
+    <vcalendar>
+        <version>2.0</version>
+        <prodid>-//Pentabarf//Schedule//EN</prodid>
+        <x-wr-caldesc></x-wr-caldesc>
+        <x-wr-calname></x-wr-calname>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>9ERMAV@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-9ERMAV</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 1] Créer et publier un joli projet sur QWC</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T093000</dtstart>
+            <dtend>20240327T123000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 1] Créer et publier un joli projet sur QWC</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/</url>
+            <location>Salle Taillefer</location>
+            
+            <attendee>Andres Gwendoline</attendee>
+            
+            <attendee>Florent Fougeres</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>9ERMAV@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-9ERMAV</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 1] Créer et publier un joli projet sur QWC</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T140000</dtstart>
+            <dtend>20240327T170000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 1] Créer et publier un joli projet sur QWC</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/</url>
+            <location>Salle Taillefer</location>
+            
+            <attendee>Andres Gwendoline</attendee>
+            
+            <attendee>Florent Fougeres</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>R3YMFN@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-R3YMFN</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 2] Publication sur le web d’un projet QGIS avec la solution opensource Lizmap</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T093000</dtstart>
+            <dtend>20240327T123000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 2] Publication sur le web d’un projet QGIS avec la solution opensource Lizmap</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/</url>
+            <location>Salle Belledonne</location>
+            
+            <attendee>René-Luc Dhont</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>R3YMFN@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-R3YMFN</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 2] Publication sur le web d’un projet QGIS avec la solution opensource Lizmap</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T140000</dtstart>
+            <dtend>20240327T170000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 2] Publication sur le web d’un projet QGIS avec la solution opensource Lizmap</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/</url>
+            <location>Salle Belledonne</location>
+            
+            <attendee>René-Luc Dhont</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>KFXHDA@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-KFXHDA</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 3] Collecter vos données sur le terrain avec QField</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T093000</dtstart>
+            <dtend>20240327T123000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 3] Collecter vos données sur le terrain avec QField</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/</url>
+            <location>Salle Vercors</location>
+            
+            <attendee>Loïc Bartoletti</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>KFXHDA@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-KFXHDA</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 3] Collecter vos données sur le terrain avec QField</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T140000</dtstart>
+            <dtend>20240327T170000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 3] Collecter vos données sur le terrain avec QField</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/</url>
+            <location>Salle Vercors</location>
+            
+            <attendee>Loïc Bartoletti</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>M7Z7RJ@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-M7Z7RJ</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 4] QGIS et Base de données des Bâtiments</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T093000</dtstart>
+            <dtend>20240327T123000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 4] QGIS et Base de données des Bâtiments</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/M7Z7RJ/</url>
+            <location>Salle Trièves</location>
+            
+            <attendee>Régis Haubourg</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>DXWZBM@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-DXWZBM</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report recolement</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T140000</dtstart>
+            <dtend>20240327T170000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report recolement</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/DXWZBM/</url>
+            <location>Salle Trièves</location>
+            
+            <attendee>Jean-Claude Anotta</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>GBQ8V8@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-GBQ8V8</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 6] Cartographie avancée avec QGIS</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T093000</dtstart>
+            <dtend>20240327T123000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 6] Cartographie avancée avec QGIS</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GBQ8V8/</url>
+            <location>Salle Ecrins</location>
+            
+            <attendee>Jacky Volpes</attendee>
+            
+            <attendee>Julien Cabieces</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>GHAKAM@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-GHAKAM</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 7] Créer un outil de saisie avec des expressions</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T140000</dtstart>
+            <dtend>20240327T170000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 7] Créer un outil de saisie avec des expressions</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GHAKAM/</url>
+            <location>Salle Ecrins</location>
+            
+            <attendee>Michaël Douchin</attendee>
+            
+            <attendee>René-Luc Dhont</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>ZGKQLD@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-ZGKQLD</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 8] Modeleur graphique de QGIS</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T093000</dtstart>
+            <dtend>20240327T123000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 8] Modeleur graphique de QGIS</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/ZGKQLD/</url>
+            <location>Salle Grandes rousses</location>
+            
+            <attendee>Bruno Defrance</attendee>
+            
+            <attendee>Ouadoud</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>NQMLUE@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-NQMLUE</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 9] Nouveautés QGIS 3D</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T140000</dtstart>
+            <dtend>20240327T170000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 9] Nouveautés QGIS 3D</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/NQMLUE/</url>
+            <location>Salle Grandes rousses</location>
+            
+            <attendee>Jean Felder</attendee>
+            
+            <attendee>Benoit De Mezzo</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>TV7D3U@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-TV7D3U</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 10] Initiation au déploiement rationalisé de QGIS avec PowerShell et QDT</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T093000</dtstart>
+            <dtend>20240327T123000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 10] Initiation au déploiement rationalisé de QGIS avec PowerShell et QDT</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/TV7D3U/</url>
+            <location>Salle Diois</location>
+            
+            <attendee>Julien Moura</attendee>
+            
+            <attendee>Florent Fougeres</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>TKMYD8@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-TKMYD8</pentabarf:event-slug>
+            <pentabarf:title>[Atelier 11] Mise en place d&#x27;une instance QFieldCloud custom</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240327T140000</dtstart>
+            <dtend>20240327T170000</dtend>
+            <duration>3.00000</duration>
+            <summary>[Atelier 11] Mise en place d&#x27;une instance QFieldCloud custom</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Atelier</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/TKMYD8/</url>
+            <location>Salle Diois</location>
+            
+            <attendee>Guilhem Allaman</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>HYVSJP@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-HYVSJP</pentabarf:event-slug>
+            <pentabarf:title>Ouverture de la journée de conférence</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T092000</dtstart>
+            <dtend>20240328T093500</dtend>
+            <duration>0.01500</duration>
+            <summary>Ouverture de la journée de conférence</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/HYVSJP/</url>
+            <location>Salle Chartreuse</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>TQEUSW@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-TQEUSW</pentabarf:event-slug>
+            <pentabarf:title>Utiliser QGIS pour créer un atlas d&#x27;appui à une enquête de terrain: l&#x27;exemple de la nuit de la solidarité 2023 à Montpellier</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T093500</dtstart>
+            <dtend>20240328T095500</dtend>
+            <duration>0.02000</duration>
+            <summary>Utiliser QGIS pour créer un atlas d&#x27;appui à une enquête de terrain: l&#x27;exemple de la nuit de la solidarité 2023 à Montpellier</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/TQEUSW/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Jérémy Garniaux</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>8QFNTR@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-8QFNTR</pentabarf:event-slug>
+            <pentabarf:title>Retour d&#x27;une année d&#x27;expérience avec Mergin Maps</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T100000</dtstart>
+            <dtend>20240328T102000</dtend>
+            <duration>0.02000</duration>
+            <summary>Retour d&#x27;une année d&#x27;expérience avec Mergin Maps</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/8QFNTR/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Julien Waddle</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>XWBHHX@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-XWBHHX</pentabarf:event-slug>
+            <pentabarf:title>Retour d&#x27;expérience sur l&#x27;utilisation d&#x27;un QFieldCloud auto-hébergé</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T102500</dtstart>
+            <dtend>20240328T104500</dtend>
+            <duration>0.02000</duration>
+            <summary>Retour d&#x27;expérience sur l&#x27;utilisation d&#x27;un QFieldCloud auto-hébergé</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/XWBHHX/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Michaël Douchin</attendee>
+            
+            <attendee>René-Luc Dhont</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>B8SAP3@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-B8SAP3</pentabarf:event-slug>
+            <pentabarf:title>Pause</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T105000</dtstart>
+            <dtend>20240328T111000</dtend>
+            <duration>0.02000</duration>
+            <summary>Pause</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/B8SAP3/</url>
+            <location>Salle Chartreuse</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>78AFNA@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-78AFNA</pentabarf:event-slug>
+            <pentabarf:title>Contrôle qualité de données d&#x27;occupation du sol avec QGIS</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T111000</dtstart>
+            <dtend>20240328T113000</dtend>
+            <duration>0.02000</duration>
+            <summary>Contrôle qualité de données d&#x27;occupation du sol avec QGIS</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/78AFNA/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Nicolas Rochard</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>AUAYUU@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-AUAYUU</pentabarf:event-slug>
+            <pentabarf:title>AgiRisk, un plugin QGIS d&#x27;aide à la décision pour évaluer et gérer les impacts des inondations</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T113500</dtstart>
+            <dtend>20240328T115500</dtend>
+            <duration>0.02000</duration>
+            <summary>AgiRisk, un plugin QGIS d&#x27;aide à la décision pour évaluer et gérer les impacts des inondations</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/AUAYUU/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Manuel Collongues et Anaïs Cazaubon</attendee>
+            
+            <attendee>Collongues</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>XC8MBH@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-XC8MBH</pentabarf:event-slug>
+            <pentabarf:title>Utilisation des “actions QGIS” pour la gestion des données Véloroutes et Voies Vertes</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T120000</dtstart>
+            <dtend>20240328T122000</dtend>
+            <duration>0.02000</duration>
+            <summary>Utilisation des “actions QGIS” pour la gestion des données Véloroutes et Voies Vertes</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/XC8MBH/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>René-Luc Dhont</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>QRAC8E@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-QRAC8E</pentabarf:event-slug>
+            <pentabarf:title>Pause midi</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T122500</dtstart>
+            <dtend>20240328T135500</dtend>
+            <duration>1.03000</duration>
+            <summary>Pause midi</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/QRAC8E/</url>
+            <location>Salle Chartreuse</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>MWEUP9@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-MWEUP9</pentabarf:event-slug>
+            <pentabarf:title>Accéder aux données des géoplateformes régionales et nationale avec le plugin IDG</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T135500</dtstart>
+            <dtend>20240328T141500</dtend>
+            <duration>0.02000</duration>
+            <summary>Accéder aux données des géoplateformes régionales et nationale avec le plugin IDG</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/MWEUP9/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Jean-Baptiste Desbas</attendee>
+            
+            <attendee>Benjamin Chartier</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>DFGASC@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-DFGASC</pentabarf:event-slug>
+            <pentabarf:title>QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T142000</dtstart>
+            <dtend>20240328T144000</dtend>
+            <duration>0.02000</duration>
+            <summary>QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/DFGASC/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Régis Haubourg</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>BXNZPA@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-BXNZPA</pentabarf:event-slug>
+            <pentabarf:title>Publier de base à base depuis QGIS avec Python</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T144500</dtstart>
+            <dtend>20240328T150500</dtend>
+            <duration>0.02000</duration>
+            <summary>Publier de base à base depuis QGIS avec Python</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/BXNZPA/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Pierre Muckensturm</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>B8SAP3@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-B8SAP3</pentabarf:event-slug>
+            <pentabarf:title>Pause</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T151000</dtstart>
+            <dtend>20240328T153000</dtend>
+            <duration>0.02000</duration>
+            <summary>Pause</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/B8SAP3/</url>
+            <location>Salle Chartreuse</location>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>WP3NSW@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-WP3NSW</pentabarf:event-slug>
+            <pentabarf:title>QGIS Server : composant principal du SIG d&#x27;Orange</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T153000</dtstart>
+            <dtend>20240328T155000</dtend>
+            <duration>0.02000</duration>
+            <summary>QGIS Server : composant principal du SIG d&#x27;Orange</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/WP3NSW/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Erwan Ropartz</attendee>
+            
+        </vevent>
+        
+        <vevent>
+            <method>PUBLISH</method>
+            <uid>GH8PLC@@talks.osgeo.org</uid>
+            <pentabarf:event-id></pentabarf:event-id>
+            <pentabarf:event-slug>-GH8PLC</pentabarf:event-slug>
+            <pentabarf:title>Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)</pentabarf:title>
+            <pentabarf:subtitle></pentabarf:subtitle>
+            <pentabarf:language>fr</pentabarf:language>
+            <pentabarf:language-code>fr</pentabarf:language-code>
+            <dtstart>20240328T155500</dtstart>
+            <dtend>20240328T161500</dtend>
+            <duration>0.02000</duration>
+            <summary>Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)</summary>
+            <description></description>
+            <class>PUBLIC</class>
+            <status>CONFIRMED</status>
+            <category>Conférence</category>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GH8PLC/</url>
+            <location>Salle Chartreuse</location>
+            
+            <attendee>Florent Fougeres</attendee>
+            
+            <attendee>Nicolas Aubin</attendee>
+            
+        </vevent>
+        
+    </vcalendar>
+</iCalendar>
