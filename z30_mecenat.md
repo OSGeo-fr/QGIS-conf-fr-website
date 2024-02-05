@@ -65,21 +65,21 @@ _Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée 
 
 [![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](https://bdnb.io)  
 
-Le [Centre Scientifique et Technique du Bâtiment](http://www.cstb.fr), CSTB, est une entreprise publique à caractère industriel et commercial (EPIC), au service de ses clients et de l’intérêt général.
-Il a pour ambition d’imaginer les bâtiments et la ville de demain en accompagnant et sécurisant les projets de construction et de rénovation durable, pour améliorer la qualité de vie de leurs usagers, en anticipant les effets du changement climatique. Son champ de compétences couvre les produits de construction, les bâtiments et leur intégration dans le quartier et la ville. 
-Au travers du projet de [Base de Données Nationale des Bâtiments](https://bdnb.io) (BDNB), le CSTB s'engage résolument dans le monde de l'open data et de la géomatique au service de la transition écologique. QGIS et les outils rassemblés sous le giron de l'OSGEO sont des éléments essentiels à la constitution et l'utilisation de la BDNB. 
-
-
-
-<!-- ---
-
-
+_Le [Centre Scientifique et Technique du Bâtiment](http://www.cstb.fr), CSTB, est une entreprise publique à caractère industriel et commercial (EPIC), au service de ses clients et de l’intérêt général._
+_Il a pour ambition d’imaginer les bâtiments et la ville de demain en accompagnant et sécurisant les projets de construction et de rénovation durable, pour améliorer la qualité de vie de leurs usagers, en anticipant les effets du changement climatique. Son champ de compétences couvre les produits de construction, les bâtiments et leur intégration dans le quartier et la ville._ 
+_Au travers du projet de [Base de Données Nationale des Bâtiments](https://bdnb.io) (BDNB), le CSTB s'engage résolument dans le monde de l'open data et de la géomatique au service de la transition écologique. QGIS et les outils rassemblés sous le giron de l'OSGEO sont des éléments essentiels à la constitution et l'utilisation de la BDNB._ 
 
 ---
 
 [![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
 
-Depuis plus de 20 ans, SOPRECO apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier. -->
+_Depuis plus de 20 ans, ![SOPRECO](https://www.sopreco-morteau.com) apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier._ 
+
+<!-- ---
+
+
+
+-->
 
 
 # Nos mécènes ARGENT
