@@ -67,7 +67,7 @@ _Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée 
 
 _Le [Centre Scientifique et Technique du Bâtiment](http://www.cstb.fr), CSTB, est une entreprise publique à caractère industriel et commercial (EPIC), au service de ses clients et de l’intérêt général._
 _Il a pour ambition d’imaginer les bâtiments et la ville de demain en accompagnant et sécurisant les projets de construction et de rénovation durable, pour améliorer la qualité de vie de leurs usagers, en anticipant les effets du changement climatique. Son champ de compétences couvre les produits de construction, les bâtiments et leur intégration dans le quartier et la ville._ 
-_Au travers du projet de [Base de Données Nationale des Bâtiments](https://bdnb.io) (BDNB), le CSTB s'engage résolument dans le monde de l'open data et de la géomatique au service de la transition écologique. QGIS et les outils rassemblés sous le giron de l'OSGEO sont des éléments essentiels à la constitution et l'utilisation de la BDNB._ 
+_Au travers du projet de [Base de Données Nationale des Bâtiments](https://bdnb.io) (BDNB), le CSTB s'engage résolument dans le monde de l'open data et de la géomatique au service de la transition écologique. QGIS et les outils rassemblés dans le giron de l'OSGEO sont des éléments essentiels à la constitution et l'utilisation de la BDNB._ 
 
 ---
 
