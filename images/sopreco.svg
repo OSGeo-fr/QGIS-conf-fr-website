@@ -6,11 +6,11 @@
    id="Calque_1"
    x="0px"
    y="0px"
-   viewBox="0 0 256.085 88.285"
+   viewBox="0 0 67.755997 23.35874"
    xml:space="preserve"
    sodipodi:docname="sopreco-small.svg"
-   width="256.08499"
-   height="88.285004"
+   width="67.755997mm"
+   height="23.35874mm"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,14 +27,15 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="1.3365803"
-   inkscape:cx="264.48092"
+   inkscape:cx="287.30035"
    inkscape:cy="88.285004"
    inkscape:window-width="1920"
    inkscape:window-height="1000"
    inkscape:window-x="-11"
    inkscape:window-y="-11"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Calque_1" />
+   inkscape:current-layer="Calque_1"
+   inkscape:document-units="mm" />
 <style
    type="text/css"
    id="style2">
@@ -43,7 +44,7 @@
 </style>
 <g
    id="g18"
-   transform="matrix(0.5,0,0,0.5,-4.0641941,-2.3651261)">
+   transform="matrix(0.125,0,0,0.125,1.7277608,0.25706149)">
 	<path
    class="st0"
    d="m 48.53,88.4 h 14.05 c 0.29,4.22 3.79,3.79 13.54,3.79 13.76,0 16.38,-1.75 16.38,-4.44 0,-3.71 -3.79,-4.08 -6.41,-4.15 L 69.13,83.16 c -12.38,-0.29 -20.6,-0.95 -20.6,-13.25 0,-12.3 8.88,-15.8 26.79,-15.8 19.95,0 29.12,1.6 29.7,15.29 H 91.05 c -0.51,-4.51 -5.46,-4.37 -15.72,-4.37 -10.19,0 -12.67,1.53 -12.67,4.15 0,3.71 2.91,4.44 6.92,4.51 l 14.78,0.36 c 12.3,0.29 22.35,-0.29 22.35,13.47 0,13.4 -10.99,15.58 -30.58,15.58 -22.21,0 -27.3,-2.55 -27.6,-14.7 z"
