@@ -6,7 +6,7 @@ menu: header
 ---
 
 Après une édition à Clermont-Ferrand, les rencontres traversent la Région Auvergne-Rhône-Alpes
-pour rejoindre Grenoble avec le soutien de l'Université Grenoble-Alpes. Les détails sont à venir !
+pour rejoindre Grenoble avec le soutien de l'Université Grenoble-Alpes.
 
 <!-- Si vous venez de loin, n'hésitez pas à proposer un [covoiturage](https://www.covievent.org/covoiturage/rencontres-des-utilisateurs-francophones-de-qgis-edition-2023/fd0136f530d30cafbd9159e45cbc3fb1) -->
 
@@ -16,7 +16,7 @@ pour rejoindre Grenoble avec le soutien de l'Université Grenoble-Alpes. Les dé
   </tr>
   <tr>
     <td>
-      <p>14bis Avenue Marie Reynoard 38100 Grenoble<br/><br/>
+      <p><b>14bis Avenue Marie Reynoard 38100 Grenoble</b><br/><br/>
       S'y rendre en <b>transports en commun</b> : <br/>
       <ul>
         <li>Tram A / arrêt Grenoble, Gares - Direction Le Pont-de-Claix, l'Etoile<br />Descendre à l'arrêt Grenoble, la Bruyère-Parc Jean Verlhac
@@ -25,7 +25,7 @@ puis 6 min à pied (400 m)</li>
       S'y rendre en <b>modes doux</b> : <br/>
       <ul>
         <li>A pied : 45 minutes (3,5 km) de la gare de Grenoble</li>
-        <li>A vélo : 18 mn (3,7 km dont 3,5 km de voies cyclables)</li>
+        <li>A vélo : 18 mn (3,7 km dont 3,5 km de voies cyclables) de la gare de Grenoble</li>
       </ul>
       </p>
     </td>
