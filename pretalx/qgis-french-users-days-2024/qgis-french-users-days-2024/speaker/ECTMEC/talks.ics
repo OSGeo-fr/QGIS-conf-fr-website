@@ -20,8 +20,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pretalx-qgis-french-users-days-2024-DFGASC@talks.osgeo.org
-DTSTART;TZID=Europe/Paris:20240328T142000
-DTEND;TZID=Europe/Paris:20240328T144000
+DTSTART;TZID=Europe/Paris:20240328T155500
+DTEND;TZID=Europe/Paris:20240328T161500
 DESCRIPTION:QGIS est né du besoin de visualiser des données spatiales. 20
   ans plus tard\, QGIS est devenu un SIG professionnel complet capable de t
  ravailler avec des bases de données très massives.  \nLe CSTB produit un
@@ -34,7 +34,7 @@ DESCRIPTION:QGIS est né du besoin de visualiser des données spatiales. 20
  u d'entreprise ?\nCette présentation passera en revue les trucs et astuce
  s\, optimisations PostgreSQL et pistes d'amélioration pour QGIS et Postgr
  eSQL.
-DTSTAMP:20240201T153446Z
+DTSTAMP:20240214T122452Z
 LOCATION:Salle Chartreuse
 SUMMARY:QGIS et les bases de données très massives. Comment QGIS est util
  isé dans la production de la Base de Données Nationale des Bâtiments (B
@@ -56,8 +56,13 @@ DESCRIPTION:Cet atelier vise à prendre en main une base de données spatia
  des requêtes d'agrégation sur une base. \nIl s'adresse à des chargés d
  'études métier (urbanisme\, énergie etc..) souhaitant découvrir les po
  ssibilités d'exploration et d'analyse de QGIS couplé à une base de donn
- ées.
-DTSTAMP:20240201T153446Z
+ ées.\n\n### Prérequis\n\nQGIS dernière version installée (>=3.34)\nPC 
+ portable avec accès réseau ouvert sur le port 36543 (attention au firewa
+ ll d'entreprise de votre poste)\nPossibilité d'accès 4G de secours \n\nL
+ 'atelier utilisera l'accès à une base de données distante. \nEn alterna
+ tive\, un dump postgresql permettra de charger les données localement sur
+  des postes individuels
+DTSTAMP:20240214T122452Z
 LOCATION:Salle Trièves
 SUMMARY:[Atelier 4] QGIS et Base de données des Bâtiments - Régis Haubourg
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/M7Z7RJ/

@@ -33,11 +33,12 @@ DESCRIPTION:QField permet une intégration transparente avec QGIS\, propose
  n conjointe entre Oslandia\, promoteur QField France et OpenGIS\, dévelop
  peur suisse de QField\, sera l'occasion de partager astuces et bonnes prat
  iques ainsi que des retours d'expérience pour optimiser l'utilisation de 
- QField dans votre SIG.
-DTSTAMP:20240201T153441Z
+ QField dans votre SIG.\n\n### Prérequis\n\nEn cours de discussion. Nous 
+ étudions comment proposer l'atelier avec du matériel dédié.
+DTSTAMP:20240214T122448Z
 LOCATION:Salle Vercors
 SUMMARY:[Atelier 3] Collecter vos données sur le terrain avec QField - Lo
- ïc Bartoletti
+ ïc Bartoletti\, Matthias Kuhn\, Denis Rouzaud
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/
 END:VEVENT
 BEGIN:VEVENT
@@ -55,11 +56,12 @@ DESCRIPTION:QField permet une intégration transparente avec QGIS\, propose
  n conjointe entre Oslandia\, promoteur QField France et OpenGIS\, dévelop
  peur suisse de QField\, sera l'occasion de partager astuces et bonnes prat
  iques ainsi que des retours d'expérience pour optimiser l'utilisation de 
- QField dans votre SIG.
-DTSTAMP:20240201T153441Z
+ QField dans votre SIG.\n\n### Prérequis\n\nEn cours de discussion. Nous 
+ étudions comment proposer l'atelier avec du matériel dédié.
+DTSTAMP:20240214T122448Z
 LOCATION:Salle Vercors
 SUMMARY:[Atelier 3] Collecter vos données sur le terrain avec QField - Lo
- ïc Bartoletti
+ ïc Bartoletti\, Matthias Kuhn\, Denis Rouzaud
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/KFXHDA/
 END:VEVENT
 END:VCALENDAR

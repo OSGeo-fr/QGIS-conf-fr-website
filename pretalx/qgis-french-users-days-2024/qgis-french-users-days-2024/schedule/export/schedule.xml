@@ -2,7 +2,7 @@
 <!-- Made with love by pretalx v2.3.1. -->
 <schedule>
     <generator name="pretalx" version="2.3.1" />
-    <version>v1.0.2</version>
+    <version>v1.0.3</version>
     <conference>
         <acronym>qgis-french-users-days-2024</acronym>
         <title>Rencontres des utilisateurs francophones de QGIS 2024</title>
@@ -20,13 +20,13 @@
                 <start>09:30</start>
                 <duration>03:00</duration>
                 <room>Salle Taillefer</room>
-                <slug>qgis-french-users-days-2024-2046-1--atelier-1-crer-et-publier-un-joli-projet-sur-qwc</slug>
+                <slug>qgis-french-users-days-2024-2046-1--atelier-1-crer-et-publier-un-joli-projet-sur-qgis-web-client-qwc-</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>[Atelier 1] Cr&#233;er et publier un joli projet sur QWC</title>
+                <title>[Atelier 1] Cr&#233;er et publier un joli projet sur QGIS Web Client (QWC)</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -35,7 +35,14 @@
 
 Vous verrez ce qu&apos;il est possible de r&#233;aliser au niveau visuel (sur la carte), comment mettre en valeur ses attributs et le param&#233;trage de l&apos;impression de cartes.
 Ensuite nous aborderons la publication de vos projets QGIS depuis l&apos;interface d&apos;administration de QWC.
-Pour finir, nous d&#233;couvrirons le nouveau plugin QGIS pour publier confortablement depuis QGIS.</abstract>
+Pour finir, nous d&#233;couvrirons le nouveau plugin QGIS pour publier confortablement depuis QGIS.
+
+### Pr&#233;requis
+
+Quelques bases de QGIS : 
+ - Importer des couches BDD
+ - Param&#233;trer un style
+ - Cr&#233;er une mise en page</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
@@ -49,13 +56,13 @@ Pour finir, nous d&#233;couvrirons le nouveau plugin QGIS pour publier confortab
                 <start>14:00</start>
                 <duration>03:00</duration>
                 <room>Salle Taillefer</room>
-                <slug>qgis-french-users-days-2024-2046-0--atelier-1-crer-et-publier-un-joli-projet-sur-qwc</slug>
+                <slug>qgis-french-users-days-2024-2046-0--atelier-1-crer-et-publier-un-joli-projet-sur-qgis-web-client-qwc-</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>[Atelier 1] Cr&#233;er et publier un joli projet sur QWC</title>
+                <title>[Atelier 1] Cr&#233;er et publier un joli projet sur QGIS Web Client (QWC)</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
@@ -64,7 +71,14 @@ Pour finir, nous d&#233;couvrirons le nouveau plugin QGIS pour publier confortab
 
 Vous verrez ce qu&apos;il est possible de r&#233;aliser au niveau visuel (sur la carte), comment mettre en valeur ses attributs et le param&#233;trage de l&apos;impression de cartes.
 Ensuite nous aborderons la publication de vos projets QGIS depuis l&apos;interface d&apos;administration de QWC.
-Pour finir, nous d&#233;couvrirons le nouveau plugin QGIS pour publier confortablement depuis QGIS.</abstract>
+Pour finir, nous d&#233;couvrirons le nouveau plugin QGIS pour publier confortablement depuis QGIS.
+
+### Pr&#233;requis
+
+Quelques bases de QGIS : 
+ - Importer des couches BDD
+ - Param&#233;trer un style
+ - Cr&#233;er une mise en page</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
@@ -101,7 +115,14 @@ Pendant cet atelier, nous verrons la publication d&apos;un projet QGIS avec :
 * l&apos;affichage des informations attributaires dans une infobulle
 * un formulaire d&apos;&#233;dition
 * mise en page PDF (sans et avec atlas)
-* l&apos;ajout d&apos;une dataviz</abstract>
+* l&apos;ajout d&apos;une dataviz
+
+### Pr&#233;requis
+
+- Savoir manipuler QGIS : ouvrir des couches, acc&#233;der &#224; la table attributaire...
+- Avoir la derni&#232;re version LTR de QGIS sur sa machine (3.34 ou alors &#224; d&#233;faut l&apos;ancienne LTR 3.28)
+- Avoir un logiciel client FTP (WinSCP pour Windows, Filezilla pour MacOS et Linux)
+- L&apos;instance Lizmap sera h&#233;berg&#233;e chez 3Liz pour les besoins de la formation.</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
@@ -135,7 +156,14 @@ Pendant cet atelier, nous verrons la publication d&apos;un projet QGIS avec :
 * l&apos;affichage des informations attributaires dans une infobulle
 * un formulaire d&apos;&#233;dition
 * mise en page PDF (sans et avec atlas)
-* l&apos;ajout d&apos;une dataviz</abstract>
+* l&apos;ajout d&apos;une dataviz
+
+### Pr&#233;requis
+
+- Savoir manipuler QGIS : ouvrir des couches, acc&#233;der &#224; la table attributaire...
+- Avoir la derni&#232;re version LTR de QGIS sur sa machine (3.34 ou alors &#224; d&#233;faut l&apos;ancienne LTR 3.28)
+- Avoir un logiciel client FTP (WinSCP pour Windows, Filezilla pour MacOS et Linux)
+- L&apos;instance Lizmap sera h&#233;berg&#233;e chez 3Liz pour les besoins de la formation.</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
@@ -167,11 +195,15 @@ Pendant cet atelier, nous verrons la publication d&apos;un projet QGIS avec :
 
 L&apos;atelier explorera comment importer des couches cartographiques de QGIS vers QField, ainsi que les m&#233;thodes de travail hors ligne et synchronis&#233; sur les donn&#233;es collect&#233;es. Vous d&#233;couvrirez comment QField optimise la saisie pr&#233;cise des donn&#233;es terrain, am&#233;liorant ainsi la productivit&#233; et la qualit&#233; des donn&#233;es recueillies.
 
-Cette pr&#233;sentation conjointe entre Oslandia, promoteur QField France et OpenGIS, d&#233;veloppeur suisse de QField, sera l&apos;occasion de partager astuces et bonnes pratiques ainsi que des retours d&apos;exp&#233;rience pour optimiser l&apos;utilisation de QField dans votre SIG.</abstract>
+Cette pr&#233;sentation conjointe entre Oslandia, promoteur QField France et OpenGIS, d&#233;veloppeur suisse de QField, sera l&apos;occasion de partager astuces et bonnes pratiques ainsi que des retours d&apos;exp&#233;rience pour optimiser l&apos;utilisation de QField dans votre SIG.
+
+### Pr&#233;requis
+
+En cours de discussion. Nous &#233;tudions comment proposer l&apos;atelier avec du mat&#233;riel d&#233;di&#233;.</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
-                    <person id='175'>Lo&#239;c Bartoletti</person>
+                    <person id='175'>Lo&#239;c Bartoletti</person><person id='1274'>Matthias Kuhn</person><person id='2499'>Denis Rouzaud</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
@@ -196,11 +228,15 @@ Cette pr&#233;sentation conjointe entre Oslandia, promoteur QField France et Ope
 
 L&apos;atelier explorera comment importer des couches cartographiques de QGIS vers QField, ainsi que les m&#233;thodes de travail hors ligne et synchronis&#233; sur les donn&#233;es collect&#233;es. Vous d&#233;couvrirez comment QField optimise la saisie pr&#233;cise des donn&#233;es terrain, am&#233;liorant ainsi la productivit&#233; et la qualit&#233; des donn&#233;es recueillies.
 
-Cette pr&#233;sentation conjointe entre Oslandia, promoteur QField France et OpenGIS, d&#233;veloppeur suisse de QField, sera l&apos;occasion de partager astuces et bonnes pratiques ainsi que des retours d&apos;exp&#233;rience pour optimiser l&apos;utilisation de QField dans votre SIG.</abstract>
+Cette pr&#233;sentation conjointe entre Oslandia, promoteur QField France et OpenGIS, d&#233;veloppeur suisse de QField, sera l&apos;occasion de partager astuces et bonnes pratiques ainsi que des retours d&apos;exp&#233;rience pour optimiser l&apos;utilisation de QField dans votre SIG.
+
+### Pr&#233;requis
+
+En cours de discussion. Nous &#233;tudions comment proposer l&apos;atelier avec du mat&#233;riel d&#233;di&#233;.</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
-                    <person id='175'>Lo&#239;c Bartoletti</person>
+                    <person id='175'>Lo&#239;c Bartoletti</person><person id='1274'>Matthias Kuhn</person><person id='2499'>Denis Rouzaud</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
@@ -227,7 +263,16 @@ Cette pr&#233;sentation conjointe entre Oslandia, promoteur QField France et Ope
                 <abstract>Cet atelier vise &#224; prendre en main une base de donn&#233;es spatiale massive sur les b&#226;timents. L&apos;objectif est de prendre en main la BDNB pour explorer plusieurs cas d&apos;utilisations, et aller jusqu&apos;&#224; la production cartographique et dataviz. 
 Exploration des diagnostics de performance &#233;nerg&#233;tique ( DPE ) sur une m&#233;tropole, visualisation d&apos;un indicateur de raccordement potentiel &#224; un r&#233;seau de chaleur, statistiques par type d&apos;usage et de propri&#233;t&#233; par zones. 
 Cet atelier vise &#224; montrer comment exploiter au maximum des pr&#233;traitements en base de donn&#233;es PostGIS via des requ&#234;tes d&apos;agr&#233;gation sur une base. 
-Il s&apos;adresse &#224; des charg&#233;s d&apos;&#233;tudes m&#233;tier (urbanisme, &#233;nergie etc..) souhaitant d&#233;couvrir les possibilit&#233;s d&apos;exploration et d&apos;analyse de QGIS coupl&#233; &#224; une base de donn&#233;es.</abstract>
+Il s&apos;adresse &#224; des charg&#233;s d&apos;&#233;tudes m&#233;tier (urbanisme, &#233;nergie etc..) souhaitant d&#233;couvrir les possibilit&#233;s d&apos;exploration et d&apos;analyse de QGIS coupl&#233; &#224; une base de donn&#233;es.
+
+### Pr&#233;requis
+
+QGIS derni&#232;re version install&#233;e (&gt;=3.34)
+PC portable avec acc&#232;s r&#233;seau ouvert sur le port 36543 (attention au firewall d&apos;entreprise de votre poste)
+Possibilit&#233; d&apos;acc&#232;s 4G de secours 
+
+L&apos;atelier utilisera l&apos;acc&#232;s &#224; une base de donn&#233;es distante. 
+En alternative, un dump postgresql permettra de charger les donn&#233;es localement sur des postes individuels</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
@@ -241,22 +286,24 @@ Il s&apos;adresse &#224; des charg&#233;s d&apos;&#233;tudes m&#233;tier (urbani
                 <start>14:00</start>
                 <duration>03:00</duration>
                 <room>Salle Tri&#232;ves</room>
-                <slug>qgis-french-users-days-2024-2003--atelier-5-fonctionnement-du-module-dt-dict-numrotation-projet-et-report-recolement</slug>
+                <slug>qgis-french-users-days-2024-2003--atelier-5-fonctionnement-du-module-dt-dict-numrotation-projet-et-report-rcolement</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/DXWZBM/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>[Atelier 5] Fonctionnement du module DT DICT, num&#233;rotation projet et report recolement</title>
+                <title>[Atelier 5] Fonctionnement du module DT DICT, num&#233;rotation projet et report r&#233;colement</title>
                 <subtitle></subtitle>
                 <track></track>
                 <type>Atelier</type>
                 <language>fr</language>
-                <abstract>Cet atelier abordera le fonctionnement du module DT DICT, son suivi, les interactions avec la num&#233;rotation d&apos;un projet et la confection/int&#233;gration d&apos;un recolement d&apos;un chantier d&apos;&#233;clairage public</abstract>
+                <abstract>Cet atelier abordera le fonctionnement du module DT DICT, son suivi, les interactions avec la num&#233;rotation d&apos;un projet et la confection/int&#233;gration d&apos;un r&#233;colement d&apos;un chantier d&apos;&#233;clairage public.
+
+### Pr&#233;requis</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
-                    <person id='2352'>Jean-Claude Anotta</person>
+                    <person id='2352'>Jean-Claude Anotta</person><person id='2445'>Jean-Marie Arsac</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
@@ -286,7 +333,11 @@ Il s&apos;adresse &#224; des charg&#233;s d&apos;&#233;tudes m&#233;tier (urbani
 - l&apos;utilisation du g&#233;n&#233;rateur de g&#233;om&#233;trie,
 - l&apos;int&#233;gration de la dimension temporelle dans vos cartes.
 
-Enfin, nous pr&#233;senterons quelques notions avanc&#233;es &#224; conna&#238;tre pour r&#233;ussir l&apos;int&#233;gration de vos cartes dans les mises en pages et rapport.</abstract>
+Enfin, nous pr&#233;senterons quelques notions avanc&#233;es &#224; conna&#238;tre pour r&#233;ussir l&apos;int&#233;gration de vos cartes dans les mises en pages et rapport.
+
+### Pr&#233;requis
+
+Bases de l&apos;utilisation de QGIS</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
@@ -321,7 +372,12 @@ Enfin, nous pr&#233;senterons quelques notions avanc&#233;es &#224; conna&#238;t
 * Visualiser les donn&#233;es probl&#233;matiques ou importantes dans la table attributaire.
 
 On privil&#233;gie dans cet exemple l&apos;utilisation d&apos;expressions dans QGIS pour la majorit&#233; des traitements : pas d&apos;utilisation
-de requ&#234;tes SQL en base de donn&#233;es ou d&apos;algorithmes complexes.</abstract>
+de requ&#234;tes SQL en base de donn&#233;es ou d&apos;algorithmes complexes.
+
+### Pr&#233;requis
+
+- Ma&#238;trise des outils de base de QGIS
+- Int&#233;r&#234;t pour les configurations avanc&#233;es</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
@@ -349,11 +405,15 @@ de requ&#234;tes SQL en base de donn&#233;es ou d&apos;algorithmes complexes.</a
                 <track></track>
                 <type>Atelier</type>
                 <language>fr</language>
-                <abstract>Initiation au modeleur graphique : principe, entr&#233;es, traitements vecteur et raster, sorties ...</abstract>
+                <abstract>Initiation au modeleur graphique : principe, entr&#233;es, traitements vecteur et raster, sorties ...
+
+### Pr&#233;requis
+
+Utilisation de la boite &#224; outils</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
-                    <person id='2318'>Bruno Defrance</person><person id='2350'>Ouadoud</person>
+                    <person id='2318'>Bruno Defrance</person><person id='2350'>El Mehdi Ouadoud</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
@@ -376,7 +436,12 @@ de requ&#234;tes SQL en base de donn&#233;es ou d&apos;algorithmes complexes.</a
                 <language>fr</language>
                 <abstract>QGIS int&#232;gre un visualiseur 3D prenant en charge une vari&#233;t&#233; de formats de donn&#233;es 2D et 3D. Cet atelier vous pr&#233;sentera les fonctionnalit&#233;s bases (vues, cam&#233;ra, chargement de donn&#233;es) ainsi que des avanc&#233;es. 
 
-Vous y d&#233;couvrirez la manipulation des donn&#233;es 3D : chargement, configuration des vues et cam&#233;ra ainsi que le chargement de donn&#233;es tels que les mod&#232;le num&#233;rique de terrain, les tuiles 3D (3dtiles), les nuages de points et PostGIS 3D. Vous pourrez exploiter des outils comme la boundingbox ou l&apos;&#233;l&#233;vation de profils et des m&#233;thodes d&apos;analyse adapt&#233;es &#224; cet environnement tridimensionnel.</abstract>
+Vous y d&#233;couvrirez la manipulation des donn&#233;es 3D : chargement, configuration des vues et cam&#233;ra ainsi que le chargement de donn&#233;es tels que les mod&#232;le num&#233;rique de terrain, les tuiles 3D (3dtiles), les nuages de points et PostGIS 3D. Vous pourrez exploiter des outils comme la boundingbox ou l&apos;&#233;l&#233;vation de profils et des m&#233;thodes d&apos;analyse adapt&#233;es &#224; cet environnement tridimensionnel.
+
+### Pr&#233;requis
+
+- QGIS &gt;= 3.34.0
+- Postgis &gt;= 3.4.0</abstract>
                 <description>None</description>
                 <logo></logo>
                 <persons>
@@ -412,7 +477,14 @@ Apprenez &#224; :
 - rationaliser, stocker et versionner vos profils QGIS avec un fichier `profile.json` et Git
 - concevoir un sc&#233;nario de d&#233;ploiement pour automatiser le d&#233;ploiement des profils avec QDT
 
-Bref une bonne occasion de mettre le pied &#224; l&apos;&#233;trier pour optimiser votre flux de travail d&apos;administrateur/ice QGIS !</abstract>
+Bref une bonne occasion de mettre le pied &#224; l&apos;&#233;trier pour optimiser votre flux de travail d&apos;administrateur/ice QGIS !
+
+### Pr&#233;requis :
+
+- QGIS LTR
+- Git et/ou GitHub for Desktop
+- Python &gt;= 3.10
+- acc&#232;s r&#233;seau &#224; pypi.org, github.com et gitlab.com a minima</abstract>
                 <description>None</description>
                 <logo>/media/qgis-french-users-days-2024/submissions/TV7D3U/logo_qdt_2RPLBR7.png</logo>
                 <persons>
@@ -439,7 +511,12 @@ Bref une bonne occasion de mettre le pied &#224; l&apos;&#233;trier pour optimis
                 <language>fr</language>
                 <abstract>Lors de cet atelier nous partirons &#224; la d&#233;couverte de QFieldCloud, qui offre la possibilit&#233; de synchroniser les donn&#233;es entre QGIS et QField. L&apos;ouverture du code source de la solution permet de mettre en place sa propre instance, son QFieldCloud custom, ce en quoi consistera l&apos;objectif de l&apos;atelier.
 
-Nous nous initierons et d&#233;couvrirons docker, l&apos;outil de containerisation sur lequel se base QFieldCloud. Nous verrons les installations et le param&#233;trage n&#233;cessaire de l&apos;infrastructure linux h&#233;bergeant l&apos;instance. Puis nous lancerons le serveur pour appr&#233;hender sa configuration et son administration, au fil d&apos;un atelier plut&#244;t geek orient&#233; lignes de commande.</abstract>
+Nous nous initierons et d&#233;couvrirons docker, l&apos;outil de containerisation sur lequel se base QFieldCloud. Nous verrons les installations et le param&#233;trage n&#233;cessaire de l&apos;infrastructure linux h&#233;bergeant l&apos;instance. Puis nous lancerons le serveur pour appr&#233;hender sa configuration et son administration, au fil d&apos;un atelier plut&#244;t geek orient&#233; lignes de commande.
+
+### Pr&#233;requis :
+
+&#202;tre &#233;quip&#233; d&apos;une machine linux avec les acc&#232;s root, avec installations pr&#233;alables : QGIS (+ Android Studio avec un smartphone virtuel cr&#233;&#233; pour pouvoir tester QField dessus)
+Il peut s&apos;agir d&apos;un PC personnel &#233;quip&#233; de Linux ou encore mieux : un serveur / machine virtuelle Linux avec acc&#232;s SSH et acc&#232;s root + ports 80/443 accessibles publiquement</abstract>
                 <description>None</description>
                 <logo>/media/qgis-french-users-days-2024/submissions/TKMYD8/qfieldcloud_mpagxw9.jpeg</logo>
                 <persons>
@@ -455,9 +532,9 @@ Nous nous initierons et d&#233;couvrirons docker, l&apos;outil de containerisati
     <day index='2' date='2024-03-28' start='2024-03-28T04:00:00+01:00' end='2024-03-29T03:59:00+01:00'>
         <room name='Salle Chartreuse'>
             <event guid='7c075614-b475-55f0-b146-1210921fa12b' id='2095'>
-                <date>2024-03-28T09:20:00+01:00</date>
-                <start>09:20</start>
-                <duration>00:15</duration>
+                <date>2024-03-28T09:00:00+01:00</date>
+                <start>09:00</start>
+                <duration>00:35</duration>
                 <room>Salle Chartreuse</room>
                 <slug>qgis-french-users-days-2024-2095-ouverture-de-la-journe-de-confrence</slug>
                 <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/HYVSJP/</url>
@@ -634,7 +711,7 @@ Retour d&apos;exp&#233;rience sur la gen&#232;se de cette d&#233;marche, son uti
                 <description>None</description>
                 <logo>/media/qgis-french-users-days-2024/submissions/AUAYUU/AgiRisk_RencontresQgis_2024_mLEmQZd.png</logo>
                 <persons>
-                    <person id='2367'>Manuel Collongues et Ana&#239;s Cazaubon</person><person id='2386'>Collongues</person>
+                    <person id='2367'>Ana&#239;s Cazaubon</person><person id='2386'>Manuel Collongues</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
@@ -721,31 +798,31 @@ Derni&#232;rement, l&apos;IGN a r&#233;cemment annonc&#233; son intention de con
                 <links></links>
                 <attachments></attachments>
             </event>
-            <event guid='c2981f37-0dc3-5c69-93fd-9f0736b8614c' id='2026'>
+            <event guid='6c28b98b-1a12-5775-8161-b79f4d5ac54d' id='2054'>
                 <date>2024-03-28T14:20:00+01:00</date>
                 <start>14:20</start>
                 <duration>00:20</duration>
                 <room>Salle Chartreuse</room>
-                <slug>qgis-french-users-days-2024-2026-qgis-et-les-bases-de-donnes-trs-massives-comment-qgis-est-utilis-dans-la-production-de-la-base-de-donnes-nationale-des-btiments-bdnb-</slug>
-                <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/DFGASC/</url>
+                <slug>qgis-french-users-days-2024-2054-un-plugin-qgis-et-un-service-de-publication-pour-qgis-web-client-qwc-</slug>
+                <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GH8PLC/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>QGIS et les bases de donn&#233;es tr&#232;s massives. Comment QGIS est utilis&#233; dans la production de la Base de Donn&#233;es Nationale des B&#226;timents (BDNB)</title>
+                <title>Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)</title>
                 <subtitle></subtitle>
-                <track>Cas d&#x27;usage</track>
+                <track>Extension</track>
                 <type>Conf&#233;rence</type>
                 <language>fr</language>
-                <abstract>QGIS est n&#233; du besoin de visualiser des donn&#233;es spatiales. 20 ans plus tard, QGIS est devenu un SIG professionnel complet capable de travailler avec des bases de donn&#233;es tr&#232;s massives.  
-Le CSTB produit un socle de donn&#233;es sur l&apos;ensemble des 27 millions de b&#226;timents, 90 millions de logements, adresses, parcelles et centaines de caract&#233;ristiques de ces objets.
+                <abstract>Il s&apos;agit de pr&#233;senter le plugin QGIS QWC2_Tools qui permet de g&#233;rer directement depuis QGIS les projets d&apos;une instance QWC2 (QGIS Web Client, projet communautaire officiel de QGIS en mati&#232;re de web SIG). Par g&#233;rer, on entend publier, modifier, ouvrir et supprimer des projets, mais &#233;galement g&#233;rer l&apos;arborescence. Ce plugin fonctionne avec un micro-service d&#233;di&#233; QWC2, d&#233;velopp&#233; en parall&#232;le, qui propose une API REST permettant la communication entre le plugin QGIS et l&apos;instance QWC2.
 
-Enti&#232;rement produit dans PostGIS, chaque mill&#233;sime repr&#233;sente plus de 300 Go de donn&#233;es, au sein d&apos;une base de production compilant 5 To de donn&#233;es. Comment travailler efficacement avec de tels volumes, particuli&#232;rement avec une base de donn&#233;es distante hors du r&#233;seau d&apos;entreprise ?
-Cette pr&#233;sentation passera en revue les trucs et astuces, optimisations PostgreSQL et pistes d&apos;am&#233;lioration pour QGIS et PostgreSQL.</abstract>
+Pr&#233;sentation effectu&#233;e conjointement par Nicolas AUBIN de la Direction des Syst&#232;mes d&#8217;Information et des Usages Num&#233;riques des Agences de l&apos;eau et Florent FOUGERES de la soci&#233;t&#233; Oslandia.
+
+Lien vers la documentation du plugin : https://oslandia.gitlab.io/qgis/qwc2_tools/</abstract>
                 <description>None</description>
-                <logo>/media/qgis-french-users-days-2024/submissions/DFGASC/bdnb_loves_qgis_9R5H7nk.png</logo>
+                <logo>/media/qgis-french-users-days-2024/submissions/GH8PLC/qwc2_tools_yWJkSSx.png</logo>
                 <persons>
-                    <person id='509'>R&#233;gis Haubourg</person>
+                    <person id='2398'>Florent Fougeres</person><person id='2401'>Nicolas Aubin</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
@@ -827,31 +904,31 @@ Orange France a effectu&#233; un partenariat avec Oslandia afin de b&#233;n&#233
                 <links></links>
                 <attachments></attachments>
             </event>
-            <event guid='6c28b98b-1a12-5775-8161-b79f4d5ac54d' id='2054'>
+            <event guid='c2981f37-0dc3-5c69-93fd-9f0736b8614c' id='2026'>
                 <date>2024-03-28T15:55:00+01:00</date>
                 <start>15:55</start>
                 <duration>00:20</duration>
                 <room>Salle Chartreuse</room>
-                <slug>qgis-french-users-days-2024-2054-un-plugin-qgis-et-un-service-de-publication-pour-qgis-web-client-qwc-</slug>
-                <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GH8PLC/</url>
+                <slug>qgis-french-users-days-2024-2026-qgis-et-les-bases-de-donnes-trs-massives-comment-qgis-est-utilis-dans-la-production-de-la-base-de-donnes-nationale-des-btiments-bdnb-</slug>
+                <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/DFGASC/</url>
                 <recording>
                     <license></license>
                     <optout>false</optout>
                 </recording>
-                <title>Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)</title>
+                <title>QGIS et les bases de donn&#233;es tr&#232;s massives. Comment QGIS est utilis&#233; dans la production de la Base de Donn&#233;es Nationale des B&#226;timents (BDNB)</title>
                 <subtitle></subtitle>
-                <track>Extension</track>
+                <track>Cas d&#x27;usage</track>
                 <type>Conf&#233;rence</type>
                 <language>fr</language>
-                <abstract>Il s&apos;agit de pr&#233;senter le plugin QGIS QWC2_Tools qui permet de g&#233;rer directement depuis QGIS les projets d&apos;une instance QWC2 (QGIS Web Client, projet communautaire officiel de QGIS en mati&#232;re de web SIG). Par g&#233;rer, on entend publier, modifier, ouvrir et supprimer des projets, mais &#233;galement g&#233;rer l&apos;arborescence. Ce plugin fonctionne avec un micro-service d&#233;di&#233; QWC2, d&#233;velopp&#233; en parall&#232;le, qui propose une API REST permettant la communication entre le plugin QGIS et l&apos;instance QWC2.
+                <abstract>QGIS est n&#233; du besoin de visualiser des donn&#233;es spatiales. 20 ans plus tard, QGIS est devenu un SIG professionnel complet capable de travailler avec des bases de donn&#233;es tr&#232;s massives.  
+Le CSTB produit un socle de donn&#233;es sur l&apos;ensemble des 27 millions de b&#226;timents, 90 millions de logements, adresses, parcelles et centaines de caract&#233;ristiques de ces objets.
 
-Pr&#233;sentation effectu&#233;e conjointement par Nicolas AUBIN de la Direction des Syst&#232;mes d&#8217;Information et des Usages Num&#233;riques des Agences de l&apos;eau et Florent FOUGERES de la soci&#233;t&#233; Oslandia.
-
-Lien vers la documentation du plugin : https://oslandia.gitlab.io/qgis/qwc2_tools/</abstract>
+Enti&#232;rement produit dans PostGIS, chaque mill&#233;sime repr&#233;sente plus de 300 Go de donn&#233;es, au sein d&apos;une base de production compilant 5 To de donn&#233;es. Comment travailler efficacement avec de tels volumes, particuli&#232;rement avec une base de donn&#233;es distante hors du r&#233;seau d&apos;entreprise ?
+Cette pr&#233;sentation passera en revue les trucs et astuces, optimisations PostgreSQL et pistes d&apos;am&#233;lioration pour QGIS et PostgreSQL.</abstract>
                 <description>None</description>
-                <logo>/media/qgis-french-users-days-2024/submissions/GH8PLC/qwc2_tools_yWJkSSx.png</logo>
+                <logo>/media/qgis-french-users-days-2024/submissions/DFGASC/bdnb_loves_qgis_9R5H7nk.png</logo>
                 <persons>
-                    <person id='2398'>Florent Fougeres</person><person id='2401'>Nicolas Aubin</person>
+                    <person id='509'>R&#233;gis Haubourg</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>

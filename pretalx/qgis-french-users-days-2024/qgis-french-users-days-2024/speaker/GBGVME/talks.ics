@@ -34,7 +34,7 @@ DESCRIPTION:L’application QField de la société OpenGIS permet de consul
  à éviter\, et nous expliquerons comment configurer un projet QGIS pour a
  ctiver la synchronisation automatique avec une base de données PostgreSQL
   centralisée.
-DTSTAMP:20240201T153445Z
+DTSTAMP:20240214T122451Z
 LOCATION:Salle Chartreuse
 SUMMARY:Retour d'expérience sur l'utilisation d'un QFieldCloud auto-héber
  gé - Michaël Douchin\, René-Luc Dhont
@@ -53,8 +53,9 @@ DESCRIPTION:L'idée de cet atelier est d'illustrer comment utiliser les exp
  nnées problématiques ou importantes dans la table attributaire.\n\nOn pr
  ivilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la m
  ajorité des traitements : pas d'utilisation\nde requêtes SQL en base de 
- données ou d'algorithmes complexes.
-DTSTAMP:20240201T153445Z
+ données ou d'algorithmes complexes.\n\n### Prérequis\n\n- Maîtrise des 
+ outils de base de QGIS\n- Intérêt pour les configurations avancées
+DTSTAMP:20240214T122451Z
 LOCATION:Salle Ecrins
 SUMMARY:[Atelier 7] Créer un outil de saisie avec des expressions - Micha
  ël Douchin\, René-Luc Dhont

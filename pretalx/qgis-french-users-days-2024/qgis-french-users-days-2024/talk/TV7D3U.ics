@@ -30,8 +30,10 @@ DESCRIPTION:Automatisez vos installations de QGIS avec PowerShell et ration
  n fichier `profile.json` et Git\n- concevoir un scénario de déploiement 
  pour automatiser le déploiement des profils avec QDT\n\nBref une bonne oc
  casion de mettre le pied à l'étrier pour optimiser votre flux de travail
-  d'administrateur/ice QGIS !
-DTSTAMP:20240201T153433Z
+  d'administrateur/ice QGIS !\n\n### Prérequis :\n\n- QGIS LTR\n- Git et/o
+ u GitHub for Desktop\n- Python >= 3.10\n- accès réseau à pypi.org\, git
+ hub.com et gitlab.com a minima
+DTSTAMP:20240214T122442Z
 LOCATION:Salle Diois
 SUMMARY:[Atelier 10] Initiation au déploiement rationalisé de QGIS avec P
  owerShell et QDT - Julien Moura\, Florent Fougeres

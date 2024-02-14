@@ -31,8 +31,13 @@ DESCRIPTION:Lors de cet atelier nous partirons à la découverte de QFieldC
  s installations et le paramétrage nécessaire de l'infrastructure linux h
  ébergeant l'instance. Puis nous lancerons le serveur pour appréhender sa
   configuration et son administration\, au fil d'un atelier plutôt geek or
- ienté lignes de commande.
-DTSTAMP:20240201T153435Z
+ ienté lignes de commande.\n\n### Prérequis :\n\nÊtre équipé d'une mac
+ hine linux avec les accès root\, avec installations préalables : QGIS (+
+  Android Studio avec un smartphone virtuel créé pour pouvoir tester QFie
+ ld dessus)\nIl peut s'agir d'un PC personnel équipé de Linux ou encore m
+ ieux : un serveur / machine virtuelle Linux avec accès SSH et accès root
+  + ports 80/443 accessibles publiquement
+DTSTAMP:20240214T122443Z
 LOCATION:Salle Diois
 SUMMARY:[Atelier 11] Mise en place d'une instance QFieldCloud custom - Guil
  hem Allaman
