@@ -7,7 +7,7 @@ menu: header
 
 #### Inscription
 
-Les inscriptions ouvriront bientôt [ici](/z25_inscription.html).
+Les inscriptions sont ouvertes [ici](/z25_inscription.html).
 
 #### Programme
 
