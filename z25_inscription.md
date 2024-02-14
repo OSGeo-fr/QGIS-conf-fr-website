@@ -6,7 +6,7 @@ menu: header
 ---
 
 
-#### Les inscriptions pour les journées 2024 ouvriront mercredi 14 février à 14 h
+#### Les inscriptions pour les journées 2024 sont ouvertes
 
 Rendez-vous sur HelloAsso : https://www.helloasso.com/associations/osgeo-fr/evenements/journees-utilisateur-qgis-francophone-2024
 
