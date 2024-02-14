@@ -19,8 +19,8 @@ pour rejoindre Grenoble avec le soutien de l'Université Grenoble-Alpes.
       <p><b>14bis Avenue Marie Reynoard 38100 Grenoble</b><br/><br/>
       S'y rendre en <b>transports en commun</b> : <br/>
       <ul>
-        <li>Tram A / arrêt Grenoble, Gares - Direction Le Pont-de-Claix, l'Etoile<br />Descendre à l'arrêt Grenoble, la Bruyère-Parc Jean Verlhac
-puis 6 min à pied (400 m)</li>
+        <li>1/2 h par le Tram A / arrêt Grenoble, Gares - Direction Le Pont-de-Claix, l'Etoile<br />Descendre à l'arrêt Grenoble, la Bruyère-Parc Jean Verlhac 
+          19 mn de tramway puis 6 min à pied (400 m)</li>
       </ul>
       S'y rendre en <b>modes doux</b> : <br/>
       <ul>
