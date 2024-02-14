@@ -28,11 +28,13 @@ DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie
   en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
  suite nous aborderons la publication de vos projets QGIS depuis l'interfac
  e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
- gin QGIS pour publier confortablement depuis QGIS.
-DTSTAMP:20240201T153450Z
+ gin QGIS pour publier confortablement depuis QGIS.\n\n### Prérequis\n\nQu
+ elques bases de QGIS : \n - Importer des couches BDD\n - Paramétrer un st
+ yle\n - Créer une mise en page
+DTSTAMP:20240214T122456Z
 LOCATION:Salle Taillefer
-SUMMARY:[Atelier 1] Créer et publier un joli projet sur QWC - Andres Gwend
- oline\, Florent Fougeres
+SUMMARY:[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (Q
+ WC) - Andres Gwendoline\, Florent Fougeres
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
 END:VEVENT
 BEGIN:VEVENT
@@ -45,11 +47,13 @@ DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie
   en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
  suite nous aborderons la publication de vos projets QGIS depuis l'interfac
  e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
- gin QGIS pour publier confortablement depuis QGIS.
-DTSTAMP:20240201T153450Z
+ gin QGIS pour publier confortablement depuis QGIS.\n\n### Prérequis\n\nQu
+ elques bases de QGIS : \n - Importer des couches BDD\n - Paramétrer un st
+ yle\n - Créer une mise en page
+DTSTAMP:20240214T122456Z
 LOCATION:Salle Taillefer
-SUMMARY:[Atelier 1] Créer et publier un joli projet sur QWC - Andres Gwend
- oline\, Florent Fougeres
+SUMMARY:[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (Q
+ WC) - Andres Gwendoline\, Florent Fougeres
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
 END:VEVENT
 END:VCALENDAR

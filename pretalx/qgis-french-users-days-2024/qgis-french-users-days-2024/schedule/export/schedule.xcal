@@ -11,14 +11,14 @@
             <uid>9ERMAV@@talks.osgeo.org</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-9ERMAV</pentabarf:event-slug>
-            <pentabarf:title>[Atelier 1] Créer et publier un joli projet sur QWC</pentabarf:title>
+            <pentabarf:title>[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (QWC)</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>fr</pentabarf:language>
             <pentabarf:language-code>fr</pentabarf:language-code>
             <dtstart>20240327T093000</dtstart>
             <dtend>20240327T123000</dtend>
             <duration>3.00000</duration>
-            <summary>[Atelier 1] Créer et publier un joli projet sur QWC</summary>
+            <summary>[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (QWC)</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -37,14 +37,14 @@
             <uid>9ERMAV@@talks.osgeo.org</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-9ERMAV</pentabarf:event-slug>
-            <pentabarf:title>[Atelier 1] Créer et publier un joli projet sur QWC</pentabarf:title>
+            <pentabarf:title>[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (QWC)</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>fr</pentabarf:language>
             <pentabarf:language-code>fr</pentabarf:language-code>
             <dtstart>20240327T140000</dtstart>
             <dtend>20240327T170000</dtend>
             <duration>3.00000</duration>
-            <summary>[Atelier 1] Créer et publier un joli projet sur QWC</summary>
+            <summary>[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (QWC)</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -128,6 +128,10 @@
             
             <attendee>Loïc Bartoletti</attendee>
             
+            <attendee>Matthias Kuhn</attendee>
+            
+            <attendee>Denis Rouzaud</attendee>
+            
         </vevent>
         
         <vevent>
@@ -151,6 +155,10 @@
             <location>Salle Vercors</location>
             
             <attendee>Loïc Bartoletti</attendee>
+            
+            <attendee>Matthias Kuhn</attendee>
+            
+            <attendee>Denis Rouzaud</attendee>
             
         </vevent>
         
@@ -183,14 +191,14 @@
             <uid>DXWZBM@@talks.osgeo.org</uid>
             <pentabarf:event-id></pentabarf:event-id>
             <pentabarf:event-slug>-DXWZBM</pentabarf:event-slug>
-            <pentabarf:title>[Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report recolement</pentabarf:title>
+            <pentabarf:title>[Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report récolement</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>fr</pentabarf:language>
             <pentabarf:language-code>fr</pentabarf:language-code>
             <dtstart>20240327T140000</dtstart>
             <dtend>20240327T170000</dtend>
             <duration>3.00000</duration>
-            <summary>[Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report recolement</summary>
+            <summary>[Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report récolement</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
@@ -199,6 +207,8 @@
             <location>Salle Trièves</location>
             
             <attendee>Jean-Claude Anotta</attendee>
+            
+            <attendee>Jean-Marie Arsac</attendee>
             
         </vevent>
         
@@ -276,7 +286,7 @@
             
             <attendee>Bruno Defrance</attendee>
             
-            <attendee>Ouadoud</attendee>
+            <attendee>El Mehdi Ouadoud</attendee>
             
         </vevent>
         
@@ -365,9 +375,9 @@
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>fr</pentabarf:language>
             <pentabarf:language-code>fr</pentabarf:language-code>
-            <dtstart>20240328T092000</dtstart>
+            <dtstart>20240328T090000</dtstart>
             <dtend>20240328T093500</dtend>
-            <duration>0.01500</duration>
+            <duration>0.03500</duration>
             <summary>Ouverture de la journée de conférence</summary>
             <description></description>
             <class>PUBLIC</class>
@@ -518,9 +528,9 @@
             <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/AUAYUU/</url>
             <location>Salle Chartreuse</location>
             
-            <attendee>Manuel Collongues et Anaïs Cazaubon</attendee>
+            <attendee>Anaïs Cazaubon</attendee>
             
-            <attendee>Collongues</attendee>
+            <attendee>Manuel Collongues</attendee>
             
         </vevent>
         
@@ -598,25 +608,27 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>DFGASC@@talks.osgeo.org</uid>
+            <uid>GH8PLC@@talks.osgeo.org</uid>
             <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-DFGASC</pentabarf:event-slug>
-            <pentabarf:title>QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)</pentabarf:title>
+            <pentabarf:event-slug>-GH8PLC</pentabarf:event-slug>
+            <pentabarf:title>Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>fr</pentabarf:language>
             <pentabarf:language-code>fr</pentabarf:language-code>
             <dtstart>20240328T142000</dtstart>
             <dtend>20240328T144000</dtend>
             <duration>0.02000</duration>
-            <summary>QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)</summary>
+            <summary>Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
             <category>Conférence</category>
-            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/DFGASC/</url>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GH8PLC/</url>
             <location>Salle Chartreuse</location>
             
-            <attendee>Régis Haubourg</attendee>
+            <attendee>Florent Fougeres</attendee>
+            
+            <attendee>Nicolas Aubin</attendee>
             
         </vevent>
         
@@ -692,27 +704,25 @@
         
         <vevent>
             <method>PUBLISH</method>
-            <uid>GH8PLC@@talks.osgeo.org</uid>
+            <uid>DFGASC@@talks.osgeo.org</uid>
             <pentabarf:event-id></pentabarf:event-id>
-            <pentabarf:event-slug>-GH8PLC</pentabarf:event-slug>
-            <pentabarf:title>Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)</pentabarf:title>
+            <pentabarf:event-slug>-DFGASC</pentabarf:event-slug>
+            <pentabarf:title>QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)</pentabarf:title>
             <pentabarf:subtitle></pentabarf:subtitle>
             <pentabarf:language>fr</pentabarf:language>
             <pentabarf:language-code>fr</pentabarf:language-code>
             <dtstart>20240328T155500</dtstart>
             <dtend>20240328T161500</dtend>
             <duration>0.02000</duration>
-            <summary>Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)</summary>
+            <summary>QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)</summary>
             <description></description>
             <class>PUBLIC</class>
             <status>CONFIRMED</status>
             <category>Conférence</category>
-            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GH8PLC/</url>
+            <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/DFGASC/</url>
             <location>Salle Chartreuse</location>
             
-            <attendee>Florent Fougeres</attendee>
-            
-            <attendee>Nicolas Aubin</attendee>
+            <attendee>Régis Haubourg</attendee>
             
         </vevent>
         

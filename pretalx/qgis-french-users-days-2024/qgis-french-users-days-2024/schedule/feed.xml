@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom"><title>Rencontres des utilisateurs francophones de QGIS 2024 schedule updates</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/" rel="alternate"></link><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/feed.xml" rel="self"></link><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/feed.xml</id><updated>2024-02-01T15:17:41.623747+00:00</updated><entry><title>New Rencontres des utilisateurs francophones de QGIS 2024 schedule released (v1.0.2)</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.2" rel="alternate"></link><published>2024-02-01T15:17:41.623747+00:00</published><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.2</id><summary type="html">
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom"><title>Rencontres des utilisateurs francophones de QGIS 2024 schedule updates</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/" rel="alternate"></link><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/feed.xml" rel="self"></link><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/feed.xml</id><updated>2024-02-14T12:23:39.574581+00:00</updated><entry><title>New Rencontres des utilisateurs francophones de QGIS 2024 schedule released (v1.0.3)</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.3" rel="alternate"></link><published>2024-02-14T12:23:39.574581+00:00</published><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.3</id><summary type="html">
+
+&lt;p&gt;
+    
+        Un nouveau planning a été publié pour Rencontres des utilisateurs francophones de QGIS 2024 !
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;Changement passsage des présentations R. Haubourg et F. Fougères&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;Nous avons dû déplacer quelques interventions, donc si vous aviez prévu de les voir, vérifiez les nouveaux créneaux horaires ou les nouvelles salles :&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/GH8PLC/"&gt;
+                        «Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)»
+                        
+                            par Florent Fougeres, Nicolas Aubin
+                        
+                    &lt;/a&gt;
+                        
+                            (28 mars 2024 15:55 → 28 mars 2024 14:20)
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DFGASC/"&gt;
+                        «QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)»
+                        
+                            par Régis Haubourg
+                        
+                    &lt;/a&gt;
+                        
+                            (28 mars 2024 14:20 → 28 mars 2024 15:55)
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/HYVSJP/"&gt;
+                        «Ouverture de la journée de conférence»
+                        
+                    &lt;/a&gt;
+                        
+                            (28 mars 2024 09:20 → 28 mars 2024 09:00)
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+
+</summary></entry><entry><title>New Rencontres des utilisateurs francophones de QGIS 2024 schedule released (v1.0.2)</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.2" rel="alternate"></link><published>2024-02-01T15:17:41.623747+00:00</published><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.2</id><summary type="html">
 
 &lt;p&gt;
     
@@ -113,7 +172,7 @@
                     &lt;/a&gt;&lt;/li&gt;
                 
                     &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DXWZBM/"&gt;
-                        «[Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report recolement»
+                        «[Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report récolement»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 

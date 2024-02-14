@@ -34,11 +34,10 @@ DESCRIPTION:Présenté comme un Google Maps de la vulnérabilité aux inond
  ystème est basé sur le plugin (interface utilisateur)\, une base de donn
  ées (PostgreSQL/PostGis) pour les géotraitements et un site web techniqu
  e pour la méthodologie.
-DTSTAMP:20240201T153450Z
+DTSTAMP:20240214T122456Z
 LOCATION:Salle Chartreuse
 SUMMARY:AgiRisk\, un plugin QGIS d'aide à la décision pour évaluer et g
- érer les impacts des inondations - Manuel Collongues et Anaïs Cazaubon\,
-  Collongues
+ érer les impacts des inondations - Anaïs Cazaubon\, Manuel Collongues
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/AUAYUU/
 END:VEVENT
 END:VCALENDAR

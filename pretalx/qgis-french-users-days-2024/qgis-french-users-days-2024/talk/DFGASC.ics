@@ -20,8 +20,8 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:pretalx-qgis-french-users-days-2024-DFGASC@talks.osgeo.org
-DTSTART;TZID=Europe/Paris:20240328T142000
-DTEND;TZID=Europe/Paris:20240328T144000
+DTSTART;TZID=Europe/Paris:20240328T155500
+DTEND;TZID=Europe/Paris:20240328T161500
 DESCRIPTION:QGIS est né du besoin de visualiser des données spatiales. 20
   ans plus tard\, QGIS est devenu un SIG professionnel complet capable de t
  ravailler avec des bases de données très massives.  \nLe CSTB produit un
@@ -34,7 +34,7 @@ DESCRIPTION:QGIS est né du besoin de visualiser des données spatiales. 20
  u d'entreprise ?\nCette présentation passera en revue les trucs et astuce
  s\, optimisations PostgreSQL et pistes d'amélioration pour QGIS et Postgr
  eSQL.
-DTSTAMP:20240201T153438Z
+DTSTAMP:20240214T122445Z
 LOCATION:Salle Chartreuse
 SUMMARY:QGIS et les bases de données très massives. Comment QGIS est util
  isé dans la production de la Base de Données Nationale des Bâtiments (B

@@ -31,8 +31,9 @@ DESCRIPTION:L'idée de cet atelier est d'illustrer comment utiliser les exp
  nnées problématiques ou importantes dans la table attributaire.\n\nOn pr
  ivilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la m
  ajorité des traitements : pas d'utilisation\nde requêtes SQL en base de 
- données ou d'algorithmes complexes.
-DTSTAMP:20240201T153434Z
+ données ou d'algorithmes complexes.\n\n### Prérequis\n\n- Maîtrise des 
+ outils de base de QGIS\n- Intérêt pour les configurations avancées
+DTSTAMP:20240214T122443Z
 LOCATION:Salle Ecrins
 SUMMARY:[Atelier 7] Créer un outil de saisie avec des expressions - Micha
  ël Douchin\, René-Luc Dhont

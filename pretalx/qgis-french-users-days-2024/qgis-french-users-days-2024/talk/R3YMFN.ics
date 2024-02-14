@@ -31,8 +31,13 @@ DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
  t atelier\, nous verrons la publication d'un projet QGIS avec :\n\n* la l
  égende et les groupes\n* l'affichage des informations attributaires dans 
  une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
- c atlas)\n* l'ajout d'une dataviz
-DTSTAMP:20240201T153441Z
+ c atlas)\n* l'ajout d'une dataviz\n\n### Prérequis\n\n- Savoir manipuler 
+ QGIS : ouvrir des couches\, accéder à la table attributaire...\n- Avoir 
+ la dernière version LTR de QGIS sur sa machine (3.34 ou alors à défaut 
+ l'ancienne LTR 3.28)\n- Avoir un logiciel client FTP (WinSCP pour Windows\
+ , Filezilla pour MacOS et Linux)\n- L'instance Lizmap sera hébergée chez
+  3Liz pour les besoins de la formation.
+DTSTAMP:20240214T122447Z
 LOCATION:Salle Belledonne
 SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
  ion opensource Lizmap - René-Luc Dhont
@@ -51,8 +56,13 @@ DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
  t atelier\, nous verrons la publication d'un projet QGIS avec :\n\n* la l
  égende et les groupes\n* l'affichage des informations attributaires dans 
  une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
- c atlas)\n* l'ajout d'une dataviz
-DTSTAMP:20240201T153441Z
+ c atlas)\n* l'ajout d'une dataviz\n\n### Prérequis\n\n- Savoir manipuler 
+ QGIS : ouvrir des couches\, accéder à la table attributaire...\n- Avoir 
+ la dernière version LTR de QGIS sur sa machine (3.34 ou alors à défaut 
+ l'ancienne LTR 3.28)\n- Avoir un logiciel client FTP (WinSCP pour Windows\
+ , Filezilla pour MacOS et Linux)\n- L'instance Lizmap sera hébergée chez
+  3Liz pour les besoins de la formation.
+DTSTAMP:20240214T122447Z
 LOCATION:Salle Belledonne
 SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
  ion opensource Lizmap - René-Luc Dhont

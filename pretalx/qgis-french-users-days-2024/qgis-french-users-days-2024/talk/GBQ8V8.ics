@@ -30,8 +30,8 @@ DESCRIPTION:Aprés un bref rappel sur les concepts de base de la réalisati
  rateur de géométrie\,\n- l'intégration de la dimension temporelle dans 
  vos cartes.\n\nEnfin\, nous présenterons quelques notions avancées à co
  nnaître pour réussir l'intégration de vos cartes dans les mises en page
- s et rapport.
-DTSTAMP:20240201T153435Z
+ s et rapport.\n\n### Prérequis\n\nBases de l'utilisation de QGIS
+DTSTAMP:20240214T122443Z
 LOCATION:Salle Ecrins
 SUMMARY:[Atelier 6] Cartographie avancée avec QGIS - Jacky Volpes\, Julien
   Cabieces
