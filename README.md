@@ -6,7 +6,6 @@ Suivre les instructions d'installation https://docs.github.com/en/pages/setting-
 
 puis 
 
-
 ```
 $ bundle exec jekyll serve
 > Configuration file: /Users/octocat/my-site/_config.yml
