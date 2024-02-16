@@ -6,8 +6,6 @@ Suivre les instructions d'installation https://docs.github.com/en/pages/setting-
 
 puis 
 
-```~~
-- puis 
 
 ```
 $ bundle exec jekyll serve
