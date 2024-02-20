@@ -75,6 +75,12 @@ _Au travers du projet de [Base de Données Nationale des Bâtiments](https://bdn
 
 _Depuis plus de 20 ans, ![SOPRECO](https://www.sopreco-morteau.com) apporte des solutions de détection de réseaux, de contrôle des réseaux d’assainissement, de photogrammétrie et de géoréférencement pour les collectivités, les industries et les entreprises de travaux publics. Multicarte, nous proposons un large panel d’activités complémentaires et apportons ainsi une solution globale à nos clients : acquisition, traitement, analyse et restitution de la donnée spatiale sont au cœur de notre métier._ 
 
+---
+
+ [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
+
+_Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection. Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu’elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel “technicien supérieur en SIG” et certificat de qualification professionnelle “Géomaticien”), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source. Nos formations intra sont particulièrement appréciées : des formations co-construites à partir des thématiques et données métiers des apprenants d'un même organisme. Par exemple, des formations QGIS pour gérer les réseaux (AEP, telecom, voirie, énergies ...), faire de la 3D, pour planifier l'aménagement du territoire ou la gestion de crise ..._
+
 <!-- ---
 
 
@@ -90,13 +96,7 @@ _Intermezzo est un bureau d’études qui accompagne les acteurs publics et priv
 
 _[https://www.intermezzo-coop.eu/fr](https://www.intermezzo-coop.eu/fr)_
 
-<!-- [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr) -->
-
 <!--
-_Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection. Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu’elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel “technicien supérieur en SIG” et certificat de qualification professionnelle “Géomaticien”), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source._
-
-
-
 ---
 
 [![Azimut](/images/azimut.png)](https://www.azimut.fr/)
