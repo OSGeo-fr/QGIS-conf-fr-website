@@ -10,7 +10,7 @@ menu: footer
 - Paule-Annick Davoine (IUGA)
 - Marjorie Fangain (KEOLIS RENNES)
 - Léonie Gonon (MODAAL)
-- Floriane Serre (Agence de l'Eau Loie-Bretagne)
+- Floriane Serre (Agence de l'Eau Loire-Bretagne)
 - Jean-Marie Arsac (AZIMUT)
 - Jean-Christophe Becquet (APITUX)
 - Sylvain Beorchia (OSLANDIA)
