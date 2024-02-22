@@ -33,6 +33,7 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 # Comité de programme (ordre alphabétique courtois)
 
 - Paule-Annick Davoine (IUGA)
+- Pauline Dussieux (IUGA)
 - Sébastien Peillet (HYTECH-IMAGING)
 - Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
