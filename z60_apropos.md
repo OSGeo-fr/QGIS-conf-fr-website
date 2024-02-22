@@ -16,7 +16,7 @@ menu: footer
 - Sylvain Beorchia (OSLANDIA)
 - Loïc Bartoletti (OSLANDIA)
 - Humbert Fiorino (IUGA)
-- Régis Haubourg (CSTB)
+- Régis Haubourg (QGIS.org)
 - Thomas Michel (IdGeo)
 - Julien Moura (OSLANDIA)
 - Sébastien Peillet (HYTECH-IMAGING)
