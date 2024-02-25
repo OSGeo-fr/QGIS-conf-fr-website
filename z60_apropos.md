@@ -10,7 +10,7 @@ menu: footer
 - Paule-Annick Davoine (IUGA)
 - Marjorie Fangain (KEOLIS RENNES)
 - Léonie Gonon (MODAAL)
-- Floriane Serre (Agence de l'Eau Loire-Bretagne)
+- Floriane Serré (Agence de l'Eau Loire-Bretagne)
 - Jean-Marie Arsac (AZIMUT)
 - Jean-Christophe Becquet (APITUX)
 - Sylvain Beorchia (OSLANDIA)
@@ -32,8 +32,10 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 # Comité de programme (ordre alphabétique courtois)
 
+- Camille Bernad (IUGA)
 - Paule-Annick Davoine (IUGA)
 - Pauline Dussieux (IUGA)
+- Floriane Serré (Agence de l'Eau Loire-Bretagne)
 - Sébastien Peillet (HYTECH-IMAGING)
 - Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
