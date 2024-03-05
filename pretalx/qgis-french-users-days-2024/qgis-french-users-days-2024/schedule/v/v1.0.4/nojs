@@ -20,7 +20,7 @@
         
         <meta property="og:title" content=" Rencontres des utilisateurs francophones de QGIS 2024">
         <meta property="og:description" content="Schedule, talks and talk submissions for Rencontres des utilisateurs francophones de QGIS 2024">
-        <meta property="og:url" content="http://testserver/qgis-french-users-days-2024/schedule/v/v1.0.3/">
+        <meta property="og:url" content="http://testserver/qgis-french-users-days-2024/schedule/v/v1.0.4/nojs">
         <meta property="twitter:card" content="summary">
 
         
@@ -40,8 +40,7 @@
         <link rel="alternate" type="application/json" title="Rencontres des utilisateurs francophones de QGIS 2024 API" href="http://talks.osgeo.org/api/events/qgis-french-users-days-2024/" />
     
     
-    <script src="/pretalx/qgis-french-users-days-2024/static/CACHE/js/output.82fafa4d6b99.js"></script>
-
+    
 
     </head>
     <body>
@@ -51,7 +50,7 @@
             
         </div>
         
-        <div class="container main-schedule" id="main-container">
+        <div class="container" id="main-container">
             <header>
                 <h1>
                     <a href="
@@ -74,16 +73,14 @@
                     
     
     
-    <div id="fahrplan" class="grid">
-        
-            <div class="alert alert-warning m-3"><span>
-                
-                    Vous êtes en train de voir une vieille version du planning.
-                
-                
-                    Vous pouvez trouver la version actuelle <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/">ici</a>.
-                
-            </span></div>
+    <div id="fahrplan" class="list">
+
+        <div class="alert alert-info">
+            <div></div>
+            <div>
+                Pour consulter notre agenda en profitant de toutes les fonctionalités, comme la conversion de fuseau horaire, merci d'activer JavaScript et de vous dirigez vers <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/">ici</a>.
+            </div>
+        </div>
         
 
         
@@ -101,7 +98,7 @@
     </div>
     <div class="header-right">
         
-            <span>Version <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/changelog/">v1.0.3</a></span>
+            <span>Version <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/changelog/">v1.0.4</a></span>
             <details class="dropdown">
                 <summary class="btn btn-sm btn-outline-info">
                     <i class="fa fa-code"></i><i class="fa fa-caret-down"></i>
@@ -160,27 +157,1545 @@
     </div>
 </nav>
 
-
-        <script type="text/javascript" src="/qgis-french-users-days-2024/schedule/widget/v2.fr.js" async></script>
-
-        <pretalx-schedule
-            event-url="/qgis-french-users-days-2024/"
-            version="v1.0.3"
-            locale="fr"
-            timezone="Europe/Paris"
+        <div class="pretalx-tabbed"><div class="pretalx-tabbed-content">
             
-            style="--pretalx-clr-primary: #3aa57c"
-        ></pretalx-schedule>
-        <noscript>
-            <div class="alert alert-info m-4">
-                <div></div>
-                <div>
-                    Pour voir notre agenda, merci d'activer Javascript ou cliquez <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/nojs">ici</a> pour voir l'agenda sans JavaScript (NoJS).
+                <div class="pretalx-tabs">
+                    
+                        <div class="pretalx-tab">
+                            <label class="pretalx-tab-label" for="2024-03-27">
+                                mercredi, 27 mars 2024
+                            </label>
+                        </div>
+                    
+                        <div class="pretalx-tab">
+                            <label class="pretalx-tab-label" for="2024-03-28">
+                                jeudi, 28 mars 2024
+                            </label>
+                        </div>
+                    
                 </div>
-            </div>
-        </noscript>
-    </div>
+            
+            
+                
+                    <input name="tabs" id="2024-03-27" type="radio" checked>
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">09:30</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/TV7D3U/">
+                            
+                            
 
+<div class="pretalx-session"
+    id="TV7D3U"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 10] Initiation au déploiement rationalisé de QGIS avec PowerShell et QDT
+            
+        </div>
+        
+            <div class="speakers">
+                Julien Moura, Florent Fougeres
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Automatisez vos installations de QGIS avec PowerShell et rationalisez le déploiement des profils QGIS plus efficacement avec QGIS Deployment Toolbelt (QDT). </p>
+<p>Apprenez à :</p>
+<ul>
+<li>installer, désinstaller et mettre à jour QGIS en mode silencieux</li>
+<li>rationaliser, stocker et versionner vos profils QGIS avec un fichier <code>profile.json</code> et Git</li>
+<li>concevoir un scénario de déploiement pour automatiser le déploiement des profils avec QDT</li>
+</ul>
+<p>Bref une bonne occasion de mettre le pied à l'étrier pour optimiser votre flux de travail d'administrateur/ice QGIS !</p>
+<h3>Prérequis :</h3>
+<ul>
+<li>QGIS LTR</li>
+<li>Git et/ou GitHub for Desktop</li>
+<li>Python &gt;= 3.10</li>
+<li>accès réseau à pypi.org, github.com et gitlab.com a minima</li>
+</ul>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Diois</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/9ERMAV/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="9ERMAV"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 1] Créer et publier un joli projet sur QGIS Web Client (QWC)
+            
+        </div>
+        
+            <div class="speakers">
+                Andres Gwendoline, Florent Fougeres
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Durant cet atelier vous découvrirez comment publier une jolie carte web sur QWC à partir de votre projet QGIS.</p>
+<p>Vous verrez ce qu'il est possible de réaliser au niveau visuel (sur la carte), comment mettre en valeur ses attributs et le paramétrage de l'impression de cartes.<br>
+Ensuite nous aborderons la publication de vos projets QGIS depuis l'interface d'administration de QWC.<br>
+Pour finir, nous découvrirons le nouveau plugin QGIS pour publier confortablement depuis QGIS.</p>
+<h3>Prérequis</h3>
+<p>Quelques bases de QGIS : <br>
+ - Importer des couches BDD<br>
+ - Paramétrer un style<br>
+ - Créer une mise en page</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Taillefer</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/R3YMFN/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="R3YMFN"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 2] Publication sur le web d’un projet QGIS avec la solution opensource Lizmap
+            
+        </div>
+        
+            <div class="speakers">
+                Etienne Trimaille
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Lizmap est une solution opensource de publication de projet QGIS dans un navigateur web.<br>
+Il est développé par la société française 3Liz. L'objectif de cet outil libre est de publier, le plus simplement possible, un projet QGIS (légende, couches, groupes, mise en page PDF, table attributaire, formulaire de saisie etc) sans devoir refaire des manipulations supplémentaires pour le géomaticien dans QGIS.</p>
+<p>Pendant cet atelier, nous verrons la publication d'un projet QGIS avec :</p>
+<ul>
+<li>la légende et les groupes</li>
+<li>l'affichage des informations attributaires dans une infobulle</li>
+<li>un formulaire d'édition</li>
+<li>mise en page PDF (sans et avec atlas)</li>
+<li>l'ajout d'une dataviz</li>
+</ul>
+<h3>Prérequis</h3>
+<ul>
+<li>Savoir manipuler QGIS : ouvrir des couches, accéder à la table attributaire...</li>
+<li>Avoir la dernière version LTR de QGIS sur sa machine (3.34 ou alors à défaut l'ancienne LTR 3.28)</li>
+<li>Avoir un logiciel client FTP (WinSCP pour Windows, Filezilla pour MacOS et Linux)</li>
+<li>L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.</li>
+</ul>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Belledonne</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/KFXHDA/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="KFXHDA"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 3] Collecter vos données sur le terrain avec QField
+            
+        </div>
+        
+            <div class="speakers">
+                Loïc Bartoletti, Matthias Kuhn, Denis Rouzaud
+            </div>
+        
+        
+            <div class="abstract">
+                <p>QField permet une intégration transparente avec QGIS, propose des fonctionnalités essentielles pour capturer, éditer et synchroniser aisément des données géographiques en temps réel sur vos appareils mobiles.</p>
+<p>L'atelier explorera comment importer des couches cartographiques de QGIS vers QField, ainsi que les méthodes de travail hors ligne et synchronisé sur les données collectées. Vous découvrirez comment QField optimise la saisie précise des données terrain, améliorant ainsi la productivité et la qualité des données recueillies.</p>
+<p>Cette présentation conjointe entre Oslandia, promoteur QField France et OpenGIS, développeur suisse de QField, sera l'occasion de partager astuces et bonnes pratiques ainsi que des retours d'expérience pour optimiser l'utilisation de QField dans votre SIG.</p>
+<h3>Prérequis</h3>
+<p>En cours de discussion. Nous étudions comment proposer l'atelier avec du matériel dédié.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Vercors</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/M7Z7RJ/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="M7Z7RJ"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 4] QGIS et Base de données des Bâtiments
+            
+        </div>
+        
+            <div class="speakers">
+                Régis Haubourg
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Cet atelier vise à prendre en main une base de données spatiale massive sur les bâtiments. L'objectif est de prendre en main la BDNB pour explorer plusieurs cas d'utilisations, et aller jusqu'à la production cartographique et dataviz. <br>
+Exploration des diagnostics de performance énergétique ( DPE ) sur une métropole, visualisation d'un indicateur de raccordement potentiel à un réseau de chaleur, statistiques par type d'usage et de propriété par zones. <br>
+Cet atelier vise à montrer comment exploiter au maximum des prétraitements en base de données PostGIS via des requêtes d'agrégation sur une base. <br>
+Il s'adresse à des chargés d'études métier (urbanisme, énergie etc..) souhaitant découvrir les possibilités d'exploration et d'analyse de QGIS couplé à une base de données.</p>
+<h3>Prérequis</h3>
+<p>QGIS dernière version installée (&gt;=3.34)<br>
+PC portable avec accès réseau ouvert sur le port 36543 (attention au firewall d'entreprise de votre poste)<br>
+Possibilité d'accès 4G de secours </p>
+<p>L'atelier utilisera l'accès à une base de données distante. <br>
+En alternative, un dump postgresql permettra de charger les données localement sur des postes individuels</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Trièves</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/GBQ8V8/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="GBQ8V8"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 6] Cartographie avancée avec QGIS
+            
+        </div>
+        
+            <div class="speakers">
+                Jacky Volpes, Julien Cabieces
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Aprés un bref rappel sur les concepts de base de la réalisation de symbologie dans QGIS, cet atelier vous propose d'explorer les fonctionnalités de symbologies avancées sur des données vectorielles ou images. Nous aborderons entre autres :<br>
+- Le rendu par catégorie ou via un ensemble de règles,<br>
+- les masques sélectifs,<br>
+- l'utilisation du générateur de géométrie,<br>
+- l'intégration de la dimension temporelle dans vos cartes.</p>
+<p>Enfin, nous présenterons quelques notions avancées à connaître pour réussir l'intégration de vos cartes dans les mises en pages et rapport.</p>
+<h3>Prérequis</h3>
+<p>Bases de l'utilisation de QGIS</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Ecrins</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/ZGKQLD/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="ZGKQLD"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:30
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 8] Modeleur graphique de QGIS
+            
+        </div>
+        
+            <div class="speakers">
+                Bruno Defrance, El Mehdi Ouadoud
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Initiation au modeleur graphique : principe, entrées, traitements vecteur et raster, sorties ...</p>
+<h3>Prérequis</h3>
+<p>Utilisation de la boite à outils</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Grandes rousses</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">14:00</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/TKMYD8/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="TKMYD8"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 11] Mise en place d&#x27;une instance QFieldCloud custom
+            
+        </div>
+        
+            <div class="speakers">
+                Guilhem Allaman
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Lors de cet atelier nous partirons à la découverte de QFieldCloud, qui offre la possibilité de synchroniser les données entre QGIS et QField. L'ouverture du code source de la solution permet de mettre en place sa propre instance, son QFieldCloud custom, ce en quoi consistera l'objectif de l'atelier.</p>
+<p>Nous nous initierons et découvrirons docker, l'outil de containerisation sur lequel se base QFieldCloud. Nous verrons les installations et le paramétrage nécessaire de l'infrastructure linux hébergeant l'instance. Puis nous lancerons le serveur pour appréhender sa configuration et son administration, au fil d'un atelier plutôt geek orienté lignes de commande.</p>
+<h3>Prérequis :</h3>
+<p>Être équipé d'une machine linux avec les accès root, avec installations préalables : QGIS (+ Android Studio avec un smartphone virtuel créé pour pouvoir tester QField dessus)<br>
+Il peut s'agir d'un PC personnel équipé de Linux ou encore mieux : un serveur / machine virtuelle Linux avec accès SSH et accès root + ports 80/443 accessibles publiquement</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Diois</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/9ERMAV/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="9ERMAV"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 1] Créer et publier un joli projet sur QGIS Web Client (QWC)
+            
+        </div>
+        
+            <div class="speakers">
+                Andres Gwendoline, Florent Fougeres
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Durant cet atelier vous découvrirez comment publier une jolie carte web sur QWC à partir de votre projet QGIS.</p>
+<p>Vous verrez ce qu'il est possible de réaliser au niveau visuel (sur la carte), comment mettre en valeur ses attributs et le paramétrage de l'impression de cartes.<br>
+Ensuite nous aborderons la publication de vos projets QGIS depuis l'interface d'administration de QWC.<br>
+Pour finir, nous découvrirons le nouveau plugin QGIS pour publier confortablement depuis QGIS.</p>
+<h3>Prérequis</h3>
+<p>Quelques bases de QGIS : <br>
+ - Importer des couches BDD<br>
+ - Paramétrer un style<br>
+ - Créer une mise en page</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Taillefer</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/R3YMFN/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="R3YMFN"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 2] Publication sur le web d’un projet QGIS avec la solution opensource Lizmap
+            
+        </div>
+        
+            <div class="speakers">
+                Etienne Trimaille
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Lizmap est une solution opensource de publication de projet QGIS dans un navigateur web.<br>
+Il est développé par la société française 3Liz. L'objectif de cet outil libre est de publier, le plus simplement possible, un projet QGIS (légende, couches, groupes, mise en page PDF, table attributaire, formulaire de saisie etc) sans devoir refaire des manipulations supplémentaires pour le géomaticien dans QGIS.</p>
+<p>Pendant cet atelier, nous verrons la publication d'un projet QGIS avec :</p>
+<ul>
+<li>la légende et les groupes</li>
+<li>l'affichage des informations attributaires dans une infobulle</li>
+<li>un formulaire d'édition</li>
+<li>mise en page PDF (sans et avec atlas)</li>
+<li>l'ajout d'une dataviz</li>
+</ul>
+<h3>Prérequis</h3>
+<ul>
+<li>Savoir manipuler QGIS : ouvrir des couches, accéder à la table attributaire...</li>
+<li>Avoir la dernière version LTR de QGIS sur sa machine (3.34 ou alors à défaut l'ancienne LTR 3.28)</li>
+<li>Avoir un logiciel client FTP (WinSCP pour Windows, Filezilla pour MacOS et Linux)</li>
+<li>L'instance Lizmap sera hébergée chez 3Liz pour les besoins de la formation.</li>
+</ul>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Belledonne</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/KFXHDA/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="KFXHDA"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 3] Collecter vos données sur le terrain avec QField
+            
+        </div>
+        
+            <div class="speakers">
+                Loïc Bartoletti, Matthias Kuhn, Denis Rouzaud
+            </div>
+        
+        
+            <div class="abstract">
+                <p>QField permet une intégration transparente avec QGIS, propose des fonctionnalités essentielles pour capturer, éditer et synchroniser aisément des données géographiques en temps réel sur vos appareils mobiles.</p>
+<p>L'atelier explorera comment importer des couches cartographiques de QGIS vers QField, ainsi que les méthodes de travail hors ligne et synchronisé sur les données collectées. Vous découvrirez comment QField optimise la saisie précise des données terrain, améliorant ainsi la productivité et la qualité des données recueillies.</p>
+<p>Cette présentation conjointe entre Oslandia, promoteur QField France et OpenGIS, développeur suisse de QField, sera l'occasion de partager astuces et bonnes pratiques ainsi que des retours d'expérience pour optimiser l'utilisation de QField dans votre SIG.</p>
+<h3>Prérequis</h3>
+<p>En cours de discussion. Nous étudions comment proposer l'atelier avec du matériel dédié.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Vercors</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DXWZBM/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="DXWZBM"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report récolement
+            
+        </div>
+        
+            <div class="speakers">
+                Jean-Claude Anotta, Jean-Marie Arsac
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Cet atelier abordera le fonctionnement du module DT DICT, son suivi, les interactions avec la numérotation d'un projet et la confection/intégration d'un récolement d'un chantier d'éclairage public.</p>
+<h3>Prérequis</h3>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Trièves</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/GHAKAM/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="GHAKAM"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 7] Créer un outil de saisie avec des expressions
+            
+        </div>
+        
+            <div class="speakers">
+                René-Luc Dhont
+            </div>
+        
+        
+            <div class="abstract">
+                <p>L'idée de cet atelier est d'illustrer comment utiliser les expressions dans QGIS pour créer un outil de saisie complet,<br>
+à partir d'une donnée au format tabulaire, avec les étapes suivantes :</p>
+<ul>
+<li>Import d'une donnée "tableur" dans un GeoPackage et affichage dans QGIS</li>
+<li>Création et correction de données via des expressions</li>
+<li>Mettre les données en relation</li>
+<li>Créer un formulaire de saisie avancé</li>
+<li>Visualiser les données problématiques ou importantes dans la table attributaire.</li>
+</ul>
+<p>On privilégie dans cet exemple l'utilisation d'expressions dans QGIS pour la majorité des traitements : pas d'utilisation<br>
+de requêtes SQL en base de données ou d'algorithmes complexes.</p>
+<h3>Prérequis</h3>
+<ul>
+<li>Maîtrise des outils de base de QGIS</li>
+<li>Intérêt pour les configurations avancées</li>
+</ul>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Ecrins</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time"></div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/NQMLUE/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="NQMLUE"
+    style="--track-color:#3aa57c"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:00
+        </div>
+        <div class="duration">
+            180minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                [Atelier 9] Nouveautés QGIS 3D
+            
+        </div>
+        
+            <div class="speakers">
+                Jean Felder, Benoit De Mezzo
+            </div>
+        
+        
+            <div class="abstract">
+                <p>QGIS intègre un visualiseur 3D prenant en charge une variété de formats de données 2D et 3D. Cet atelier vous présentera les fonctionnalités bases (vues, caméra, chargement de données) ainsi que des avancées. </p>
+<p>Vous y découvrirez la manipulation des données 3D : chargement, configuration des vues et caméra ainsi que le chargement de données tels que les modèle numérique de terrain, les tuiles 3D (3dtiles), les nuages de points et PostGIS 3D. Vous pourrez exploiter des outils comme la boundingbox ou l'élévation de profils et des méthodes d'analyse adaptées à cet environnement tridimensionnel.</p>
+<h3>Prérequis</h3>
+<ul>
+<li>QGIS &gt;= 3.34.0</li>
+<li>Postgis &gt;= 3.4.0</li>
+</ul>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track"></div>
+            <div class="room">Salle Grandes rousses</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                    
+                </div>
+            
+                
+                    <input name="tabs" id="2024-03-28" type="radio" >
+                
+                <div class="pretalx-list-day pretalx-tab-content" data-start="">
+                    
+                        
+                            <div class="bucket-time">09:00</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/HYVSJP/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="HYVSJP"
+    style="--track-color:#FFFFFF"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:00
+        </div>
+        <div class="duration">
+            35minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Ouverture de la journée de conférence
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Introduction à la journée de conférence</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Organisation de la journée</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">09:35</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/TQEUSW/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="TQEUSW"
+    style="--track-color:#D95F02"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            09:35
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Utiliser QGIS pour créer un atlas d&#x27;appui à une enquête de terrain: l&#x27;exemple de la nuit de la solidarité 2023 à Montpellier
+            
+        </div>
+        
+            <div class="speakers">
+                Jérémy Garniaux
+            </div>
+        
+        
+            <div class="abstract">
+                <p>La nuit de la solidarité est une opération annuelle, à échelle nationale mais reposant sur l'initiative des collectivités locales. Son objectif principal est de dénombrer les personnes en situation de rue sur le territoire concerné. Programmée à Montpellier le 18 mai 2023 de 18h à minuit, elle a mobilisé près de 200 bénévoles qui ont compté près de 2800 personnes sans abri, dont plus de 500 directement rencontrées pendant l'enquête.  </p>
+<p>J'ai été mandaté par Montpellier Méditerranée Métropole pour créer un atlas d'appui à l'enquête de terrain, afin de fournir à chaque équipe de bénévoles une carte détaillée de son secteur au format A4. Je présenterai dans cette intervention comment j'ai réalisé ces 135 cartes à l'aide de QGIS, de ses expressions et de son outil Atlas.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Cas d&#x27;usage</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">10:00</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/8QFNTR/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="8QFNTR"
+    style="--track-color:#66A61E"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:00
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Retour d&#x27;une année d&#x27;expérience avec Mergin Maps
+            
+        </div>
+        
+            <div class="speakers">
+                Julien Waddle
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Découvrez Mergin Maps : l'ensemble d'applications qui simplifie la création de projets QGIS sur iOS et Android, idéal pour les missions sur le terrain. Après une année d'expérience, nous avons rassemblé des astuces incontournables pour améliorer votre efficacité :<br>
+Exploitez au maximum un iPhone avec Mergin Maps<br>
+Optimisez la gestion hors ligne<br>
+Gérez vos liens vers images et PDF de manière optimale<br>
+Assurez la sécurité de vos données… et bien d'autres astuces pratiques pour vous faciliter la vie.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Nouveautés</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">10:25</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/XWBHHX/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="XWBHHX"
+    style="--track-color:#D95F02"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:25
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Retour d&#x27;expérience sur l&#x27;utilisation d&#x27;un QFieldCloud auto-hébergé
+            
+        </div>
+        
+            <div class="speakers">
+                René-Luc Dhont
+            </div>
+        
+        
+            <div class="abstract">
+                <p>L’application QField de la société OpenGIS permet de consulter des projets QGIS sur sa tablette ou son smartphone, et de faire des relevés sur le terrain via les formulaires d’édition.<br>
+QFieldCloud d'OpenGIS est la plate-forme de gestion centralisée des projets QGIS et des données collectées dans l’application QField. En suivant la documentation en ligne, il est possible avec l’outil Docker de créer sa propre instance de QFieldCloud.<br>
+Nous présenterons notre retour d'expérience sur son installation et sa configuration. Nous montrerons son utilisation en tant qu'administrateur de projets QGIS, avec les astuces et les écueils à éviter, et nous expliquerons comment configurer un projet QGIS pour activer la synchronisation automatique avec une base de données PostgreSQL centralisée.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Cas d&#x27;usage</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">10:50</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/B8SAP3/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="B8SAP3"
+    style="--track-color:#FFFFFF"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            10:50
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Pause
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Pause</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Organisation de la journée</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">11:10</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/78AFNA/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="78AFNA"
+    style="--track-color:#D95F02"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:10
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Contrôle qualité de données d&#x27;occupation du sol avec QGIS
+            
+        </div>
+        
+            <div class="speakers">
+                Nicolas Rochard
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Le projet de production de l'occupation du sol à 2 dimensions (OCS2d) a impliqué les partenaires de la plateforme Geo2France dans le contrôle qualité d'une donnée à fort enjeu (Loi Climat Résilience, ZAN, etc.).<br>
+La plateforme a mis en place un kit contrôle qualité sur QGIS pour optimiser l'efficacité et le temps consacré à une tâche répétitive en exploitant diverses fonctionnalités de QGIS. <br>
+Retour d'expérience sur la genèse de cette démarche, son utilisation et comment l'adapter à d'autres thématiques.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Cas d&#x27;usage</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">11:35</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/AUAYUU/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="AUAYUU"
+    style="--track-color:#7570B3"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            11:35
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                AgiRisk, un plugin QGIS d&#x27;aide à la décision pour évaluer et gérer les impacts des inondations
+            
+        </div>
+        
+            <div class="speakers">
+                Anaïs Cazaubon, Manuel Collongues
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Présenté comme un Google Maps de la vulnérabilité aux inondations, AgiRisk est un plugin développé sous QGIS visant à la réalisation de diagnostics personnalisés afin de réduire l’impact des inondations sur les différents types d’enjeux territoriaux grâce à la mise en place d'actions concrètes proposées par l'outil et l'intégration du suivi temporel de cette vulnérabilité. AgiRisk s'appuie sur un panel de représentations cartographiques multi-échelles, statistiques et infographiques (tableaux de bord) pour s'adapter aux différents profils d'utilisateurs (collectivités, aménageurs, services de l’État...). Son écosystème est basé sur le plugin (interface utilisateur), une base de données (PostgreSQL/PostGis) pour les géotraitements et un site web technique pour la méthodologie.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Extension</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">12:00</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/XC8MBH/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="XC8MBH"
+    style="--track-color:#1B9E77"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:00
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Utilisation des “actions QGIS” pour la gestion des données Véloroutes et Voies Vertes
+            
+        </div>
+        
+            <div class="speakers">
+                René-Luc Dhont
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Dans le standard COVADIS des Véloroutes et Voies Vertes, le réseau cyclable est décomposé en plusieurs "éléments" géométriques : les segments.<br>
+Ils sont ensuite assemblés afin de construire des "portions" puis des "itinéraires", pour former un réseau cyclable.<br>
+D'un côté, QGIS permet de renseigner les "relations" entre les différentes tables d'un projet, mais la manipulation entre les tables reste technique.<br>
+De l'autre, il existe le concept des "Actions" qui permet de déclencher des traitements complexes sur des contextes précis (à l'échelle d'une seule entité par exemple). Ce concept est méconnu.<br>
+Pour simplifier la maintenance d'un réseau cyclable dans QGIS, nous vous présenterons les avantages offerts par les "Actions" pour la gestion de données complexes en s'appuyant sur un standard.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Fonctionnalité</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">12:25</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/QRAC8E/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="QRAC8E"
+    style="--track-color:#FFFFFF"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            12:25
+        </div>
+        <div class="duration">
+            90minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Pause midi
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Pause midi</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Organisation de la journée</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">13:55</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/MWEUP9/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="MWEUP9"
+    style="--track-color:#7570B3"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            13:55
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Accéder aux données des géoplateformes régionales et nationale avec le plugin IDG
+            
+        </div>
+        
+            <div class="speakers">
+                Jean-Baptiste Desbas, Benjamin Chartier
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Initiée par Geo2France (ex-GeoPicardie) en 2015, à l'origine, le plugin simplifiait le chargement des fonds WMTS, WMS et WFS de la plateforme de données régionale.<br>
+Au fil des années, plusieurs CRIGE ont adapté le plugin à leurs plateformes spécifiques, ajoutant des fonctionnalités pour répondre à leurs besoins particuliers. Fin 2022, une collaboration s'est formée lorsque les auteurs de ces forks ont décidé de regrouper leurs fonctionnalités.<br>
+En 2023, Geo2France a pris l'initiative de refondre complètement le plugin, le baptisant IDG, offrant ainsi une interface unifiée permettant aux utilisateurs de choisir la ou les plateformes préférées.<br>
+Dernièrement, l'IGN a récemment annoncé son intention de contribuer.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Extension</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">14:20</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/GH8PLC/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="GH8PLC"
+    style="--track-color:#7570B3"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:20
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)
+            
+        </div>
+        
+            <div class="speakers">
+                Florent Fougeres, Nicolas Aubin
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Il s'agit de présenter le plugin QGIS QWC2_Tools qui permet de gérer directement depuis QGIS les projets d'une instance QWC2 (QGIS Web Client, projet communautaire officiel de QGIS en matière de web SIG). Par gérer, on entend publier, modifier, ouvrir et supprimer des projets, mais également gérer l'arborescence. Ce plugin fonctionne avec un micro-service dédié QWC2, développé en parallèle, qui propose une API REST permettant la communication entre le plugin QGIS et l'instance QWC2.</p>
+<p>Présentation effectuée conjointement par Nicolas AUBIN de la Direction des Systèmes d’Information et des Usages Numériques des Agences de l'eau et Florent FOUGERES de la société Oslandia.</p>
+<p>Lien vers la documentation du plugin : https://oslandia.gitlab.io/qgis/qwc2_tools/</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Extension</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">14:45</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/BXNZPA/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="BXNZPA"
+    style="--track-color:#7570B3"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            14:45
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Publier de base à base depuis QGIS avec Python
+            
+        </div>
+        
+            <div class="speakers">
+                Pierre Muckensturm
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Dans notre architecture PostgreSQL/Postgis &amp; QGIS nous avons besoin de permettre à des utilisateurs non linuxiens/non informaticiens de publier leurs données depuis nos bases de production vers notre base de publication. Il faut également que ces publications puissent être automatisées simplement. A terme un plugin QGIS pour que la publication puisse être ordonnée directement depuis leur sig favori.<br>
+Nous avons donc travaillé avec CampToCamp pour la création de cette CLI python.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Extension</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">15:10</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/B8SAP3/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="B8SAP3"
+    style="--track-color:#FFFFFF"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:10
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                Pause
+            
+        </div>
+        
+            <div class="speakers">
+                
+            </div>
+        
+        
+            <div class="abstract">
+                <p>Pause</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Organisation de la journée</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">15:30</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/WP3NSW/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="WP3NSW"
+    style="--track-color:#D95F02"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:30
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                QGIS Server : composant principal du SIG d&#x27;Orange
+            
+        </div>
+        
+            <div class="speakers">
+                Erwan Ropartz
+            </div>
+        
+        
+            <div class="abstract">
+                <p>En 2016, Orange France a entamé un projet de refonte de son Système d’Information Géographique. Cette infrastructure basée sur des briques OpenSource doit répondre à des enjeux multiples: Évolutivité, Mobilité et Performance. Le serveur QGIS est le composant principal de ce SIG. <br>
+Orange France a effectué un partenariat avec Oslandia afin de bénéficier d’une vision experte, mais aussi de devenir un acteur majeur de la communauté. Dans cette session nous proposons de vous présenter l'utilisation de QGIS serveur au sein du socle cartographique OpenSource d'Orange mais aussi les travaux communautaires réalisés pour que ce projet  soit un succès.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Cas d&#x27;usage</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                            <div class="bucket-time">15:55</div>
+                            
+                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DFGASC/">
+                            
+                            
+
+<div class="pretalx-session"
+    id="DFGASC"
+    style="--track-color:#D95F02"
+>
+    <div class="pretalx-session-time-box">
+        
+        <div class="start">
+            15:55
+        </div>
+        <div class="duration">
+            20minutes
+        </div>
+    </div>
+    <div class="pretalx-session-info">
+        <div class="title">
+            
+                
+                QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)
+            
+        </div>
+        
+            <div class="speakers">
+                Régis Haubourg
+            </div>
+        
+        
+            <div class="abstract">
+                <p>QGIS est né du besoin de visualiser des données spatiales. 20 ans plus tard, QGIS est devenu un SIG professionnel complet capable de travailler avec des bases de données très massives.<br>
+Le CSTB produit un socle de données sur l'ensemble des 27 millions de bâtiments, 90 millions de logements, adresses, parcelles et centaines de caractéristiques de ces objets.</p>
+<p>Entièrement produit dans PostGIS, chaque millésime représente plus de 300 Go de données, au sein d'une base de production compilant 5 To de données. Comment travailler efficacement avec de tels volumes, particulièrement avec une base de données distante hors du réseau d'entreprise ?<br>
+Cette présentation passera en revue les trucs et astuces, optimisations PostgreSQL et pistes d'amélioration pour QGIS et PostgreSQL.</p>
+            </div>
+        
+        <div class="bottom-info">
+            <div class="track">Cas d&#x27;usage</div>
+            <div class="room">Salle Chartreuse</div>
+        </div>
+    </div>
+</div>
+
+                            
+                                </a>
+                            
+                        
+                    
+                </div>
+            
+            <script src="/pretalx/qgis-french-users-days-2024/static/CACHE/js/output.878453ca853a.js" defer></script>
+        </div>
 
 
                 </main>

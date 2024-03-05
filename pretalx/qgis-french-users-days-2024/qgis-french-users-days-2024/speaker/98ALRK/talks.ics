@@ -33,7 +33,7 @@ DESCRIPTION:Automatisez vos installations de QGIS avec PowerShell et ration
   d'administrateur/ice QGIS !\n\n### Prérequis :\n\n- QGIS LTR\n- Git et/o
  u GitHub for Desktop\n- Python >= 3.10\n- accès réseau à pypi.org\, git
  hub.com et gitlab.com a minima
-DTSTAMP:20240214T122451Z
+DTSTAMP:20240305T113525Z
 LOCATION:Salle Diois
 SUMMARY:[Atelier 10] Initiation au déploiement rationalisé de QGIS avec P
  owerShell et QDT - Julien Moura\, Florent Fougeres

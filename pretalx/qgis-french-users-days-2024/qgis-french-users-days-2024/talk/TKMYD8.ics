@@ -37,7 +37,7 @@ DESCRIPTION:Lors de cet atelier nous partirons à la découverte de QFieldC
  ld dessus)\nIl peut s'agir d'un PC personnel équipé de Linux ou encore m
  ieux : un serveur / machine virtuelle Linux avec accès SSH et accès root
   + ports 80/443 accessibles publiquement
-DTSTAMP:20240214T122443Z
+DTSTAMP:20240305T113519Z
 LOCATION:Salle Diois
 SUMMARY:[Atelier 11] Mise en place d'une instance QFieldCloud custom - Guil
  hem Allaman

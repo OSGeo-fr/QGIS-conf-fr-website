@@ -34,7 +34,7 @@ DESCRIPTION:QGIS est né du besoin de visualiser des données spatiales. 20
  u d'entreprise ?\nCette présentation passera en revue les trucs et astuce
  s\, optimisations PostgreSQL et pistes d'amélioration pour QGIS et Postgr
  eSQL.
-DTSTAMP:20240214T122452Z
+DTSTAMP:20240305T113526Z
 LOCATION:Salle Chartreuse
 SUMMARY:QGIS et les bases de données très massives. Comment QGIS est util
  isé dans la production de la Base de Données Nationale des Bâtiments (B
@@ -62,7 +62,7 @@ DESCRIPTION:Cet atelier vise à prendre en main une base de données spatia
  'atelier utilisera l'accès à une base de données distante. \nEn alterna
  tive\, un dump postgresql permettra de charger les données localement sur
   des postes individuels
-DTSTAMP:20240214T122452Z
+DTSTAMP:20240305T113526Z
 LOCATION:Salle Trièves
 SUMMARY:[Atelier 4] QGIS et Base de données des Bâtiments - Régis Haubourg
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/M7Z7RJ/

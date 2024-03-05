@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom"><title>Rencontres des utilisateurs francophones de QGIS 2024 schedule updates</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/" rel="alternate"></link><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/feed.xml" rel="self"></link><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/feed.xml</id><updated>2024-02-14T12:23:39.574581+00:00</updated><entry><title>New Rencontres des utilisateurs francophones de QGIS 2024 schedule released (v1.0.3)</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.3" rel="alternate"></link><published>2024-02-14T12:23:39.574581+00:00</published><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.3</id><summary type="html">
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom"><title>Rencontres des utilisateurs francophones de QGIS 2024 schedule updates</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/" rel="alternate"></link><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/feed.xml" rel="self"></link><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/feed.xml</id><updated>2024-03-05T08:41:32.337744+00:00</updated><entry><title>New Rencontres des utilisateurs francophones de QGIS 2024 schedule released (v1.0.4)</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.4" rel="alternate"></link><published>2024-03-05T08:41:32.337744+00:00</published><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.4</id><summary type="html">
+
+&lt;p&gt;
+    
+        Un nouveau planning a été publié pour Rencontres des utilisateurs francophones de QGIS 2024 !
+    
+&lt;/p&gt;
+
+
+
+
+    &lt;p&gt;&lt;p&gt;Changement de présentateur pour les ateliers et présentations de 3Liz :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;l'atelier "Expressions" sera réalisé par René-Luc D'Hont&lt;/li&gt;
+&lt;li&gt;la conférence sur QField Cloud sera réalisé par René-Luc d'Hont&lt;/li&gt;
+&lt;li&gt;les ateliers Lizmap seront réalisé par Etienne Trimaille&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+
+
+
+</summary></entry><entry><title>New Rencontres des utilisateurs francophones de QGIS 2024 schedule released (v1.0.3)</title><link href="http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.3" rel="alternate"></link><published>2024-02-14T12:23:39.574581+00:00</published><id>http://talks.osgeo.org/qgis-french-users-days-2024/schedule/changelog/#v1.0.3</id><summary type="html">
 
 &lt;p&gt;
     
@@ -22,7 +42,7 @@
             &lt;p&gt;Nous avons dû déplacer quelques interventions, donc si vous aviez prévu de les voir, vérifiez les nouveaux créneaux horaires ou les nouvelles salles :&lt;/p&gt;
             &lt;ul&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/GH8PLC/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/GH8PLC/"&gt;
                         «Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)»
                         
                             par Florent Fougeres, Nicolas Aubin
@@ -33,7 +53,7 @@
                         
                     &lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DFGASC/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/DFGASC/"&gt;
                         «QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)»
                         
                             par Régis Haubourg
@@ -44,7 +64,7 @@
                         
                     &lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/HYVSJP/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/HYVSJP/"&gt;
                         «Ouverture de la journée de conférence»
                         
                     &lt;/a&gt;
@@ -95,7 +115,7 @@
         
             &lt;p&gt;Nous avons déplacé une intervention : 
                 
-                    &lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/HYVSJP/"&gt;
+                    &lt;a href="/pretalx/qgis-french-users-days-2024/talk/HYVSJP/"&gt;
                         «Ouverture de la journée de conférence»
                         
                     &lt;/a&gt;
@@ -126,52 +146,52 @@
             &lt;p&gt;Nous avons des nouvelles interventions !&lt;/p&gt;
             &lt;ul&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/BXNZPA/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/BXNZPA/"&gt;
                         «Publier de base à base depuis QGIS avec Python»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/GH8PLC/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/GH8PLC/"&gt;
                         «Un plugin QGIS et un service de publication pour QGIS Web Client (QWC)»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/78AFNA/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/78AFNA/"&gt;
                         «Contrôle qualité de données d&amp;#x27;occupation du sol avec QGIS»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/ZGKQLD/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/ZGKQLD/"&gt;
                         «[Atelier 8] Modeleur graphique de QGIS»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DFGASC/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/DFGASC/"&gt;
                         «QGIS et les bases de données très massives. Comment QGIS est utilisé dans la production de la Base de Données Nationale des Bâtiments (BDNB)»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/XC8MBH/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/XC8MBH/"&gt;
                         «Utilisation des “actions QGIS” pour la gestion des données Véloroutes et Voies Vertes»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/R3YMFN/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/R3YMFN/"&gt;
                         «[Atelier 2] Publication sur le web d’un projet QGIS avec la solution opensource Lizmap»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/R3YMFN/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/R3YMFN/"&gt;
                         «[Atelier 2] Publication sur le web d’un projet QGIS avec la solution opensource Lizmap»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/AUAYUU/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/AUAYUU/"&gt;
                         «AgiRisk, un plugin QGIS d&amp;#x27;aide à la décision pour évaluer et gérer les impacts des inondations»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DXWZBM/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/DXWZBM/"&gt;
                         «[Atelier 5] Fonctionnement du module DT DICT, numérotation projet et report récolement»
                         
                     &lt;/a&gt;&lt;/li&gt;
@@ -204,47 +224,47 @@
             &lt;p&gt;Nous avons des nouvelles interventions !&lt;/p&gt;
             &lt;ul&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/8QFNTR/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/8QFNTR/"&gt;
                         «Retour d&amp;#x27;une année d&amp;#x27;expérience avec Mergin Maps»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/TQEUSW/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/TQEUSW/"&gt;
                         «Utiliser QGIS pour créer un atlas d&amp;#x27;appui à une enquête de terrain: l&amp;#x27;exemple de la nuit de la solidarité 2023 à Montpellier»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/B8SAP3/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/B8SAP3/"&gt;
                         «Pause»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/B8SAP3/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/B8SAP3/"&gt;
                         «Pause»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/MWEUP9/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/MWEUP9/"&gt;
                         «Accéder aux données des géoplateformes régionales et nationale avec le plugin IDG»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/HYVSJP/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/HYVSJP/"&gt;
                         «Ouverture de la journée de conférence»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/QRAC8E/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/QRAC8E/"&gt;
                         «Pause midi»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/XWBHHX/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/XWBHHX/"&gt;
                         «Retour d&amp;#x27;expérience sur l&amp;#x27;utilisation d&amp;#x27;un QFieldCloud auto-hébergé»
                         
                     &lt;/a&gt;&lt;/li&gt;
                 
-                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/WP3NSW/"&gt;
+                    &lt;li&gt;&lt;a href="/pretalx/qgis-french-users-days-2024/talk/WP3NSW/"&gt;
                         «QGIS Server : composant principal du SIG d&amp;#x27;Orange»
                         
                     &lt;/a&gt;&lt;/li&gt;
@@ -318,7 +338,7 @@
                     &lt;li&gt;
                         «Retour d&amp;#x27;expérience sur l&amp;#x27;utilisation d&amp;#x27;un QFieldCloud auto-hébergé»
                         
-                            par Michaël Douchin, René-Luc Dhont
+                            par René-Luc Dhont
                         
                     &lt;/li&gt;
                 

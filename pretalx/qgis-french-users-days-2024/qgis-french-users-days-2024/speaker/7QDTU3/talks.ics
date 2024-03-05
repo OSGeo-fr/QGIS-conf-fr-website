@@ -19,44 +19,6 @@ TZOFFSETTO:+0200
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-qgis-french-users-days-2024-9ERMAV-0@talks.osgeo.org
-DTSTART;TZID=Europe/Paris:20240327T140000
-DTEND;TZID=Europe/Paris:20240327T170000
-DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie 
- carte web sur QWC à partir de votre projet QGIS.\n\nVous verrez ce qu'il 
- est possible de réaliser au niveau visuel (sur la carte)\, comment mettre
-  en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
- suite nous aborderons la publication de vos projets QGIS depuis l'interfac
- e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
- gin QGIS pour publier confortablement depuis QGIS.\n\n### Prérequis\n\nQu
- elques bases de QGIS : \n - Importer des couches BDD\n - Paramétrer un st
- yle\n - Créer une mise en page
-DTSTAMP:20240214T122456Z
-LOCATION:Salle Taillefer
-SUMMARY:[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (Q
- WC) - Andres Gwendoline\, Florent Fougeres
-URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
-END:VEVENT
-BEGIN:VEVENT
-UID:pretalx-qgis-french-users-days-2024-9ERMAV-1@talks.osgeo.org
-DTSTART;TZID=Europe/Paris:20240327T093000
-DTEND;TZID=Europe/Paris:20240327T123000
-DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie 
- carte web sur QWC à partir de votre projet QGIS.\n\nVous verrez ce qu'il 
- est possible de réaliser au niveau visuel (sur la carte)\, comment mettre
-  en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
- suite nous aborderons la publication de vos projets QGIS depuis l'interfac
- e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
- gin QGIS pour publier confortablement depuis QGIS.\n\n### Prérequis\n\nQu
- elques bases de QGIS : \n - Importer des couches BDD\n - Paramétrer un st
- yle\n - Créer une mise en page
-DTSTAMP:20240214T122456Z
-LOCATION:Salle Taillefer
-SUMMARY:[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (Q
- WC) - Andres Gwendoline\, Florent Fougeres
-URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
-END:VEVENT
-BEGIN:VEVENT
 UID:pretalx-qgis-french-users-days-2024-GH8PLC@talks.osgeo.org
 DTSTART;TZID=Europe/Paris:20240328T142000
 DTEND;TZID=Europe/Paris:20240328T144000
@@ -71,7 +33,7 @@ DESCRIPTION:Il s'agit de présenter le plugin QGIS QWC2_Tools qui permet de
   des Systèmes d’Information et des Usages Numériques des Agences de l'
  eau et Florent FOUGERES de la société Oslandia.\n\nLien vers la document
  ation du plugin : https://oslandia.gitlab.io/qgis/qwc2_tools/
-DTSTAMP:20240214T122456Z
+DTSTAMP:20240305T113530Z
 LOCATION:Salle Chartreuse
 SUMMARY:Un plugin QGIS et un service de publication pour QGIS Web Client (Q
  WC) - Florent Fougeres\, Nicolas Aubin
@@ -92,10 +54,48 @@ DESCRIPTION:Automatisez vos installations de QGIS avec PowerShell et ration
   d'administrateur/ice QGIS !\n\n### Prérequis :\n\n- QGIS LTR\n- Git et/o
  u GitHub for Desktop\n- Python >= 3.10\n- accès réseau à pypi.org\, git
  hub.com et gitlab.com a minima
-DTSTAMP:20240214T122456Z
+DTSTAMP:20240305T113530Z
 LOCATION:Salle Diois
 SUMMARY:[Atelier 10] Initiation au déploiement rationalisé de QGIS avec P
  owerShell et QDT - Julien Moura\, Florent Fougeres
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/TV7D3U/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-9ERMAV-0@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T140000
+DTEND;TZID=Europe/Paris:20240327T170000
+DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie 
+ carte web sur QWC à partir de votre projet QGIS.\n\nVous verrez ce qu'il 
+ est possible de réaliser au niveau visuel (sur la carte)\, comment mettre
+  en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
+ suite nous aborderons la publication de vos projets QGIS depuis l'interfac
+ e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
+ gin QGIS pour publier confortablement depuis QGIS.\n\n### Prérequis\n\nQu
+ elques bases de QGIS : \n - Importer des couches BDD\n - Paramétrer un st
+ yle\n - Créer une mise en page
+DTSTAMP:20240305T113530Z
+LOCATION:Salle Taillefer
+SUMMARY:[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (Q
+ WC) - Andres Gwendoline\, Florent Fougeres
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-qgis-french-users-days-2024-9ERMAV-1@talks.osgeo.org
+DTSTART;TZID=Europe/Paris:20240327T093000
+DTEND;TZID=Europe/Paris:20240327T123000
+DESCRIPTION:Durant cet atelier vous découvrirez comment publier une jolie 
+ carte web sur QWC à partir de votre projet QGIS.\n\nVous verrez ce qu'il 
+ est possible de réaliser au niveau visuel (sur la carte)\, comment mettre
+  en valeur ses attributs et le paramétrage de l'impression de cartes.\nEn
+ suite nous aborderons la publication de vos projets QGIS depuis l'interfac
+ e d'administration de QWC.\nPour finir\, nous découvrirons le nouveau plu
+ gin QGIS pour publier confortablement depuis QGIS.\n\n### Prérequis\n\nQu
+ elques bases de QGIS : \n - Importer des couches BDD\n - Paramétrer un st
+ yle\n - Créer une mise en page
+DTSTAMP:20240305T113530Z
+LOCATION:Salle Taillefer
+SUMMARY:[Atelier 1] Créer et publier un joli projet sur QGIS Web Client (Q
+ WC) - Andres Gwendoline\, Florent Fougeres
+URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/9ERMAV/
 END:VEVENT
 END:VCALENDAR

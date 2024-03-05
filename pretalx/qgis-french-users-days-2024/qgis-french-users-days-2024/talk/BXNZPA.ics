@@ -29,7 +29,7 @@ DESCRIPTION:Dans notre architecture PostgreSQL/Postgis & QGIS nous avons be
  isées simplement. A terme un plugin QGIS pour que la publication puisse 
  être ordonnée directement depuis leur sig favori.\nNous avons donc trava
  illé avec CampToCamp pour la création de cette CLI python.
-DTSTAMP:20240214T122446Z
+DTSTAMP:20240305T113521Z
 LOCATION:Salle Chartreuse
 SUMMARY:Publier de base à base depuis QGIS avec Python - Pierre Muckenstur
  m

@@ -19,31 +19,6 @@ TZOFFSETTO:+0200
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pretalx-qgis-french-users-days-2024-R3YMFN-0@talks.osgeo.org
-DTSTART;TZID=Europe/Paris:20240327T140000
-DTEND;TZID=Europe/Paris:20240327T170000
-DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
- S dans un navigateur web.\nIl est développé par la société française 
- 3Liz. L'objectif de cet outil libre est de publier\, le plus simplement po
- ssible\, un projet QGIS (légende\, couches\, groupes\, mise en page PDF\,
-  table attributaire\, formulaire de saisie etc) sans devoir refaire des ma
- nipulations supplémentaires pour le géomaticien dans QGIS.\n\nPendant ce
- t atelier\, nous verrons la publication d'un projet QGIS avec :\n\n* la l
- égende et les groupes\n* l'affichage des informations attributaires dans 
- une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
- c atlas)\n* l'ajout d'une dataviz\n\n### Prérequis\n\n- Savoir manipuler 
- QGIS : ouvrir des couches\, accéder à la table attributaire...\n- Avoir 
- la dernière version LTR de QGIS sur sa machine (3.34 ou alors à défaut 
- l'ancienne LTR 3.28)\n- Avoir un logiciel client FTP (WinSCP pour Windows\
- , Filezilla pour MacOS et Linux)\n- L'instance Lizmap sera hébergée chez
-  3Liz pour les besoins de la formation.
-DTSTAMP:20240214T122452Z
-LOCATION:Salle Belledonne
-SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
- ion opensource Lizmap - René-Luc Dhont
-URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
-END:VEVENT
-BEGIN:VEVENT
 UID:pretalx-qgis-french-users-days-2024-GHAKAM@talks.osgeo.org
 DTSTART;TZID=Europe/Paris:20240327T140000
 DTEND;TZID=Europe/Paris:20240327T170000
@@ -58,10 +33,10 @@ DESCRIPTION:L'idée de cet atelier est d'illustrer comment utiliser les exp
  ajorité des traitements : pas d'utilisation\nde requêtes SQL en base de 
  données ou d'algorithmes complexes.\n\n### Prérequis\n\n- Maîtrise des 
  outils de base de QGIS\n- Intérêt pour les configurations avancées
-DTSTAMP:20240214T122452Z
+DTSTAMP:20240305T113526Z
 LOCATION:Salle Ecrins
-SUMMARY:[Atelier 7] Créer un outil de saisie avec des expressions - Micha
- ël Douchin\, René-Luc Dhont
+SUMMARY:[Atelier 7] Créer un outil de saisie avec des expressions - René-
+ Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/GHAKAM/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +55,7 @@ DESCRIPTION:Dans le standard COVADIS des Véloroutes et Voies Vertes\, le r
  ntenance d'un réseau cyclable dans QGIS\, nous vous présenterons les ava
  ntages offerts par les "Actions" pour la gestion de données complexes en 
  s'appuyant sur un standard.
-DTSTAMP:20240214T122452Z
+DTSTAMP:20240305T113526Z
 LOCATION:Salle Chartreuse
 SUMMARY:Utilisation des “actions QGIS” pour la gestion des données Vé
  loroutes et Voies Vertes - René-Luc Dhont
@@ -102,35 +77,10 @@ DESCRIPTION:L’application QField de la société OpenGIS permet de consul
  à éviter\, et nous expliquerons comment configurer un projet QGIS pour a
  ctiver la synchronisation automatique avec une base de données PostgreSQL
   centralisée.
-DTSTAMP:20240214T122452Z
+DTSTAMP:20240305T113526Z
 LOCATION:Salle Chartreuse
 SUMMARY:Retour d'expérience sur l'utilisation d'un QFieldCloud auto-héber
- gé - Michaël Douchin\, René-Luc Dhont
+ gé - René-Luc Dhont
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/XWBHHX/
-END:VEVENT
-BEGIN:VEVENT
-UID:pretalx-qgis-french-users-days-2024-R3YMFN-1@talks.osgeo.org
-DTSTART;TZID=Europe/Paris:20240327T093000
-DTEND;TZID=Europe/Paris:20240327T123000
-DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
- S dans un navigateur web.\nIl est développé par la société française 
- 3Liz. L'objectif de cet outil libre est de publier\, le plus simplement po
- ssible\, un projet QGIS (légende\, couches\, groupes\, mise en page PDF\,
-  table attributaire\, formulaire de saisie etc) sans devoir refaire des ma
- nipulations supplémentaires pour le géomaticien dans QGIS.\n\nPendant ce
- t atelier\, nous verrons la publication d'un projet QGIS avec :\n\n* la l
- égende et les groupes\n* l'affichage des informations attributaires dans 
- une infobulle\n* un formulaire d'édition\n* mise en page PDF (sans et ave
- c atlas)\n* l'ajout d'une dataviz\n\n### Prérequis\n\n- Savoir manipuler 
- QGIS : ouvrir des couches\, accéder à la table attributaire...\n- Avoir 
- la dernière version LTR de QGIS sur sa machine (3.34 ou alors à défaut 
- l'ancienne LTR 3.28)\n- Avoir un logiciel client FTP (WinSCP pour Windows\
- , Filezilla pour MacOS et Linux)\n- L'instance Lizmap sera hébergée chez
-  3Liz pour les besoins de la formation.
-DTSTAMP:20240214T122452Z
-LOCATION:Salle Belledonne
-SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
- ion opensource Lizmap - René-Luc Dhont
-URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
 END:VEVENT
 END:VCALENDAR
