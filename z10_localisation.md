@@ -30,7 +30,7 @@ pour rejoindre Grenoble avec le soutien de l'Université Grenoble-Alpes.
       </p>
     </td>
     <td>
-      <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.722492933273315%2C45.16295397900049%2C5.731505155563355%2C45.167575899962266&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.16528&mlon=5.72832#map=17/45.16526/5.72700">Afficher une carte plus grande</a></small>
+      <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.722492933273315%2C45.16295397900049%2C5.731505155563355%2C45.167575899962266&amp;layer=mapnik&marker=45.16528,5.72832" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.16528&mlon=5.72832#map=17/45.16526/5.72700">Afficher une carte plus grande</a></small>
     </td>
   </tr>
  </table>
