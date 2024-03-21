@@ -35,5 +35,6 @@ pour rejoindre Grenoble avec le soutien de l'Université Grenoble-Alpes.
   </tr>
  </table>
 
+Pour une [visite virtuelle de l'IUGA](https://www.hdmedia.fr/visite-virtuelle/hd/cbpdbphKJ-institut-de-geographie-alpine.html)
 
 [Retour à la page d'accueil]({{ site.url }}{{ site.baseurl }})
