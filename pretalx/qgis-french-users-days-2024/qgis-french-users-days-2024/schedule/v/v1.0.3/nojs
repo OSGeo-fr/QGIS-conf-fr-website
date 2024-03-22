@@ -82,6 +82,15 @@
             </div>
         </div>
         
+            <div class="alert alert-warning m-3"><span>
+                
+                    Vous êtes en train de voir une vieille version du planning.
+                
+                
+                    Vous pouvez trouver la version actuelle <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/schedule/">ici</a>.
+                
+            </span></div>
+        
 
         
 
@@ -184,8 +193,6 @@
                         
                             <div class="bucket-time">09:30</div>
                             
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/TV7D3U/">
-                            
                             
 
 <div class="pretalx-session"
@@ -240,12 +247,8 @@
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/9ERMAV/">
                             
                             
 
@@ -295,12 +298,8 @@ Pour finir, nous découvrirons le nouveau plugin QGIS pour publier confortableme
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/R3YMFN/">
                             
                             
 
@@ -326,7 +325,7 @@ Pour finir, nous découvrirons le nouveau plugin QGIS pour publier confortableme
         </div>
         
             <div class="speakers">
-                René-Luc Dhont
+                Etienne Trimaille
             </div>
         
         
@@ -358,12 +357,8 @@ Il est développé par la société française 3Liz. L'objectif de cet outil lib
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/KFXHDA/">
                             
                             
 
@@ -409,12 +404,8 @@ Il est développé par la société française 3Liz. L'objectif de cet outil lib
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/M7Z7RJ/">
                             
                             
 
@@ -465,12 +456,8 @@ En alternative, un dump postgresql permettra de charger les données localement 
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/GBQ8V8/">
                             
                             
 
@@ -519,12 +506,8 @@ En alternative, un dump postgresql permettra de charger les données localement 
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/ZGKQLD/">
                             
                             
 
@@ -568,12 +551,8 @@ En alternative, un dump postgresql permettra de charger les données localement 
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">14:00</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/TKMYD8/">
                             
                             
 
@@ -619,12 +598,8 @@ Il peut s'agir d'un PC personnel équipé de Linux ou encore mieux : un serveur 
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/9ERMAV/">
                             
                             
 
@@ -674,12 +649,8 @@ Pour finir, nous découvrirons le nouveau plugin QGIS pour publier confortableme
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/R3YMFN/">
                             
                             
 
@@ -705,7 +676,7 @@ Pour finir, nous découvrirons le nouveau plugin QGIS pour publier confortableme
         </div>
         
             <div class="speakers">
-                René-Luc Dhont
+                Etienne Trimaille
             </div>
         
         
@@ -737,12 +708,8 @@ Il est développé par la société française 3Liz. L'objectif de cet outil lib
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/KFXHDA/">
                             
                             
 
@@ -788,12 +755,8 @@ Il est développé par la société française 3Liz. L'objectif de cet outil lib
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DXWZBM/">
                             
                             
 
@@ -836,12 +799,8 @@ Il est développé par la société française 3Liz. L'objectif de cet outil lib
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/GHAKAM/">
                             
                             
 
@@ -867,7 +826,7 @@ Il est développé par la société française 3Liz. L'objectif de cet outil lib
         </div>
         
             <div class="speakers">
-                Michaël Douchin, René-Luc Dhont
+                René-Luc Dhont
             </div>
         
         
@@ -898,12 +857,8 @@ de requêtes SQL en base de données ou d'algorithmes complexes.</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time"></div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/NQMLUE/">
                             
                             
 
@@ -951,8 +906,6 @@ de requêtes SQL en base de données ou d'algorithmes complexes.</p>
 </div>
 
                             
-                                </a>
-                            
                         
                     
                 </div>
@@ -964,8 +917,6 @@ de requêtes SQL en base de données ou d'algorithmes complexes.</p>
                     
                         
                             <div class="bucket-time">09:00</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/HYVSJP/">
                             
                             
 
@@ -1007,12 +958,8 @@ de requêtes SQL en base de données ou d'algorithmes complexes.</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">09:35</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/TQEUSW/">
                             
                             
 
@@ -1055,12 +1002,8 @@ de requêtes SQL en base de données ou d'algorithmes complexes.</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">10:00</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/8QFNTR/">
                             
                             
 
@@ -1106,12 +1049,8 @@ Assurez la sécurité de vos données… et bien d'autres astuces pratiques pour
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">10:25</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/XWBHHX/">
                             
                             
 
@@ -1137,7 +1076,7 @@ Assurez la sécurité de vos données… et bien d'autres astuces pratiques pour
         </div>
         
             <div class="speakers">
-                Michaël Douchin, René-Luc Dhont
+                René-Luc Dhont
             </div>
         
         
@@ -1155,12 +1094,8 @@ Nous présenterons notre retour d'expérience sur son installation et sa configu
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">10:50</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/B8SAP3/">
                             
                             
 
@@ -1202,12 +1137,8 @@ Nous présenterons notre retour d'expérience sur son installation et sa configu
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">11:10</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/78AFNA/">
                             
                             
 
@@ -1251,12 +1182,8 @@ Retour d'expérience sur la genèse de cette démarche, son utilisation et comme
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">11:35</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/AUAYUU/">
                             
                             
 
@@ -1298,12 +1225,8 @@ Retour d'expérience sur la genèse de cette démarche, son utilisation et comme
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">12:00</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/XC8MBH/">
                             
                             
 
@@ -1349,12 +1272,8 @@ Pour simplifier la maintenance d'un réseau cyclable dans QGIS, nous vous prése
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">12:25</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/QRAC8E/">
                             
                             
 
@@ -1396,12 +1315,8 @@ Pour simplifier la maintenance d'un réseau cyclable dans QGIS, nous vous prése
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">13:55</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/MWEUP9/">
                             
                             
 
@@ -1446,12 +1361,8 @@ Dernièrement, l'IGN a récemment annoncé son intention de contribuer.</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">14:20</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/GH8PLC/">
                             
                             
 
@@ -1495,12 +1406,8 @@ Dernièrement, l'IGN a récemment annoncé son intention de contribuer.</p>
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">14:45</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/BXNZPA/">
                             
                             
 
@@ -1543,12 +1450,8 @@ Nous avons donc travaillé avec CampToCamp pour la création de cette CLI python
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">15:10</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/B8SAP3/">
                             
                             
 
@@ -1590,12 +1493,8 @@ Nous avons donc travaillé avec CampToCamp pour la création de cette CLI python
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">15:30</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/WP3NSW/">
                             
                             
 
@@ -1638,12 +1537,8 @@ Orange France a effectué un partenariat avec Oslandia afin de bénéficier d’
 </div>
 
                             
-                                </a>
-                            
                         
                             <div class="bucket-time">15:55</div>
-                            
-                                <a href="/pretalx/qgis-french-users-days-2024/qgis-french-users-days-2024/talk/DFGASC/">
                             
                             
 
@@ -1688,8 +1583,6 @@ Cette présentation passera en revue les trucs et astuces, optimisations Postgre
 </div>
 
                             
-                                </a>
-                            
                         
                     
                 </div>
@@ -1704,7 +1597,7 @@ Cette présentation passera en revue les trucs et astuces, optimisations Postgre
                 
                     <div id="exporttimestamp" class="text-muted">
                         
-                        Ceci est un export statique qui a été généré le 2024-02-14 13:24 CET
+                        Ceci est un export statique qui a été généré le 2024-03-05 12:35 CET
                     </div>
                 
                 

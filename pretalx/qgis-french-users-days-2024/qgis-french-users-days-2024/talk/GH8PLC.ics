@@ -33,7 +33,7 @@ DESCRIPTION:Il s'agit de présenter le plugin QGIS QWC2_Tools qui permet de
   des Systèmes d’Information et des Usages Numériques des Agences de l'
  eau et Florent FOUGERES de la société Oslandia.\n\nLien vers la document
  ation du plugin : https://oslandia.gitlab.io/qgis/qwc2_tools/
-DTSTAMP:20240214T122446Z
+DTSTAMP:20240305T113521Z
 LOCATION:Salle Chartreuse
 SUMMARY:Un plugin QGIS et un service de publication pour QGIS Web Client (Q
  WC) - Florent Fougeres\, Nicolas Aubin

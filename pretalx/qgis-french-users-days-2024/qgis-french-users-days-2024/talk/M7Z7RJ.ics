@@ -39,7 +39,7 @@ DESCRIPTION:Cet atelier vise à prendre en main une base de données spatia
  'atelier utilisera l'accès à une base de données distante. \nEn alterna
  tive\, un dump postgresql permettra de charger les données localement sur
   des postes individuels
-DTSTAMP:20240214T122442Z
+DTSTAMP:20240305T113517Z
 LOCATION:Salle Trièves
 SUMMARY:[Atelier 4] QGIS et Base de données des Bâtiments - Régis Haubourg
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/M7Z7RJ/

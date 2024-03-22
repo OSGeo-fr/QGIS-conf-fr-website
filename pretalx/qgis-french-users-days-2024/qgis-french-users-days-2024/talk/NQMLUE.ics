@@ -32,7 +32,7 @@ DESCRIPTION:QGIS intègre un visualiseur 3D prenant en charge une variété
   la boundingbox ou l'élévation de profils et des méthodes d'analyse ada
  ptées à cet environnement tridimensionnel.\n\n### Prérequis\n\n- QGIS >
  = 3.34.0\n- Postgis >= 3.4.0
-DTSTAMP:20240214T122444Z
+DTSTAMP:20240305T113519Z
 LOCATION:Salle Grandes rousses
 SUMMARY:[Atelier 9] Nouveautés QGIS 3D - Jean Felder\, Benoit De Mezzo
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/NQMLUE/

@@ -2,7 +2,7 @@
 <!-- Made with love by pretalx v2.3.1. -->
 <schedule>
     <generator name="pretalx" version="2.3.1" />
-    <version>v1.0.3</version>
+    <version>v1.0.4</version>
     <conference>
         <acronym>qgis-french-users-days-2024</acronym>
         <title>Rencontres des utilisateurs francophones de QGIS 2024</title>
@@ -126,7 +126,7 @@ Pendant cet atelier, nous verrons la publication d&apos;un projet QGIS avec :
                 <description>None</description>
                 <logo></logo>
                 <persons>
-                    <person id='507'>Ren&#233;-Luc Dhont</person>
+                    <person id='504'>Etienne Trimaille</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
@@ -167,7 +167,7 @@ Pendant cet atelier, nous verrons la publication d&apos;un projet QGIS avec :
                 <description>None</description>
                 <logo></logo>
                 <persons>
-                    <person id='507'>Ren&#233;-Luc Dhont</person>
+                    <person id='504'>Etienne Trimaille</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
@@ -381,7 +381,7 @@ de requ&#234;tes SQL en base de donn&#233;es ou d&apos;algorithmes complexes.
                 <description>None</description>
                 <logo></logo>
                 <persons>
-                    <person id='504'>Micha&#235;l Douchin</person><person id='507'>Ren&#233;-Luc Dhont</person>
+                    <person id='507'>Ren&#233;-Luc Dhont</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
@@ -634,7 +634,7 @@ Nous pr&#233;senterons notre retour d&apos;exp&#233;rience sur son installation 
                 <description>None</description>
                 <logo></logo>
                 <persons>
-                    <person id='504'>Micha&#235;l Douchin</person><person id='507'>Ren&#233;-Luc Dhont</person>
+                    <person id='507'>Ren&#233;-Luc Dhont</person>
                 </persons>
                 <links></links>
                 <attachments></attachments>
