@@ -15,7 +15,7 @@ Les conférences du 28 mars seront retransmises sur Youtube ici
 <!-- - Code secret: 474458 -->
 
 
-https://youtube.com/live/Al3PbcaB6iw?feature=share
+[https://youtube.com/live/Al3PbcaB6iw?feature=share](https://youtube.com/live/Al3PbcaB6iw?feature=share)
 
 La retransmission aura un décalage d'environ 20 secondes avec le direct. 
 
