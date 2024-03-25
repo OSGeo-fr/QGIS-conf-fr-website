@@ -37,10 +37,10 @@ DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
  l'ancienne LTR 3.28)\n- Avoir un logiciel client FTP (WinSCP pour Windows\
  , Filezilla pour MacOS et Linux)\n- L'instance Lizmap sera hébergée chez
   3Liz pour les besoins de la formation.
-DTSTAMP:20240214T122447Z
+DTSTAMP:20240305T113523Z
 LOCATION:Salle Belledonne
 SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
- ion opensource Lizmap - René-Luc Dhont
+ ion opensource Lizmap - Etienne Trimaille
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
 END:VEVENT
 BEGIN:VEVENT
@@ -62,10 +62,10 @@ DESCRIPTION:Lizmap est une solution opensource de publication de projet QGI
  l'ancienne LTR 3.28)\n- Avoir un logiciel client FTP (WinSCP pour Windows\
  , Filezilla pour MacOS et Linux)\n- L'instance Lizmap sera hébergée chez
   3Liz pour les besoins de la formation.
-DTSTAMP:20240214T122447Z
+DTSTAMP:20240305T113523Z
 LOCATION:Salle Belledonne
 SUMMARY:[Atelier 2] Publication sur le web d’un projet QGIS avec la solut
- ion opensource Lizmap - René-Luc Dhont
+ ion opensource Lizmap - Etienne Trimaille
 URL:http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/
 END:VEVENT
 END:VCALENDAR

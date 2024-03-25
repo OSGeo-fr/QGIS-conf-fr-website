@@ -21,4 +21,3 @@ La retransmission aura un décalage d'environ 20 secondes avec le direct.
 
 N'hésitez pas à poser vos questions via le canal de chat. Nous essaierons de prendre vos questions en complément de celles du public dans la salle. 
 
-

@@ -78,7 +78,7 @@
             <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/</url>
             <location>Salle Belledonne</location>
             
-            <attendee>René-Luc Dhont</attendee>
+            <attendee>Etienne Trimaille</attendee>
             
         </vevent>
         
@@ -102,7 +102,7 @@
             <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/R3YMFN/</url>
             <location>Salle Belledonne</location>
             
-            <attendee>René-Luc Dhont</attendee>
+            <attendee>Etienne Trimaille</attendee>
             
         </vevent>
         
@@ -257,8 +257,6 @@
             <category>Atelier</category>
             <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/GHAKAM/</url>
             <location>Salle Ecrins</location>
-            
-            <attendee>Michaël Douchin</attendee>
             
             <attendee>René-Luc Dhont</attendee>
             
@@ -455,8 +453,6 @@
             <category>Conférence</category>
             <url>http://talks.osgeo.org/qgis-french-users-days-2024/talk/XWBHHX/</url>
             <location>Salle Chartreuse</location>
-            
-            <attendee>Michaël Douchin</attendee>
             
             <attendee>René-Luc Dhont</attendee>
             
