@@ -81,6 +81,13 @@ _Depuis plus de 20 ans, ![SOPRECO](https://www.sopreco-morteau.com) apporte des 
 
 _Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de Production à responsabilité limitée), IDGEO est un centre de formation professionnelle et de conseil spécialisé dans le secteur des technologies spatiales et plus particulièrement de la géomatique et de la télédétection. Les formations dispensées par IDGEO permettent de répondre à un projet de montée en compétences, de reconversion ou de réinsertion professionnelle. Qu’elles soient courtes (de 1 à 5 jours), sur mesure ou certifiantes (titre professionnel “technicien supérieur en SIG” et certificat de qualification professionnelle “Géomaticien”), elles portent sur les grandes problématiques du domaine (SIG bureautiques, modélisation, création et gestion de bases de données, télédétection, webmapping, applications spatiales) et privilégient les solutions Open Source. Nos formations intra sont particulièrement appréciées : des formations co-construites à partir des thématiques et données métiers des apprenants d'un même organisme. Par exemple, des formations QGIS pour gérer les réseaux (AEP, telecom, voirie, énergies ...), faire de la 3D, pour planifier l'aménagement du territoire ou la gestion de crise ..._
 
+---
+
+ [![Grenoble Alpes Métropole](/images/150px-Logo_Grenoble_Alpes_Métropole.svg.png)](https://www.grenoblealpesmetropole.fr/)
+
+_[Grenoble Alpes Métropole](https://www.grenoblealpesmetropole.fr/) regroupe 49 villes et villages situés en Isère (38), et représente un territoire de 450 000 habitants. Elle couvre une superficie de 546 km2._
+
+
 <!-- ---
 
 
