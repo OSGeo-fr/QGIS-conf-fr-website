@@ -7,19 +7,20 @@ menu: footer
 
 # Equipe d'organisation (ordre alphabétique courtois)
 
-- Paule-Annick Davoine (IUGA)
 - Marjorie Fangain (KEOLIS RENNES)
 - Léonie Gonon (MODAAL)
 - Floriane Serré (Agence de l'Eau Loire-Bretagne)
 - Jean-Marie Arsac (AZIMUT)
-- Jean-Christophe Becquet (APITUX)
+- Victor Canut (Département du Vaucluse)
 - Sylvain Beorchia (OSLANDIA)
 - Loïc Bartoletti (OSLANDIA)
-- Humbert Fiorino (IUGA)
+- François Ganz (Ville d'Avignon)
+- Cyrille Genre-Grandpierre (Avignon Université)
 - Régis Haubourg (QGIS.org)
 - Thomas Michel (IdGeo)
 - Julien Moura (OSLANDIA)
 - Sébastien Peillet (HYTECH-IMAGING)
+- Sylvain Ramière (Département du Vaucluse)
 - Nicolas Roelandt (Université Gustave Eiffel)
 - Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
@@ -32,13 +33,10 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 
 # Comité de programme (ordre alphabétique courtois)
 
-- Camille Bernad (IUGA)
-- Paule-Annick Davoine (IUGA)
-- Pauline Dussieux (IUGA)
 - Floriane Serré (Agence de l'Eau Loire-Bretagne)
-- Sébastien Peillet (HYTECH-IMAGING)
+- François Ganz (Ville d'Avignon)
+- Cyrille Genre-Grandpierre (Avignon Université)
 - Harrissou Sant-anna (CAUE 49)
-- Pierre Serafini (SOPRECO)
 
 **Critères de sélection :**
 
@@ -46,13 +44,14 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 - intérêt intrinsèque
 - présentation non commerciale
 
-## À propos de l'[Institut d'Urbanisme et de Géographie Alpine (IUGA)](https://iuga.univ-grenoble-alpes.fr/)
+<!--## À propos de l'[Institut d'Urbanisme et de Géographie Alpine (IUGA)](https://iuga.univ-grenoble-alpes.fr/)
 
 L'UFR Institut d'Urbanisme et de Géographie Alpine a pour vocation l'enseignement et la recherche dans les domaines de la géographie et de l'urbanisme.
 
 Son siège se situe à la Cité des Territoires à Grenoble. Elle dispose d'une antenne au Pradel sur la commune de Miribel (Ardèche).
 
 L'UFR Institut d'Urbanisme et de Géographie Alpine a pour mission d'assurer la formation initiale et continue, la préparation aux examens et concours (diplômes nationaux, internationaux et diplômes d'université) en liaison avec les autres composantes et avec tout autre établissement public à caractère scientifique, culturel et professionnel, de contribuer au développement de la recherche fondamentale et appliquée et à la formation des chercheurs en liaison  avec tout organisme de recherche public ou privé, français ou étranger, à la préparation à l'insertion professionnelle des étudiants et à la coopération internationale dans les domaines de sa compétence.
+66>
 
 
 ## À propos de l'[OSGeo-fr](https://www.osgeo.asso.fr)
