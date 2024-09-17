@@ -14,7 +14,7 @@ plugins_dir:
  - jekyll-seo-tag
  - jekyll-sitemap
 
-summary: Conférence QGIS des utilisateurs francophones 2024. Les 27 et 28 mars à Clermont-Ferrand
-tags: [QGIS,OSGEO,Open Source,Conférence, UGA, IUGA, AURA,OSGEO-FR,QGIS-FR]
+summary: Conférence QGIS des utilisateurs francophones 2025. Les 10 et 11 juin en Avignon.
+tags: [QGIS,OSGEO,Open Source,Conférence,Avignon Université,Région SUD,Vaucluse,OSGEO-FR,QGIS-FR]
 github: [metadata]
 repository: OSGeo-fr/QGIS-conf-fr-website
