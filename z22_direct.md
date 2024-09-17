@@ -3,6 +3,7 @@ layout: page
 title: Retransmission
 tagline: Retransmission des conférences
 menu: header
+published: false
 ---
 
 Les conférences du 28 mars seront retransmises sur Youtube ici 
