@@ -5,10 +5,13 @@ tagline: Nous remercions nos généreux mécènes !
 menu: header
 ---
 
+# Notre partenaire co-organisateur 2025
 
-# Notre partenaire co-organisateur
+[Avignon Université](https://univ-avignon.fr/) co-organise le Journées QGIS-fr 2025
 
-L'[Institut d'Urbanisme et de Géographie Alpine de l'Université Grenoble-Alpes](https://iuga.univ-grenoble-alpes.fr/fr/) apporte son soutien logistique et financier pour l'organisation de l'édition 2024. Merci à eux !
+# Notre partenaire co-organisateur 2024
+
+L'[Institut d'Urbanisme et de Géographie Alpine de l'Université Grenoble-Alpes](https://iuga.univ-grenoble-alpes.fr/fr/) a apporté son soutien logistique et financier pour l'organisation de l'édition 2024. Merci à eux !
 
 [![UGA](/images/logo_UFR_IUGA_couleur_2020.svg)](https://iuga.univ-grenoble-alpes.fr/fr/)
 
