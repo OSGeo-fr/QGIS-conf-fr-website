@@ -69,7 +69,7 @@ Partenaires communication:
 
 [![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
 
-### Programmes
+### Programme
 
 Lundi 13 mars :
 
