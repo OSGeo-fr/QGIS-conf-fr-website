@@ -37,6 +37,7 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 - François Ganz (Ville d'Avignon)
 - Cyrille Genre-Grandpierre (Avignon Université)
 - Harrissou Sant-anna (CAUE 49)
+- Pierre Serafini (SOPRECO)
 
 **Critères de sélection :**
 
