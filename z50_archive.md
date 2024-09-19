@@ -48,6 +48,7 @@ Partenaires communication:
 
 # Programme 2023:
 
+
 Mécènes:
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
