@@ -5,7 +5,7 @@ tagline: Qui sont les organisateurs ?
 menu: footer
 ---
 
-# Equipe d'organisation (ordre alphabétique courtois)
+# Équipe d'organisation (ordre alphabétique courtois)
 
 - Marjorie Fangain (KEOLIS RENNES)
 - Léonie Gonon (MODAAL)
