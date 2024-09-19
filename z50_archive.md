@@ -8,7 +8,46 @@ menu: footer
 
 Les présentations des éditions précédentes sont disponibles dans le [dépôt](https://github.com/OSGeo-fr/QGIS-user-fr).
 
-# Édition 2023:
+# Programme 2024
+
+L'[Institut d'Urbanisme et de Géographie Alpine de l'Université Grenoble-Alpes](https://iuga.univ-grenoble-alpes.fr/fr/) a apporté son soutien logistique et financier pour l'organisation de l'édition 2024. Merci à eux !
+
+[![UGA](/images/logo_UFR_IUGA_couleur_2020.svg)](https://iuga.univ-grenoble-alpes.fr/fr/)
+
+Mécènes OR
+
+[![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
+
+[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
+
+[![3Liz](/images/3liz.png)](https://www.3liz.com/)
+
+[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
+
+[![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](https://bdnb.io)  
+
+[![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
+
+ [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
+
+ [![Grenoble Alpes Métropole](/images/150px-Logo_Grenoble_Alpes_Métropole.svg.png)](https://www.grenoblealpesmetropole.fr/)
+
+
+#Mécènes ARGENT
+
+[![InterMezzo](/images/logo-intermezzo.svg)](https://www.intermezzo-coop.eu/fr)
+
+Mécènes BRONZE
+
+[![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
+
+Partenaires communication:
+
+[![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
+
+
+# Programme 2023:
+
 
 Mécènes:
 
@@ -30,7 +69,7 @@ Partenaires communication:
 
 [![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
 
-### Programmes
+### Programme
 
 Lundi 13 mars :
 
