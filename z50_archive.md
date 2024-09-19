@@ -8,7 +8,7 @@ menu: footer
 
 Les présentations des éditions précédentes sont disponibles dans le [dépôt](https://github.com/OSGeo-fr/QGIS-user-fr).
 
-# Programme 2023:
+# Édition 2023:
 
 Mécènes:
 
