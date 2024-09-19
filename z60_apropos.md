@@ -53,7 +53,7 @@ L'UFR Institut d'Urbanisme et de Géographie Alpine a pour vocation l'enseigneme
 Son siège se situe à la Cité des Territoires à Grenoble. Elle dispose d'une antenne au Pradel sur la commune de Miribel (Ardèche).
 
 L'UFR Institut d'Urbanisme et de Géographie Alpine a pour mission d'assurer la formation initiale et continue, la préparation aux examens et concours (diplômes nationaux, internationaux et diplômes d'université) en liaison avec les autres composantes et avec tout autre établissement public à caractère scientifique, culturel et professionnel, de contribuer au développement de la recherche fondamentale et appliquée et à la formation des chercheurs en liaison  avec tout organisme de recherche public ou privé, français ou étranger, à la préparation à l'insertion professionnelle des étudiants et à la coopération internationale dans les domaines de sa compétence.
-66>
+-->
 
 
 ## À propos de l'[OSGeo-fr](https://www.osgeo.asso.fr)
