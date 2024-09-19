@@ -36,6 +36,7 @@ Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.b
 - Floriane Serré (Agence de l'Eau Loire-Bretagne)
 - François Ganz (Ville d'Avignon)
 - Cyrille Genre-Grandpierre (Avignon Université)
+- Régis Haubourg (CSTB)
 - Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
 
