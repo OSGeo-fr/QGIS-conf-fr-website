@@ -92,13 +92,13 @@ Lundi 13 mars :
         </tr>
        <tr class="atelier">
             <td><b>09h30 - 12h00</b></td>
-            <td><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
-            <td><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
-            <td><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-et-émilie-algans-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
-            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---zacharie-coq-et-sofiane-kriat-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</a></td>
-            <td><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
-            <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
-            <td><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
+            <td>QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</td>
+            <td>Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</td>
+            <td>Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</td>
+            <td>A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</td>
+            <td>Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</td>
+            <td>Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</td>
+            <td>Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</td>
             <td></td>
          </tr>
         <tr class="pause-atelier">
@@ -106,14 +106,14 @@ Lundi 13 mars :
         </tr>       
         <tr class="atelier">
             <td><b>14h00 - 16h30</b></td>
-            <td><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
-            <td><a href="#créer-un-outil-de-saisie-avec-des-expressions---michaël-douchin-3liz">Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)</a></td>
-            <td><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
-            <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
-            <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
-            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---zacharie-coq-et-sofiane-kriat-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</a></td>
+            <td>Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</td>
+            <td>Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)</td>
+            <td>Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</td>
+            <td>Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</td>
+            <td>Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</td>
+            <td>A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</td>
             <td></td>
-            <td><a href="#barcamp">Barcamp</a></td>
+            <td>Barcamp</td>
         </tr>       
         <tr class="atelier">
             <td><b>16h30 - 17h30</b></td>
@@ -453,17 +453,17 @@ Mardi 15 décembre :
     <th>Salle 1</th><th>Salle 2</th><th>Salle 3</th><th>Salle 4</th>
    </thead>
     <tr class="atelier">
-        <td rowspan="2"><b>09:00 - 12h15</b><br><a href="#répondre-aux-dt-dict-avec-qgis-3">Répondre aux DT-DICT avec QGIS 3</a></td>
-        <td rowspan="2"><b>09h - 12h15</b> <br> <a href="#configurer-qgis-dans-votre-organisation---simplifiez-la-vie-à-vos-utilisateurs">Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</a></td>
-        <td><b>9h - 10h30</b>  <br><a href="#le-modeleur-graphique---fonctionnement-nouveautés-trucs-et-astuces">Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</a></td>
-        <td><b>9h - 10h30</b>  <br><a href="#de-la-mise-en-page-au-rapport-dimpression-en-passant-par-latlas">De la mise en page au rapport d'impression, en passant par l'atlas</a> </td></tr>
-    <tr class="atelier"><td><b>10h45 - 12h15</b> <br><a href="#github-comment-entrer-dans-le-projet-qgis-et-participer-à-la-communauté">Github, comment entrer dans le projet QGIS et participer à la communauté ?</a></td><td></td></tr>
+        <td rowspan="2"><b>09:00 - 12h15</b><br>Répondre aux DT-DICT avec QGIS 3</td>
+        <td rowspan="2"><b>09h - 12h15</b> <br> Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</td>
+        <td><b>9h - 10h30</b>  <br>Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</td>
+        <td><b>9h - 10h30</b>  <br>De la mise en page au rapport d'impression, en passant par l'atlas</td></tr>
+    <tr class="atelier"><td><b>10h45 - 12h15</b> <br>Github, comment entrer dans le projet QGIS et participer à la communauté ?</td><td></td></tr>
     <tr class="pause-atelier"><td colspan="4"><b>Pause de midi</b></td></tr>
     <tr class="atelier">
-        <td rowspan="2"><b>14h - 17h15</b><br> <a href="#répondre-aux-dt-dict-avec-qgis-3">Répondre aux DT-DICT avec QGIS 3</a></td>
-        <td rowspan="2"><b>14h - 17h15</b>  <br> <a href="#publication-dun-projet-qgis-sur-le-web-avec-lizmap">Publication d'un projet QGIS sur le web avec Lizmap</a></td>
-        <td><b>14h - 15h30</b>   <br><a href="#organisation-et-avenir-du-groupe-qgis-fr">Organisation et avenir du groupe QGIS-FR</a></td><td> </td></tr>
-    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br><a href="#expressions-avancées">Expressions avancées</a></td><td></td></tr>
+        <td rowspan="2"><b>14h - 17h15</b><br> Répondre aux DT-DICT avec QGIS 3</td>
+        <td rowspan="2"><b>14h - 17h15</b>  <br> Publication d'un projet QGIS sur le web avec Lizmap</td>
+        <td><b>14h - 15h30</b>   <br>Organisation et avenir du groupe QGIS-FR</td><td> </td></tr>
+    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br>Expressions avancées</td><td></td></tr>
 </table>
 
 Mercredi 16 décembre :
