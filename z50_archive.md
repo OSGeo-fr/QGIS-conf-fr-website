@@ -7,7 +7,7 @@ menu: footer
 ---
 
 
-# Programme 2024
+# Édition 2024
 
 L'[Institut d'Urbanisme et de Géographie Alpine de l'Université Grenoble-Alpes](https://iuga.univ-grenoble-alpes.fr/fr/) a apporté son soutien logistique et financier pour l'organisation de l'édition 2024. Merci à eux !
 
@@ -45,12 +45,13 @@ Partenaires communication:
 [![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
 
 
-# Programme 2023:
-
+### Programme
 
 L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnPMoqSy-MEVCCj8dbt9gab_).
 <!-- Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2024).-->
 Mécènes:
+
+# Édition 2023
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
@@ -225,9 +226,8 @@ Mardi 14 mars:
   </tbody>
 </table>
 
-_______________________________________________________________________________
 
-# Programme 2021-2022:
+# Édition 2021-2022:
 
 L'édition 2022 a été soutenue par:
 
@@ -261,7 +261,7 @@ Partenaires techniques:
 
 Un grand merci à eux.
 
-### Programmes
+### Programme
 
 L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnMKG13UmfI80MsX8aYKn88h).
 Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2022).
@@ -422,8 +422,8 @@ Mercredi 19 janvier :
   </tbody>
 </table>
 
-_______________________________________________________________________________
-# Programme 2020:
+
+# Édition 2020
 
 L'édition 2020 a été soutenue par:
 
@@ -451,7 +451,7 @@ Soutiens :
 
 Un grand merci à eux.
 
-### Programmes
+### Programme
 
 L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLDjPOepGE7E6jce8Jed8cHX9zLjbEGr0x).
 Les présentations sont disponibles au format pdf dans [notre dépôt GitHub](https://github.com/OSGeo-fr/QGIS-user-fr/tree/master/2020/Conf_QGIS)
@@ -506,9 +506,8 @@ Mercredi 16 décembre :
  <tr class="impair"><td>15:55</td><td>PgMetadata, une gestion des métadonnées dans PostgreSQL - Etienne Trimaille - 3Liz (<a href="#pgmetadata-une-gestion-des-métadonnées-dans-postgresql---etienne-trimaille---3liz">pdf</a> - <a href="https://www.youtube.com/watch?v=o47w7zf40nw">vidéo</a>)</td><td>7 min.</td></tr>
  <tr><td>16:05</td><td>Clôture</td><td/></tr>
 </table>
-_______________________________________________________________________________
 
-# Programme 2019:
+# Édition 2019
 
 L'édition 2019 a été soutenue par:
 
@@ -558,11 +557,10 @@ Le thème choisi était **QGIS une plateforme multi-logiciels: couteau suisse de
 * **[Retour d'expériences de métropoles](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/09_PresentationQGISDaysMetropolesGrenobleEtClermont.pdf)** - Hervé Christol (Clermont Auvergne Métropole) et Anh-Tam Vo (Grenoble Alpes Métropole)
 * **Table-ronde**
 
-_______________________________________________________________________________
 
-# Programme 2018:
+# Édition 2018:
 
-#### Matin - 9h30 à 12h30)
+#### Matin - 9h30 à 12h30
 
 * **Ouverture** Leo Pichon (AgroTIC)
 * **[Présentation de l'OSGeo-fr](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/00_presentation_osgeo.pdf) - [vidéo](https://youtu.be/i0sVi--VPlw)** Régis Haubourg (Président de l'association)
@@ -574,7 +572,7 @@ _______________________________________________________________________________
 * **[Présentation de geopackage par les étudiants AgroTIC](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/05_Montpellier_SupAgro_GPKG_agriculture.pdf) - [vidéos](https://youtu.be/EGEksA_ZCU4)**
  Le format GeoPackage, test réel sur une chaîne de traitement de données de suivi parcellaire agricole. Bel exercice pédagogique des étudiants AgroTIC qui ont mis à l’épreuve le format Geopackage dans QGIS3 comme digne remplaçant des shapefile, mais aussi comme conteneur de raster.
 
-#### Après-midi - 14h00 à 16h40)
+#### Après-midi - 14h00 à 16h40
 
 * **[Développement de plugins procéduraux orientés métier](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/06_MChailloux_plugin_biodispersal_INRA.pdf) - [vidéo](https://youtu.be/Cp_PqLpK4c4)** Mathieu Chailloux (IRSTEA). Un bel exemple de plugin basé sur la logique des géotraitement Processing et ajoutant une interface graphique générique plus ergonomique et sous forme d'un assistant par étapes.
 * **[Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/07_ENSG_plugin_ordonnancement_reseau.pdf) - [vidéo](https://youtu.be/hdX4OMqJG40)** Cécile Duchêne et Alice Gonnaud (Ecole Nationale des Sciences Géographiques). Cette présentation d'une démarche de création de plugin ouvert par des étudiants à permis d'élargir la discussion à la question des licences open source pour des plugins QGIS, soumis de facto à la licence GPLv2, et des méthodes pour structurer du code si l'on souhaite des licences différentes pour le moteur de calcul. 
@@ -584,7 +582,7 @@ Cette présentation d'une démarche de création de plugin ouvert par des étudi
 * **[Le plugin cadastre - Intégration et exploitation des données cadastre](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/10_Le_plugin_Cadastre_QGIS_Integration_exploitation_cadastre.pdf) - [vidéo](https://youtu.be/-6DkU7dRySA)**  Michaël Douchin (3Liz). Histoire, vie et communauté autour du plugin QGIS. On a parlé d'économies de mutualisation, mais aussi de "bus factor", de "vie" d'un écosystème communautaire opensource.
 * **[Clôture / remerciements]() - [vidéo](https://youtu.be/P4xQq16Pvw0)** 
 
-# Programme 2017:
+# Édition 2017:
 
 #### Session éditeur (matin - 9h00 à 12h30)
 
@@ -607,3 +605,4 @@ de la cartographie.
 * **[QGIS et la structure archéologique]() - [vidéo](https://youtu.be/H4eBFoQWr1Y)** par Maxime Seguin (INRAP) : le cas de la sépulture collective de Mas Rouge à Montpellier".
 * **[Évolution de l'outil coupes rases de la création de la méthode à l'automatisation](https://github.com/OSGeo-fr/QGIS-user-fr/tree/master/2017/presentations/02_apres_midi/13_CoupesRases) - [vidéo](https://youtu.be/S5IT3Y_MXz4)** par Kenji Ose (irstea).
 * Cloture
+
