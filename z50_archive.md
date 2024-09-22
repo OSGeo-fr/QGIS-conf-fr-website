@@ -6,7 +6,6 @@ tagline: Voir les anciennes présentations
 menu: footer
 ---
 
-Les présentations des éditions précédentes sont disponibles dans le [dépôt](https://github.com/OSGeo-fr/QGIS-user-fr).
 
 # Programme 2024
 
@@ -49,6 +48,8 @@ Partenaires communication:
 # Programme 2023:
 
 
+L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnPMoqSy-MEVCCj8dbt9gab_).
+<!-- Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2024).-->
 Mécènes:
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
@@ -70,6 +71,9 @@ Partenaires communication:
 [![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
 
 ### Programme
+
+L'ensemble des vidéos de la journée de conférence est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnMVkGTqU2zRp_n3xIeaQt-1).
+Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2023).
 
 Lundi 13 mars :
 
@@ -259,6 +263,9 @@ Un grand merci à eux.
 
 ### Programmes
 
+L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnMKG13UmfI80MsX8aYKn88h).
+Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2022).
+
 Mardi 18 janvier :
 
 <table class="atelier-table">
@@ -445,6 +452,9 @@ Soutiens :
 Un grand merci à eux.
 
 ### Programmes
+
+L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLDjPOepGE7E6jce8Jed8cHX9zLjbEGr0x).
+Les présentations sont disponibles au format pdf dans [notre dépôt GitHub](https://github.com/OSGeo-fr/QGIS-user-fr/tree/master/2020/Conf_QGIS)
 
 Mardi 15 décembre :
 
