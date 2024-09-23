@@ -15,24 +15,12 @@ L'[Institut d'Urbanisme et de Géographie Alpine de l'Université Grenoble-Alpes
 
 Mécènes OR
 
-[![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
+[![CRAIG](/images/logo-craig.svg)](https://www.craig.fr) [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/) [![3Liz](/images/3liz.png)](https://www.3liz.com/) [![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
 
-[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
-
-[![3Liz](/images/3liz.png)](https://www.3liz.com/)
-
-[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
-
-[![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](https://bdnb.io)  
-
-[![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
-
- [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
-
- [![Grenoble Alpes Métropole](/images/150px-Logo_Grenoble_Alpes_Métropole.svg.png)](https://www.grenoblealpesmetropole.fr/)
+[![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](https://bdnb.io) [![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com) [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr) [![Grenoble Alpes Métropole](/images/150px-Logo_Grenoble_Alpes_Métropole.svg.png)](https://www.grenoblealpesmetropole.fr/)
 
 
-#Mécènes ARGENT
+Mécènes ARGENT
 
 [![InterMezzo](/images/logo-intermezzo.svg)](https://www.intermezzo-coop.eu/fr)
 
@@ -51,17 +39,10 @@ L'ensemble des vidéos de la journée de conférences est disponible sur [notre 
 <!-- Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2024).-->
 Mécènes:
 
-# Édition 2023
+[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/) [![3Liz](/images/3liz.png)](https://www.3liz.com/) [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
 
-[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
-[![3Liz](/images/3liz.png)](https://www.3liz.com/)
-
-[![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
-
-[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
-
-[![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
+[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/) [![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
 
 Soutiens:
 
@@ -233,21 +214,13 @@ L'édition 2022 a été soutenue par:
 
 Mécènes:
 
-[![3Liz](/images/3liz.png)](https://www.3liz.com/)
+[![3Liz](/images/3liz.png)](https://www.3liz.com/) [![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/) [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
-[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
-
-[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
-
-[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
-
-[![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
+[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr) [![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
 
 Parrains:
 
-[![Azimut](/images/azimut.png)](https://www.azimut.fr/)
-
-[![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
+[![Azimut](/images/azimut.png)](https://www.azimut.fr/) [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
 
 Soutiens : 
 
@@ -255,9 +228,7 @@ Soutiens :
 
 Partenaires techniques:
 
-[![FAImaison](/images/faimaison.png)](https://www.faimaison.net/)
-
-[![K-prod](/images/k-prod.png)](https://k-prod.fr/)
+[![FAImaison](/images/faimaison.png)](https://www.faimaison.net/) [![K-prod](/images/k-prod.png)](https://k-prod.fr/)
 
 Un grand merci à eux.
 
@@ -429,15 +400,9 @@ L'édition 2020 a été soutenue par:
 
 Mécènes:
 
-[![3Liz](/images/3liz.png)](https://www.3liz.com/)
+[![3Liz](/images/3liz.png)](https://www.3liz.com/) [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/) [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
 
-[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
-
-[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
-
-[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
-
-[![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
+[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/) [![SOPRECO](/images/sopreco.svg)](https://www.sopreco-morteau.com)
 
 Parrains:
 
@@ -445,9 +410,7 @@ Parrains:
 
 Soutiens : 
 
-[![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
-
-[![Empreinte digitale](/images/logo-empreinte-digitale.svg)](https://empreintedigitale.fr)
+[![CRAIG](/images/logo-craig.svg)](https://www.craig.fr) [![Empreinte digitale](/images/logo-empreinte-digitale.svg)](https://empreintedigitale.fr)
 
 Un grand merci à eux.
 
@@ -513,27 +476,16 @@ L'édition 2019 a été soutenue par:
 
 Mécènes: 
 
-[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
-
-[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
-
-[![SOGEFI](/images/sogefi.png)](https://www.sogefi-sig.com/)
+[![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/) [![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/) [![SOGEFI](/images/sogefi.png)](https://www.sogefi-sig.com/)
 
 Parrains : 
 
-[![Azimut](/images/azimut.png)](https://www.azimut.fr)
-
-[![IDGeo](/images/idgeo.png)](https://www.idgeo.fr)
-
-[![3Liz](/images/3liz.png)](https://www.3liz.com/)
-
+[![Azimut](/images/azimut.png)](https://www.azimut.fr) [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr) [![3Liz](/images/3liz.png)](https://www.3liz.com/)
 
 
 Soutiens : 
 
-[![JHemmi](/images/jhemmi.png)](http://jhemmi.eu)
-
-[![Surface Libre](/images/surfacelibre.png)](http://www.surfacelibre.fr)
+[![JHemmi](/images/jhemmi.png)](http://jhemmi.eu) [![Surface Libre](/images/surfacelibre.png)](http://www.surfacelibre.fr)
 
 Un grand merci à eux.
 
