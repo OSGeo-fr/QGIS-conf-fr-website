@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Mécénat
-tagline: Nous remercions nos généreux mécènes !
+tagline: Nous remercions nos généreux soutiens !
 menu: header
 ---
 
-# Notre partenaire co-organisateur 2025
+# Nos partenaires co-organisateurs 2025
 
-[Avignon Université](https://univ-avignon.fr/) co-organise les Journées QGIS-fr 2025
+[Avignon Université](https://univ-avignon.fr/) et l'[UMR 7300 ESPACE](https://www.umrespace.org/) co-organisent avec l'[OSGeo-fr](https://www.osgeo.fr) les Journées QGIS-fr 2025
 
 <!--
 ---

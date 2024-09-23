@@ -15,7 +15,7 @@ menu: footer
 - Sylvain Beorchia (OSLANDIA)
 - Loïc Bartoletti (OSLANDIA)
 - François Ganz (Ville d'Avignon)
-- Cyrille Genre-Grandpierre (Avignon Université)
+- Cyrille Genre-Grandpierre (Avignon Université/UMR ESPACE)
 - Régis Haubourg (QGIS.org)
 - Thomas Michel (IdGeo)
 - Julien Moura (OSLANDIA)
@@ -35,7 +35,7 @@ Pour nous contacter, utilisez le formulaire de [contact]({{ site.url }}{{ site.b
 
 - Floriane Serré (Agence de l'Eau Loire-Bretagne)
 - François Ganz (Ville d'Avignon)
-- Cyrille Genre-Grandpierre (Avignon Université)
+- Cyrille Genre-Grandpierre (Avignon Université/UMR ESPACE)
 - Régis Haubourg (CSTB)
 - Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
@@ -64,3 +64,20 @@ L’OSGeo-fr sert également d’organisation de référence et d’assistance p
 
 La participation est ouverte à l’ensemble de la communauté Open Source. Tous les travaux de l’association sont publiés sur des forums publics où peut s’investir une communauté libre de participants. Les projets de la Fondation OSGeo sont tous librement disponibles et utilisables sous une licence Open Source certifiée par l’OSI.
  
+## À propos d'[Avignon Université](https://univ-avignon.fr/) et l'[UMR 7300 ESPACE](https://www.umrespace.org/)
+
+Fondée dès 1303, l’Université d’Avignon est une des plus anciennes de France. Elle est organisée en deux instituts se trouvant sur deux campus :
+- L’institut Agrosciences, Environnement et Santé sur le campus Jean-Henri Fabre, qui comprend 6 Centres d’enseignement et de recherche : Biologie, Chimie, Mathématiques, Physique, Sol, eau, environnement, STAPS – Santé 
+
+- L’Institut Culture, Patrimoine, Sociétés Numériques sur le campus Hannah Arendt , qui comprend 8 Centres d’enseignement et de recherche : Histoire, Géographie et aménagement, Culture et communication, Études interculturelles et création, Théâtre, littérature(s), langue(s), Droit, Sciences sociales, sciences politique, économiques et de gestion Langues étrangères appliquées
+
+L’université d’Avignon compte plus de 7000 étudiants (dont plus de 10 % d’étudiants internationaux), qui suivent des formations allant de la licence au doctorat.
+
+La recherche s’effectue au sein de 17 laboratoires, dont 8 UMR. Parmi elle figure l’UMR 7300 ESPACE, coorganisatrice des journées QGIS 2025. ESPACE (Étude des Structures et des Processus d’Adaptation et des Changements de l’Espace) est un laboratoire CNRS de géographie aménagement, qui comprend une centaine de membres localisés sur 3 universités : Avignon, Aix-Marseille et Nice. Le laboratoire ESPACE étudie principalement les interactions espace-nature-société et leur durabilité, de l’échelle du logement à celle du continent, en mobilisant et développant les outils de l’analyse spatiale.
+
+Les principaux thèmes étudiés sont : 
+- la ville : ses morphologies, ses interactions transport-urbanisme, ses marchés foncier et immobilier, ses modèles d’aménagement et leur durabilité
+- l’environnement, en particulier les impacts du changement climatique sur les ressources naturelles (eau et végétation) et sur les risques et leur gestion
+- la ville : ses morphologies, ses interactions transport-urbanisme, ses marchés foncier et immobilier, ses modèles d’aménagement et leur durabilité
+- les systèmes territoriaux côtiers en Méditerranée, en s’intéressant aux spécificités de leur littoralité et à ses externalités
+- les interactions entre espaces, environnement et santé
