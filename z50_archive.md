@@ -40,6 +40,8 @@ L'ensemble des vidéos de la journée de conférences est disponible sur [notre 
 
 # Édition 2023
 
+L'édition 2023 a été soutenue par:
+
 Mécènes:
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/) [![3Liz](/images/3liz.png)](https://www.3liz.com/) [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
