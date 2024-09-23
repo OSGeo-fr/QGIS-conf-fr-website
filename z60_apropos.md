@@ -64,7 +64,7 @@ L’OSGeo-fr sert également d’organisation de référence et d’assistance p
 
 La participation est ouverte à l’ensemble de la communauté Open Source. Tous les travaux de l’association sont publiés sur des forums publics où peut s’investir une communauté libre de participants. Les projets de la Fondation OSGeo sont tous librement disponibles et utilisables sous une licence Open Source certifiée par l’OSI.
  
-## À propos d'[Avignon Université](https://uyyniv-avignon.fr/) et l'[UMR 7300 ESPACE](https://www.umrespace.org/)
+## À propos d'[Avignon Université](https://univ-avignon.fr/) et l'[UMR 7300 ESPACE](https://www.umrespace.org/)
 
 Fondée dès 1303, l’Université d’Avignon est une des plus anciennes de France. Elle est organisée en deux instituts se trouvant sur deux campus :
 - L’institut Agrosciences, Environnement et Santé sur le campus Jean-Henri Fabre, qui comprend 6 Centres d’enseignement et de recherche : Biologie, Chimie, Mathématiques, Physique, Sol, eau, environnement, STAPS – Santé 
