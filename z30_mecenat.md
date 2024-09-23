@@ -7,7 +7,7 @@ menu: header
 
 # Nos partenaires co-organisateurs 2025
 
-[Avignon Université](https://univ-avignon.fr/) et l'[UMR 7300 ESPACE](https://www.umrespace.org/) co-organisent les Journées QGIS-fr 2025
+[Avignon Université](https://univ-avignon.fr/) et l'[UMR 7300 ESPACE](https://www.umrespace.org/) co-organisent avec l'[OSGeo-fr](https://www.osgeo.fr) les Journées QGIS-fr 2025
 
 <!--
 ---
