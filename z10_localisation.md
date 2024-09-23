@@ -5,7 +5,7 @@ tagline: Comment accéder aux Rencontres ?
 menu: header
 ---
 
-Les rencontres descendent le Rhône pour rejoindre la Cité des Papes avec le soutien d'Avignon Université.
+Les rencontres descendent le Rhône pour rejoindre la Cité des Papes avec le soutien d'Avignon Université et l'UMR 7300 ESPACE.
 
 <!-- Si vous venez de loin, n'hésitez pas à proposer un [covoiturage](https://www.covievent.org/covoiturage/rencontres-des-utilisateurs-francophones-de-qgis-edition-2023/fd0136f530d30cafbd9159e45cbc3fb1) -->
 

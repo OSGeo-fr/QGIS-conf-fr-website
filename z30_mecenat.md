@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Mécénat
-tagline: Nous remercions nos généreux mécènes !
+tagline: Nous remercions nos généreux soutiens !
 menu: header
 ---
 
-# Notre partenaire co-organisateur 2025
+# Nos partenaires co-organisateurs 2025
 
-[Avignon Université](https://univ-avignon.fr/) co-organise les Journées QGIS-fr 2025
+[Avignon Université](https://univ-avignon.fr/) et l'[UMR 7300 ESPACE](https://www.umrespace.org/) co-organisent les Journées QGIS-fr 2025
 
 <!--
 ---
@@ -93,7 +93,7 @@ _[https://www.intermezzo-coop.eu/fr](https://www.intermezzo-coop.eu/fr)_
 _Créée en 2016, Hytech-imaging contribue au développement des usages de l'imagerie spectrale pour la connaissance et le suivi de l’environnement. Hytech-imaging propose des services et une expertise tout au long de la chaîne de valeur de l’imagerie spectrale, depuis l’acquisition ou la collecte d’images, jusqu’à l’intégration et le déploiement de solutions logicielles, en passant par le traitement automatique d’images et l’extraction d’informations utiles pour vos besoins. D'abord spécialisé dans les applications thématiques maritimes et côtières, Hytech-imaging accompagne désormais ses clients sur d'autres thématiques telles l’archéologie ou l’agronomie. Hytech-imaging intègre QGIS à ses solutions, à la fois comme interface utilisateur de ses chaînes de traitement (QGIS Desktop + extension) et comme distributeur de ses productions (QGIS Server)._
 -->
 
-# Nos partenaires communication -->
+# Nos partenaires communication
 
 [![GeoRezo](/images/georezo.png)](https://www.georezo.net/).
 
@@ -171,7 +171,7 @@ Plusieurs niveaux sont possibles:
 
 <details><summary>▸ Vous pouvez aussi soutenir directement QGIS.org!</summary><p>
 
-<p><a href="https://www.qgis.org">QGIS.org</a> est l’association internationale qui gère les fonds issus des dons et sponsoring directs autour de QGIS. L’OSGEO-fr héberge le <a href="http://osgeo.asso.fr/content/project/qgis-user-fr/">groupe utilisateur QGIS Fr</a> qui est affilié à QGIS.org.</p>
+<p><a href="https://www.qgis.org">QGIS.org</a> est l’association internationale qui gère les fonds issus des dons et sponsoring directs autour de QGIS. L’OSGEO-fr héberge le <a href="http://osgeo.fr/content/project/qgis-user-fr/">groupe utilisateur QGIS Fr</a> qui est affilié à QGIS.org.</p>
 
 <p>Une donation ou un sponsoring direct à QGIS.org permet de financer :</p>
 <ul>
