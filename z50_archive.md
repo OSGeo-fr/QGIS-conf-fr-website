@@ -37,6 +37,9 @@ Partenaires communication:
 
 L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnPMoqSy-MEVCCj8dbt9gab_).
 <!-- Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2024).-->
+
+# Édition 2023
+
 Mécènes:
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/) [![3Liz](/images/3liz.png)](https://www.3liz.com/) [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
