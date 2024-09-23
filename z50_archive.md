@@ -6,9 +6,8 @@ tagline: Voir les anciennes présentations
 menu: footer
 ---
 
-Les présentations des éditions précédentes sont disponibles dans le [dépôt](https://github.com/OSGeo-fr/QGIS-user-fr).
 
-# Programme 2024
+# Édition 2024
 
 L'[Institut d'Urbanisme et de Géographie Alpine de l'Université Grenoble-Alpes](https://iuga.univ-grenoble-alpes.fr/fr/) a apporté son soutien logistique et financier pour l'organisation de l'édition 2024. Merci à eux !
 
@@ -46,10 +45,13 @@ Partenaires communication:
 [![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
 
 
-# Programme 2023:
+### Programme
 
-
+L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnPMoqSy-MEVCCj8dbt9gab_).
+<!-- Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2024).-->
 Mécènes:
+
+# Édition 2023
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
@@ -70,6 +72,9 @@ Partenaires communication:
 [![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
 
 ### Programme
+
+L'ensemble des vidéos de la journée de conférence est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnMVkGTqU2zRp_n3xIeaQt-1).
+Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2023).
 
 Lundi 13 mars :
 
@@ -92,13 +97,13 @@ Lundi 13 mars :
         </tr>
        <tr class="atelier">
             <td><b>09h30 - 12h00</b></td>
-            <td><a href="#qgis-et-postgis--trucs-et-astuces---julien-cabieces-oslandia">QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</a></td>
-            <td><a href="#publication-sur-le-web-dun-projet-qgis-avec-la-solution-opensource-lizmap---etienne-trimaille-3liz">Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</a></td>
-            <td><a href="#création-de-tableaux-de-bord-dynamiques-dans-qgis---robin-bonnefoy-et-émilie-algans-fredon-occitanie">Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</a></td>
-            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---zacharie-coq-et-sofiane-kriat-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</a></td>
-            <td><a href="#débuter-avec-le-modeleur-graphique-de-qgis---marjorie-fangain-keolis">Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</a></td>
-            <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
-            <td><a href="#initiation-à-qgis---nicolas-roelandt-université-gustave-eiffel">Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</a></td>
+            <td>QGIS et PostGIS : Trucs et astuces - Julien Cabieces (Oslandia)</td>
+            <td>Publication sur le web d’un projet QGIS avec la solution opensource Lizmap - Etienne Trimaille (3Liz)</td>
+            <td>Création de tableaux de bord dynamiques dans QGIS - Robin Bonnefoy et Émilie Algans (FREDON Occitanie)</td>
+            <td>A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</td>
+            <td>Débuter avec le modeleur graphique de QGIS - Marjorie Fangain (KEOLIS)</td>
+            <td>Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</td>
+            <td>Initiation à QGIS - Nicolas Roelandt (Université Gustave Eiffel)</td>
             <td></td>
          </tr>
         <tr class="pause-atelier">
@@ -106,14 +111,14 @@ Lundi 13 mars :
         </tr>       
         <tr class="atelier">
             <td><b>14h00 - 16h30</b></td>
-            <td><a href="#associer-vos-documents-et-vos-données-avec-qgis---julien-cabieces-oslandia">Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</a></td>
-            <td><a href="#créer-un-outil-de-saisie-avec-des-expressions---michaël-douchin-3liz">Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)</a></td>
-            <td><a href="#présentation-de-la-stack-mergin-maps---julien-waddle-camptocamp">Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</a></td>
-            <td><a href="#exploiter-les-multiples-potentialités-de-latlas---maggie-mateu-atopia">Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</a></td>
-            <td><a href="#icetool--plugin-pour-créer-des-espaces-publics-plus-résilients-et-adaptés---arthur-evrard-insa-toulouse--egis">Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</a></td>
-            <td><a href="#à-la-découverte-des-données-lidar-hd--vers-une-cartographie-3d-france-entière---zacharie-coq-et-sofiane-kriat-ign">A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</a></td>
+            <td>Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</td>
+            <td>Créer un outil de saisie avec des expressions - Michaël Douchin (3Liz)</td>
+            <td>Présentation de la stack Mergin Maps - Julien Waddle (Camptocamp)</td>
+            <td>Exploiter les multiples potentialités de l’Atlas - Mateu Maggie (Atopia)</td>
+            <td>Icetool : un plugin pour créer des espaces publics plus résilients et adaptés - Evrard Arthur (INSA Toulouse & Egis)</td>
+            <td>A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</td>
             <td></td>
-            <td><a href="#barcamp">Barcamp</a></td>
+            <td>Barcamp</td>
         </tr>       
         <tr class="atelier">
             <td><b>16h30 - 17h30</b></td>
@@ -140,22 +145,22 @@ Mardi 14 mars:
     </tr>
     <tr class="impair">
       <td>09:30</td>
-      <td>Ouverture de la journée</td>
+      <td><a href="https://www.youtube.com/watch?v=Kw4iIPzRVm0">Ouverture de la journée</a></td>
       <td>OSGeo-fr & CRAIG</td>
     </tr>
     <tr class="pair">
       <td>09:35</td>
-      <td><a href="#qompligis-les-nouveautés-vers-une-version-web----jacky-volpes-oslandia">QompliGIS, les nouveautés, vers une version web ...</a></td>
+      <td>QompliGIS, les nouveautés, vers une version web ... (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/01_Volpes_Jacky.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=ypVKBGLmB-o">vidéo</a>)</td>
       <td>Jacky Volpes (Oslandia)</td>
     </tr>
     <tr class="impair">
       <td>10:00</td>
-      <td><a href="#la-géoplateforme-et-les-plugins-qgis---tom-alary-ign">La Géoplateforme et les plugins QGIS</a></td>
+      <td>La Géoplateforme et les plugins QGIS (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/02_Alary_Tom.pdf"> - <a href="https://www.youtube.com/watch?v=RdCeu9EUPlY">vidéo</a>)</a></td>
       <td>Tom Alary (IGN)</td>
     </tr>
     <tr class="pair">
       <td>10:25</td>
-      <td><a href="#un-plugin-qgis-qui-facilite-laccès-aux-données-en-flux-sur-un-territoire---marie-suet-et-landry-breuil-craig">Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire</a></td>
+      <td>Un plugin QGIS qui facilite l'accès aux données en flux sur un territoire (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/06_Suet_Marie.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=QKZGjVR6V_E">vidéo</a>)</td>
       <td>Marie Suet et Landry Breuil (CRAIG)</td>
     </tr>
     <tr  class="pause">
@@ -165,17 +170,17 @@ Mardi 14 mars:
     </tr>
     <tr class="impair">
       <td>11:10</td>
-      <td><a href="#qgisqfieldqgis-serveur--une-boîte-à-outils-complète-de-lobservation-terrain---eric-gonçalves-département-du-calvados">QGIS/QField/QGIS Serveur : une boîte à outils complète de l’observation terrain</a></td>
+      <td>QGIS/QField/QGIS Serveur : une boîte à outils complète de l’observation terrain (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/03_Gon%C3%A7alves_Eric.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=r6NIfCZhArk">vidéo</a>)</td>
       <td>Eric Gonçalves (Département du Calvados)</td>
     </tr>
     <tr class="pair">
       <td>11:35</td>
-      <td><a href="#qgis-et-merginmaps-utilisation-pour-la-stéréopréparation---valentin-schmitt-et-laurent-falala-ign-fi">QGIS et MerginMaps, utilisation pour la stéréopréparation</a></td>
+      <td>QGIS et MerginMaps, utilisation pour la stéréopréparation (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/04_Schmitt_Valentin.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=CSY7JitUe1c">vidéo</a>)</td>
       <td>Schmitt Valentin et Laurent Falala (IGN FI)</td>
     </tr>
     <tr class="impair">
       <td>12:00</td>
-      <td><a href="#al4eo--un-plugin-qgis-dactive-learning---romain-thoreau-onera--magellium">AL4EO : un plugin QGIS d'Active Learning</a></td>
+      <td>AL4EO : un plugin QGIS d'Active Learning (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/05_Thoreau_Romain.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=BouunEytxxI">vidéo</a>)</td>
       <td>Romain Thoreau (ONERA & Magellium)</td>
     </tr>
     <tr  class="pause">
@@ -185,17 +190,17 @@ Mardi 14 mars:
     </tr>
     <tr class="impair">
       <td>14:00</td>
-      <td><a href="#qgis--le-coeur-du-sig-départemental-du-calvados---jérémie-ory-et-théo-grondin-département-du-calvados">QGIS : le cœur du SIG départemental du Calvados</a></td>
+      <td>QGIS : le cœur du SIG départemental du Calvados (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/07_Grondin_Th%C3%A9o.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=v38TmuifWRY">vidéo</a>)</td>
       <td>Jérémie Ory et Théo Grondin (Département du Calvados)</td>
     </tr>
     <tr class="pair">
       <td>14:25</td>
-      <td><a href="#qgis-au-coeur-du-système-dinformation-naturaliste-de-martinique---michaël-douchin-3liz">QGIS au cœur du Système d'Information Naturaliste de Martinique</a></td>
+      <td>QGIS au cœur du Système d'Information Naturaliste de Martinique (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/08_Douchin_Michael.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=Yuhs_YSpMxE">vidéo</a>)</td>
       <td>Michaël Douchin (3Liz)</td>
     </tr>
     <tr class="impair">
       <td>14:50</td>
-      <td><a href="#définitionmise-en-place-dune-stratégie-de-déploiement-de-qgis-à-letablissement-public-loire---emilie-bigorne-etablissement-public-loire">Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire</a></td>
+      <td>Définition/mise en place d’une stratégie de déploiement de QGIS à l’Etablissement public Loire (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/09_Bigorne_Emilie.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=u-yFPiBlvA0">vidéo</a>)</td>
       <td>Emilie Bigorne (Etablissement public Loire)</td>
     </tr>
     <tr class="pause">
@@ -205,12 +210,12 @@ Mardi 14 mars:
     </tr>
     <tr class="impair">
       <td>15:40</td>
-      <td><a href="#qgis-plugin--plui-versionning---bruno-defrance-grenoble-alpes-métropole-et-eric-vinouze-aurg">QGIS Plugin : PLU(i) versionning</a></td>
+      <td>QGIS Plugin : PLU(i) versionning (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/10_Defrance_Bruno.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=nKHcA12Iiao">vidéo</a>)</td>
       <td>Bruno Defrance (Grenoble Alpes Métropole) et Eric Vinouze (AURG)</td>
     </tr>
     <tr class="pair">
       <td>16:05</td>
-      <td><a href="#avec-qgis--de-la-topographie----jean-marie-arsac-azimut">Avec QGIS ? de la topographie !</a></td>
+      <td>Avec QGIS ? de la topographie ! (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2023/11_Arsac_Jean_Marie.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=7oRdh6vRf14">vidéo</a>)</td>
       <td>Jean-Marie Arsac (Azimut)</td>
     </tr>
     <tr class="impair">
@@ -221,9 +226,8 @@ Mardi 14 mars:
   </tbody>
 </table>
 
-_______________________________________________________________________________
 
-# Programme 2021-2022:
+# Édition 2021-2022:
 
 L'édition 2022 a été soutenue par:
 
@@ -257,7 +261,10 @@ Partenaires techniques:
 
 Un grand merci à eux.
 
-### Programmes
+### Programme
+
+L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnMKG13UmfI80MsX8aYKn88h).
+Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2022).
 
 Mardi 18 janvier :
 
@@ -324,22 +331,22 @@ Mercredi 19 janvier :
     </tr>
     <tr class="pair">
       <td>09:15</td>
-      <td><a href="https://youtu.be/dLYTfijA72c">Déploiement de QGIS à Bordeaux Métropole</a></td>
+      <td>Déploiement de QGIS à Bordeaux Métropole (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/01_Deploiement_de_QGIS_a_Bordeaux_Metropole.pdf">pdf</a> - <a href="https://youtu.be/dLYTfijA72c">vidéo</a>)</td>
       <td>Julien Pagiusco (Bordeaux Métropole)</td>
     </tr>
     <tr class="impair">
       <td>09:40</td>
-      <td><a href="https://youtu.be/fdjw4J857V8">Associer des documents à vos données</a></td>
+      <td>Associer des documents à vos données (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/02_Associer_des_documents_a_vos_donnees_J_Cabieces.pdf">pdf</a> - <a href="https://youtu.be/fdjw4J857V8">vidéo</a>)</td>
       <td>Julien Cabieces (Oslandia)</td>
     </tr>
     <tr  class="pair">
       <td>10:05</td>
-      <td><a href="https://youtu.be/TbysuNHygKA%C3%A9">QGIS Serveur, le choix de la simplicité</a></td>
+      <td>QGIS Serveur, le choix de la simplicité (<a href="https://youtu.be/TbysuNHygKA%C3%A9">vidéo</a>)</td>
       <td>Paul Blottiere (Hytech-Imaging)</td>
     </tr>
     <tr class="impair">
       <td>10:30</td>
-      <td><a href="https://youtu.be/e1e8n4LzPQs">QGIS, ses formulaires et expressions pour faire un outil de saisie au poil</a></td>
+      <td>QGIS, ses formulaires et expressions pour faire un outil de saisie au poil (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/04_Outil_saisie_avec_expressions_Michael_DOUCHIN.pdf">pdf</a> - <a href="https://youtu.be/e1e8n4LzPQs">vidéo</a>)</td>
       <td>Michaël Douchin (3Liz)</td>
     </tr>
     <tr class="pause">
@@ -349,17 +356,17 @@ Mercredi 19 janvier :
     </tr>
     <tr class="impair">
       <td>11:20</td>
-      <td><a href="https://youtu.be/DkWFezsEOpc">Simplifiez la vie à QGIS</a></td>
+      <td>Simplifiez la vie à QGIS (<a href="https://youtu.be/DkWFezsEOpc">vidéo</a>)</td>
       <td>Harrissou Sant-anna (CAUE 49)</td>
     </tr>
     <tr class="pair">
       <td>11:45</td>
-      <td><a href="https://youtu.be/uyNkbOrxkMQ">Gestion de l’adressage avec QGIS/PostGIS : apports et limites du couple logiciel</a></td>
+      <td>Gestion de l’adressage avec QGIS/PostGIS : apports et limites du couple logiciel (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/06_Gestion_de_l_adressage_avec_QGIS_PostGIS_J_Ory.pdf">pdf</a> - <a href="https://youtu.be/uyNkbOrxkMQ">vidéo</a>)</td>
       <td>Théo Grondin (Conseil Départemental du Calvados)</td>
     </tr>
     <tr class="impair">
       <td>12:05</td>
-      <td><a href="https://youtu.be/RHe7WLLlajw">Saisie de la Base Adresse Localisée (BAL) de Clermont Métropole avec QGIS</a></td>
+      <td>Saisie de la Base Adresse Localisée (BAL) de Clermont Métropole avec QGIS (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/07_Saisie_de_la_Base_Adresse_Localisee_BAL_de_Clermont_H_Cristol.pdf">pdf</a> - <a href="https://youtu.be/RHe7WLLlajw">vidéo</a>)</td>
       <td>Hervé Christol (Clermont Métropole)</td>
     </tr>
     <tr class="pause">
@@ -369,12 +376,12 @@ Mercredi 19 janvier :
     </tr>
     <tr class="impair">
       <td>14:00</td>
-      <td><a href="https://youtu.be/YSlhl0KNm-c">Utilisation de l'outil 'Report' pour la génération d'un atlas indexé</a></td>
+      <td>Utilisation de l'outil 'Report' pour la génération d'un atlas indexé (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/08_Utilisation_de_l_outil__Report__pour_la_g%C3%A9n%C3%A9ration_d_un_atlas_index%C3%A9-J_Waddle.pdf">pdf</a> - <a href="https://youtu.be/YSlhl0KNm-c">vidéo</a>)</td>
       <td>Julien Waddle (CampToCamp)</td>
     </tr>
     <tr class="pair">
       <td>14:25</td>
-      <td><a href="https://youtu.be/PjeoqxC9Zy8">Des cartes topo avec QGIS</a></td>
+      <td>Des cartes topo avec QGIS (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/09_Des_cartes_topo_avec_QGIS_F_Boret_reduit.pdf">pdf</a> - <a href="https://youtu.be/PjeoqxC9Zy8">vidéo</a>)</td>
       <td>Florian Boret</td>
     </tr>
     <tr class="impair">
@@ -384,7 +391,7 @@ Mercredi 19 janvier :
     </tr>
     <tr class="pair">
       <td>15:15</td>
-      <td>Des fonds de carte en tuiles vectorielles dans vos projets QGIS</td>
+      <td>Des fonds de carte en tuiles vectorielles dans vos projets QGIS(<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/11_Des_fonds_de_carte_en_tuiles_vectorielles_dans_vos_projets_QGIS-Nicolas-Bozon-MapTiler.pdf">pdf</a>)</td>
       <td>Nicolas Bozon (MapTiler)</td>
     </tr>
     <tr class="pause">
@@ -399,12 +406,12 @@ Mercredi 19 janvier :
     </tr>
     <tr class="impair">
       <td>16:30</td>
-      <td>KAPLAN : systématisation des analyses de scénarios de transport collectif</td>
+      <td>KAPLAN : systématisation des analyses de scénarios de transport collectif (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/13_KAPLAN_systematisation_des_analyses_de_scenarios_P_Palmas.pdf">pdf</a>)</td>
       <td>Paola Palmas (Egis Rail)</td>
     </tr>
     <tr class="pair">
       <td>16:55</td>
-      <td>Optimisation de tournée : retour applicatif d'un plugin QGIS</td>
+      <td>Optimisation de tournée : retour applicatif d'un plugin QGIS (<a href="https://gitlab.com/osgeo-fr/journees_qgis/-/blob/master/Pr%C3%A9sentations/2022/14_Optimisation_tournees_A_Bellec.pdf">pdf</a>)</td>
       <td>Arnaud Bellec (Alkante)</td>
     </tr>
     <tr class="impair">
@@ -415,8 +422,8 @@ Mercredi 19 janvier :
   </tbody>
 </table>
 
-_______________________________________________________________________________
-# Programme 2020:
+
+# Édition 2020
 
 L'édition 2020 a été soutenue par:
 
@@ -444,7 +451,10 @@ Soutiens :
 
 Un grand merci à eux.
 
-### Programmes
+### Programme
+
+L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLDjPOepGE7E6jce8Jed8cHX9zLjbEGr0x).
+Les présentations sont disponibles au format pdf dans [notre dépôt GitHub](https://github.com/OSGeo-fr/QGIS-user-fr/tree/master/2020/Conf_QGIS)
 
 Mardi 15 décembre :
 
@@ -453,17 +463,17 @@ Mardi 15 décembre :
     <th>Salle 1</th><th>Salle 2</th><th>Salle 3</th><th>Salle 4</th>
    </thead>
     <tr class="atelier">
-        <td rowspan="2"><b>09:00 - 12h15</b><br><a href="#répondre-aux-dt-dict-avec-qgis-3">Répondre aux DT-DICT avec QGIS 3</a></td>
-        <td rowspan="2"><b>09h - 12h15</b> <br> <a href="#configurer-qgis-dans-votre-organisation---simplifiez-la-vie-à-vos-utilisateurs">Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</a></td>
-        <td><b>9h - 10h30</b>  <br><a href="#le-modeleur-graphique---fonctionnement-nouveautés-trucs-et-astuces">Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</a></td>
-        <td><b>9h - 10h30</b>  <br><a href="#de-la-mise-en-page-au-rapport-dimpression-en-passant-par-latlas">De la mise en page au rapport d'impression, en passant par l'atlas</a> </td></tr>
-    <tr class="atelier"><td><b>10h45 - 12h15</b> <br><a href="#github-comment-entrer-dans-le-projet-qgis-et-participer-à-la-communauté">Github, comment entrer dans le projet QGIS et participer à la communauté ?</a></td><td></td></tr>
+        <td rowspan="2"><b>09:00 - 12h15</b><br>Répondre aux DT-DICT avec QGIS 3</td>
+        <td rowspan="2"><b>09h - 12h15</b> <br> Configurer QGIS dans votre organisation - simplifiez la vie à vos utilisateurs !</td>
+        <td><b>9h - 10h30</b>  <br>Le Modeleur graphique : fonctionnement, nouveautés, trucs et astuces</td>
+        <td><b>9h - 10h30</b>  <br>De la mise en page au rapport d'impression, en passant par l'atlas</td></tr>
+    <tr class="atelier"><td><b>10h45 - 12h15</b> <br>Github, comment entrer dans le projet QGIS et participer à la communauté ?</td><td></td></tr>
     <tr class="pause-atelier"><td colspan="4"><b>Pause de midi</b></td></tr>
     <tr class="atelier">
-        <td rowspan="2"><b>14h - 17h15</b><br> <a href="#répondre-aux-dt-dict-avec-qgis-3">Répondre aux DT-DICT avec QGIS 3</a></td>
-        <td rowspan="2"><b>14h - 17h15</b>  <br> <a href="#publication-dun-projet-qgis-sur-le-web-avec-lizmap">Publication d'un projet QGIS sur le web avec Lizmap</a></td>
-        <td><b>14h - 15h30</b>   <br><a href="#organisation-et-avenir-du-groupe-qgis-fr">Organisation et avenir du groupe QGIS-FR</a></td><td> </td></tr>
-    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br><a href="#expressions-avancées">Expressions avancées</a></td><td></td></tr>
+        <td rowspan="2"><b>14h - 17h15</b><br> Répondre aux DT-DICT avec QGIS 3</td>
+        <td rowspan="2"><b>14h - 17h15</b>  <br> Publication d'un projet QGIS sur le web avec Lizmap</td>
+        <td><b>14h - 15h30</b>   <br>Organisation et avenir du groupe QGIS-FR</td><td> </td></tr>
+    <tr class="atelier"><td><b>15h45 - 17h15</b>  <br>Expressions avancées</td><td></td></tr>
 </table>
 
 Mercredi 16 décembre :
@@ -473,32 +483,31 @@ Mercredi 16 décembre :
  <tr><th>Programme</th><th> </th><th> </th></tr>
 </thead>
  <tr class="th"><td>Horaires</td><td> </td><td>Durée (hors questions)</td></tr>
- <tr class="impair"><td>09:00</td><td>Ouverture de la journée - OSGeo-FR & Groupe QGIS FR</td><td>15 min.</td></tr>
- <tr class="pair"><td>09:15</td><td><a href="#covid-générateur-de-géométries-et-carto-geekeries-en-tous-genres---mathieu-rajerison">Covid, générateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison</a></td><td>15 min.</td></tr>
- <tr class="impair"><td>09:35</td><td><a href="#nouveautés-qgis--partage-de-styles-et-modèles-de-mise-en-page-via-le-hub-styles---pierre-serafini---sopreco">Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO</a></td><td>7 min.</td></tr>
- <tr class="pair"><td>09:45</td><td><a href="#de-la-donnée-au-terrain--qgis-un-outil-global-pour-la-prospection-archéologique-par-télédétection---alexandre-guyot---laboratoire-letg-université-rennes-2--hytech-imaging">De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging</a></td><td>15 min.</td></tr>
- <tr class="impair"><td>10:05</td><td><a href="#qgis-si---mettre-un-outil-de-cartographie-à-disposition-des-policiers-et-gendarmes---jean-de-villeneuve-régis-haubourg---gendarmerie-nationale--oslandia">QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie nationale / Oslandia</a></td><td>15 min.</td></tr>
+ <tr class="impair"><td>09:00</td><td><a href="https://www.youtube.com/watch?v=e54_E18C8fE">Ouverture de la journée - OSGeo-FR & Groupe QGIS FR</a></td><td>15 min.</td></tr>
+ <tr class="pair"><td>09:15</td><td>Covid, générateur de géométries et carto-geekeries en tous genres - Mathieu Rajerison (<a href="https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2020/Conf_QGIS/01_qgis_cartogeekeries_geometry_generators_rajerison.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=ccSzXIjoRnI">vidéo</a>)</td><td>15 min.</td></tr>
+ <tr class="impair"><td>09:35</td><td>Nouveautés QGIS : Partage de styles et modèles de mise en page via le Hub Styles - Pierre Serafini - SOPRECO (<a href="https://www.youtube.com/watch?v=xKoqCZF9NhY">vidéo</a>)</td><td>7 min.</td></tr>
+ <tr class="pair"><td>09:45</td><td>De la donnée au terrain : QGIS, un outil global pour la prospection archéologique par télédétection - Alexandre Guyot - Laboratoire LETG (Université Rennes 2) & Hytech Imaging (<a href="https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2020/Conf_QGIS/03_qgis_archeologie_teledetection_AGUYOT_hytech.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=kEQJoX7fIPE">vidéo</a>)</td><td>15 min.</td></tr>
+ <tr class="impair"><td>10:05</td><td>QGIS-SI - Mettre un outil de cartographie à disposition des policiers et gendarmes - Jean de Villeneuve, Régis Haubourg - Gendarmerie nationale / Oslandia (<a href="https://www.youtube.com/watch?v=r6UCWVxDTis">vidéo</a>)</td><td>15 min.</td></tr>
  <tr class="pause"><td>10:25</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
- <tr class="impair"><td>10:50</td><td><a href="#tirer-profit-de-lapi-de-qgis-dans-un-plugin---arnaud-morvan---camptocamp">Tirer profit de l'API de QGIS dans un plugin - Arnaud Morvan - CamptoCamp</a></td><td>7 min.</td></tr>
- <tr class="pair"><td>11:00</td><td><a href="#qgeologis-visualisation-de-colonnes-stratigraphiques-et-de-séries-temporelles---sébastien-peillet---oslandia">QGeoloGIS, visualisation de colonnes stratigraphiques et de séries temporelles - Sébastien Peillet - Oslandia</a></td><td>7 min.</td></tr>
- <tr class="impair"><td>11:10</td><td><a href="#un-cas-dusage-de-qgis-pour-le-recueil-le-traitement-et-la-publication-de-données-géologiques-sur-les-formations-à-silicites---christophe-tuffery-vincent-delvigne---inrap--université-de-liège">Un cas d'usage de QGIS pour le recueil, le traitement et la publication de données géologiques sur les formations à silicites - Christophe Tuffery, Vincent Delvigne - INRAP / Université de Liège</a></td><td>15 min.</td></tr>
- <tr class="pair"><td>11:30</td><td><a href="#qgis-moteur-du-portail-des-données-dopenstreetmap-france---jean-louis-zimmermann---osmdata">QGIS, moteur du portail des données d'OpenStreetMap France - Jean-Louis Zimmermann - OSMdata</a></td><td>15 min.</td></tr>
- <tr class="pair"><td>11:50</td><td><a href="#qgis-server-présent-et-futur---paul-blottiere---qcooperative--hytech-imaging">QGIS Server: présent et futur - Paul Blottiere - QCooperative & Hytech Imaging</a></td><td>15 min.</td></tr>
+ <tr class="impair"><td>10:50</td><td>Tirer profit de l'API de QGIS dans un plugin - Arnaud Morvan - CamptoCamp (<a href="https://www.youtube.com/watch?v=jlKZl7cUktM">vidéo</a>)</td><td>7 min.</td></tr>
+ <tr class="pair"><td>11:00</td><td>QGeoloGIS, visualisation de colonnes stratigraphiques et de séries temporelles - Sébastien Peillet - Oslandia (<a href="https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2020/Conf_QGIS/06_QGeoloGIS_presentation_Journees_QGIS.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=oNUXMobKZ0o">vidéo</a>)</td><td>7 min.</td></tr>
+ <tr class="impair"><td>11:10</td><td>Un cas d'usage de QGIS pour le recueil, le traitement et la publication de données géologiques sur les formations à silicites - Christophe Tuffery, Vincent Delvigne - INRAP / Université de Liège (<a href="https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2020/Conf_QGIS/07_QGIS_geologie_silicites_INRAP_Univ_Liege_Tuffery.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=Uble40tdv10">vidéo</a>)</td><td>15 min.</td></tr>
+ <tr class="pair"><td>11:30</td><td>QGIS, moteur du portail des données d'OpenStreetMap France - Jean-Louis Zimmermann - OSMdata (<a href="https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2020/Conf_QGIS/08_QGISserver_OSMdata_Zimmerman.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=x_i6Sb87j20">vidéo</a>)</td><td>15 min.</td></tr>
+ <tr class="pair"><td>11:50</td><td>QGIS Server: présent et futur - Paul Blottiere - QCooperative & Hytech Imaging (<a href="https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2020/Conf_QGIS/09_qgis-server-paul_blottiere_qcooperative.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=biyyZ-uLzsE">vidéo</a>)</td><td>15 min.</td></tr>
  <tr class="pause"><td>12:10</td><td>Pause repas - Salle de discussions libres </td><td>1h50</td></tr>
- <tr class="impair"><td>14:00</td><td><a href="#les-maillages--qgis-en-4-dimensions----vincent-cloarec---lutra-consulting">Les Maillages : QGIS en 4 dimensions ! - Vincent Cloarec - Lutra Consulting</a></td><td>7 min.</td></tr>
- <tr class="pair"><td>14:10</td><td><a href="#stocker-et-visualiser-des-images-dans-le-cloud-à-laide-du-format-cog-et-de-qgis---julien-cabieces---oslandia">Stocker et visualiser des images dans le cloud à l'aide du format COG et de QGIS - Julien Cabieces - Oslandia</a></td><td>7 min.</td></tr>
- <tr class="impair"><td>14:20</td><td><a href="#nouveautés-qgis--pointcloud-et-3d---belgacem-nedjima---lutra-consulting">Nouveautés QGIS : pointcloud et 3D - Belgacem Nedjima - Lutra Consulting</a></td><td>7 min.</td></tr>
- <tr class="pair"><td>14:30</td><td><a href="#qfield--un-qgis-sur-le-terrain-pour-appuyer-la-mise-à-jour-du-pcrs-en-aura---lucas-mathieu---craig">QField : un QGIS sur le terrain pour appuyer la mise à jour du PCRS en AuRA - Lucas Mathieu - CRAIG</a></td><td>15 min.</td></tr>
- <tr class="impair"><td>14:50</td><td><a href="#intégrez-vos-routines-dans-qgis---julien-waddle---camptocamp">Intégrez vos routines dans QGIS - Julien Waddle - Camptocamp</a></td><td>7 min.</td></tr>
+ <tr class="impair"><td>14:00</td><td>Les Maillages : QGIS en 4 dimensions ! - Vincent Cloarec - Lutra Consulting (<a href="https://www.youtube.com/watch?v=LDVQtsv8CB0">vidéo</a>)</td><td>7 min.</td></tr>
+ <tr class="pair"><td>14:10</td><td>Stocker et visualiser des images dans le cloud à l'aide du format COG et de QGIS - Julien Cabieces - Oslandia (<a href="https://www.youtube.com/watch?v=2t43nJCiB9Q">vidéo</a>)</td><td>7 min.</td></tr>
+ <tr class="impair"><td>14:20</td><td>Nouveautés QGIS : pointcloud et 3D - Belgacem Nedjima - Lutra Consulting (<a href="https://www.youtube.com/watch?v=WhpVkJ0sc5g">vidéo</a>)</td><td>7 min.</td></tr>
+ <tr class="pair"><td>14:30</td><td>QField : un QGIS sur le terrain pour appuyer la mise à jour du PCRS en AuRA - Lucas Mathieu - CRAIG (<a href="https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2020/Conf_QGIS/14_Presentation_QField_CRAIG_LucasMathieu.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=ogSFPBvFrpk">vidéo</a>)</td><td>15 min.</td></tr>
+ <tr class="impair"><td>14:50</td><td>Intégrez vos routines dans QGIS - Julien Waddle - Camptocamp (<a href="https://www.youtube.com/watch?v=HC50vC2Gwfo">vidéo</a>)</td><td>7 min.</td></tr>
  <tr class="pause"><td>15:00</td><td>Pause - Salle café parallèle BBB</td><td>25 min.</td></tr>
- <tr class="impair"><td>15:25</td><td><a href="#viewshed-analysis-plugin-pour-qgis--retour-dexpérience---zoran-čučković---université-de-bourgogne-franche-comté">Viewshed analysis plugin pour QGIS : retour d'expérience - Zoran Čučković - Université de Bourgogne Franche-Comté</a></td><td>7 min.</td></tr>
- <tr class="pair"><td>15:35</td><td><a href="#enseigner-qgis-à-luniversité--exemples-des-formations-en-géographie-aménagement-et-géomatique-de-luniversité-rennes-2---boris-mericskay---université-de-rennes-2">Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2</a></td><td>15 min.</td></tr>
- <tr class="impair"><td>15:55</td><td><a href="#pgmetadata-une-gestion-des-métadonnées-dans-postgresql---etienne-trimaille---3liz">PgMetadata, une gestion des métadonnées dans PostgreSQL - Etienne Trimaille - 3Liz</a></td><td>7 min.</td></tr>
+ <tr class="impair"><td>15:25</td><td>Viewshed analysis plugin pour QGIS : retour d'expérience - Zoran Čučković - Université de Bourgogne Franche-Comté (<a href="https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2020/Conf_QGIS/16_QGIS_2020_Analyse_visibilite_Zoran_cuckovic.pdf">pdf</a> - <a href="">vidéo</a>)</td><td>7 min.</td></tr>
+ <tr class="pair"><td>15:35</td><td>Enseigner QGIS à l'université : Exemples des formations en géographie, aménagement et géomatique de l'Université Rennes 2 - Boris Mericskay - Université de Rennes 2 (<a href="https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2020/Conf_QGIS/17_Enseigner_la_geomatique_universite_QGIS_Mericskay.pdf">pdf</a> - <a href="https://www.youtube.com/watch?v=uSeRDr7GodY">vidéo</a>)</td><td>15 min.</td></tr>
+ <tr class="impair"><td>15:55</td><td>PgMetadata, une gestion des métadonnées dans PostgreSQL - Etienne Trimaille - 3Liz (<a href="#pgmetadata-une-gestion-des-métadonnées-dans-postgresql---etienne-trimaille---3liz">pdf</a> - <a href="https://www.youtube.com/watch?v=o47w7zf40nw">vidéo</a>)</td><td>7 min.</td></tr>
  <tr><td>16:05</td><td>Clôture</td><td/></tr>
 </table>
-_______________________________________________________________________________
 
-# Programme 2019:
+# Édition 2019
 
 L'édition 2019 a été soutenue par:
 
@@ -548,11 +557,10 @@ Le thème choisi était **QGIS une plateforme multi-logiciels: couteau suisse de
 * **[Retour d'expériences de métropoles](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/09_PresentationQGISDaysMetropolesGrenobleEtClermont.pdf)** - Hervé Christol (Clermont Auvergne Métropole) et Anh-Tam Vo (Grenoble Alpes Métropole)
 * **Table-ronde**
 
-_______________________________________________________________________________
 
-# Programme 2018:
+# Édition 2018:
 
-#### Matin - 9h30 à 12h30)
+#### Matin - 9h30 à 12h30
 
 * **Ouverture** Leo Pichon (AgroTIC)
 * **[Présentation de l'OSGeo-fr](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/00_presentation_osgeo.pdf) - [vidéo](https://youtu.be/i0sVi--VPlw)** Régis Haubourg (Président de l'association)
@@ -564,7 +572,7 @@ _______________________________________________________________________________
 * **[Présentation de geopackage par les étudiants AgroTIC](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/05_Montpellier_SupAgro_GPKG_agriculture.pdf) - [vidéos](https://youtu.be/EGEksA_ZCU4)**
  Le format GeoPackage, test réel sur une chaîne de traitement de données de suivi parcellaire agricole. Bel exercice pédagogique des étudiants AgroTIC qui ont mis à l’épreuve le format Geopackage dans QGIS3 comme digne remplaçant des shapefile, mais aussi comme conteneur de raster.
 
-#### Après-midi - 14h00 à 16h40)
+#### Après-midi - 14h00 à 16h40
 
 * **[Développement de plugins procéduraux orientés métier](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/06_MChailloux_plugin_biodispersal_INRA.pdf) - [vidéo](https://youtu.be/Cp_PqLpK4c4)** Mathieu Chailloux (IRSTEA). Un bel exemple de plugin basé sur la logique des géotraitement Processing et ajoutant une interface graphique générique plus ergonomique et sous forme d'un assistant par étapes.
 * **[Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/07_ENSG_plugin_ordonnancement_reseau.pdf) - [vidéo](https://youtu.be/hdX4OMqJG40)** Cécile Duchêne et Alice Gonnaud (Ecole Nationale des Sciences Géographiques). Cette présentation d'une démarche de création de plugin ouvert par des étudiants à permis d'élargir la discussion à la question des licences open source pour des plugins QGIS, soumis de facto à la licence GPLv2, et des méthodes pour structurer du code si l'on souhaite des licences différentes pour le moteur de calcul. 
@@ -574,7 +582,7 @@ Cette présentation d'une démarche de création de plugin ouvert par des étudi
 * **[Le plugin cadastre - Intégration et exploitation des données cadastre](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/10_Le_plugin_Cadastre_QGIS_Integration_exploitation_cadastre.pdf) - [vidéo](https://youtu.be/-6DkU7dRySA)**  Michaël Douchin (3Liz). Histoire, vie et communauté autour du plugin QGIS. On a parlé d'économies de mutualisation, mais aussi de "bus factor", de "vie" d'un écosystème communautaire opensource.
 * **[Clôture / remerciements]() - [vidéo](https://youtu.be/P4xQq16Pvw0)** 
 
-# Programme 2017:
+# Édition 2017:
 
 #### Session éditeur (matin - 9h00 à 12h30)
 
@@ -597,3 +605,4 @@ de la cartographie.
 * **[QGIS et la structure archéologique]() - [vidéo](https://youtu.be/H4eBFoQWr1Y)** par Maxime Seguin (INRAP) : le cas de la sépulture collective de Mas Rouge à Montpellier".
 * **[Évolution de l'outil coupes rases de la création de la méthode à l'automatisation](https://github.com/OSGeo-fr/QGIS-user-fr/tree/master/2017/presentations/02_apres_midi/13_CoupesRases) - [vidéo](https://youtu.be/S5IT3Y_MXz4)** par Kenji Ose (irstea).
 * Cloture
+
