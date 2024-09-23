@@ -25,7 +25,7 @@ menu: footer
 - Harrissou Sant-anna (CAUE 49)
 - Pierre Serafini (SOPRECO)
 
-Pour nous contacter, utiliser le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
+Pour nous contacter, utilisez le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
 # Illustrations
 
@@ -56,9 +56,9 @@ L'UFR Institut d'Urbanisme et de Géographie Alpine a pour mission d'assurer la 
 -->
 
 
-## À propos de l'[OSGeo-fr](https://www.osgeo.asso.fr)
+## À propos de l'[OSGeo-fr](https://www.osgeo.fr/)
 
-L’association OSGeo.fr est la représentation Francophone de la fondation Open Source Geospatial dont la mission est d’aider et de promouvoir le développement collaboratif des données et des technologies géospatiales ouvertes. L’association sert d’entité légale envers qui les membres de la communauté peuvent contribuer au code, aux finances et aux autres ressources, s’assurer que leurs contributions seront maintenues au bénéfice du public.
+L’association OSGeo.fr est la représentation Francophone de la fondation [Open Source Geospatial](https://www.osgeo.org) dont la mission est d’aider et de promouvoir le développement collaboratif des données et des technologies géospatiales ouvertes. L’association sert d’entité légale envers qui les membres de la communauté peuvent contribuer au code, aux finances et aux autres ressources, s’assurer que leurs contributions seront maintenues au bénéfice du public.
 
 L’OSGeo-fr sert également d’organisation de référence et d’assistance pour la communauté géospatiale libre, et fournit un forum commun et une infrastructure partagée pour améliorer la collaboration entre les projets.
 
