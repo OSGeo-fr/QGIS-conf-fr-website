@@ -101,7 +101,7 @@ _Créée en 2016, Hytech-imaging contribue au développement des usages de l'ima
 # Soutenir l'événement
 
 
-Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
+Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/funding/membership/members/#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
 
 <!-- Les modalités de soutien sont définies ci-après.
 
@@ -169,28 +169,24 @@ Plusieurs niveaux sont possibles:
 
 ### Autres formes de soutien
 
-<details><summary>▸ Vous pouvez aussi soutenir directement QGIS.org!</summary><p>
+<details>
+<summary>▸ Vous pouvez aussi soutenir directement QGIS.org!</summary>
 
-<p><a href="https://www.qgis.org">QGIS.org</a> est l’association internationale qui gère les fonds issus des dons et sponsoring directs autour de QGIS. L’OSGEO-fr héberge le <a href="http://osgeo.fr/content/project/qgis-user-fr/">groupe utilisateur QGIS Fr</a> qui est affilié à QGIS.org.</p>
 
-<p>Une donation ou un sponsoring direct à QGIS.org permet de financer :</p>
-<ul>
-  <li>des développeurs pour des tâches de maintenance à chaque version</li>
-  <li>les serveurs et maintenances associées</li>
-  <li>les rencontres communautaires QGIS internationales</li>
-</ul>
+[QGIS.org](https://www.qgis.org) est l’association internationale qui gère les fonds issus des dons et sponsoring directs autour de QGIS.
+L’OSGEO-fr héberge le [groupe utilisateur QGIS Fr](https://www.osgeo.fr/association/qgis-fr/) qui est affilié à QGIS.org.
 
-<p>Pour contribuer, c’est</p>
+Une donation ou un sponsoring direct à QGIS.org permet de financer :
 
-<ul>
-  <li>
-    <p>par ici <a href="https://www.qgis.org/fr/site/getinvolved/donations.html">https://www.qgis.org/fr/site/getinvolved/donations.html</a></p>
-  </li>
-  <li>
-    <p>ou encore en achetant t-shirt, mug ou autres goodies sur le <a href="https://shop.spreadshirt.net/qgis/">shop</a></p>
-  </li>
-</ul>
+* des développeurs pour des tâches de maintenance à chaque version
+* les serveurs et maintenances associées
+* les rencontres communautaires QGIS internationales
 
-<p><strong>Note:</strong> Ces dons sont indépendants de l’organisation des journées QGIS Francophones.</p>
+Pour contribuer, c’est :
 
-</p></details>
+* sur leur page "[Donate](https://www.qgis.org/funding/donate/)"
+* ou encore en achetant t-shirt, mug ou autres goodies sur le [shop](https://shop.spreadshirt.net/qgis/)
+
+**Note:** Ces dons sont indépendants de l’organisation des journées QGIS Francophones.
+
+</details>
