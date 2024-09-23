@@ -7,24 +7,7 @@ menu: header
 
 # Notre partenaire co-organisateur 2025
 
-[Avignon Université](https://univ-avignon.fr/) co-organise le Journées QGIS-fr 2025
-
-# Notre partenaire co-organisateur 2024
-
-L'[Institut d'Urbanisme et de Géographie Alpine de l'Université Grenoble-Alpes](https://iuga.univ-grenoble-alpes.fr/fr/) a apporté son soutien logistique et financier pour l'organisation de l'édition 2024. Merci à eux !
-
-[![UGA](/images/logo_UFR_IUGA_couleur_2020.svg)](https://iuga.univ-grenoble-alpes.fr/fr/)
-
-
-
-<!-- Le Centre Régional Auvergne-Rhöne-Alpes de l'Information Géographique (CRAIG) renouvelle son partenariat et nous apporte son soutien logistique et financier cette année. Merci à eux !
-
-[![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
-
-
-_Le Centre Régional Auvergne-Rhône-Alpes de l'Information Géographique (CRAIG) est un groupement d'intérêt public créé en 2011 dans le cadre du Contrat de projets Etat-Région, afin de mettre en place un Centre de ressources dans le domaine de l'information géographique. Ce projet s'inscrit dans le cadre d'une démarche globale de mutualisation des coûts et des moyens mais aussi de cohérence régionale en matière de production et d'usage de données géographiques._
-
-_[https://www.craig.fr/](https://www.craig.fr/)_ -->
+[Avignon Université](https://univ-avignon.fr/) co-organise les Journées QGIS-fr 2025
 
 <!--
 ---
@@ -35,7 +18,6 @@ Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur d
 
 [![FAImaison](/images/faimaison.png)](https://www.faimaison.net/) [![K-prod](/images/k-prod.png)](https://k-prod.fr/) 
 
--->
 
 # Nos mécènes OR
 
@@ -91,13 +73,6 @@ _Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de
 _[Grenoble Alpes Métropole](https://www.grenoblealpesmetropole.fr/) regroupe 49 villes et villages situés en Isère (38), et représente un territoire de 450 000 habitants. Elle couvre une superficie de 546 km2._
 
 
-<!-- ---
-
-
-
--->
-
-
 # Nos mécènes ARGENT
 
 [![InterMezzo](/images/logo-intermezzo.svg)](https://www.intermezzo-coop.eu/fr)
@@ -106,24 +81,21 @@ _Intermezzo est un bureau d’études qui accompagne les acteurs publics et priv
 
 _[https://www.intermezzo-coop.eu/fr](https://www.intermezzo-coop.eu/fr)_
 
-<!--
----
 
 [![Azimut](/images/azimut.png)](https://www.azimut.fr/)
 
 [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
-
--->
 
 # Nos mécènes BRONZE
 
 [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
 
 _Créée en 2016, Hytech-imaging contribue au développement des usages de l'imagerie spectrale pour la connaissance et le suivi de l’environnement. Hytech-imaging propose des services et une expertise tout au long de la chaîne de valeur de l’imagerie spectrale, depuis l’acquisition ou la collecte d’images, jusqu’à l’intégration et le déploiement de solutions logicielles, en passant par le traitement automatique d’images et l’extraction d’informations utiles pour vos besoins. D'abord spécialisé dans les applications thématiques maritimes et côtières, Hytech-imaging accompagne désormais ses clients sur d'autres thématiques telles l’archéologie ou l’agronomie. Hytech-imaging intègre QGIS à ses solutions, à la fois comme interface utilisateur de ses chaînes de traitement (QGIS Desktop + extension) et comme distributeur de ses productions (QGIS Server)._
+-->
 
-<!-- # Nos partenaires communication -->
-<!---->
-<!-- [![GeoRezo](/images/georezo.png)](https://www.georezo.net/) -->
+# Nos partenaires communication -->
+
+[![GeoRezo](/images/georezo.png)](https://www.georezo.net/).
 
 
 # Soutenir l'événement
@@ -131,7 +103,7 @@ _Créée en 2016, Hytech-imaging contribue au développement des usages de l'ima
 
 Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/fr/site/getinvolved/governance/sustaining_members/sustaining_members.html#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
 
-<!-- Les modalités de soutien sont définies ci-après.  -->
+<!-- Les modalités de soutien sont définies ci-après.
 
 ## Tarif et visibilité
 
@@ -193,6 +165,7 @@ Plusieurs niveaux sont possibles:
 
 </p></details>
 
+-->
 
 ### Autres formes de soutien
 
