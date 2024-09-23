@@ -7,7 +7,7 @@ menu: header
 
 # Notre partenaire co-organisateur 2025
 
-[Avignon Université](https://univ-avignon.fr/) co-organise le Journées QGIS-fr 2025
+[Avignon Université](https://univ-avignon.fr/) co-organise les Journées QGIS-fr 2025
 
 # Notre partenaire co-organisateur 2024
 
