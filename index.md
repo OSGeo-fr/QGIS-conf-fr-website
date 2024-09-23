@@ -9,7 +9,7 @@ menu: header
 
 Cette année, les rencontres se clôtureront par une journée des contributeurs (traduction, documentation, code sprint).
 
-Cet évènement sera co-organisé avec Avignon Université.
+Cet évènement sera co-organisé avec Avignon Université et plus spécialement l'UMR 7300 ESPACE.
 
 **N'hésitez pas à nous rejoindre dans l'équipe d'organisation, nous avons besoin de vous!**
 
