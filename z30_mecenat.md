@@ -181,7 +181,7 @@ Vous pouvez aussi soutenir directement QGIS.org! Une donation ou un sponsoring �
 Pour contribuer, c’est :
 
 * sur leur page "[Donate](https://www.qgis.org/funding/donate/)"
-* ou encore en achetant t-shirt, mug ou autres goodies sur le [shop](https://shop.spreadshirt.net/qgis/)
+* ou encore en achetant t-shirt, mug ou autres goodies sur la [boutique](https://shop.spreadshirt.net/qgis/)
 
 **Note:** Ces dons sont indépendants de l’organisation des journées QGIS Francophones.
 
