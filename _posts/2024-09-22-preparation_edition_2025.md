@@ -8,4 +8,4 @@ published: True
 
 L'appel à propositions (ateliers et conférences) sera lancé au milieu du dernier trimestre 2024.
 
-Les inscriptions devraient ouvrir début mai.
+Les inscriptions devraient ouvrir au printemps.
