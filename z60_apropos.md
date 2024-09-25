@@ -23,7 +23,7 @@ menu: footer
 - Sylvain Ramière (Département du Vaucluse)
 - Nicolas Roelandt (Université Gustave Eiffel)
 - Harrissou Sant-anna (CAUE 49)
-- Pierre Serafini (SOPRECO)
+- Pierre (SOPRECO)
 
 Pour nous contacter, utilisez le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
@@ -38,7 +38,7 @@ Pour nous contacter, utilisez le formulaire de [contact]({{ site.url }}{{ site.b
 - Cyrille Genre-Grandpierre (Avignon Université/UMR ESPACE)
 - Régis Haubourg (CSTB)
 - Harrissou Sant-anna (CAUE 49)
-- Pierre Serafini (SOPRECO)
+- Pierre (SOPRECO)
 
 **Critères de sélection :**
 
