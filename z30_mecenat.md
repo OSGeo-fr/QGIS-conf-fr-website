@@ -169,14 +169,10 @@ Plusieurs niveaux sont possibles:
 
 ### Autres formes de soutien
 
-<details>
-<summary>▸ Vous pouvez aussi soutenir directement QGIS.org!</summary>
-
-
 [QGIS.org](https://www.qgis.org) est l’association internationale qui gère les fonds issus des dons et sponsoring directs autour de QGIS.
 L’OSGEO-fr héberge le [groupe utilisateur QGIS Fr](https://www.osgeo.fr/association/qgis-fr/) qui est affilié à QGIS.org.
 
-Une donation ou un sponsoring direct à QGIS.org permet de financer :
+Vous pouvez aussi soutenir directement QGIS.org! Une donation ou un sponsoring à QGIS.org permet de financer :
 
 * des développeurs pour des tâches de maintenance à chaque version
 * les serveurs et maintenances associées
@@ -185,8 +181,8 @@ Une donation ou un sponsoring direct à QGIS.org permet de financer :
 Pour contribuer, c’est :
 
 * sur leur page "[Donate](https://www.qgis.org/funding/donate/)"
-* ou encore en achetant t-shirt, mug ou autres goodies sur le [shop](https://shop.spreadshirt.net/qgis/)
+* ou encore en achetant tee-shirt, mug ou autres goodies sur la [boutique](https://shop.spreadshirt.net/qgis/)
 
 **Note:** Ces dons sont indépendants de l’organisation des journées QGIS Francophones.
 
-</details>
+
