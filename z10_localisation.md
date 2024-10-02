@@ -28,6 +28,7 @@ Les rencontres descendent le Rhône pour rejoindre la Cité des Papes avec le so
         <li>A vélo : 18 mn (3,7 km dont 3,5 km de voies cyclables) de la gare de Grenoble</li>
       </ul>
         -->
+      <strong>Stationnement impossible dans l'université, [parking relais "des Italiens"](https://www.openstreetmap.org/?mlat=43.954016&mlon=4.823148#map=18/43.954016/4.823148) près du Rhône assez proche (500m)</strong>
       </p>
     </td>
     <td>
