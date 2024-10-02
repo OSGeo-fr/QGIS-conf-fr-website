@@ -2,7 +2,7 @@ Ce dépot est le site internet des Rencontres Utilisateurs Francophone de QGIS. 
 
 Pour construire le site localement :
 
-Suivre les instructions d'installation https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekylls
+Suivre les instructions d'installation https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
 
 puis 
 
