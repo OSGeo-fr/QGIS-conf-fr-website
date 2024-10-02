@@ -13,7 +13,7 @@ QGIS vit grâce à vos [contributions](https://qgis.org/community/involve/) qui 
 - [Modifier QGIS soi même](https://docs.qgis.org/latest/fr/docs/developers_guide/index.html) ou via des [prestataires de service commercial](https://qgis.org/resources/support/commercial-support/)
 - Réclamer une [certification QGIS.org](https://qgis.org/community/certification/) lors de vos formations
 - Sponsorisation & Dons
-  - Sponsoriser [QGIS.org](https://qgis.org/funding/membership/members/) directement
+  - [Sponsoriser QGIS.org](https://qgis.org/funding/membership/members/) directement
   - Faire un [don](https://qgis.org/funding/donate/)
   - [Soutenir l'OSGeo-FR](https://www.osgeo.fr) en adhérant ou en donnant
 
