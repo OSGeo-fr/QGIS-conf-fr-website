@@ -100,7 +100,6 @@ _Créée en 2016, Hytech-imaging contribue au développement des usages de l'ima
 
 # Soutenir l'événement
 
-
 Les bénéfices seront dédiés à [soutenir](https://www.qgis.org/funding/membership/members/#how-can-you-support-the-qgis-development) QGIS.org, sous forme d'adhésion du groupe QGIS utilisateurs FR.
 
 Les modalités de soutien sont définies ci-après.
@@ -125,7 +124,7 @@ Plusieurs niveaux sont possibles:
         <li>Logo et citation pendant l'événement (écran d'accueil)</li>
         <li>Possibilité d'apporter un Kakemono sur la scène de la conférence plénière et un autre dans le hall</li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
-        <li>Logo, lien et courte présentation sur le programme</li>
+        <!-- <li>Logo, lien et courte présentation sur le programme</li> -->
         <li>Citation dans les communications sur les réseaux sociaux</li>
         <li>Espace pour déposer vos flyers et goodies dans le hall</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
@@ -144,7 +143,7 @@ Plusieurs niveaux sont possibles:
         <li>Une inscription incluse pour la journée de conférences</li>
         <li>Logo pendant l'évènement (deuxième page d'écran) </li>
         <li>Logo, lien et présentation de l'organisme sur le site web</li>
-        <li>Logo, lien et courte présentation sur le programme</li>
+        <!-- <li>Logo, lien et courte présentation sur le programme</li> -->
         <li>Espace pour déposer vos flyers et goodies dans le hall</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
     </ul>
@@ -156,7 +155,6 @@ Plusieurs niveaux sont possibles:
 <details><summary>▸ Détail du niveau Bronze</summary><p>
 
 <ul style="padding-left:40px">
-    <li>Pas de limite</li>
     <ul style="padding-left:40px">
         <li>Logo et lien sur le site web</li>
         <li>Maintien du logo et du lien vers l'organisme sur la page du site de l'événement "<a href="z50_archive.html">Archives</a>"</li>
