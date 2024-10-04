@@ -15,3 +15,5 @@ Les inscriptions sont ouvertes [ici](/z25_inscription.html).
 Le programme est sorti !
 
 **_NB_ : les ateliers se tiendont uniquement en présentiel. Il n'est pas possible d'y participer en visio. Par ailleurs, ils ne seront pas enregistrés.** 
+
+### jbjkfdbqskjlhf
