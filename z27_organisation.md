@@ -7,7 +7,7 @@ menu: header
 
 Les Rencontres Utilisateurs QGIS-fr sont organisées par des bénévoles de l'[OSGeo-fr](https://www.osgeo.fr/),
 en partenariat avec les équipes des structures qui accueillent l'événement.
-Nous sommes organisées en comités et nous réunissons toutes les 2/3 semaines,
+Nous sommes organisés en comités et nous nous réunissons toutes les 2/3 semaines,
 1h sur le temps de midi pour échanger sur les avancées et les questions de chacun de ces comités.
 Selon la période, des comités peuvent se réunir en plus sur quelques créneaux supplémentaires.
 Chacun peut s’investir dans un ou plusieurs comités, selon ses envies et ses compétences.
