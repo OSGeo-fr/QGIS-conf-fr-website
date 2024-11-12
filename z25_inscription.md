@@ -3,7 +3,7 @@ layout: page
 title: Inscription
 tagline: Inscrivez vous aux rencontres QGIS !
 menu: header
-published: false
+published: true
 ---
 
 ### Demande d'attestation de présence
