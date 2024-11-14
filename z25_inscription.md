@@ -14,7 +14,7 @@ published: true
 
 ### Les inscriptions ouvriront au printemps
 
-inscrivez-vous à notre newsletter pour être informé(e)
+abonnez-vous à notre newsletter pour être informé(e)
 
 <div class="newsletter">
     <p>(* champs obligatoires)</p>
@@ -28,7 +28,7 @@ inscrivez-vous à notre newsletter pour être informé(e)
       <input type="text" name="societe"><br/>
       Adresse e-mail * :<br/>
       <input type="text" name="email" required><br/><br/>
-      <input type="submit" value="S'inscrire">
+      <input type="submit" value="S'abonner">
     </form>
 </div>
 <!---
