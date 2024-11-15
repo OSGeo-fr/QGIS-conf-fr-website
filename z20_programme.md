@@ -1,5 +1,5 @@
 ---
-layout: page_with_program
+layout: page
 title: Programme
 tagline: L'appel à proposition est ouvert
 menu: header
