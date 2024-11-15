@@ -15,7 +15,7 @@ Nous attendons avec impatience vos propositions d'interventions pour :
 
 * une conférence pour le mercredi 11 juin. D'une durée de 15 min + 10 min de questions/réponses, il s'agit alors d'exposer vos travaux, vos réalisations, vos développements devant un public varié.
 
-Notez que ces conférences devraient être retransmises en direct sur internet, et enregistrées pour être mises à disposition sur la [chaine YouTube du Groupe utilisateur QGIS-FR](https://www.youtube.com/@qgisfr8230/playlists).
+Notez que ces conférences seront enregistrées et mises à disposition sur la [chaine YouTube du Groupe utilisateur QGIS-FR](https://www.youtube.com/@qgisfr8230/playlists). Les supports de présentation seront également accessibles sur la page *archives* de ce site.
 
 Nous souhaiterions cette année mettre en avant l'utilisation de QGIS dans le monde de la culture, en résonnance avec "Avignon, terre de culture 2025" : n'hésitez pas à venir échanger sur vos travaux dans ce domaine! Les autres domaines pourront bien sûr être abordés, n'hésitez pas non plus à nous proposer tout autre sujet.
 
