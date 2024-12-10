@@ -98,7 +98,8 @@ _Créée en 2016, Hytech-imaging contribue au développement des usages de l'ima
 
 # Nos partenaires communication
 
-[![GeoRezo](/images/georezo.png)](https://www.georezo.net/).
+[![GeoRezo](/images/georezo.png)](https://www.georezo.net/)
+[![Geotribu](/images/geotribu.png)](https://geotribu.fr/)
 
 
 # Soutenir l'événement
