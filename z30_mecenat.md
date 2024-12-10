@@ -18,8 +18,17 @@ Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur d
 
 [![FAImaison](/images/faimaison.png)](https://www.faimaison.net/) [![K-prod](/images/k-prod.png)](https://k-prod.fr/) 
 
+-->
 
 # Nos mécènes OR
+
+[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
+
+_Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation._
+
+---
+
+<!--
 
 [![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
 
@@ -39,12 +48,6 @@ _Composée de spécialistes de l’Open Source, Camptocamp est une entreprise in
 [![3Liz](/images/3liz.png)](https://www.3liz.com/)
 
 _3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Serveur, auxquels nous contribuons. Nous avons aussi développé Lizmap, outil de publication de cartes Web dynamiques._
-
----
-
-[![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/)
-
-_Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation._
 
 ---
 
