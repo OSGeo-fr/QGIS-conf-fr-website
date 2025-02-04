@@ -36,7 +36,7 @@ Partenaires communication:
 ### Programme
 
 L'ensemble des vidéos de la journée de conférences est disponible sur [notre page Youtube](https://www.youtube.com/playlist?list=PLAl6XWer3JnPMoqSy-MEVCCj8dbt9gab_).
-<!-- Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2024).-->
+Les présentations sont disponibles au format pdf dans [notre dépôt GitLab](https://gitlab.com/osgeo-fr/journees_qgis/-/tree/master/Pr%C3%A9sentations/2024).
 
 # Édition 2023
 
@@ -94,7 +94,7 @@ Lundi 13 mars :
          </tr>
         <tr class="pause-atelier">
             <td colspan=9><b>Pause déjeuner</b></td>
-        </tr>       
+        </tr>
         <tr class="atelier">
             <td><b>14h00 - 16h30</b></td>
             <td>Associer vos documents et vos données avec QGIS - Julien Cabieces (Oslandia)</td>
@@ -105,7 +105,7 @@ Lundi 13 mars :
             <td>A la découverte des données Lidar HD : vers une cartographie 3D France entière - Zacharie Coq et Sofiane Kriat (IGN)</td>
             <td></td>
             <td>Barcamp</td>
-        </tr>       
+        </tr>
         <tr class="atelier">
             <td><b>16h30 - 17h30</b></td>
             <td colspan=9><b>Discussion et retours d'expérience de la journée</b> - <i>Salle Chambon</i></td>
@@ -227,7 +227,7 @@ Parrains:
 
 [![Azimut](/images/azimut.png)](https://www.azimut.fr/) [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
 
-Soutiens : 
+Soutiens :
 
 [![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
 
@@ -270,7 +270,7 @@ Mardi 18 janvier :
         </tr>
         <tr class="pause-atelier">
             <td colspan=6><b>Pause</b></td>
-        </tr>       
+        </tr>
         <tr class="atelier">
             <td rowspan=2><b>14h00 - 17h00</b><br>Simplifiez-vous la vérification des plans avec QompliGIS</td>
             <td rowspan=2><b>14h00 - 17h00</b><br>Publier un projet QGIS sur le web avec Lizmap</td>
@@ -278,7 +278,7 @@ Mardi 18 janvier :
             <td><b>14h00 - 15h30</b><br>Fonctionnement du modeleur graphique</td>
             <td><b>14h00 - 15h30</b><br>Géoréférencement de plans anciens</td>
             <td><b>14h00 - 15h30</b><br>Réalisation d'une carte animée sur la base d'un paramètre temporel</td>
-        </tr>       
+        </tr>
         <tr class="atelier">
             <td></td>
             <td></td>
@@ -413,7 +413,7 @@ Parrains:
 
 [![Azimut](/images/azimut.png)](https://www.azimut.fr/)
 
-Soutiens : 
+Soutiens :
 
 [![CRAIG](/images/logo-craig.svg)](https://www.craig.fr) [![Empreinte digitale](/images/logo-empreinte-digitale.svg)](https://empreintedigitale.fr)
 
@@ -427,7 +427,7 @@ Les présentations sont disponibles au format pdf dans [notre dépôt GitHub](ht
 Mardi 15 décembre :
 
 <table class="atelier-table">
-    <thead>    
+    <thead>
     <th>Salle 1</th><th>Salle 2</th><th>Salle 3</th><th>Salle 4</th>
    </thead>
     <tr class="atelier">
@@ -479,16 +479,16 @@ Mercredi 16 décembre :
 
 L'édition 2019 a été soutenue par:
 
-Mécènes: 
+Mécènes:
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/) [![Oslandia](/images/oslandia_rectangle.png)](http://oslandia.com/fr/home/) [![SOGEFI](/images/sogefi.png)](https://www.sogefi-sig.com/)
 
-Parrains : 
+Parrains :
 
 [![Azimut](/images/azimut.png)](https://www.azimut.fr) [![IDGeo](/images/idgeo.png)](https://www.idgeo.fr) [![3Liz](/images/3liz.png)](https://www.3liz.com/)
 
 
-Soutiens : 
+Soutiens :
 
 [![JHemmi](/images/jhemmi.png)](http://jhemmi.eu) [![Surface Libre](/images/surfacelibre.png)](http://www.surfacelibre.fr)
 
@@ -500,7 +500,7 @@ Le thème choisi était **QGIS une plateforme multi-logiciels: couteau suisse de
 
 #### Matin - 9h30 à 12h30
 
-* **Introduction de la journée** - [Harrissou Sant-Anna](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/02_qgis-fr-user.pdf) (Président du groupe utilisateur de QGIS francophone), [Marco Bernasocchi]() (Chairman QGIS.ORG) et [Régis Haubourg](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/01_presentation_osgeo-fr_haubourg.odp.pdf) (Président OSGeo-fr) 
+* **Introduction de la journée** - [Harrissou Sant-Anna](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/02_qgis-fr-user.pdf) (Président du groupe utilisateur de QGIS francophone), [Marco Bernasocchi]() (Chairman QGIS.ORG) et [Régis Haubourg](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/01_presentation_osgeo-fr_haubourg.odp.pdf) (Président OSGeo-fr)
 * **[Stratégies de collecte de données sur le terrain en utilisant QField et QGIS]** - Marco Bernasocchi (Opengis)
 * **[Qgis le conquérant" en Charente](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/04_Presentation_Charente_Eaux%20_Qgis.pdf)** - Céline Pornin (Charente Eaux)
 * **[Plus besoin de plugins, seulement des algorithmes](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2019/05_qgis_fr_user_Plugins_Processings.pdf)** - René-Luc D'Hont (3Liz)
@@ -532,12 +532,12 @@ Le thème choisi était **QGIS une plateforme multi-logiciels: couteau suisse de
 #### Après-midi - 14h00 à 16h40
 
 * **[Développement de plugins procéduraux orientés métier](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/06_MChailloux_plugin_biodispersal_INRA.pdf) - [vidéo](https://youtu.be/Cp_PqLpK4c4)** Mathieu Chailloux (IRSTEA). Un bel exemple de plugin basé sur la logique des géotraitement Processing et ajoutant une interface graphique générique plus ergonomique et sous forme d'un assistant par étapes.
-* **[Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/07_ENSG_plugin_ordonnancement_reseau.pdf) - [vidéo](https://youtu.be/hdX4OMqJG40)** Cécile Duchêne et Alice Gonnaud (Ecole Nationale des Sciences Géographiques). Cette présentation d'une démarche de création de plugin ouvert par des étudiants à permis d'élargir la discussion à la question des licences open source pour des plugins QGIS, soumis de facto à la licence GPLv2, et des méthodes pour structurer du code si l'on souhaite des licences différentes pour le moteur de calcul. 
+* **[Hy2roresO: un plugin QGIS dédié à la hiérarchisation automatique de réseaux hydrographiques](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/07_ENSG_plugin_ordonnancement_reseau.pdf) - [vidéo](https://youtu.be/hdX4OMqJG40)** Cécile Duchêne et Alice Gonnaud (Ecole Nationale des Sciences Géographiques). Cette présentation d'une démarche de création de plugin ouvert par des étudiants à permis d'élargir la discussion à la question des licences open source pour des plugins QGIS, soumis de facto à la licence GPLv2, et des méthodes pour structurer du code si l'on souhaite des licences différentes pour le moteur de calcul.
 Cette présentation d'une démarche de création de plugin ouvert par des étudiant à permis d'élargir la discussion à la question des licences open source pour des plugins QGIS, soumis de facto à la licence GPLv2, et des méthodes pour structurer du code si l'on souhaite des licences différentes pour le moteur de calcul.
-* **[Présentation d'un outil de création / numérisation des éléments graphiques d'un Plan Local d'Urbanisme Intercommunal (PLUI) dans un eco-système QGIS & PostGis](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/08_journee_qgis_2018_plui_versionning.pdf) - [vidéo](https://youtu.be/t6mIKRnAVtw)** Anh Tam Vo (Grenoble Alpes Métropole). Réaliser un projet de plan d'urbanisme intercommunal, à 49 communes, avec de multiples versions des projets, un workflow de validation complexe, un calendrier contraint, et un besoin d'archivage de toutes les actions réalisées. Ce projet mérite réellement d'être élargi pour servir à d'autres intercommunalités. 
+* **[Présentation d'un outil de création / numérisation des éléments graphiques d'un Plan Local d'Urbanisme Intercommunal (PLUI) dans un eco-système QGIS & PostGis](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/08_journee_qgis_2018_plui_versionning.pdf) - [vidéo](https://youtu.be/t6mIKRnAVtw)** Anh Tam Vo (Grenoble Alpes Métropole). Réaliser un projet de plan d'urbanisme intercommunal, à 49 communes, avec de multiples versions des projets, un workflow de validation complexe, un calendrier contraint, et un besoin d'archivage de toutes les actions réalisées. Ce projet mérite réellement d'être élargi pour servir à d'autres intercommunalités.
 * **[Migration vers QGIS dans un syndicat d'électricité](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/09_Migration_QGIS_au_SDEV_Electricite_DAO.pdf) - [vidéo](https://youtu.be/QKR9LnhxMIM)** Jean-Marie ARSAC (Azimut). Un cas probablement très fréquent de migration et de libération des verrous logiciels d'une entité, mais également de tous ses fournisseurs. Le format DWG reste un irritant majeur, après #killshapefile, #killdwg ? Exigeons des formats d'échange intéropérables!
 * **[Le plugin cadastre - Intégration et exploitation des données cadastre](https://github.com/OSGeo-fr/QGIS-user-fr/blob/master/2018/presentations/10_Le_plugin_Cadastre_QGIS_Integration_exploitation_cadastre.pdf) - [vidéo](https://youtu.be/-6DkU7dRySA)**  Michaël Douchin (3Liz). Histoire, vie et communauté autour du plugin QGIS. On a parlé d'économies de mutualisation, mais aussi de "bus factor", de "vie" d'un écosystème communautaire opensource.
-* **[Clôture / remerciements]() - [vidéo](https://youtu.be/P4xQq16Pvw0)** 
+* **[Clôture / remerciements]() - [vidéo](https://youtu.be/P4xQq16Pvw0)**
 
 # Édition 2017:
 
