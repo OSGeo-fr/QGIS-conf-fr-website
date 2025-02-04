@@ -3,7 +3,7 @@ layout: page
 title: Programme
 tagline: L'appel à proposition est ouvert
 menu: header
-published: true
+published: false
 ---
 
 Comme chaque année, c'est vous qui faites le programme!
