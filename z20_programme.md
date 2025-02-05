@@ -14,7 +14,7 @@ Après l'appel à propositions qui est maintenant clos, participez au choix du p
 
 📧 Comment ça marche ?
 
-- Vous aurez besoin d'un adresse mail pour voter (celle-ci ne sera pas conservée)
+- Vous aurez besoin d'une adresse mail pour voter (celle-ci ne sera pas conservée)
 - Par mesure d'équité l'ordre d'affichage des propositions varie d'une URL à l'autre
 - Les réponses sont automatiquement envoyées, mais elles peuvent être modifiées tant que la consultation est ouverte !
 
