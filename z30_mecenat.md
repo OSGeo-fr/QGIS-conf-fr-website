@@ -28,6 +28,8 @@ _Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée 
 
 
 
+---
+
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
 _Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source._
