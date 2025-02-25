@@ -9,7 +9,7 @@ menu: header
 
 Cette année, les rencontres se clôtureront par une journée des contributeurs (traduction, documentation, code sprint).
 
-Cet évènement sera co-organisé avec Avignon Université et plus spécialement l'UMR 7300 ESPACE. ***Les rencontres sont ouvertes à tou(te)s, que vous utilisez QGIS ou non***.
+Cet évènement sera co-organisé avec Avignon Université et plus spécialement l'UMR 7300 ESPACE. ***Les rencontres sont ouvertes à tou(te)s, que vous utilisiez QGIS ou non***.
 
 Les inscriptions aux ateliers et aux conférences et à la journée de contribution ouvriront courant mars. N'hésitez pas à vous abonner à la *newsletter* pour être tenu(e) informé(e).
 
