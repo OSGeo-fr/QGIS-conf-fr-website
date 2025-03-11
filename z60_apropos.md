@@ -9,14 +9,18 @@ menu: footer
 
 - Marjorie Fangain (KEOLIS RENNES)
 - Léonie Gonon (MODAAL)
+- Margaux Pontier (Pays de Fontainebleau)
+- Raquel Rodriguez (BIOTOPE)
 - Floriane Serré (Agence de l'Eau Loire-Bretagne)
+- Guilhem Allaman
 - Jean-Marie Arsac (AZIMUT)
 - Victor Canut (Département du Vaucluse)
 - Sylvain Beorchia (OSLANDIA)
-- Loïc Bartoletti (OSLANDIA)
+- Jean Felder (OSLANDIA)
 - François Ganz (Ville d'Avignon)
 - Cyrille Genre-Grandpierre (Avignon Université/UMR ESPACE)
 - Régis Haubourg (QGIS.org)
+- Jeremy Kalsron (UCA)
 - Thomas Michel (IdGeo)
 - Julien Moura (OSLANDIA)
 - Sébastien Peillet (HYTECH-IMAGING)
@@ -25,6 +29,7 @@ menu: footer
 - Nicolas Roelandt (Université Gustave Eiffel)
 - Harrissou Sant-anna (CAUE 49)
 - Pierre (SOPRECO)
+- Jean-Louis Zimmermann (Département du Vaucluse)
 
 Pour nous contacter, utilisez le formulaire de [contact]({{ site.url }}{{ site.baseurl }}/z40_contact.html).
 
