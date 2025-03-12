@@ -23,7 +23,6 @@ menu: footer
 - Jeremy Kalsron (UCA)
 - Thomas Michel (IdGeo)
 - Julien Moura (OSLANDIA)
-- Sébastien Peillet (HYTECH-IMAGING)
 - Antoine Peris (Avignon Université/UMR ESPACE)
 - Sylvain Ramière (Département du Vaucluse)
 - Nicolas Roelandt (Université Gustave Eiffel)
