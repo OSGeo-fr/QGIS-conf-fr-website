@@ -12,7 +12,7 @@ menu: footer
 - Margaux Pontier (Pays de Fontainebleau)
 - Raquel Rodriguez (BIOTOPE)
 - Floriane Serré (Agence de l'Eau Loire-Bretagne)
-- Guilhem Allaman
+- Guilhem Allaman (OPENGIS.ch)
 - Jean-Marie Arsac (AZIMUT)
 - Victor Canut (Département du Vaucluse)
 - Sylvain Beorchia (OSLANDIA)
