@@ -34,8 +34,6 @@ _Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée 
 
 _Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source._
 
-<!--
-
 [![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
 
 
@@ -49,6 +47,25 @@ _[https://www.craig.fr/](https://www.craig.fr/)_
 
 _3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Serveur, auxquels nous contribuons. Nous avons aussi développé Lizmap, outil de publication de cartes Web dynamiques._
 
+# Nos mécènes ARGENT
+
+[![UMR TREE](/images/Logo TREE_UPPA_CNRS_horizontal_2024.png)](https://tree.univ-pau.fr/fr/index.html)
+
+L'UMR Transitions énergétiques et environnementales (TREE) est une unité mixte de recherche du CNRS et de l’Université de Pau et des Pays de l’Adour. Elle aborde les transitions énergétiques et environnementales en regroupant des chercheurs issus de la géographie, de la sociologie, du droit, des sciences économiques et politiques. L’objectif général de l’unité est d’analyser les enjeux, les freins et les leviers pour la mise en œuvre des transitions énergétiques et environnementales, en travaillant tant sur les innovations technologiques que sur les incitations économiques ou fiscales et les initiatives territoriales en faveur des transitions.
+
+# Nos mécènes BRONZE
+
+[![CRIGE-PACA](/images/CRIGE-2021-logo-vector.svg)](https://www.crige-paca.org/)
+
+La géomatique à la carte
+
+Le Centre de Ressources en Information Géographique en Provence-Alpes-Côte d’Azur (CRIGE PACA) a été mis en place il y a plus de 20 ans pour accompagner les producteurs et utilisateurs de données géolocalisées de PACA dans leurs missions quotidiennes.
+
+Cet appui repose sur une solide expertise technique (données, outils, méthodes), sur l’animation de communautés de géomaticiens au niveau régional et dans les départements, sur sa représentation dans les instances nationales du secteur des géodatas (Afigéo et CNIG).
+
+Le CRIGE est une association. Il est neutre. Il est réactif. Sa gouvernance est ouverte. Il a su acquérir au fil des ans, la confiance de ses adhérents et de ses partenaires.
+
+<!-->
 ---
 
 [![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](https://bdnb.io)
