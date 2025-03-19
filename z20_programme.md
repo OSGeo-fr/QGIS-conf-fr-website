@@ -45,21 +45,9 @@ Nous comptons sur vous pour permettre aux prochaines rencontres QGIS d'être ric
 
 Les inscriptions sont ouvertes [ici](/z25_inscription.html).
 
---->
 #### Programme
 
 Le programme est sorti !
 
-<div style="overflow-x: auto;white-space: nowrap;">
-<pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c;max-width: 800px;"></pretalx-schedule>
-<noscript>
-   <div class="pretalx-widget">
-        <div class="pretalx-widget-info-message">
-            JavaScript is disabled in your browser. To access our schedule without JavaScript,
-            please <a target="_blank" href="https://talks.osgeo.org/qgis-french-users-days-2025/schedule/">click here</a>.
-        </div>
-    </div>
-</noscript>
-</div>
-
 **_NB_ : les ateliers se tiendont uniquement en présentiel. Il n'est pas possible d'y participer en visio. Par ailleurs, ils ne seront pas enregistrés.**
+--->
