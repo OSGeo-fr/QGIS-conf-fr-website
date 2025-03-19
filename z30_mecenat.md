@@ -74,10 +74,15 @@ _Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de
  [![Grenoble Alpes Métropole](/images/150px-Logo_Grenoble_Alpes_Métropole.svg.png)](https://www.grenoblealpesmetropole.fr/)
 
 _[Grenoble Alpes Métropole](https://www.grenoblealpesmetropole.fr/) regroupe 49 villes et villages situés en Isère (38), et représente un territoire de 450 000 habitants. Elle couvre une superficie de 546 km2._
-
+-->
 
 # Nos mécènes ARGENT
 
+[![UMR 6031 - TREE - TRansitions Energétiques et Environnementales](/images/logo_umr_tree.png)](https://tree.univ-pau.fr/fr/index.html)
+
+_L'UMR Transitions énergétiques et environnementales (TREE) est une unité mixte de recherche du CNRS et de l’Université de Pau et des Pays de l’Adour. Elle aborde les transitions énergétiques et environnementales en regroupant des chercheurs issus de la géographie, de la sociologie, du droit, des sciences économiques et politiques. L’objectif général de l’unité est d’analyser les enjeux, les freins et les leviers pour la mise en œuvre des transitions énergétiques et environnementales, en travaillant tant sur les innovations technologiques que sur les incitations économiques ou fiscales et les initiatives territoriales en faveur des transitions._
+
+<!--
 [![InterMezzo](/images/logo-intermezzo.svg)](https://www.intermezzo-coop.eu/fr)
 
 _Intermezzo est un bureau d’études qui accompagne les acteurs publics et privés dans leurs démarches et projets de transition énergétique, changement climatique et développement territorial durable. Son offre est faite de services, conseils, outils et formations. L'approche spatiale est au cœur des activités de l'entreprise._
