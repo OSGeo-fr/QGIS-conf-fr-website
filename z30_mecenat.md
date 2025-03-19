@@ -26,20 +26,17 @@ Pour la diffusion des ateliers et des conféences, l'organisation s'appuie sur d
 
 _Oslandia est une ENL (Entreprise du Numérique Libre) française spécialisée en systèmes d’information géographique (SIG) Open Source, et particulièrement en bases de données spatiales, Web Services OGC et SIG bureautiques. Oslandia, avec deux core committers QGIS, est une des sociétés les plus actives dans le développement de cet outil SIG bureautique. Oslandia propose une offre de service complète : conseil, audit, développement, support, formation._
 
-
-
 ---
 
 [![Camptocamp](/images/camptocamp.png)](https://www.camptocamp.com/)
 
 _Composée de spécialistes de l’Open Source, Camptocamp est une entreprise innovante dans l’intégration de logiciels servant à la mise en valeur de données géospatiales, à la gestion complète d’entreprise et à la gestion d’infrastructures informatiques. Afin de s’adapter parfaitement à vos besoins, Camptocamp construit des solutions personnalisées en utilisant les meilleures technologies Open Source._
 
+---
+
 [![CRAIG](/images/logo-craig.svg)](https://www.craig.fr)
 
-
 _Le Centre Régional Auvergne-Rhône-Alpes de l'Information Géographique (CRAIG) est un groupement d'intérêt public créé en 2011 dans le cadre du Contrat de projets Etat-Région, afin de mettre en place un Centre de ressources dans le domaine de l'information géographique. Ce projet s'inscrit dans le cadre d'une démarche globale de mutualisation des coûts et des moyens mais aussi de cohérence régionale en matière de production et d'usage de données géographiques._
-
-_[https://www.craig.fr/](https://www.craig.fr/)_
 
 ---
 
@@ -49,23 +46,22 @@ _3Liz est une société de services autour des logiciels libres SIG. Nous nous s
 
 # Nos mécènes ARGENT
 
-[![UMR TREE](/images/Logo TREE_UPPA_CNRS_horizontal_2024.png)](https://tree.univ-pau.fr/fr/index.html)
+[![UMR TREE](/images/Logo_TREE_UPPA_CNRS_horizontal_2024.png)](https://tree.univ-pau.fr/fr/index.html)
 
-L'UMR Transitions énergétiques et environnementales (TREE) est une unité mixte de recherche du CNRS et de l’Université de Pau et des Pays de l’Adour. Elle aborde les transitions énergétiques et environnementales en regroupant des chercheurs issus de la géographie, de la sociologie, du droit, des sciences économiques et politiques. L’objectif général de l’unité est d’analyser les enjeux, les freins et les leviers pour la mise en œuvre des transitions énergétiques et environnementales, en travaillant tant sur les innovations technologiques que sur les incitations économiques ou fiscales et les initiatives territoriales en faveur des transitions.
+_L'UMR Transitions énergétiques et environnementales (TREE) est une unité mixte de recherche du CNRS et de l’Université de Pau et des Pays de l’Adour. Elle aborde les transitions énergétiques et environnementales en regroupant des chercheurs issus de la géographie, de la sociologie, du droit, des sciences économiques et politiques. L’objectif général de l’unité est d’analyser les enjeux, les freins et les leviers pour la mise en œuvre des transitions énergétiques et environnementales, en travaillant tant sur les innovations technologiques que sur les incitations économiques ou fiscales et les initiatives territoriales en faveur des transitions._
+
 
 # Nos mécènes BRONZE
 
 [![CRIGE-PACA](/images/CRIGE-2021-logo-vector.svg)](https://www.crige-paca.org/)
 
-La géomatique à la carte
+_La géomatique à la carte.  Le Centre de Ressources en Information Géographique en Provence-Alpes-Côte d’Azur (CRIGE PACA) a été mis en place il y a plus de 20 ans pour accompagner les producteurs et utilisateurs de données géolocalisées de PACA dans leurs missions quotidiennes._
 
-Le Centre de Ressources en Information Géographique en Provence-Alpes-Côte d’Azur (CRIGE PACA) a été mis en place il y a plus de 20 ans pour accompagner les producteurs et utilisateurs de données géolocalisées de PACA dans leurs missions quotidiennes.
+_Cet appui repose sur une solide expertise technique (données, outils, méthodes), sur l’animation de communautés de géomaticiens au niveau régional et dans les départements, sur sa représentation dans les instances nationales du secteur des géodatas (Afigéo et CNIG)._
 
-Cet appui repose sur une solide expertise technique (données, outils, méthodes), sur l’animation de communautés de géomaticiens au niveau régional et dans les départements, sur sa représentation dans les instances nationales du secteur des géodatas (Afigéo et CNIG).
+_Le CRIGE est une association. Il est neutre. Il est réactif. Sa gouvernance est ouverte. Il a su acquérir au fil des ans, la confiance de ses adhérents et de ses partenaires._
 
-Le CRIGE est une association. Il est neutre. Il est réactif. Sa gouvernance est ouverte. Il a su acquérir au fil des ans, la confiance de ses adhérents et de ses partenaires.
-
-<!-->
+<!--
 ---
 
 [![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](https://bdnb.io)
@@ -91,27 +87,18 @@ _Créé en septembre 2013 sur le modèle d’une SCOP (Société Coopérative de
  [![Grenoble Alpes Métropole](/images/150px-Logo_Grenoble_Alpes_Métropole.svg.png)](https://www.grenoblealpesmetropole.fr/)
 
 _[Grenoble Alpes Métropole](https://www.grenoblealpesmetropole.fr/) regroupe 49 villes et villages situés en Isère (38), et représente un territoire de 450 000 habitants. Elle couvre une superficie de 546 km2._
--->
 
-# Nos mécènes ARGENT
+---
 
-[![UMR 6031 - TREE - TRansitions Energétiques et Environnementales](/images/logo_umr_tree.png)](https://tree.univ-pau.fr/fr/index.html)
-
-_L'UMR Transitions énergétiques et environnementales (TREE) est une unité mixte de recherche du CNRS et de l’Université de Pau et des Pays de l’Adour. Elle aborde les transitions énergétiques et environnementales en regroupant des chercheurs issus de la géographie, de la sociologie, du droit, des sciences économiques et politiques. L’objectif général de l’unité est d’analyser les enjeux, les freins et les leviers pour la mise en œuvre des transitions énergétiques et environnementales, en travaillant tant sur les innovations technologiques que sur les incitations économiques ou fiscales et les initiatives territoriales en faveur des transitions._
-
-<!--
 [![InterMezzo](/images/logo-intermezzo.svg)](https://www.intermezzo-coop.eu/fr)
 
 _Intermezzo est un bureau d’études qui accompagne les acteurs publics et privés dans leurs démarches et projets de transition énergétique, changement climatique et développement territorial durable. Son offre est faite de services, conseils, outils et formations. L'approche spatiale est au cœur des activités de l'entreprise._
 
-_[https://www.intermezzo-coop.eu/fr](https://www.intermezzo-coop.eu/fr)_
-
+---
 
 [![Azimut](/images/azimut.png)](https://www.azimut.fr/)
 
-[![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
-
-# Nos mécènes BRONZE
+---
 
 [![Hytech-imaging](/images/hytech-imaging.png)](https://hytech-imaging.fr/)
 
