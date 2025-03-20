@@ -55,7 +55,7 @@ Le programme des journées QGIS-fr 2025 est disponible !
 **_NB_ : les ateliers se tiendront uniquement en présentiel. Il n'est pas possible d'y participer en visio. Par ailleurs, ils ne seront pas enregistrés.**
 
 <!-- <div style="overflow-x: auto;white-space: nowrap;"> -->
-<pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c;max-width: 800px;"></pretalx-schedule>
+<pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c;max-width: 100%;"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
