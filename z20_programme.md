@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Programme
-tagline: Votez pour le programme
+tagline: Consultez le programme
 menu: header
 published: true
 ---
+<!--
 <span style="font-size:larger;">
 Votez le programme des journées QGIS 2025 ! 📢
 </span>
@@ -22,6 +23,7 @@ Après le succès de l'appel à propositions, participez maintenant au choix du 
 Le comité de programme compte sur vous 😉
 
 <https://talks.osgeo.org/qgis-french-users-days-2025/p/voting/signup/>
+-->
 
 <!---
 Comme chaque année, c'est vous qui faites le programme!
@@ -48,9 +50,11 @@ Les inscriptions sont ouvertes [ici](/z25_inscription.html).
 --->
 #### Programme
 
-Le programme est sorti !
+Le programme des journées QGIS-fr 2025 est disponible !
 
-<div style="overflow-x: auto;white-space: nowrap;">
+**_NB_ : les ateliers se tiendront uniquement en présentiel. Il n'est pas possible d'y participer en visio. Par ailleurs, ils ne seront pas enregistrés.**
+
+<!-- <div style="overflow-x: auto;white-space: nowrap;"> -->
 <pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c;max-width: 800px;"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
@@ -60,6 +64,4 @@ Le programme est sorti !
         </div>
     </div>
 </noscript>
-</div>
-
-**_NB_ : les ateliers se tiendont uniquement en présentiel. Il n'est pas possible d'y participer en visio. Par ailleurs, ils ne seront pas enregistrés.**
+<!-- </div> -->
