@@ -53,7 +53,7 @@ _L'UMR Transitions énergétiques et environnementales (TREE) est une unité mix
 
 # Nos mécènes BRONZE
 
-[![CRIGE-PACA](/images/CRIGE-2021-logo-vector.svg){: width="50%"}](https://www.crige-paca.org/)
+[![CRIGE-PACA](/images/CRIGE-2021-logo-vector.svg){: width="10%"}](https://www.crige-paca.org/)
 
 _La géomatique à la carte.  Le Centre de Ressources en Information Géographique en Provence-Alpes-Côte d’Azur (CRIGE PACA) a été mis en place il y a plus de 20 ans pour accompagner les producteurs et utilisateurs de données géolocalisées de PACA dans leurs missions quotidiennes._
 
