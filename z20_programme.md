@@ -59,8 +59,8 @@ Le programme des journées QGIS-fr 2025 est disponible !
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
-            JavaScript is disabled in your browser. To access our schedule without JavaScript,
-            please <a target="_blank" href="https://talks.osgeo.org/qgis-french-users-days-2025/schedule/">click here</a>.
+            JavaScript est désactivé dans votre navigateur. Pour accéder au programme sans javascript,
+            <a target="_blank" href="https://talks.osgeo.org/qgis-french-users-days-2025/schedule/">cliquez ici svp</a>.
         </div>
     </div>
 </noscript>
