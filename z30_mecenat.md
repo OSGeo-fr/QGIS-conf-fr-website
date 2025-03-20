@@ -46,14 +46,14 @@ _3Liz est une société de services autour des logiciels libres SIG. Nous nous s
 
 # Nos mécènes ARGENT
 
-[![UMR TREE](/images/Logo_TREE_UPPA_CNRS_horizontal_2024.png)](https://tree.univ-pau.fr/fr/index.html)
+[![UMR TREE](/images/Logo_TREE_UPPA_CNRS_horizontal_2024.png){: width="50%"}](https://tree.univ-pau.fr/fr/index.html)
 
 _L'UMR Transitions énergétiques et environnementales (TREE) est une unité mixte de recherche du CNRS et de l’Université de Pau et des Pays de l’Adour. Elle aborde les transitions énergétiques et environnementales en regroupant des chercheurs issus de la géographie, de la sociologie, du droit, des sciences économiques et politiques. L’objectif général de l’unité est d’analyser les enjeux, les freins et les leviers pour la mise en œuvre des transitions énergétiques et environnementales, en travaillant tant sur les innovations technologiques que sur les incitations économiques ou fiscales et les initiatives territoriales en faveur des transitions._
 
 
 # Nos mécènes BRONZE
 
-[![CRIGE-PACA](/images/CRIGE-2021-logo-vector.svg)](https://www.crige-paca.org/)
+[![CRIGE-PACA](/images/CRIGE-2021-logo-vector.svg){: width="50%"}](https://www.crige-paca.org/)
 
 _La géomatique à la carte.  Le Centre de Ressources en Information Géographique en Provence-Alpes-Côte d’Azur (CRIGE PACA) a été mis en place il y a plus de 20 ans pour accompagner les producteurs et utilisateurs de données géolocalisées de PACA dans leurs missions quotidiennes._
 
