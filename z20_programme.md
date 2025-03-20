@@ -5,6 +5,7 @@ tagline: Consultez le programme
 menu: header
 published: true
 ---
+
 <!--
 <span style="font-size:larger;">
 Votez le programme des journées QGIS 2025 ! 📢
@@ -23,6 +24,7 @@ Après le succès de l'appel à propositions, participez maintenant au choix du 
 Le comité de programme compte sur vous 😉
 
 <https://talks.osgeo.org/qgis-french-users-days-2025/p/voting/signup/>
+
 -->
 
 <!---
@@ -47,8 +49,8 @@ Nous comptons sur vous pour permettre aux prochaines rencontres QGIS d'être ric
 
 Les inscriptions sont ouvertes [ici](/z25_inscription.html).
 
---->
 #### Programme
+--->
 
 Le programme des journées QGIS-fr 2025 est disponible !
 
