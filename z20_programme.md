@@ -7,9 +7,6 @@ published: true
 ---
 
 <!--
-<span style="font-size:larger;">
-Votez le programme des journées QGIS 2025 ! 📢
-</span>
 
 Après le succès de l'appel à propositions, participez maintenant au choix du programme des prochaines journées QGIS à Avignon !
 
