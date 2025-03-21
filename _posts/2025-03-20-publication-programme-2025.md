@@ -9,11 +9,7 @@ published: true
 Le programme des journées QGIS 2025 est publié !
 </span>
 
-
-
-
-
-- 📆 Le programme tant attendu est enfin disponible [ici](/z20_programme.html) !
-- ✅ Les inscriptions ouvriront le 31 mars : [s'inscrire](z25_inscription.html) .
+📆 Le programme tant attendu est enfin disponible [ici](/z20_programme.html) !
+✅ Les inscriptions ouvriront le 31 mars : [s'inscrire](z25_inscription.html) .
 
 Un grand merci aux auteurs de propositions et aux votants pour leurs contributions à l'élaboration du programme. 
