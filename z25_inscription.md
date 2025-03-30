@@ -20,6 +20,7 @@ published: true
 <!-- pop-up>
 <a href="https://www.billetweb.fr/shop.php?event=rencontres-utilisateurs-qgis-fr-2025" onclick="var w=window.open('https://www.billetweb.fr/shop.php?event=rencontres-utilisateurs-qgis-fr-2025&popup=1', 'Reserver', 'width=650, height=600, top=100, left=100, toolbar=no, resizable=yes, scrollbars=yes, status=no'); w.focus(); return false;"><img style="width:200px;" src="https://www.billetweb.fr/images/buttons/billetterie_bleu.png"></a>
 -->
+
 <!---
 Vous pouvez vous abonner à notre newsletter pour être informé(e)
 
