@@ -41,13 +41,11 @@ Nous souhaiterions cette année mettre en avant l'utilisation de QGIS dans le mo
 
 Nous comptons sur vous pour permettre aux prochaines rencontres QGIS d'être riches et d'aborder des sujets variés !
 --->
-<!---
 #### Inscription
 
 Les inscriptions sont ouvertes [ici](/z25_inscription.html).
 
 #### Programme
---->
 
 Le programme des journées QGIS-fr 2025 est disponible !
 
