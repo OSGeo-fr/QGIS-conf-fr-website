@@ -6,14 +6,14 @@ published: true
 ---
 
 <span style="font-size:larger;">
-Participez aux **conférences**, **ateliers**, et à la nouvelle **journée de contribution** !
+Participez aux <b>conférences</b>, <b>ateliers</b>, et à la nouvelle <b>journée de contribution</b> !
 </span>
 
 Les prochaines rencontres des utilisateurs francophones de QGIS, organisées par l’OSGeo-fr en partenariat avec l’UMR 7300 ESPACE d'Avignon Université auront lieu les 10-11-12 juin 2025 en Avignon.
 
 Au programme, 3 journées d'échanges sous forme d'ateliers et de conférences. La 3e journée, nouveauté de cette année, est classée sous le signe de la contribution : venez rencontrer une partie des développeurs de l'écosystème QGIS, venez apprendre comment vous pouvez vous aussi contribuer au projet QGIS, et commencez à agir !
 
-![Visuel d'explication de la journée contribution](https://conf.qgis.osgeo.fr/images/journee_contribution_2025.png)
+![Visuel d'explication de la journée contribution](/images/journee_contribution_2025.png)
 
 Vous pouvez vous [inscrire dès maintenant](https://conf.qgis.osgeo.fr/z25_inscription.html) pour les différents temps de ces rencontres. 
 
