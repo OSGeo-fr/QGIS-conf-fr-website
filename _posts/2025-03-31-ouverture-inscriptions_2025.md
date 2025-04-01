@@ -19,6 +19,6 @@ Vous pouvez vous [inscrire dès maintenant](https://conf.qgis.osgeo.fr/z25_inscr
 
 A noter : les inscriptions sont ouvertes jusqu'au 23 mai, mais leur montant sera majoré à partir du 15 mai.
 
-Si vous le souhaitez, vous pourrez retrouver toutes sortes de goodies aux couleurs de cette nouvelle édition sur la [boutique de l'OSGEO](https://partner.spreadshirt.fr/shop-area/100739637/shop). N'hésitez pas, les bénéfices sont reversés au projet QGIS!
+Si vous le souhaitez, vous pourrez retrouver toutes sortes de goodies aux couleurs de cette nouvelle édition sur la [boutique de l'OSGEO](https://conf.qgis.osgeo.fr/z55_qgis_shop.html#!/). N'hésitez pas, les bénéfices sont reversés au projet QGIS!
 
 Au plaisir de se retrouver ou de se rencontrer bientôt!
