@@ -44,12 +44,19 @@ _Le Centre Régional Auvergne-Rhône-Alpes de l'Information Géographique (CRAIG
 
 _3Liz est une société de services autour des logiciels libres SIG. Nous nous sommes spécialisés dans l’exploitation des logiciels QGIS et QGIS-Serveur, auxquels nous contribuons. Nous avons aussi développé Lizmap, outil de publication de cartes Web dynamiques._
 
+---
+
+[![Avignon](/images/ville_avignon.png)]([https://www.3liz.com/](https://www.avignon.fr/))
+
+---
+
 # Nos mécènes ARGENT
 
 [![UMR TREE](/images/Logo_TREE_UPPA_CNRS_horizontal_2024.png){: width="25%"}](https://tree.univ-pau.fr/fr/index.html)
 
 _L'UMR Transitions énergétiques et environnementales (TREE) est une unité mixte de recherche du CNRS et de l’Université de Pau et des Pays de l’Adour. Elle aborde les transitions énergétiques et environnementales en regroupant des chercheurs issus de la géographie, de la sociologie, du droit, des sciences économiques et politiques. L’objectif général de l’unité est d’analyser les enjeux, les freins et les leviers pour la mise en œuvre des transitions énergétiques et environnementales, en travaillant tant sur les innovations technologiques que sur les incitations économiques ou fiscales et les initiatives territoriales en faveur des transitions._
 
+---
 
 # Nos mécènes BRONZE
 
@@ -61,8 +68,8 @@ _Cet appui repose sur une solide expertise technique (données, outils, méthode
 
 _Le CRIGE est une association. Il est neutre. Il est réactif. Sa gouvernance est ouverte. Il a su acquérir au fil des ans, la confiance de ses adhérents et de ses partenaires._
 
-<!--
 ---
+<!--
 
 [![CSTB - Centre Scientifique et Technique du Bâtiment](/images/CSTB_logo_BDNB.png)](https://bdnb.io)
 
