@@ -28,14 +28,14 @@ Les rencontres descendent le Rhône pour rejoindre la Cité des Papes avec le so
       </ul>
       <!--
         -->
-      <strong>Stationnement impossible dans l'université, <a href="https://www.openstreetmap.org/?mlat=43.954016&mlon=4.823148#map=18/43.954016/4.823148">parking relais "des Italiens"</a> près du Rhône assez proche (500m)</strong>
+      <strong>Stationnement impossible dans l'université, <a href="https://umap.openstreetmap.fr/fr/map/avignon-universite-qgis-fr-2025_1230595#14/43.9477/4.8006">parking relais "des Italiens"</a> près du Rhône assez proche (500m)</strong>
       </p>
     </td>
     <td>
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=4.798471927642823%2C43.944954909034244%2C4.826066493988038%2C43.95508902903079&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://umap.openstreetmap.fr/fr/map/avignon-universite-qgis-fr-2025_1230595">Afficher une carte plus grande</a></small>
+<iframe width="425" height="350" src="http://u.osmfr.org/m/1230672/" style="border: 1px solid black"></iframe><br/><small><a href="https://umap.openstreetmap.fr/fr/map/avignon-universite-qgis-fr-2025_1230595#14/43.9477/4.8556">Afficher une carte plus grande</a></small>
     </td>
   </tr>
  </table>
-[**Liaison Gare Avignon TGV - Gare Avignon Centre : en train, bus, taxi, etc.; voir les détails**](https://www.rome2rio.com/fr/map/Gare-d-Avignon-TGV-Provence-Alpes-C%C3%B4te-d-Azur-France/Avignon-Centre)
+[Liaison Gare Avignon TGV - Gare Avignon Centre : en train, bus, taxi, etc.; voir les détails]("https://www.rome2rio.com/fr/map/Gare-d-Avignon-TGV-Provence-Alpes-C%C3%B4te-d-Azur-France/Avignon-Centre)
 
 [Retour à la page d'accueil]({{ site.url }}{{ site.baseurl }})
