@@ -9,6 +9,8 @@ menu: header
 
 [Avignon Université](https://univ-avignon.fr/) et l'[UMR 7300 ESPACE](https://www.umrespace.org/) co-organisent avec l'[OSGeo-fr](https://www.osgeo.fr) les Journées QGIS-fr 2025
 
+L’UMR 7300 ESPACE est une unité mixte de recherche du CNRS et des Universités d’Aix-Marseille, d’Avignon et de Nice Côte d’Azur. La centaine de membres du laboratoire, principalement des géographes, étudie les interactions espace-nature-société et leur durabilité, de l’échelle du logement à celle du continent, avec le bassin méditerranéen comme terrain d’étude privilégié.  Quelle que soit leur thématique (la ville, les littoraux, l’environnement, les risques, etc.), les recherches se distinguent par l’importance qu’y prennent le développement des outils et méthodes de l’analyse spatiale, la modélisation et la théorisation pour la production de connaissances géographiques et la prospective territoriale.
+
 <!--
 ---
 
