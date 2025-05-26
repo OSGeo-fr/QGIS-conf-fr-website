@@ -36,6 +36,6 @@ Les rencontres descendent le Rhône pour rejoindre la Cité des Papes avec le so
     </td>
   </tr>
  </table>
-[Liaison Gare Avignon TGV - Gare Avignon Centre : en train, bus, taxi, etc.; voir les détails]("https://www.rome2rio.com/fr/map/Gare-d-Avignon-TGV-Provence-Alpes-C%C3%B4te-d-Azur-France/Avignon-Centre)
+Liaison Gare Avignon TGV - Gare Avignon Centre : en train, bus, taxi, etc. [voir les détails](https://www.rome2rio.com/fr/map/Gare-d-Avignon-TGV-Provence-Alpes-C%C3%B4te-d-Azur-France/Avignon-Centre)
 
 [Retour à la page d'accueil]({{ site.url }}{{ site.baseurl }})
