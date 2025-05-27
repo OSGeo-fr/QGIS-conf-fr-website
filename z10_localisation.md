@@ -32,7 +32,7 @@ Les rencontres descendent le Rhône pour rejoindre la Cité des Papes avec le so
       </p>
     </td>
     <td>
-<iframe width="425" height="350" src="http://u.osmfr.org/m/1230672/" style="border: 1px solid black"></iframe><br/><small><a href="https://umap.openstreetmap.fr/fr/map/avignon-universite-qgis-fr-2025_1230595#14/43.9477/4.8556">Afficher une carte plus grande</a></small>
+<iframe width="425" height="350" src="https://u.osmfr.org/m/1230672/" style="border: 1px solid black"></iframe><br/><small><a href="https://umap.openstreetmap.fr/fr/map/avignon-universite-qgis-fr-2025_1230595#14/43.9477/4.8556">Afficher une carte plus grande</a></small>
     </td>
   </tr>
  </table>
