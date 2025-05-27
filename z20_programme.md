@@ -43,7 +43,7 @@ Nous comptons sur vous pour permettre aux prochaines rencontres QGIS d'être ric
 --->
 #### Inscription
 
-Les inscriptions sont ouvertes [ici](/z25_inscription.html).
+***Les inscriptions sont closes***.
 
 #### Programme
 
