@@ -50,6 +50,11 @@ _3Liz est une société de services autour des logiciels libres SIG. Nous nous s
 
 [![Avignon](/images/ville_avignon.png)]([https://www.3liz.com/](https://www.avignon.fr/))
 
+_Avignon, la Cité des Papes, une terre d'histoire et de culture pleinement tournée vers la modernité._
+_Avignon a fait le choix de l'Open Source dès 2011 pour son Système d'Information Géographique et est également fortement mobilisée dans une démarche d’Open Data depuis 2014._
+
+_A Avignon, la présence des journées Qgis-FR s'intègre parfaitement dans une politique globale d'innovation ouverte._
+
 ---
 
 # Nos mécènes ARGENT
