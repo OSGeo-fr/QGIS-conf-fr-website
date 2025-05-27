@@ -43,7 +43,7 @@ Nous comptons sur vous pour permettre aux prochaines rencontres QGIS d'être ric
 --->
 #### Inscription
 
-Les inscriptions sont closes.
+***Les inscriptions sont closes***.
 
 #### Programme
 

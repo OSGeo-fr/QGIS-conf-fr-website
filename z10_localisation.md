@@ -11,7 +11,7 @@ Les rencontres descendent le Rhône pour rejoindre la Cité des Papes avec le so
 
 <table>
   <tr>
-    <th colspan=2><p align=center>Se rendre à l'université d'Avignon</p></th>
+    <th colspan=2><p align=center>Se rendre à l'université d'Avignon - Campus Hannah Arendt</p></th>
   </tr>
   <tr>
     <td>
