@@ -57,6 +57,12 @@ _A Avignon, la présence des journées QGIS-fr s'intègre parfaitement dans une 
 
 ---
 
+ [![Grenoble Alpes Métropole](/images/150px-Logo_Grenoble_Alpes_Métropole.svg.png)](https://www.grenoblealpesmetropole.fr/)
+
+_[Grenoble Alpes Métropole](https://www.grenoblealpesmetropole.fr/) regroupe 49 villes et villages situés en Isère (38), et représente un territoire de 450 000 habitants. Elle couvre une superficie de 546 km2._
+
+---
+
 # Nos mécènes ARGENT
 
 [![UMR TREE](/images/Logo_TREE_UPPA_CNRS_horizontal_2024.png){: width="25%"}](https://tree.univ-pau.fr/fr/index.html)
