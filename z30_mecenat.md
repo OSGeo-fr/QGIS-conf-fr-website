@@ -59,7 +59,9 @@ _A Avignon, la présence des journées QGIS-fr s'intègre parfaitement dans une 
 
  [![Grenoble Alpes Métropole](/images/150px-Logo_Grenoble_Alpes_Métropole.svg.png)](https://www.grenoblealpesmetropole.fr/)
 
-_[Grenoble Alpes Métropole](https://www.grenoblealpesmetropole.fr/) regroupe 49 villes et villages situés en Isère (38), et représente un territoire de 450 000 habitants. Elle couvre une superficie de 546 km2._
+_Territoire de 48 communes de l’Isère regroupant 450 000 habitants la [Métropole grenobloise](https://www.grenoblealpesmetropole.fr/) offre une nature et des paysages de montagne très variés tout en étant tourné vers l’innovation et les hautes technologies. Territoire alpin sensible au réchauffement climatique, la Métropole met en place de nombreuses politiques publiques pour lutter contre ce phénomène. Elle est d‘ailleurs la première à se doter d’un Plan Air Énergie Climat en 2005, qu’elle continue de faire évoluer et améliorer au service des habitants.
+
+Depuis 2015, Grenoble-Alpes Métropole a fait le choix stratégique du couple PostgreSQL/PostGIS et du logiciel libre QGIS pour l’ensemble de son système d’information territorial. Ce choix s’inscrit dans une démarche forte en faveur des logiciels open source, favorisant l’interopérabilité, la souveraineté numérique et la contribution à la communauté._
 
 ---
 
