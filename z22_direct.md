@@ -6,7 +6,6 @@ menu: header
 published: true
 ---
 
-Les conférences du 11 juin seront retransmises sur [canal video de l'Université d'Avignon](https://www.canal-u.tv/chaines/au/qgis-fr-2025-avignon) :
+Vous pourrez tout de même suivre les conférences du mercredi 11 juin sur le canal video de l'Université d'Avignon : https://www.canal-u.tv/chaines/au/qgis-fr-2025-avignon
 
-[https://www.canal-u.tv/chaines/au/qgis-fr-2025-avignon](https://www.canal-u.tv/chaines/au/qgis-fr-2025-avignon)
 
