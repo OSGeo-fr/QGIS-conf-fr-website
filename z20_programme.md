@@ -52,7 +52,7 @@ Le programme des journées QGIS-fr 2025 est disponible !
 **_NB_ : les ateliers se tiendront uniquement en présentiel. Il n'est pas possible d'y participer en visio. Par ailleurs, ils ne seront pas enregistrés.**
 
 <!-- <div style="overflow-x: auto;white-space: nowrap;"> -->
-<pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c;max-width: 100%;"></pretalx-schedule>
+<!-- <pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c;max-width: 100%;"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
@@ -60,5 +60,39 @@ Le programme des journées QGIS-fr 2025 est disponible !
             <a target="_blank" href="https://talks.osgeo.org/qgis-french-users-days-2025/schedule/">cliquez ici svp</a>.
         </div>
     </div>
-</noscript>
+</noscript>-->
 <!--</div>  -->
+
+<div style="overflow-x: auto; width: calc(100%);">
+  <pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c" date-filter="2025-06-10"></pretalx-schedule>
+   <noscript>
+      <div class="pretalx-widget">
+          <div class="pretalx-widget-info-message">
+            JavaScript est désactivé dans votre navigateur. Pour accéder au programme sans javascript,
+            <a target="_blank" href="https://talks.osgeo.org/qgis-french-users-days-2025/schedule/">cliquez ici svp</a>.
+          </div>
+      </div>
+   </noscript>
+</div>
+<div style="overflow-x: auto; width: calc(100%);">
+  <pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c" date-filter="2025-06-11"></pretalx-schedule>
+   <noscript>
+      <div class="pretalx-widget">
+          <div class="pretalx-widget-info-message">
+            JavaScript est désactivé dans votre navigateur. Pour accéder au programme sans javascript,
+            <a target="_blank" href="https://talks.osgeo.org/qgis-french-users-days-2025/schedule/">cliquez ici svp</a>.
+          </div>
+      </div>
+   </noscript>
+</div>
+<div style="overflow-x: auto; width: calc(100%);">
+  <pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c" date-filter="2025-06-12"></pretalx-schedule>
+   <noscript>
+      <div class="pretalx-widget">
+          <div class="pretalx-widget-info-message">
+            JavaScript est désactivé dans votre navigateur. Pour accéder au programme sans javascript,
+            <a target="_blank" href="https://talks.osgeo.org/qgis-french-users-days-2025/schedule/">cliquez ici svp</a>.
+          </div>
+      </div>
+   </noscript>
+</div>
