@@ -47,9 +47,12 @@ Nous comptons sur vous pour permettre aux prochaines rencontres QGIS d'être ric
 
 #### Programme
 
-Le programme des journées QGIS-fr 2025 est disponible !
+Le programme des journées QGIS-fr 2025 est disponible ! Vous pouvez le consulter en plein écran à [https://talks.osgeo.org/qgis-french-users-days-2025/schedule/](https://talks.osgeo.org/qgis-french-users-days-2025/schedule/).
 
-**_NB_ : les ateliers se tiendront uniquement en présentiel. Il n'est pas possible d'y participer en visio. Par ailleurs, ils ne seront pas enregistrés.**
+**Les ateliers se tiendront uniquement en présentiel. Il n'est pas possible d'y participer en visio. Par ailleurs, ils ne seront pas enregistrés.**
+
+**Les conférences, quant à elles, seront retransmises en direct. Voir [ici](/z22_direct.html) pour plus d'informations.**
+
 
 <!-- <div style="overflow-x: auto;white-space: nowrap;"> -->
 <pretalx-schedule event-url="https://talks.osgeo.org/qgis-french-users-days-2025/" locale="fr" format="grid" style="--pretalx-clr-primary: #3aa57c;max-width: 100%;"></pretalx-schedule>
