@@ -30,4 +30,4 @@ et avoir un premier aperçu de cette communauté QGIS francophone active et enga
 
 Merci pour votre accueil ! On se réjouit de la prochaine édition."
 
-_Isabelle Kiefer, OPENGIS.ch_
+_Isabel Kiefer, OPENGIS.ch_
