@@ -6,8 +6,6 @@ menu: header
 published: true
 ---
 
-Vous pouvez demander une attestation de présence en cliquant sur le lien suivant :
-
-[https://framaforms.org/demande-attestation-de-presence-aux-rencontres-utilisateurs-qgis-1749505268](https://framaforms.org/demande-attestation-de-presence-aux-rencontres-utilisateurs-qgis-1749505268)
+<iframe width="100%" height="1000" src="https://framaforms.org/demande-attestation-de-presence-aux-rencontres-utilisateurs-qgis-1749505268" style="border: 1px solid black"></iframe>
 
 
