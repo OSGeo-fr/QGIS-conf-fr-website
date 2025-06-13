@@ -5,7 +5,11 @@ tagline: Rencontrez, échangez, discutez autour de QGIS !
 menu: header
 ---
 
-📢 Les prochaines rencontres des utilisateurs francophones de QGIS auront lieu du **10 au 12 juin 2025 en Avignon**.
+📢***Après la Cité des Papes, les rencontres rejoindront en mars 2026 les confins du ponant à Brest où l'UMR LETG nous accueillera.***
+
+## Édition 2025
+
+Les prochaines rencontres des utilisateurs francophones de QGIS auront lieu du **10 au 12 juin 2025 en Avignon**.
 
 Co-organisées cette année avec Avignon Université et plus spécialement l'UMR 7300 ESPACE,
 les rencontres sont l'occasion de découvrir différents usages de QGIS, d'approfondir des sujets,
