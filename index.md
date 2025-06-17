@@ -9,7 +9,7 @@ menu: header
 
 ## Édition 2025
 
-Les prochaines rencontres des utilisateurs francophones de QGIS auront lieu du **10 au 12 juin 2025 en Avignon**.
+Nous remercions tou(te)s les participant(e)s à ces Rencontres QGIS-FR qui ont eu lieu du **10 au 12 juin 2025 en Avignon** ; [merci également de prendre quelques instants pour nous donner votre avis](https://sondage.osgeo.asso.fr/index.php/133162)
 
 Co-organisées cette année avec Avignon Université et plus spécialement l'UMR 7300 ESPACE,
 les rencontres sont l'occasion de découvrir différents usages de QGIS, d'approfondir des sujets,

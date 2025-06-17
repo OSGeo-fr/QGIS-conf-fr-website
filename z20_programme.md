@@ -41,9 +41,9 @@ Nous souhaiterions cette année mettre en avant l'utilisation de QGIS dans le mo
 
 Nous comptons sur vous pour permettre aux prochaines rencontres QGIS d'être riches et d'aborder des sujets variés !
 --->
-#### Inscription
+#### Enquête de satisfaction
 
-***Les inscriptions sont closes***.
+Nous vous remercions de votre participation à ces Rencontres; [merci également de prendre quelques instants pour nous donner votre avis](https://sondage.osgeo.asso.fr/index.php/133162)
 
 #### Programme
 
